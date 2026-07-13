@@ -1,0 +1,32 @@
+services:
+  - type: web
+    name: minu-football
+    runtime: docker
+    plan: starter
+    region: frankfurt
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    autoDeployTrigger: commit
+    healthCheckPath: /health
+    envVars:
+      - key: APP_NAME
+        value: "من اللاعب | Football Edition"
+      - key: DATABASE_URL
+        fromDatabase:
+          name: minu-db
+          property: connectionString
+      - key: MINU_ADMIN_USERNAME
+        sync: false
+      - key: MINU_ADMIN_PASSWORD
+        sync: false
+      - key: MINU_SESSION_SECRET
+        generateValue: true
+      - key: MINU_SESSION_HOURS
+        value: "24"
+
+databases:
+  - name: minu-db
+    plan: basic-256mb
+    region: frankfurt
+    databaseName: minu
+    user: minu
