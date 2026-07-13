@@ -1,0 +1,74 @@
+[
+  {
+    "key": "la-liga",
+    "wikidata_id": "Q324867",
+    "name_en": "La Liga",
+    "name_ar": "الدوري الإسباني",
+    "aliases_en": ["la liga", "spanish league", "laliga", "primera division"],
+    "aliases_ar": ["الدوري الاسباني", "الدوري الإسباني", "لا ليغا", "الليغا", "الدرجة الاولى الاسبانية"]
+  },
+  {
+    "key": "premier-league",
+    "wikidata_id": "Q9448",
+    "name_en": "Premier League",
+    "name_ar": "الدوري الإنجليزي الممتاز",
+    "aliases_en": ["premier league", "english premier league", "epl"],
+    "aliases_ar": ["الدوري الانجليزي الممتاز", "الدوري الإنجليزي الممتاز", "البريميرليغ", "البريمير ليغ", "الدوري الانجليزي"]
+  },
+  {
+    "key": "serie-a",
+    "wikidata_id": "Q15804",
+    "name_en": "Serie A",
+    "name_ar": "الدوري الإيطالي",
+    "aliases_en": ["serie a", "italian league"],
+    "aliases_ar": ["الدوري الايطالي", "الدوري الإيطالي", "سيري ا", "سيري آ"]
+  },
+  {
+    "key": "bundesliga",
+    "wikidata_id": "Q82595",
+    "name_en": "Bundesliga",
+    "name_ar": "الدوري الألماني",
+    "aliases_en": ["bundesliga", "german league"],
+    "aliases_ar": ["الدوري الالماني", "الدوري الألماني", "بوندسليغا", "البوندسليغا"]
+  },
+  {
+    "key": "ligue-1",
+    "wikidata_id": "Q13394",
+    "name_en": "Ligue 1",
+    "name_ar": "الدوري الفرنسي",
+    "aliases_en": ["ligue 1", "french league"],
+    "aliases_ar": ["الدوري الفرنسي", "ليغ 1", "ليغ ١", "الدوري الفرنسي الدرجة الاولى"]
+  },
+  {
+    "key": "eredivisie",
+    "wikidata_id": "Q167541",
+    "name_en": "Eredivisie",
+    "name_ar": "الدوري الهولندي الممتاز",
+    "aliases_en": ["eredivisie", "eredi", "dutch league", "eredi vise"],
+    "aliases_ar": ["الدوري الهولندي", "الدوري الهولندي الممتاز", "ايريديفيزي", "إيريديفيزي"]
+  },
+  {
+    "key": "liga-portugal",
+    "wikidata_id": "Q182994",
+    "name_en": "Liga Portugal",
+    "name_ar": "الدوري البرتغالي الممتاز",
+    "aliases_en": ["liga portugal", "primeira liga", "portuguese league"],
+    "aliases_ar": ["الدوري البرتغالي", "الدوري البرتغالي الممتاز", "بريميرا ليغا", "برايميرا ليغا"]
+  },
+  {
+    "key": "saudi-pro-league",
+    "wikidata_id": "Q255633",
+    "name_en": "Saudi Pro League",
+    "name_ar": "الدوري السعودي للمحترفين",
+    "aliases_en": ["saudi pro league", "saudi league", "roshn league"],
+    "aliases_ar": ["الدوري السعودي", "الدوري السعودي للمحترفين", "روشن", "دوري روشن"]
+  },
+  {
+    "key": "major-league-soccer",
+    "wikidata_id": "Q18543",
+    "name_en": "Major League Soccer",
+    "name_ar": "الدوري الأمريكي لكرة القدم",
+    "aliases_en": ["major league soccer", "mls"],
+    "aliases_ar": ["الدوري الامريكي", "الدوري الأمريكي", "ام ال اس", "إم إل إس"]
+  }
+]

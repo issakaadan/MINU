@@ -36,3 +36,31 @@ class Player(Base):
     current_team: Mapped[str] = mapped_column(String(160), default="", nullable=False)
     current_team_ar: Mapped[str] = mapped_column(String(160), default="", nullable=False)
     created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=utc_now, nullable=False)
+
+
+class AssistantQuestionTemplate(Base):
+    __tablename__ = "assistant_question_templates"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True, index=True)
+    intent_key: Mapped[str] = mapped_column(String(64), unique=True, nullable=False, index=True)
+    question_en: Mapped[str] = mapped_column(String(220), default="", nullable=False)
+    question_ar: Mapped[str] = mapped_column(String(220), default="", nullable=False)
+    aliases_en: Mapped[list[str]] = mapped_column(JSON, default=list, nullable=False)
+    aliases_ar: Mapped[list[str]] = mapped_column(JSON, default=list, nullable=False)
+    argument_kind: Mapped[str] = mapped_column(String(32), default="", nullable=False)
+    enabled: Mapped[bool] = mapped_column(Boolean, default=True, nullable=False)
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=utc_now, nullable=False)
+
+
+class AssistantCompetition(Base):
+    __tablename__ = "assistant_competitions"
+
+    id: Mapped[int] = mapped_column(Integer, primary_key=True, index=True)
+    key: Mapped[str] = mapped_column(String(64), unique=True, nullable=False, index=True)
+    wikidata_id: Mapped[str] = mapped_column(String(32), default="", nullable=False, index=True)
+    name_en: Mapped[str] = mapped_column(String(220), default="", nullable=False)
+    name_ar: Mapped[str] = mapped_column(String(220), default="", nullable=False)
+    aliases_en: Mapped[list[str]] = mapped_column(JSON, default=list, nullable=False)
+    aliases_ar: Mapped[list[str]] = mapped_column(JSON, default=list, nullable=False)
+    enabled: Mapped[bool] = mapped_column(Boolean, default=True, nullable=False)
+    created_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), default=utc_now, nullable=False)

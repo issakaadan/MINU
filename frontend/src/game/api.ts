@@ -1,4 +1,11 @@
 import type {
+  AdminAssistantCompetitionMutationRead,
+  AdminAssistantCompetitionWritePayload,
+  AdminAssistantCompetitionsRead,
+  AdminAssistantDeleteRead,
+  AdminAssistantQuestionMutationRead,
+  AdminAssistantQuestionWritePayload,
+  AdminAssistantQuestionsRead,
   AdminCatalogRefresh,
   AdminDeleteRead,
   AdminOverview,
@@ -13,6 +20,8 @@ import type {
   MatchRead,
   PlayerCardTokenRead,
   PlayerSecret,
+  PublicCardAssistantAnswer,
+  PublicCardAssistantQuestionPayload,
   ShareLinkRead,
   SharedPlayerCardPayload,
 } from "./types";
@@ -151,6 +160,38 @@ export const api = {
     request<AdminDeleteRead>(`/admin/players/${playerId}`, {
       method: "DELETE",
     }),
+  getAdminAssistantQuestions: () =>
+    request<AdminAssistantQuestionsRead>("/admin/assistant/questions"),
+  createAdminAssistantQuestion: (payload: AdminAssistantQuestionWritePayload) =>
+    request<AdminAssistantQuestionMutationRead>("/admin/assistant/questions", {
+      method: "POST",
+      body: JSON.stringify(payload),
+    }),
+  updateAdminAssistantQuestion: (questionId: number, payload: AdminAssistantQuestionWritePayload) =>
+    request<AdminAssistantQuestionMutationRead>(`/admin/assistant/questions/${questionId}`, {
+      method: "PATCH",
+      body: JSON.stringify(payload),
+    }),
+  deleteAdminAssistantQuestion: (questionId: number) =>
+    request<AdminAssistantDeleteRead>(`/admin/assistant/questions/${questionId}`, {
+      method: "DELETE",
+    }),
+  getAdminAssistantCompetitions: () =>
+    request<AdminAssistantCompetitionsRead>("/admin/assistant/competitions"),
+  createAdminAssistantCompetition: (payload: AdminAssistantCompetitionWritePayload) =>
+    request<AdminAssistantCompetitionMutationRead>("/admin/assistant/competitions", {
+      method: "POST",
+      body: JSON.stringify(payload),
+    }),
+  updateAdminAssistantCompetition: (competitionId: number, payload: AdminAssistantCompetitionWritePayload) =>
+    request<AdminAssistantCompetitionMutationRead>(`/admin/assistant/competitions/${competitionId}`, {
+      method: "PATCH",
+      body: JSON.stringify(payload),
+    }),
+  deleteAdminAssistantCompetition: (competitionId: number) =>
+    request<AdminAssistantDeleteRead>(`/admin/assistant/competitions/${competitionId}`, {
+      method: "DELETE",
+    }),
   refreshAdminCatalog: () =>
     request<AdminCatalogRefresh>("/admin/catalog/refresh", {
       method: "POST",
@@ -197,4 +238,9 @@ export const api = {
     }),
   getPublicPlayerCard: (token: string) =>
     request<SharedPlayerCardPayload>(`/game/card/${token}`),
+  askPublicPlayerCardAssistant: (token: string, payload: PublicCardAssistantQuestionPayload) =>
+    request<PublicCardAssistantAnswer>(`/game/card/${token}/assistant`, {
+      method: "POST",
+      body: JSON.stringify(payload),
+    }),
 };

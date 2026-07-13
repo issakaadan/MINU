@@ -11,9 +11,22 @@ from app.core.runtime import get_runtime_paths
 
 RUNTIME_PATHS = get_runtime_paths()
 DATABASE_PATH = RUNTIME_PATHS.database_path
-CONFIGURED_DATABASE_URL = os.getenv("DATABASE_URL", "").strip()
 BUNDLED_DATABASE_PATH = Path(__file__).resolve().parents[1] / "data" / "players.catalog.db"
 BUNDLED_DATASET_PATH = Path(__file__).resolve().parents[1] / "data" / "players.seed.json"
+
+
+def _normalize_database_url(value: str) -> str:
+    normalized = value.strip()
+    if not normalized:
+        return normalized
+    if normalized.startswith("postgres://"):
+        return f"postgresql+psycopg://{normalized.removeprefix('postgres://')}"
+    if normalized.startswith("postgresql://") and not normalized.startswith("postgresql+"):
+        return f"postgresql+psycopg://{normalized.removeprefix('postgresql://')}"
+    return normalized
+
+
+CONFIGURED_DATABASE_URL = _normalize_database_url(os.getenv("DATABASE_URL", ""))
 
 
 def _bootstrap_runtime_catalog() -> None:
@@ -32,6 +45,7 @@ def _bootstrap_runtime_catalog() -> None:
 
 _bootstrap_runtime_catalog()
 DATABASE_URL = CONFIGURED_DATABASE_URL or URL.create("sqlite", database=str(DATABASE_PATH))
+EXTERNAL_DATABASE_CONFIGURED = bool(CONFIGURED_DATABASE_URL)
 
 ENGINE_OPTIONS: dict[str, object] = {
     "pool_pre_ping": True,
@@ -40,6 +54,7 @@ if str(DATABASE_URL).startswith("sqlite"):
     ENGINE_OPTIONS["connect_args"] = {"check_same_thread": False}
 
 engine = create_engine(DATABASE_URL, **ENGINE_OPTIONS)
+DATABASE_BACKEND = engine.dialect.name
 SessionLocal = sessionmaker(bind=engine, autoflush=False, autocommit=False)
 
 

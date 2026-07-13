@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import json
 import os
 
 from fastapi import APIRouter, Depends, HTTPException, Query, Request
@@ -7,12 +8,12 @@ from sqlalchemy import func, or_, select
 from sqlalchemy.orm import Session
 
 from app.core.auth import DEFAULT_CARD_LINK_HOURS, auth_manager, require_authenticated_user
-from app.core.database import get_db
+from app.core.database import DATABASE_BACKEND, EXTERNAL_DATABASE_CONFIGURED, get_db
 from app.core.runtime import get_runtime_paths
 from app.core.share_link import read_public_share_url, request_public_base_url
 from app.game_service import DIFFICULTY_CONFIG
 from app.match_service import match_service
-from app.models import Player
+from app.models import AssistantCompetition, AssistantQuestionTemplate, Player
 from app.player_catalog_service import (
     admin_lock_map,
     create_player,
@@ -25,6 +26,15 @@ from app.player_catalog_service import (
 from app.schemas import (
     AdminCatalogRefreshRead,
     AdminDeleteRead,
+    AdminAssistantCompetitionMutationRead,
+    AdminAssistantCompetitionRead,
+    AdminAssistantCompetitionsRead,
+    AdminAssistantCompetitionWrite,
+    AdminAssistantDeleteRead,
+    AdminAssistantQuestionMutationRead,
+    AdminAssistantQuestionRead,
+    AdminAssistantQuestionsRead,
+    AdminAssistantQuestionWrite,
     AdminDifficultyStatRead,
     AdminMatchRead,
     AdminMatchSeatRead,
@@ -35,7 +45,7 @@ from app.schemas import (
     AdminPlayerWrite,
     AdminRuntimeRead,
 )
-from app.seed import DATASET_PATH
+from app.seed import BUNDLED_DATASET_PATH, DATASET_PATH
 
 router = APIRouter(dependencies=[Depends(require_authenticated_user)])
 
@@ -73,6 +83,19 @@ def _serialize_match(match_state) -> AdminMatchRead:
             for seat in serialized.seats
         ],
     )
+
+
+def _dataset_record_count() -> int:
+    for candidate in (DATASET_PATH, BUNDLED_DATASET_PATH):
+        if not candidate.exists():
+            continue
+        try:
+            payload = json.loads(candidate.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            continue
+        if isinstance(payload, list):
+            return len(payload)
+    return 0
 
 
 @router.get("/overview", response_model=AdminOverviewRead)
@@ -142,7 +165,10 @@ def get_admin_overview(request: Request, db: Session = Depends(get_db)) -> Admin
             runtime_root=str(runtime_paths.root),
             data_dir=str(runtime_paths.data_dir),
             database_path=str(runtime_paths.database_path),
+            database_backend=DATABASE_BACKEND,
+            external_database_configured=EXTERNAL_DATABASE_CONFIGURED,
             dataset_path=str(DATASET_PATH),
+            dataset_record_count=_dataset_record_count(),
             credentials_file_path=str(auth_material.credentials_file_path),
             secret_file_path=str(auth_material.secret_file_path),
             session_cookie_name=auth_material.session_cookie_name,
@@ -240,4 +266,198 @@ def delete_admin_player(player_id: int, db: Session = Depends(get_db)) -> AdminD
     return AdminDeleteRead(
         deleted_id=player_id,
         total_players=total_players,
+    )
+
+
+@router.get("/assistant/questions", response_model=AdminAssistantQuestionsRead)
+def get_admin_assistant_questions(db: Session = Depends(get_db)) -> AdminAssistantQuestionsRead:
+    items = db.scalars(
+        select(AssistantQuestionTemplate)
+        .order_by(AssistantQuestionTemplate.created_at.desc(), AssistantQuestionTemplate.id.desc())
+    ).all()
+    return AdminAssistantQuestionsRead(
+        total=len(items),
+        items=[AdminAssistantQuestionRead.model_validate(item) for item in items],
+    )
+
+
+@router.post("/assistant/questions", response_model=AdminAssistantQuestionMutationRead)
+def post_admin_assistant_question(
+    payload: AdminAssistantQuestionWrite,
+    db: Session = Depends(get_db),
+) -> AdminAssistantQuestionMutationRead:
+    existing = db.scalar(
+        select(AssistantQuestionTemplate).where(AssistantQuestionTemplate.intent_key == payload.intent_key)
+    )
+    if existing is not None:
+        raise HTTPException(status_code=400, detail="مفتاح السؤال مستخدم من قبل.")
+
+    item = AssistantQuestionTemplate(
+        intent_key=payload.intent_key,
+        question_en=payload.question_en,
+        question_ar=payload.question_ar,
+        aliases_en=payload.aliases_en,
+        aliases_ar=payload.aliases_ar,
+        argument_kind=payload.argument_kind,
+        enabled=payload.enabled,
+    )
+    db.add(item)
+    db.commit()
+    db.refresh(item)
+
+    total_items = db.scalar(select(func.count()).select_from(AssistantQuestionTemplate)) or 0
+    return AdminAssistantQuestionMutationRead(
+        item=AdminAssistantQuestionRead.model_validate(item),
+        total_items=total_items,
+    )
+
+
+@router.patch("/assistant/questions/{question_id}", response_model=AdminAssistantQuestionMutationRead)
+def patch_admin_assistant_question(
+    question_id: int,
+    payload: AdminAssistantQuestionWrite,
+    db: Session = Depends(get_db),
+) -> AdminAssistantQuestionMutationRead:
+    item = db.get(AssistantQuestionTemplate, question_id)
+    if item is None:
+        raise HTTPException(status_code=404, detail="سجل السؤال غير موجود.")
+
+    duplicate = db.scalar(
+        select(AssistantQuestionTemplate).where(
+            AssistantQuestionTemplate.intent_key == payload.intent_key,
+            AssistantQuestionTemplate.id != question_id,
+        )
+    )
+    if duplicate is not None:
+        raise HTTPException(status_code=400, detail="مفتاح السؤال مستخدم من قبل.")
+
+    item.intent_key = payload.intent_key
+    item.question_en = payload.question_en
+    item.question_ar = payload.question_ar
+    item.aliases_en = payload.aliases_en
+    item.aliases_ar = payload.aliases_ar
+    item.argument_kind = payload.argument_kind
+    item.enabled = payload.enabled
+    db.commit()
+    db.refresh(item)
+
+    total_items = db.scalar(select(func.count()).select_from(AssistantQuestionTemplate)) or 0
+    return AdminAssistantQuestionMutationRead(
+        item=AdminAssistantQuestionRead.model_validate(item),
+        total_items=total_items,
+    )
+
+
+@router.delete("/assistant/questions/{question_id}", response_model=AdminAssistantDeleteRead)
+def delete_admin_assistant_question(
+    question_id: int,
+    db: Session = Depends(get_db),
+) -> AdminAssistantDeleteRead:
+    item = db.get(AssistantQuestionTemplate, question_id)
+    if item is None:
+        raise HTTPException(status_code=404, detail="سجل السؤال غير موجود.")
+
+    db.delete(item)
+    db.commit()
+    total_items = db.scalar(select(func.count()).select_from(AssistantQuestionTemplate)) or 0
+    return AdminAssistantDeleteRead(
+        deleted_id=question_id,
+        total_items=total_items,
+    )
+
+
+@router.get("/assistant/competitions", response_model=AdminAssistantCompetitionsRead)
+def get_admin_assistant_competitions(db: Session = Depends(get_db)) -> AdminAssistantCompetitionsRead:
+    items = db.scalars(
+        select(AssistantCompetition)
+        .order_by(AssistantCompetition.created_at.desc(), AssistantCompetition.id.desc())
+    ).all()
+    return AdminAssistantCompetitionsRead(
+        total=len(items),
+        items=[AdminAssistantCompetitionRead.model_validate(item) for item in items],
+    )
+
+
+@router.post("/assistant/competitions", response_model=AdminAssistantCompetitionMutationRead)
+def post_admin_assistant_competition(
+    payload: AdminAssistantCompetitionWrite,
+    db: Session = Depends(get_db),
+) -> AdminAssistantCompetitionMutationRead:
+    existing = db.scalar(
+        select(AssistantCompetition).where(AssistantCompetition.key == payload.key)
+    )
+    if existing is not None:
+        raise HTTPException(status_code=400, detail="مفتاح الدوري مستخدم من قبل.")
+
+    item = AssistantCompetition(
+        key=payload.key,
+        wikidata_id=payload.wikidata_id,
+        name_en=payload.name_en,
+        name_ar=payload.name_ar,
+        aliases_en=payload.aliases_en,
+        aliases_ar=payload.aliases_ar,
+        enabled=payload.enabled,
+    )
+    db.add(item)
+    db.commit()
+    db.refresh(item)
+
+    total_items = db.scalar(select(func.count()).select_from(AssistantCompetition)) or 0
+    return AdminAssistantCompetitionMutationRead(
+        item=AdminAssistantCompetitionRead.model_validate(item),
+        total_items=total_items,
+    )
+
+
+@router.patch("/assistant/competitions/{competition_id}", response_model=AdminAssistantCompetitionMutationRead)
+def patch_admin_assistant_competition(
+    competition_id: int,
+    payload: AdminAssistantCompetitionWrite,
+    db: Session = Depends(get_db),
+) -> AdminAssistantCompetitionMutationRead:
+    item = db.get(AssistantCompetition, competition_id)
+    if item is None:
+        raise HTTPException(status_code=404, detail="سجل الدوري غير موجود.")
+
+    duplicate = db.scalar(
+        select(AssistantCompetition).where(
+            AssistantCompetition.key == payload.key,
+            AssistantCompetition.id != competition_id,
+        )
+    )
+    if duplicate is not None:
+        raise HTTPException(status_code=400, detail="مفتاح الدوري مستخدم من قبل.")
+
+    item.key = payload.key
+    item.wikidata_id = payload.wikidata_id
+    item.name_en = payload.name_en
+    item.name_ar = payload.name_ar
+    item.aliases_en = payload.aliases_en
+    item.aliases_ar = payload.aliases_ar
+    item.enabled = payload.enabled
+    db.commit()
+    db.refresh(item)
+
+    total_items = db.scalar(select(func.count()).select_from(AssistantCompetition)) or 0
+    return AdminAssistantCompetitionMutationRead(
+        item=AdminAssistantCompetitionRead.model_validate(item),
+        total_items=total_items,
+    )
+
+
+@router.delete("/assistant/competitions/{competition_id}", response_model=AdminAssistantDeleteRead)
+def delete_admin_assistant_competition(
+    competition_id: int,
+    db: Session = Depends(get_db),
+) -> AdminAssistantDeleteRead:
+    item = db.get(AssistantCompetition, competition_id)
+    if item is None:
+        raise HTTPException(status_code=404, detail="سجل الدوري غير موجود.")
+
+    db.delete(item)
+    db.commit()
+    total_items = db.scalar(select(func.count()).select_from(AssistantCompetition)) or 0
+    return AdminAssistantDeleteRead(
+        deleted_id=competition_id,
+        total_items=total_items,
     )

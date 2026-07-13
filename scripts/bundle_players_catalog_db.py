@@ -10,10 +10,6 @@ DATABASE_PATH = PROJECT_ROOT / "backend" / "data" / "players.catalog.db"
 
 
 def main() -> None:
-    if DATABASE_PATH.exists() and DATABASE_PATH.stat().st_size > 0:
-        print(f"Using existing bundled catalog database: {DATABASE_PATH}")
-        return
-
     if not DATASET_PATH.exists():
         raise FileNotFoundError(f"Players seed file not found at {DATASET_PATH}")
 

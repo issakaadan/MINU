@@ -116,7 +116,10 @@ class AdminRuntimeRead(BaseModel):
     runtime_root: str
     data_dir: str
     database_path: str
+    database_backend: str
+    external_database_configured: bool
     dataset_path: str
+    dataset_record_count: int
     credentials_file_path: str
     secret_file_path: str
     session_cookie_name: str
@@ -236,6 +239,117 @@ class AdminCatalogRefreshRead(BaseModel):
     removed_players: int
     locked_players: int
     total_players: int
+
+
+class AdminAssistantQuestionRead(ORMModel):
+    id: int
+    intent_key: str
+    question_en: str
+    question_ar: str
+    aliases_en: list[str]
+    aliases_ar: list[str]
+    argument_kind: str
+    enabled: bool
+    created_at: datetime
+
+
+class AdminAssistantQuestionWrite(BaseModel):
+    intent_key: str = Field(min_length=1, max_length=64)
+    question_en: str = Field(default="", max_length=220)
+    question_ar: str = Field(min_length=1, max_length=220)
+    aliases_en: list[str] = Field(default_factory=list, max_length=40)
+    aliases_ar: list[str] = Field(default_factory=list, max_length=40)
+    argument_kind: Literal["", "competition", "team"] = ""
+    enabled: bool = True
+
+    @field_validator("intent_key", "question_en", "question_ar")
+    @classmethod
+    def normalize_assistant_question_field(cls, value: str) -> str:
+        return value.strip()
+
+    @field_validator("aliases_en", "aliases_ar")
+    @classmethod
+    def normalize_assistant_question_aliases(cls, values: list[str]) -> list[str]:
+        normalized: list[str] = []
+        seen: set[str] = set()
+        for value in values:
+            cleaned = value.strip()
+            if not cleaned:
+                continue
+            lowered = cleaned.casefold()
+            if lowered in seen:
+                continue
+            seen.add(lowered)
+            normalized.append(cleaned)
+        return normalized
+
+
+class AdminAssistantQuestionMutationRead(BaseModel):
+    item: AdminAssistantQuestionRead
+    total_items: int
+
+
+class AdminAssistantQuestionsRead(BaseModel):
+    total: int
+    items: list[AdminAssistantQuestionRead]
+
+
+class AdminAssistantCompetitionRead(ORMModel):
+    id: int
+    key: str
+    wikidata_id: str
+    name_en: str
+    name_ar: str
+    aliases_en: list[str]
+    aliases_ar: list[str]
+    enabled: bool
+    created_at: datetime
+
+
+class AdminAssistantCompetitionWrite(BaseModel):
+    key: str = Field(min_length=1, max_length=64)
+    wikidata_id: str = Field(default="", max_length=32)
+    name_en: str = Field(default="", max_length=220)
+    name_ar: str = Field(min_length=1, max_length=220)
+    aliases_en: list[str] = Field(default_factory=list, max_length=40)
+    aliases_ar: list[str] = Field(default_factory=list, max_length=40)
+    enabled: bool = True
+
+    @field_validator("key", "wikidata_id", "name_en", "name_ar")
+    @classmethod
+    def normalize_assistant_competition_field(cls, value: str) -> str:
+        return value.strip()
+
+    @field_validator("aliases_en", "aliases_ar")
+    @classmethod
+    def normalize_assistant_competition_aliases(cls, values: list[str]) -> list[str]:
+        normalized: list[str] = []
+        seen: set[str] = set()
+        for value in values:
+            cleaned = value.strip()
+            if not cleaned:
+                continue
+            lowered = cleaned.casefold()
+            if lowered in seen:
+                continue
+            seen.add(lowered)
+            normalized.append(cleaned)
+        return normalized
+
+
+class AdminAssistantCompetitionMutationRead(BaseModel):
+    item: AdminAssistantCompetitionRead
+    total_items: int
+
+
+class AdminAssistantCompetitionsRead(BaseModel):
+    total: int
+    items: list[AdminAssistantCompetitionRead]
+
+
+class AdminAssistantDeleteRead(BaseModel):
+    deleted_id: int
+    total_items: int
 
 
 class StartRoundRequest(BaseModel):
@@ -460,6 +574,35 @@ class PlayerSecretRead(BaseModel):
 
 class PlayerCardTokenRead(BaseModel):
     token: str
+
+
+class CardAssistantQuestionRequest(BaseModel):
+    question: str = Field(min_length=1, max_length=300)
+    language: Literal["ar", "en"] = "ar"
+
+    @field_validator("question")
+    @classmethod
+    def normalize_question(cls, value: str) -> str:
+        normalized = value.strip()
+        if not normalized:
+            raise ValueError("Question is required.")
+        return normalized
+
+
+class CardAssistantTraceRead(BaseModel):
+    source_kind: str
+    source_title: str
+    source_language: str
+    source_excerpt: str
+    score: int | None = None
+
+
+class CardAssistantAnswerRead(BaseModel):
+    answer: str
+    intent_key: str | None = None
+    used_sources: list[str] = Field(default_factory=list)
+    matched_argument: str | None = None
+    trace: CardAssistantTraceRead | None = None
 
 
 class SharedPlayerCardRead(BaseModel):

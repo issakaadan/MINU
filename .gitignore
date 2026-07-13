@@ -15,6 +15,12 @@ env/
 *.sqlite
 *.sqlite3
 data/
+!backend/data/
+backend/data/*
+!backend/data/players.seed.json
+!backend/data/assistant_question_templates.json
+!backend/data/assistant_competitions.json
+!backend/data/player_rag_index.json
 logs/
 reports/
 exports/
@@ -36,6 +42,8 @@ Thumbs.db
 .vscode/
 .idea/
 .vercel/
+.vercel_python_packages/
+tmp/
 
 # Security-sensitive files
 *.pem

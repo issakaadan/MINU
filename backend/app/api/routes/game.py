@@ -9,6 +9,7 @@ from reportlab.graphics.shapes import Drawing, Rect
 from reportlab.lib import colors
 from sqlalchemy.orm import Session
 
+from app.assistant_service import answer_card_question
 from app.core.auth import auth_manager, require_authenticated_user
 from app.core.database import get_db
 from app.core.share_link import read_public_share_url, request_public_base_url
@@ -19,6 +20,8 @@ from app.schemas import (
     AskQuestionRequest,
     AskQuestionResponse,
     AwardRoundRequest,
+    CardAssistantAnswerRead,
+    CardAssistantQuestionRequest,
     GameOverview,
     GuessRequest,
     GuessResponse,
@@ -216,3 +219,17 @@ def get_public_player_card(token: str) -> SharedPlayerCardRead:
     if payload is None:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="البطاقة مو موجودة")
     return SharedPlayerCardRead.model_validate(payload)
+
+
+@public_router.post("/card/{token}/assistant", response_model=CardAssistantAnswerRead)
+def ask_public_player_card_assistant(
+    token: str,
+    payload: CardAssistantQuestionRequest,
+    db: Session = Depends(get_db),
+) -> CardAssistantAnswerRead:
+    card_payload = auth_manager.read_card_token(token)
+    if card_payload is None:
+        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Ø§Ù„Ø¨Ø·Ø§Ù‚Ø© Ù…Ùˆ Ù…ÙˆØ¬ÙˆØ¯Ø©")
+
+    card = SharedPlayerCardRead.model_validate(card_payload)
+    return answer_card_question(db, card, payload.question, payload.language)

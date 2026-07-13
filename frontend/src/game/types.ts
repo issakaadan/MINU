@@ -191,6 +191,75 @@ export type AdminCatalogRefresh = {
   total_players: number;
 };
 
+export type AdminAssistantQuestion = {
+  id: number;
+  intent_key: string;
+  question_en: string;
+  question_ar: string;
+  aliases_en: string[];
+  aliases_ar: string[];
+  argument_kind: "" | "competition" | "team";
+  enabled: boolean;
+  created_at: string;
+};
+
+export type AdminAssistantQuestionsRead = {
+  total: number;
+  items: AdminAssistantQuestion[];
+};
+
+export type AdminAssistantQuestionWritePayload = {
+  intent_key: string;
+  question_en: string;
+  question_ar: string;
+  aliases_en: string[];
+  aliases_ar: string[];
+  argument_kind: "" | "competition" | "team";
+  enabled: boolean;
+};
+
+export type AdminAssistantQuestionMutationRead = {
+  item: AdminAssistantQuestion;
+  total_items: number;
+};
+
+export type AdminAssistantCompetition = {
+  id: number;
+  key: string;
+  wikidata_id: string;
+  name_en: string;
+  name_ar: string;
+  aliases_en: string[];
+  aliases_ar: string[];
+  enabled: boolean;
+  created_at: string;
+};
+
+export type AdminAssistantCompetitionsRead = {
+  total: number;
+  items: AdminAssistantCompetition[];
+};
+
+export type AdminAssistantCompetitionWritePayload = {
+  key: string;
+  wikidata_id: string;
+  name_en: string;
+  name_ar: string;
+  aliases_en: string[];
+  aliases_ar: string[];
+  enabled: boolean;
+};
+
+export type AdminAssistantCompetitionMutationRead = {
+  item: AdminAssistantCompetition;
+  total_items: number;
+};
+
+export type AdminAssistantDeleteRead = {
+  deleted_id: number;
+  total_items: number;
+};
+
 export type AuthLoginPayload = {
   username: string;
   password: string;
@@ -315,6 +384,27 @@ export type SharedPlayerCardPayload = {
 };
 
 export type CardLanguage = "ar" | "en";
+
+export type PublicCardAssistantQuestionPayload = {
+  question: string;
+  language: CardLanguage;
+};
+
+export type PublicCardAssistantTrace = {
+  source_kind: string;
+  source_title: string;
+  source_language: string;
+  source_excerpt: string;
+  score: number | null;
+};
+
+export type PublicCardAssistantAnswer = {
+  answer: string;
+  intent_key: string | null;
+  used_sources: string[];
+  matched_argument: string | null;
+  trace: PublicCardAssistantTrace | null;
+};
 
 export type WikipediaSummary = {
   title: string;

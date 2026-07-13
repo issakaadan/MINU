@@ -5,3 +5,4 @@ psycopg[binary]
 pydantic
 python-dotenv
 reportlab
+beautifulsoup4

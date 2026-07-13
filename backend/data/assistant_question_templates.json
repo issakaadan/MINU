@@ -1,0 +1,146 @@
+[
+  {
+    "intent_key": "player_name",
+    "question_en": "Who is this player?",
+    "question_ar": "من هذا اللاعب؟",
+    "aliases_en": ["who is this player", "who is he", "player name", "what is his name", "who is this"],
+    "aliases_ar": ["من هذا اللاعب", "مين هذا", "منو هذا", "اسم اللاعب", "وش اسمه", "شنو اسمه"],
+    "argument_kind": ""
+  },
+  {
+    "intent_key": "nationality",
+    "question_en": "What is his nationality?",
+    "question_ar": "ما جنسيته؟",
+    "aliases_en": ["nationality", "what country is he from", "where is he from", "which country", "what nationality"],
+    "aliases_ar": ["جنسيته", "ما جنسيته", "وش جنسيته", "شنو جنسيته", "من اي بلد", "من اي دولة", "وين من"],
+    "argument_kind": ""
+  },
+  {
+    "intent_key": "position",
+    "question_en": "What position does he play?",
+    "question_ar": "ما مركزه؟",
+    "aliases_en": ["position", "what position", "plays as", "what role", "which position"],
+    "aliases_ar": ["مركزه", "ما مركزه", "وش مركزه", "شنو مركزه", "يلعب باي مركز", "يلعب بأي مركز"],
+    "argument_kind": ""
+  },
+  {
+    "intent_key": "age",
+    "question_en": "How old is he?",
+    "question_ar": "كم عمره؟",
+    "aliases_en": ["how old", "age", "how old is he"],
+    "aliases_ar": ["كم عمره", "عمره", "العمر"],
+    "argument_kind": ""
+  },
+  {
+    "intent_key": "birth_year",
+    "question_en": "When was he born?",
+    "question_ar": "متى ولد؟",
+    "aliases_en": ["born in", "birth year", "when was he born"],
+    "aliases_ar": ["متى ولد", "سنة ميلاده", "عام الميلاد", "مواليد", "من مواليد"],
+    "argument_kind": ""
+  },
+  {
+    "intent_key": "current_club",
+    "question_en": "What is his current club?",
+    "question_ar": "ما ناديه الحالي؟",
+    "aliases_en": ["current club", "current team", "what club does he play for", "where does he play now"],
+    "aliases_ar": ["ناديه الحالي", "فريقه الحالي", "وين يلعب الحين", "وش ناديه الحالي", "شنو ناديه الحالي"],
+    "argument_kind": ""
+  },
+  {
+    "intent_key": "club_history",
+    "question_en": "Which clubs did he play for?",
+    "question_ar": "ما الأندية التي لعب لها؟",
+    "aliases_en": ["club history", "clubs did he play for", "played for clubs", "club sequence", "which clubs did he play for"],
+    "aliases_ar": ["تسلسل الاندية", "تسلسل الأندية", "الأندية التي لعب لها", "كل الاندية", "كل الأندية", "لعب لاي اندية"],
+    "argument_kind": ""
+  },
+  {
+    "intent_key": "active_status",
+    "question_en": "Is he still playing?",
+    "question_ar": "هل لا يزال يلعب؟",
+    "aliases_en": ["still playing", "is he retired", "retired", "player status", "is he still active"],
+    "aliases_ar": ["هل لا يزال يلعب", "هل ما زال يلعب", "معتزل", "اعتزل", "حالة اللاعب", "للحين يلعب", "لسه يلعب"],
+    "argument_kind": ""
+  },
+  {
+    "intent_key": "alive_status",
+    "question_en": "Is he alive?",
+    "question_ar": "هل هو على قيد الحياة؟",
+    "aliases_en": ["is he alive", "alive", "is the player alive", "is he dead", "deceased"],
+    "aliases_ar": ["هل هو حي", "هل هو على قيد الحياة", "حي", "متوفي", "متوفى", "هل مات"],
+    "argument_kind": ""
+  },
+  {
+    "intent_key": "summary",
+    "question_en": "Tell me about him.",
+    "question_ar": "أعطني نبذة عنه.",
+    "aliases_en": ["tell me about him", "summary", "about him", "bio", "biography"],
+    "aliases_ar": ["نبذة", "نبذه", "احكي عنه", "قول لي عنه", "عرفني عليه", "معلومات عنه"],
+    "argument_kind": ""
+  },
+  {
+    "intent_key": "achievements",
+    "question_en": "What are his achievements?",
+    "question_ar": "ما أبرز إنجازاته؟",
+    "aliases_en": ["achievements", "honours", "honors", "titles", "trophies"],
+    "aliases_ar": ["إنجازاته", "انجازاته", "ألقابه", "بطولاته", "وش فاز", "شنو فاز"],
+    "argument_kind": ""
+  },
+  {
+    "intent_key": "played_for_team",
+    "question_en": "Did he play for a specific club?",
+    "question_ar": "هل لعب لنادٍ معين؟",
+    "aliases_en": ["did he play for", "has he played for", "played for", "was he at"],
+    "aliases_ar": ["هل لعب مع", "هل لعب ل", "سبق له اللعب مع", "لعب مع", "احترف مع"],
+    "argument_kind": "team"
+  },
+  {
+    "intent_key": "played_in_competition",
+    "question_en": "Did he play in a specific league?",
+    "question_ar": "هل لعب في دوري معين؟",
+    "aliases_en": ["did he play in", "has he played in", "played in", "was he in", "did the player play in"],
+    "aliases_ar": ["هل لعب في", "سبق له اللعب في", "لعب في", "احترف في", "هل اللاعب لعب في"],
+    "argument_kind": "competition"
+  },
+  {
+    "intent_key": "national_team_retirement_year",
+    "question_en": "When did he retire from the national team?",
+    "question_ar": "متى اعتزل دولياً؟",
+    "aliases_en": ["retire from the national team", "international retirement", "national team retirement", "when did he retire internationally"],
+    "aliases_ar": ["اعتزل دوليا", "اعتزل دولياً", "متى اعتزل دوليا", "متى اعتزل دولياً", "اعتزال دولي", "اعتزل من المنتخب"],
+    "argument_kind": ""
+  },
+  {
+    "intent_key": "club_retirement_year",
+    "question_en": "When did he fully retire from football?",
+    "question_ar": "متى اعتزل كرة القدم نهائياً؟",
+    "aliases_en": ["full retirement", "when did he retire from football", "club retirement", "when did he fully retire"],
+    "aliases_ar": ["متى اعتزل نهائيا", "متى اعتزل نهائياً", "اعتزل كرة القدم", "الاعتزال النهائي", "اعتزل نهائي"],
+    "argument_kind": ""
+  },
+  {
+    "intent_key": "national_retired_before_club_retired",
+    "question_en": "Did he retire from the national team before full retirement?",
+    "question_ar": "هل اعتزل دولياً قبل الاعتزال النهائي؟",
+    "aliases_en": ["retire from the national team before retiring", "retire internationally before full retirement", "nationally retire before completely retiring", "retire from the national team before club retirement", "did he retire from the national team before fully retiring", "did he retire internationally before fully retiring"],
+    "aliases_ar": ["اعتزل دوليا قبل الاعتزال النهائي", "اعتزل دولياً قبل الاعتزال النهائي", "اعتزل من المنتخب قبل الاعتزال", "هل اعتزل دوليا قبل ما يعتزل نهائي", "هل اعتزل دوليا قبل ما يعتزل نهائيا", "هل اعتزل دولياً قبل الاعتزال النهائي"],
+    "argument_kind": ""
+  },
+  {
+    "intent_key": "career_goals",
+    "question_en": "How many goals did he score in his career?",
+    "question_ar": "كم هدفاً سجل في مسيرته؟",
+    "aliases_en": ["career goals", "total goals", "overall goals", "how many goals did he score in his career", "how many goals in his whole career", "what is his total goal tally"],
+    "aliases_ar": ["كم هدف سجل في مسيرته", "كم هدفا سجل في مسيرته", "كم هدفاً سجل في مسيرته", "اجمالي اهدافه", "إجمالي أهدافه", "كم سجل طول مسيرته", "مجموع اهدافه", "مجموع أهدافه"],
+    "argument_kind": ""
+  },
+  {
+    "intent_key": "club_goals",
+    "question_en": "How many club goals did he score?",
+    "question_ar": "كم هدفاً سجل مع الأندية؟",
+    "aliases_en": ["club goals", "goals for clubs", "how many club goals did he score", "how many goals with clubs", "how many goals for his clubs"],
+    "aliases_ar": ["كم هدف سجل مع الأندية", "كم هدفا سجل مع الأندية", "كم هدفاً سجل مع الأندية", "اهدافه مع الاندية", "أهدافه مع الأندية", "كم سجل مع الاندية", "كم سجل مع الأندية", "كم هدف مع النادي"],
+    "argument_kind": ""
+  }
+]

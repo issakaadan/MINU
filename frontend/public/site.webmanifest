@@ -1,0 +1,24 @@
+{
+  "name": "MINU",
+  "short_name": "MINU",
+  "description": "Arabic football guessing game with QR card sharing, host controls, and public player cards.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#100919",
+  "theme_color": "#100919",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/minu-logo.webp",
+      "type": "image/webp",
+      "purpose": "any"
+    }
+  ]
+}

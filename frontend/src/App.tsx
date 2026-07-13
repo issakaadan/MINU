@@ -12,6 +12,10 @@ import {
 import { normalizePublicMinuUrl, parseRoute, routeToHash, type AppRoute } from "./game/router";
 import { fetchArabicWikipediaBundle, fetchEnglishWikipediaBundle, fetchWikidataClubSequence } from "./game/share";
 import type {
+  AdminAssistantCompetition,
+  AdminAssistantCompetitionWritePayload,
+  AdminAssistantQuestion,
+  AdminAssistantQuestionWritePayload,
   AdminCatalogRefresh,
   AdminOverview,
   AdminPlayer,
@@ -1119,6 +1123,114 @@ function adminFormToPayload(form: AdminPlayerFormState): AdminPlayerWritePayload
     current_team_ar: form.current_team_ar.trim(),
     admin_locked: form.admin_locked,
   };
+}
+
+type AssistantArgumentKind = "" | "competition" | "team";
+
+type AdminAssistantQuestionFormState = {
+  intent_key: string;
+  question_ar: string;
+  question_en: string;
+  aliases_ar: string;
+  aliases_en: string;
+  argument_kind: AssistantArgumentKind;
+  enabled: boolean;
+};
+
+function emptyAdminAssistantQuestionForm(): AdminAssistantQuestionFormState {
+  return {
+    intent_key: "",
+    question_ar: "",
+    question_en: "",
+    aliases_ar: "",
+    aliases_en: "",
+    argument_kind: "",
+    enabled: true,
+  };
+}
+
+function adminAssistantQuestionToFormState(item: AdminAssistantQuestion): AdminAssistantQuestionFormState {
+  return {
+    intent_key: item.intent_key,
+    question_ar: item.question_ar,
+    question_en: item.question_en,
+    aliases_ar: listToCsv(item.aliases_ar),
+    aliases_en: listToCsv(item.aliases_en),
+    argument_kind: item.argument_kind,
+    enabled: item.enabled,
+  };
+}
+
+function adminAssistantQuestionFormToPayload(
+  form: AdminAssistantQuestionFormState,
+): AdminAssistantQuestionWritePayload {
+  return {
+    intent_key: form.intent_key.trim(),
+    question_ar: form.question_ar.trim(),
+    question_en: form.question_en.trim(),
+    aliases_ar: csvToList(form.aliases_ar),
+    aliases_en: csvToList(form.aliases_en),
+    argument_kind: form.argument_kind,
+    enabled: form.enabled,
+  };
+}
+
+type AdminAssistantCompetitionFormState = {
+  key: string;
+  wikidata_id: string;
+  name_ar: string;
+  name_en: string;
+  aliases_ar: string;
+  aliases_en: string;
+  enabled: boolean;
+};
+
+function emptyAdminAssistantCompetitionForm(): AdminAssistantCompetitionFormState {
+  return {
+    key: "",
+    wikidata_id: "",
+    name_ar: "",
+    name_en: "",
+    aliases_ar: "",
+    aliases_en: "",
+    enabled: true,
+  };
+}
+
+function adminAssistantCompetitionToFormState(item: AdminAssistantCompetition): AdminAssistantCompetitionFormState {
+  return {
+    key: item.key,
+    wikidata_id: item.wikidata_id,
+    name_ar: item.name_ar,
+    name_en: item.name_en,
+    aliases_ar: listToCsv(item.aliases_ar),
+    aliases_en: listToCsv(item.aliases_en),
+    enabled: item.enabled,
+  };
+}
+
+function adminAssistantCompetitionFormToPayload(
+  form: AdminAssistantCompetitionFormState,
+): AdminAssistantCompetitionWritePayload {
+  return {
+    key: form.key.trim(),
+    wikidata_id: form.wikidata_id.trim(),
+    name_ar: form.name_ar.trim(),
+    name_en: form.name_en.trim(),
+    aliases_ar: csvToList(form.aliases_ar),
+    aliases_en: csvToList(form.aliases_en),
+    enabled: form.enabled,
+  };
+}
+
+function assistantArgumentLabel(value: AssistantArgumentKind): string {
+  if (value === "competition") {
+    return "دوري أو مسابقة";
+  }
+  if (value === "team") {
+    return "نادٍ أو منتخب";
+  }
+  return "بدون متغير";
 }
 
 function shortId(value: string): string {
@@ -2651,6 +2763,24 @@ function AdminScreen({
   const [mutationBusy, setMutationBusy] = useState<"save" | "delete" | "refresh" | null>(null);
   const [mutationError, setMutationError] = useState("");
   const [mutationMessage, setMutationMessage] = useState("");
+  const [assistantQuestions, setAssistantQuestions] = useState<AdminAssistantQuestion[]>([]);
+  const [assistantCompetitions, setAssistantCompetitions] = useState<AdminAssistantCompetition[]>([]);
+  const [assistantCatalogBusy, setAssistantCatalogBusy] = useState(true);
+  const [assistantCatalogError, setAssistantCatalogError] = useState("");
+  const [assistantQuestionForm, setAssistantQuestionForm] = useState<AdminAssistantQuestionFormState>(() =>
+    emptyAdminAssistantQuestionForm(),
+  );
+  const [editingAssistantQuestionId, setEditingAssistantQuestionId] = useState<number | null>(null);
+  const [assistantQuestionBusy, setAssistantQuestionBusy] = useState<"save" | "delete" | null>(null);
+  const [assistantQuestionError, setAssistantQuestionError] = useState("");
+  const [assistantQuestionMessage, setAssistantQuestionMessage] = useState("");
+  const [assistantCompetitionForm, setAssistantCompetitionForm] = useState<AdminAssistantCompetitionFormState>(() =>
+    emptyAdminAssistantCompetitionForm(),
+  );
+  const [editingAssistantCompetitionId, setEditingAssistantCompetitionId] = useState<number | null>(null);
+  const [assistantCompetitionBusy, setAssistantCompetitionBusy] = useState<"save" | "delete" | null>(null);
+  const [assistantCompetitionError, setAssistantCompetitionError] = useState("");
+  const [assistantCompetitionMessage, setAssistantCompetitionMessage] = useState("");
 
   useEffect(() => {
     setShareDraft(shareBaseUrl);
@@ -2661,6 +2791,26 @@ function AdminScreen({
     value: AdminPlayerFormState[Key],
   ) {
     setPlayerForm((current) => ({
+      ...current,
+      [key]: value,
+    }));
+  }
+
+  function updateAssistantQuestionForm<Key extends keyof AdminAssistantQuestionFormState>(
+    key: Key,
+    value: AdminAssistantQuestionFormState[Key],
+  ) {
+    setAssistantQuestionForm((current) => ({
+      ...current,
+      [key]: value,
+    }));
+  }
+
+  function updateAssistantCompetitionForm<Key extends keyof AdminAssistantCompetitionFormState>(
+    key: Key,
+    value: AdminAssistantCompetitionFormState[Key],
+  ) {
+    setAssistantCompetitionForm((current) => ({
       ...current,
       [key]: value,
     }));
@@ -2681,6 +2831,27 @@ function AdminScreen({
 
   useEffect(() => {
     void loadOverview();
+  }, []);
+
+  async function loadAssistantCatalog() {
+    setAssistantCatalogBusy(true);
+    try {
+      const [questionsPayload, competitionsPayload] = await Promise.all([
+        api.getAdminAssistantQuestions(),
+        api.getAdminAssistantCompetitions(),
+      ]);
+      setAssistantQuestions(questionsPayload.items);
+      setAssistantCompetitions(competitionsPayload.items);
+      setAssistantCatalogError("");
+    } catch (error) {
+      setAssistantCatalogError(error instanceof ApiError ? error.message : "ما ضبط تحميل بيانات المساعد.");
+    } finally {
+      setAssistantCatalogBusy(false);
+    }
+  }
+
+  useEffect(() => {
+    void loadAssistantCatalog();
   }, []);
 
   async function loadPlayers(nextFilters = filters) {
@@ -2770,11 +2941,41 @@ function AdminScreen({
     setMutationMessage("");
   }
 
+  function resetAssistantQuestionEditor() {
+    setEditingAssistantQuestionId(null);
+    setAssistantQuestionForm(emptyAdminAssistantQuestionForm());
+    setAssistantQuestionError("");
+    setAssistantQuestionMessage("");
+  }
+
+  function resetAssistantCompetitionEditor() {
+    setEditingAssistantCompetitionId(null);
+    setAssistantCompetitionForm(emptyAdminAssistantCompetitionForm());
+    setAssistantCompetitionError("");
+    setAssistantCompetitionMessage("");
+  }
+
   function startEditing(player: AdminPlayer) {
     setEditingPlayerId(player.id);
     setPlayerForm(adminPlayerToFormState(player));
     setMutationError("");
     setMutationMessage("");
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+
+  function startEditingAssistantQuestion(item: AdminAssistantQuestion) {
+    setEditingAssistantQuestionId(item.id);
+    setAssistantQuestionForm(adminAssistantQuestionToFormState(item));
+    setAssistantQuestionError("");
+    setAssistantQuestionMessage("");
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }
+
+  function startEditingAssistantCompetition(item: AdminAssistantCompetition) {
+    setEditingAssistantCompetitionId(item.id);
+    setAssistantCompetitionForm(adminAssistantCompetitionToFormState(item));
+    setAssistantCompetitionError("");
+    setAssistantCompetitionMessage("");
     window.scrollTo({ top: 0, behavior: "smooth" });
   }
 
@@ -2836,6 +3037,94 @@ function AdminScreen({
       setMutationError(error instanceof ApiError ? error.message : "ما ضبط التحديث.");
     } finally {
       setMutationBusy(null);
+    }
+  }
+
+  async function saveAssistantQuestion() {
+    setAssistantQuestionBusy("save");
+    setAssistantQuestionError("");
+    setAssistantQuestionMessage("");
+    try {
+      const payload = adminAssistantQuestionFormToPayload(assistantQuestionForm);
+      if (editingAssistantQuestionId) {
+        await api.updateAdminAssistantQuestion(editingAssistantQuestionId, payload);
+        setAssistantQuestionMessage("تم تحديث سؤال المساعد.");
+      } else {
+        await api.createAdminAssistantQuestion(payload);
+        setAssistantQuestionMessage("تمت إضافة سؤال جديد للمساعد.");
+        setAssistantQuestionForm(emptyAdminAssistantQuestionForm());
+      }
+      await loadAssistantCatalog();
+    } catch (error) {
+      setAssistantQuestionError(error instanceof ApiError ? error.message : "ما ضبط حفظ السؤال.");
+    } finally {
+      setAssistantQuestionBusy(null);
+    }
+  }
+
+  async function removeAssistantQuestion(item: AdminAssistantQuestion) {
+    if (!window.confirm(`تحذف سؤال "${item.question_ar}"؟`)) {
+      return;
+    }
+
+    setAssistantQuestionBusy("delete");
+    setAssistantQuestionError("");
+    setAssistantQuestionMessage("");
+    try {
+      await api.deleteAdminAssistantQuestion(item.id);
+      if (editingAssistantQuestionId === item.id) {
+        resetAssistantQuestionEditor();
+      }
+      setAssistantQuestionMessage("تم حذف سؤال المساعد.");
+      await loadAssistantCatalog();
+    } catch (error) {
+      setAssistantQuestionError(error instanceof ApiError ? error.message : "ما ضبط حذف السؤال.");
+    } finally {
+      setAssistantQuestionBusy(null);
+    }
+  }
+
+  async function saveAssistantCompetition() {
+    setAssistantCompetitionBusy("save");
+    setAssistantCompetitionError("");
+    setAssistantCompetitionMessage("");
+    try {
+      const payload = adminAssistantCompetitionFormToPayload(assistantCompetitionForm);
+      if (editingAssistantCompetitionId) {
+        await api.updateAdminAssistantCompetition(editingAssistantCompetitionId, payload);
+        setAssistantCompetitionMessage("تم تحديث الدوري أو المسابقة.");
+      } else {
+        await api.createAdminAssistantCompetition(payload);
+        setAssistantCompetitionMessage("تمت إضافة دوري أو مسابقة جديدة.");
+        setAssistantCompetitionForm(emptyAdminAssistantCompetitionForm());
+      }
+      await loadAssistantCatalog();
+    } catch (error) {
+      setAssistantCompetitionError(error instanceof ApiError ? error.message : "ما ضبط حفظ الدوري.");
+    } finally {
+      setAssistantCompetitionBusy(null);
+    }
+  }
+
+  async function removeAssistantCompetition(item: AdminAssistantCompetition) {
+    if (!window.confirm(`تحذف "${item.name_ar}"؟`)) {
+      return;
+    }
+
+    setAssistantCompetitionBusy("delete");
+    setAssistantCompetitionError("");
+    setAssistantCompetitionMessage("");
+    try {
+      await api.deleteAdminAssistantCompetition(item.id);
+      if (editingAssistantCompetitionId === item.id) {
+        resetAssistantCompetitionEditor();
+      }
+      setAssistantCompetitionMessage("تم حذف الدوري أو المسابقة.");
+      await loadAssistantCatalog();
+    } catch (error) {
+      setAssistantCompetitionError(error instanceof ApiError ? error.message : "ما ضبط حذف الدوري.");
+    } finally {
+      setAssistantCompetitionBusy(null);
     }
   }
 
@@ -3238,6 +3527,264 @@ function AdminScreen({
               التالي
             </button>
           </div>
+        </article>
+
+        <article className="admin-card admin-card--players">
+          <div className="admin-card__head">
+            <strong>أسئلة المساعد الذكي</strong>
+            <div className="admin-inline-actions">
+              <small>{`${formatCount(assistantQuestions.length)} سؤال`}</small>
+              <button className="ghost-button" onClick={() => void loadAssistantCatalog()} type="button">
+                تحديث
+              </button>
+            </div>
+          </div>
+
+          <div className="admin-editor">
+            <div className="admin-card__head">
+              <strong>{editingAssistantQuestionId ? "تعديل سؤال" : "إضافة سؤال"}</strong>
+              <small>{editingAssistantQuestionId ? `#${editingAssistantQuestionId}` : "يدوي"}</small>
+            </div>
+            <div className="admin-editor-grid">
+              <input
+                className="input"
+                onChange={(event) => updateAssistantQuestionForm("question_ar", event.target.value)}
+                placeholder="السؤال بالعربي"
+                value={assistantQuestionForm.question_ar}
+              />
+              <input
+                className="input"
+                onChange={(event) => updateAssistantQuestionForm("question_en", event.target.value)}
+                placeholder="السؤال بالإنجليزي - اختياري"
+                value={assistantQuestionForm.question_en}
+              />
+              <input
+                className="input"
+                onChange={(event) => updateAssistantQuestionForm("intent_key", event.target.value)}
+                placeholder="مفتاح السؤال"
+                value={assistantQuestionForm.intent_key}
+              />
+              <select
+                className="input"
+                onChange={(event) =>
+                  updateAssistantQuestionForm("argument_kind", event.target.value as AssistantArgumentKind)
+                }
+                value={assistantQuestionForm.argument_kind}
+              >
+                <option value="">بدون متغير</option>
+                <option value="competition">دوري أو مسابقة</option>
+                <option value="team">نادٍ أو منتخب</option>
+              </select>
+              <select
+                className="input"
+                onChange={(event) => updateAssistantQuestionForm("enabled", event.target.value === "enabled")}
+                value={assistantQuestionForm.enabled ? "enabled" : "disabled"}
+              >
+                <option value="enabled">مفعل</option>
+                <option value="disabled">موقوف</option>
+              </select>
+              <input
+                className="input admin-editor-grid__full"
+                onChange={(event) => updateAssistantQuestionForm("aliases_ar", event.target.value)}
+                placeholder="صيغ السؤال بالعربي، مفصولة بفواصل"
+                value={assistantQuestionForm.aliases_ar}
+              />
+              <input
+                className="input admin-editor-grid__full"
+                onChange={(event) => updateAssistantQuestionForm("aliases_en", event.target.value)}
+                placeholder="صيغ السؤال بالإنجليزي - اختياري"
+                value={assistantQuestionForm.aliases_en}
+              />
+            </div>
+            <div className="admin-inline-actions">
+              <button
+                className="primary-button"
+                disabled={assistantQuestionBusy === "save"}
+                onClick={() => void saveAssistantQuestion()}
+                type="button"
+              >
+                {editingAssistantQuestionId ? "حفظ التعديل" : "إضافة السؤال"}
+              </button>
+              <button className="ghost-button" onClick={resetAssistantQuestionEditor} type="button">
+                جديد
+              </button>
+            </div>
+            {assistantQuestionError ? <div className="auth-error">{assistantQuestionError}</div> : null}
+            {assistantQuestionMessage ? <div className="admin-success">{assistantQuestionMessage}</div> : null}
+          </div>
+
+          {assistantCatalogError ? <div className="auth-error">{assistantCatalogError}</div> : null}
+          {assistantCatalogBusy && !assistantQuestions.length ? <div className="admin-empty">...</div> : null}
+          {assistantQuestions.length ? (
+            <div className="assistant-admin-grid">
+              {assistantQuestions.map((item) => (
+                <article className="assistant-admin-card" key={item.id}>
+                  <div className="admin-card__head">
+                    <strong>{item.question_ar}</strong>
+                    <span className="chip chip--bold">{item.enabled ? "مفعل" : "موقوف"}</span>
+                  </div>
+                  {item.question_en ? <small>{item.question_en}</small> : null}
+                  <div className="assistant-admin-card__meta">
+                    <span>{`المفتاح: ${item.intent_key}`}</span>
+                    <span>{`النوع: ${assistantArgumentLabel(item.argument_kind)}`}</span>
+                    <span>{formatDateTime(item.created_at)}</span>
+                  </div>
+                  {item.aliases_ar.length ? (
+                    <div className="assistant-admin-card__aliases">
+                      <strong>الصيغ العربية</strong>
+                      <span>{item.aliases_ar.join("، ")}</span>
+                    </div>
+                  ) : null}
+                  {item.aliases_en.length ? (
+                    <div className="assistant-admin-card__aliases">
+                      <strong>الصيغ الإنجليزية</strong>
+                      <span>{item.aliases_en.join(", ")}</span>
+                    </div>
+                  ) : null}
+                  <div className="admin-inline-actions">
+                    <button className="primary-button" onClick={() => startEditingAssistantQuestion(item)} type="button">
+                      تعديل
+                    </button>
+                    <button
+                      className="ghost-button"
+                      disabled={assistantQuestionBusy === "delete"}
+                      onClick={() => void removeAssistantQuestion(item)}
+                      type="button"
+                    >
+                      حذف
+                    </button>
+                  </div>
+                </article>
+              ))}
+            </div>
+          ) : (
+            !assistantCatalogBusy ? <div className="admin-empty">ما فيه أسئلة محفوظة للحين.</div> : null
+          )}
+        </article>
+
+        <article className="admin-card admin-card--players">
+          <div className="admin-card__head">
+            <strong>الدوريات والمسابقات</strong>
+            <small>{`${formatCount(assistantCompetitions.length)} عنصر`}</small>
+          </div>
+
+          <div className="admin-editor">
+            <div className="admin-card__head">
+              <strong>{editingAssistantCompetitionId ? "تعديل دوري أو مسابقة" : "إضافة دوري أو مسابقة"}</strong>
+              <small>{editingAssistantCompetitionId ? `#${editingAssistantCompetitionId}` : "يدوي"}</small>
+            </div>
+            <div className="admin-editor-grid">
+              <input
+                className="input"
+                onChange={(event) => updateAssistantCompetitionForm("name_ar", event.target.value)}
+                placeholder="الاسم بالعربي"
+                value={assistantCompetitionForm.name_ar}
+              />
+              <input
+                className="input"
+                onChange={(event) => updateAssistantCompetitionForm("name_en", event.target.value)}
+                placeholder="الاسم بالإنجليزي - اختياري"
+                value={assistantCompetitionForm.name_en}
+              />
+              <input
+                className="input"
+                onChange={(event) => updateAssistantCompetitionForm("key", event.target.value)}
+                placeholder="المفتاح"
+                value={assistantCompetitionForm.key}
+              />
+              <input
+                className="input"
+                onChange={(event) => updateAssistantCompetitionForm("wikidata_id", event.target.value)}
+                placeholder="Wikidata ID - اختياري"
+                value={assistantCompetitionForm.wikidata_id}
+              />
+              <select
+                className="input"
+                onChange={(event) => updateAssistantCompetitionForm("enabled", event.target.value === "enabled")}
+                value={assistantCompetitionForm.enabled ? "enabled" : "disabled"}
+              >
+                <option value="enabled">مفعل</option>
+                <option value="disabled">موقوف</option>
+              </select>
+              <input
+                className="input admin-editor-grid__full"
+                onChange={(event) => updateAssistantCompetitionForm("aliases_ar", event.target.value)}
+                placeholder="الأسماء البديلة بالعربي، مفصولة بفواصل"
+                value={assistantCompetitionForm.aliases_ar}
+              />
+              <input
+                className="input admin-editor-grid__full"
+                onChange={(event) => updateAssistantCompetitionForm("aliases_en", event.target.value)}
+                placeholder="الأسماء البديلة بالإنجليزي - اختياري"
+                value={assistantCompetitionForm.aliases_en}
+              />
+            </div>
+            <div className="admin-inline-actions">
+              <button
+                className="primary-button"
+                disabled={assistantCompetitionBusy === "save"}
+                onClick={() => void saveAssistantCompetition()}
+                type="button"
+              >
+                {editingAssistantCompetitionId ? "حفظ التعديل" : "إضافة الدوري"}
+              </button>
+              <button className="ghost-button" onClick={resetAssistantCompetitionEditor} type="button">
+                جديد
+              </button>
+            </div>
+            {assistantCompetitionError ? <div className="auth-error">{assistantCompetitionError}</div> : null}
+            {assistantCompetitionMessage ? <div className="admin-success">{assistantCompetitionMessage}</div> : null}
+          </div>
+
+          {assistantCompetitions.length ? (
+            <div className="assistant-admin-grid">
+              {assistantCompetitions.map((item) => (
+                <article className="assistant-admin-card" key={item.id}>
+                  <div className="admin-card__head">
+                    <strong>{item.name_ar}</strong>
+                    <span className="chip chip--bold">{item.enabled ? "مفعل" : "موقوف"}</span>
+                  </div>
+                  {item.name_en ? <small>{item.name_en}</small> : null}
+                  <div className="assistant-admin-card__meta">
+                    <span>{`المفتاح: ${item.key}`}</span>
+                    {item.wikidata_id ? <span>{`Wikidata: ${item.wikidata_id}`}</span> : null}
+                    <span>{formatDateTime(item.created_at)}</span>
+                  </div>
+                  {item.aliases_ar.length ? (
+                    <div className="assistant-admin-card__aliases">
+                      <strong>الأسماء العربية</strong>
+                      <span>{item.aliases_ar.join("، ")}</span>
+                    </div>
+                  ) : null}
+                  {item.aliases_en.length ? (
+                    <div className="assistant-admin-card__aliases">
+                      <strong>الأسماء الإنجليزية</strong>
+                      <span>{item.aliases_en.join(", ")}</span>
+                    </div>
+                  ) : null}
+                  <div className="admin-inline-actions">
+                    <button
+                      className="primary-button"
+                      onClick={() => startEditingAssistantCompetition(item)}
+                      type="button"
+                    >
+                      تعديل
+                    </button>
+                    <button
+                      className="ghost-button"
+                      disabled={assistantCompetitionBusy === "delete"}
+                      onClick={() => void removeAssistantCompetition(item)}
+                      type="button"
+                    >
+                      حذف
+                    </button>
+                  </div>
+                </article>
+              ))}
+            </div>
+          ) : (
+            !assistantCatalogBusy ? <div className="admin-empty">ما فيه دوريات أو مسابقات محفوظة للحين.</div> : null
+          )}
         </article>
       </section>
     </main>
@@ -4096,6 +4643,7 @@ function PublicCardScreen({ payload }: { payload: string }) {
   const [cardLanguage, setCardLanguage] = useState<CardLanguage>("ar");
   const [assistantQuestion, setAssistantQuestion] = useState("");
   const [assistantAnswer, setAssistantAnswer] = useState("");
+  const [assistantBusy, setAssistantBusy] = useState(false);
   const { clubSequence, details, summary } = useWikipediaCard(
     cardPayload?.n ?? null,
     cardPayload?.na ?? null,
@@ -4142,7 +4690,8 @@ function PublicCardScreen({ payload }: { payload: string }) {
   useEffect(() => {
     setAssistantQuestion("");
     setAssistantAnswer("");
-  }, [cardPayload, cardLanguage]);
+    setAssistantBusy(false);
+  }, [cardPayload]);
 
   useEffect(() => {
     if (!noteKey) {
@@ -4212,22 +4761,38 @@ function PublicCardScreen({ payload }: { payload: string }) {
   }).filter(
     (club) => !/\bnational\b.*\bteam\b|\bU(?:17|18|19|20|21|23)\b|under-\d+|\u0645\u0646\u062a\u062e\u0628|school|schools|\u0645\u062f\u0627\u0631\u0633/ui.test(club),
   );
-  const assistantText = assistantUiText(cardLanguage);
-  const assistantPlaceholder = (assistantText as { answerPlaceholder?: string }).answerPlaceholder || "Type a question and press Ask.";
-  const handleAskAssistant = () => {
-    setAssistantAnswer(
-      buildSmartAssistantReply({
-        query: assistantQuestion,
-        language: cardLanguage,
-        cardPayload,
-        displayCountryName,
-        displayClubName,
-        displayStatusLabel: displayStatusLabel,
-        displaySummary,
-        displayClubsFinal,
-        displayAchievements,
-      }),
-    );
+  const assistantText = assistantUiText("ar");
+  const assistantPlaceholder =
+    (assistantText as { answerPlaceholder?: string }).answerPlaceholder || "اكتب السؤال واضغط اسأل.";
+  const fallbackAssistantAnswer = buildSmartAssistantReply({
+    query: assistantQuestion,
+    language: "ar",
+    cardPayload,
+    displayCountryName,
+    displayClubName,
+    displayStatusLabel: displayStatusLabel,
+    displaySummary,
+    displayClubsFinal,
+    displayAchievements,
+  });
+  const handleAskAssistant = async () => {
+    if (!assistantQuestion.trim()) {
+      setAssistantAnswer(fallbackAssistantAnswer);
+      return;
+    }
+
+    setAssistantBusy(true);
+    try {
+      const response = await api.askPublicPlayerCardAssistant(payload, {
+        question: assistantQuestion,
+        language: "ar",
+      });
+      setAssistantAnswer(response.answer || fallbackAssistantAnswer);
+    } catch {
+      setAssistantAnswer(fallbackAssistantAnswer);
+    } finally {
+      setAssistantBusy(false);
+    }
   };
 
   return (
@@ -4244,12 +4809,12 @@ function PublicCardScreen({ payload }: { payload: string }) {
                 <div className="assistant-card__form">
                   <input
                     className="input assistant-input"
-                    dir={cardText.dir}
+                    dir="rtl"
                     onChange={(event) => setAssistantQuestion(event.target.value)}
                     onKeyDown={(event) => {
                       if (event.key === "Enter") {
                         event.preventDefault();
-                        handleAskAssistant();
+                        void handleAskAssistant();
                       }
                     }}
                     placeholder={assistantText.prompt}
@@ -4257,14 +4822,21 @@ function PublicCardScreen({ payload }: { payload: string }) {
                   />
                   <button
                     className="secondary-button assistant-button"
-                    onClick={handleAskAssistant}
+                    disabled={assistantBusy}
+                    onClick={() => {
+                      void handleAskAssistant();
+                    }}
                     type="button"
                   >
                     {assistantText.button}
                   </button>
                 </div>
                 <p className="assistant-answer">
-                  {assistantAnswer || assistantPlaceholder || assistantText.answerHint}
+                  {assistantBusy
+                    ? true
+                      ? "جاري التحليل..."
+                      : "Thinking..."
+                    : assistantAnswer || assistantPlaceholder || assistantText.answerHint}
                 </p>
               </div>
               <img

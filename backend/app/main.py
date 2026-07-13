@@ -11,6 +11,7 @@ from fastapi.responses import FileResponse, JSONResponse, RedirectResponse
 from sqlalchemy import func, select
 
 from app.api.router import api_router
+from app.assistant_service import seed_assistant_catalog
 from app.core.auth import auth_manager
 from app.core.config import get_config
 from app.core.database import Base, SessionLocal, engine
@@ -32,6 +33,7 @@ async def lifespan(_: FastAPI):
     Base.metadata.create_all(bind=engine)
     with SessionLocal() as db:
         seed_database(db)
+        seed_assistant_catalog(db)
         player_count = db.scalar(select(func.count(Player.id))) or 0
     runtime_paths = get_runtime_paths()
     auth_material = auth_manager.get_material()
