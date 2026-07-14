@@ -21,6 +21,7 @@ from app.seed import seed_database
 from app.game_service import DIFFICULTY_CONFIG
 from app.player_popularity import difficulty_from_popularity, nationality_popularity_level
 from app.core.auth import CARD_LINK_TTL_MINUTES, _urlsafe_b64decode, auth_manager
+from app.match_service import MatchService
 
 
 def build_payload(player: Player) -> SharedPlayerCardRead:
@@ -141,6 +142,37 @@ class PlayerCardLifetimeTests(unittest.TestCase):
         self.assertEqual(15, CARD_LINK_TTL_MINUTES)
         self.assertGreaterEqual(token_payload["exp"] - issued_at, 899)
         self.assertLessEqual(token_payload["exp"] - issued_at, 900)
+
+
+class MatchPlayerUniquenessTests(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls) -> None:
+        cls.db = SessionLocal()
+        seed_database(cls.db)
+
+    @classmethod
+    def tearDownClass(cls) -> None:
+        cls.db.close()
+
+    def test_newer_signed_state_replaces_stale_instance_cache(self) -> None:
+        stale_instance = MatchService()
+        active_instance = MatchService()
+        match = stale_instance.create_match(
+            self.db, 1, "best-of-five", ["A", "B"], [], [], [], [],
+        )
+        first_pair = set(match.round_state.player_ids.values())
+        initial_token = stale_instance.read_match(match).match_token
+
+        active_match = active_instance.get_match(match.match_id, initial_token)
+        active_instance.mark_round_unanswered(active_match)
+        resolved_token = active_instance.read_match(active_match).match_token
+
+        reconciled = stale_instance.get_match(match.match_id, resolved_token)
+        stale_instance.next_round(self.db, reconciled)
+        second_pair = set(reconciled.round_state.player_ids.values())
+
+        self.assertTrue(first_pair.isdisjoint(second_pair))
+        self.assertEqual(4, len(reconciled.recent_player_ids))
 
 
 if __name__ == "__main__":

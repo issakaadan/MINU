@@ -4640,6 +4640,7 @@ function GameBoardScreen({
 function PublicCardScreen({ payload }: { payload: string }) {
   const [cardPayload, setCardPayload] = useState<SharedPlayerCardPayload | null>(null);
   const [cardError, setCardError] = useState("");
+  const [cardReplaced, setCardReplaced] = useState(false);
   const [cardLanguage, setCardLanguage] = useState<CardLanguage>("ar");
   const [assistantQuestion, setAssistantQuestion] = useState("");
   const [assistantAnswer, setAssistantAnswer] = useState("");
@@ -4657,17 +4658,32 @@ function PublicCardScreen({ payload }: { payload: string }) {
 
   useEffect(() => {
     const activeCardKey = "minu-active-player-card";
-    const replaceWithLatestCard = (event: StorageEvent) => {
-      const latestPayload = event.newValue?.trim();
-      if (event.key !== activeCardKey || !latestPayload || latestPayload === payload) {
+    const deactivateOldCard = (latestPayload: string | null) => {
+      if (!latestPayload?.trim() || latestPayload.trim() === payload) {
         return;
       }
-      window.location.replace(`/card/${latestPayload}`);
+      window.close();
+      window.setTimeout(() => setCardReplaced(true), 50);
     };
+    const handleStorage = (event: StorageEvent) => {
+      if (event.key === activeCardKey) {
+        deactivateOldCard(event.newValue);
+      }
+    };
+    const channel = typeof BroadcastChannel !== "undefined"
+      ? new BroadcastChannel("minu-player-card")
+      : null;
+    if (channel) {
+      channel.onmessage = (event: MessageEvent<string>) => deactivateOldCard(event.data);
+    }
 
-    window.addEventListener("storage", replaceWithLatestCard);
+    window.addEventListener("storage", handleStorage);
     localStorage.setItem(activeCardKey, payload);
-    return () => window.removeEventListener("storage", replaceWithLatestCard);
+    channel?.postMessage(payload);
+    return () => {
+      window.removeEventListener("storage", handleStorage);
+      channel?.close();
+    };
   }, [payload]);
 
   useEffect(() => {
@@ -4714,6 +4730,17 @@ function PublicCardScreen({ payload }: { payload: string }) {
     }
     localStorage.setItem(noteKey, notes);
   }, [noteKey, notes]);
+
+  if (cardReplaced) {
+    return (
+      <div className="player-screen" dir="rtl">
+        <section className="player-panel">
+          <h1>تم استبدال هذه البطاقة بآخر بطاقة تم مسحها.</h1>
+          <p>يمكنك إغلاق هذا التبويب.</p>
+        </section>
+      </div>
+    );
+  }
 
   if (!cardPayload) {
     return (
