@@ -3217,7 +3217,7 @@ function AdminScreen({
               </div>
               <div className="admin-info-row">
                 <span>رابط البطاقة</span>
-                <strong>{overview ? `${overview.runtime.card_link_ttl_hours} ساعة` : "..."}</strong>
+                <strong>{overview ? `${overview.runtime.card_link_ttl_minutes} دقيقة` : "..."}</strong>
               </div>
             </div>
           </article>
@@ -4654,6 +4654,21 @@ function PublicCardScreen({ payload }: { payload: string }) {
     ? `who-is-the-player-note:${cardPayload.m}:${cardPayload.r}:${cardPayload.s}`
     : "";
   const [notes, setNotes] = useState("");
+
+  useEffect(() => {
+    const activeCardKey = "minu-active-player-card";
+    const replaceWithLatestCard = (event: StorageEvent) => {
+      const latestPayload = event.newValue?.trim();
+      if (event.key !== activeCardKey || !latestPayload || latestPayload === payload) {
+        return;
+      }
+      window.location.replace(`/card/${latestPayload}`);
+    };
+
+    window.addEventListener("storage", replaceWithLatestCard);
+    localStorage.setItem(activeCardKey, payload);
+    return () => window.removeEventListener("storage", replaceWithLatestCard);
+  }, [payload]);
 
   useEffect(() => {
     let active = true;

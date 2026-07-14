@@ -7,6 +7,7 @@ import unicodedata
 from datetime import datetime
 import os
 from pathlib import Path
+import sys
 from typing import Any
 from urllib.parse import quote
 from urllib.error import HTTPError
@@ -25,6 +26,13 @@ PLAYERS_PER_BUCKET = 110
 QUERY_SLEEP_SECONDS = 1.0
 ENTITY_BATCH_SIZE = 25
 
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+BACKEND_ROOT = PROJECT_ROOT / "backend"
+if str(BACKEND_ROOT) not in sys.path:
+    sys.path.insert(0, str(BACKEND_ROOT))
+
+from app.player_popularity import difficulty_from_popularity
+
 DIFFICULTY_BUCKETS = [
     {"difficulty": 1, "min_links": 55, "max_links": None},
     {"difficulty": 2, "min_links": 35, "max_links": 55},
@@ -33,9 +41,6 @@ DIFFICULTY_BUCKETS = [
     {"difficulty": 5, "min_links": 3, "max_links": 10},
 ]
 OUTPUT_DIFFICULTY_LEVELS = 4
-LEVEL_ONE_MIN_FAME = 80
-LEVEL_TWO_MIN_FAME = 35
-LEVEL_THREE_MIN_FAME = 20
 
 MANUAL_EXCLUSIONS = {
     "Albert Camus",
@@ -97,16 +102,6 @@ WHERE {{
 ORDER BY DESC(?sitelinks)
 LIMIT {limit}
 """
-
-
-def difficulty_from_fame(score: int) -> int:
-    if score >= LEVEL_ONE_MIN_FAME:
-        return 1
-    if score >= LEVEL_TWO_MIN_FAME:
-        return 2
-    if score >= LEVEL_THREE_MIN_FAME:
-        return 3
-    return 4
 
 
 def fetch_json(url: str, attempts: int = 5, timeout: int = 90) -> Any:
@@ -397,7 +392,7 @@ def generate_players() -> list[dict[str, Any]]:
 
     all_players.sort(key=lambda item: (-item["fame_score"], item["name"]))
     for player in all_players:
-        player["difficulty"] = difficulty_from_fame(player["fame_score"])
+        player["difficulty"] = difficulty_from_popularity(player["fame_score"], player.get("countries") or [])
 
     all_players.sort(key=lambda item: (item["difficulty"], -item["fame_score"], item["name"]))
     return all_players

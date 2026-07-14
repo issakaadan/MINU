@@ -124,7 +124,7 @@ class AdminRuntimeRead(BaseModel):
     secret_file_path: str
     session_cookie_name: str
     session_ttl_hours: int
-    card_link_ttl_hours: int
+    card_link_ttl_minutes: int
     database_size_bytes: int
 
 

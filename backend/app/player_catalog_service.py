@@ -13,6 +13,7 @@ from sqlalchemy.orm import Session
 
 from app.core.runtime import get_runtime_paths
 from app.models import Player
+from app.player_popularity import difficulty_from_popularity
 from app.schemas import AdminPlayerRead, AdminPlayerWrite
 from app.seed import BUNDLED_DATASET_PATH, DATASET_PATH, _normalize_players, _sync_database, _write_dataset
 
@@ -23,7 +24,6 @@ if str(PROJECT_ROOT) not in sys.path:
 from scripts.generate_football_players import (
     build_aliases,
     determine_position_group,
-    difficulty_from_fame,
     extract_claim_ids,
     extract_current_club_ids,
     fetch_entities,
@@ -232,7 +232,7 @@ def _build_refreshed_record(
             "name": label_for(entity, "en") or str(existing_record.get("name", "")).strip(),
             "name_ar": label_for(entity, "ar") or str(existing_record.get("name_ar", "")).strip(),
             "image_url": _extract_image_url(entity, str(existing_record.get("image_url", "")).strip()),
-            "difficulty": difficulty_from_fame(fame_score),
+            "difficulty": difficulty_from_popularity(fame_score, countries_en),
             "fame_score": fame_score,
             "birth_year": birth_year,
             "gender_key": "male",

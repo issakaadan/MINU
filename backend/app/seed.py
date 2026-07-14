@@ -11,6 +11,7 @@ from sqlalchemy.orm import Session
 
 from app.core.runtime import get_runtime_paths
 from app.models import Player
+from app.player_popularity import difficulty_from_popularity
 
 DATASET_PATH = get_runtime_paths().data_dir / "players.seed.json"
 BUNDLED_DATASET_PATH = Path(__file__).resolve().parents[1] / "data" / "players.seed.json"
@@ -36,25 +37,12 @@ PLAYER_SYNC_FIELDS = (
     "current_team_ar",
 )
 
-LEVEL_ONE_MIN_FAME = 80
-LEVEL_TWO_MIN_FAME = 35
-LEVEL_THREE_MIN_FAME = 20
 VALID_POSITION_GROUPS = {"goalkeeper", "defender", "midfielder", "forward"}
 CURRENT_YEAR = datetime.now().year
 
 
 def _player_to_payload(player: Player) -> dict[str, Any]:
     return {field: getattr(player, field) for field in PLAYER_SYNC_FIELDS}
-
-
-def _difficulty_from_fame(score: int) -> int:
-    if score >= LEVEL_ONE_MIN_FAME:
-        return 1
-    if score >= LEVEL_TWO_MIN_FAME:
-        return 2
-    if score >= LEVEL_THREE_MIN_FAME:
-        return 3
-    return 4
 
 
 def _normalize_string_list(values: list[Any]) -> list[str]:
@@ -118,7 +106,7 @@ def _normalize_players(players: list[dict[str, Any]]) -> list[dict[str, Any]]:
 
     male_players.sort(key=lambda item: (-item["fame_score"], item["name"]))
     for player in male_players:
-        player["difficulty"] = _difficulty_from_fame(player["fame_score"])
+        player["difficulty"] = difficulty_from_popularity(player["fame_score"], player["countries"])
 
     return male_players
 

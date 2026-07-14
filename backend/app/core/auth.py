@@ -19,7 +19,7 @@ PASSWORD_HASH_ITERATIONS = 310_000
 DEFAULT_USERNAME = "minu-admin"
 DEFAULT_SESSION_COOKIE = "minu_session"
 DEFAULT_SESSION_HOURS = 24
-DEFAULT_CARD_LINK_HOURS = 168
+CARD_LINK_TTL_MINUTES = 15
 DEFAULT_MATCH_LINK_HOURS = 24
 
 
@@ -204,13 +204,7 @@ class AuthManager:
 
     def create_card_token(self, payload: dict[str, object]) -> str:
         material = self.get_material()
-        card_hours_raw = os.getenv("MINU_CARD_LINK_HOURS", "").strip()
-        try:
-            card_hours = max(1, int(card_hours_raw)) if card_hours_raw else DEFAULT_CARD_LINK_HOURS
-        except ValueError:
-            card_hours = DEFAULT_CARD_LINK_HOURS
-
-        expires_at = datetime.now(timezone.utc) + timedelta(hours=card_hours)
+        expires_at = datetime.now(timezone.utc) + timedelta(minutes=CARD_LINK_TTL_MINUTES)
         token_payload = {
             "p": payload,
             "exp": int(expires_at.timestamp()),

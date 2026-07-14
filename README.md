@@ -56,7 +56,6 @@ Secrets to set in Vercel:
 
 Optional:
 
-- `MINU_CARD_LINK_HOURS`
 
 ## GitHub + Vercel workflow
 
@@ -98,7 +97,7 @@ Render files are still kept in the repo if you ever want that path too:
 - `MINU_ADMIN_PASSWORD`: fixed production login password
 - `MINU_ADMIN_PASSWORD_HASH`: optional hashed alternative if you prefer not to store plaintext in Render
 - `MINU_SESSION_SECRET`: required for stable signed login sessions across restarts
-- `MINU_CARD_LINK_HOURS`: optional lifetime for signed player-card links
+- Signed player-card links have a fixed 15-minute lifetime.
 - `FRONTEND_DIST_DIR`: optional frontend build path override
 
 ## Stack

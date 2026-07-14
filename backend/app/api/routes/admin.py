@@ -7,7 +7,7 @@ from fastapi import APIRouter, Depends, HTTPException, Query, Request
 from sqlalchemy import func, or_, select
 from sqlalchemy.orm import Session
 
-from app.core.auth import DEFAULT_CARD_LINK_HOURS, auth_manager, require_authenticated_user
+from app.core.auth import CARD_LINK_TTL_MINUTES, auth_manager, require_authenticated_user
 from app.core.database import DATABASE_BACKEND, EXTERNAL_DATABASE_CONFIGURED, get_db
 from app.core.runtime import get_runtime_paths
 from app.core.share_link import read_public_share_url, request_public_base_url
@@ -48,14 +48,6 @@ from app.schemas import (
 from app.seed import BUNDLED_DATASET_PATH, DATASET_PATH
 
 router = APIRouter(dependencies=[Depends(require_authenticated_user)])
-
-
-def _card_link_hours() -> int:
-    card_hours_raw = os.getenv("MINU_CARD_LINK_HOURS", "").strip()
-    try:
-        return max(1, int(card_hours_raw)) if card_hours_raw else DEFAULT_CARD_LINK_HOURS
-    except ValueError:
-        return DEFAULT_CARD_LINK_HOURS
 
 
 def _serialize_match(match_state) -> AdminMatchRead:
@@ -173,7 +165,7 @@ def get_admin_overview(request: Request, db: Session = Depends(get_db)) -> Admin
             secret_file_path=str(auth_material.secret_file_path),
             session_cookie_name=auth_material.session_cookie_name,
             session_ttl_hours=max(1, auth_material.session_ttl_seconds // 3600),
-            card_link_ttl_hours=_card_link_hours(),
+            card_link_ttl_minutes=CARD_LINK_TTL_MINUTES,
             database_size_bytes=database_size_bytes,
         ),
     )

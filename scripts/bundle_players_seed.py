@@ -11,12 +11,15 @@ BUNDLED_DATASET_PATH = PROJECT_ROOT / "backend" / "data" / "players.seed.json"
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
-from scripts.generate_football_players import difficulty_from_fame, generate_players
+from scripts.generate_football_players import difficulty_from_popularity, generate_players
 
 
 def _write_rebalanced_dataset(players: list[dict[str, object]], source: str) -> None:
     for player in players:
-        player["difficulty"] = difficulty_from_fame(int(player.get("fame_score") or 0))
+        player["difficulty"] = difficulty_from_popularity(
+            int(player.get("fame_score") or 0),
+            player.get("countries") or [],
+        )
     BUNDLED_DATASET_PATH.write_text(
         json.dumps(players, ensure_ascii=False, indent=2),
         encoding="utf-8",

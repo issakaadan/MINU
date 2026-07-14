@@ -2,6 +2,8 @@ from __future__ import annotations
 
 import sys
 import unittest
+import json
+from datetime import datetime, timezone
 from pathlib import Path
 
 from sqlalchemy import select
@@ -16,8 +18,9 @@ from app.core.database import SessionLocal
 from app.models import Player
 from app.schemas import SharedPlayerCardRead
 from app.seed import seed_database
-from app.seed import _difficulty_from_fame
 from app.game_service import DIFFICULTY_CONFIG
+from app.player_popularity import difficulty_from_popularity, nationality_popularity_level
+from app.core.auth import CARD_LINK_TTL_MINUTES, _urlsafe_b64decode, auth_manager
 
 
 def build_payload(player: Player) -> SharedPlayerCardRead:
@@ -112,11 +115,32 @@ class PlayerPopularityLevelTests(unittest.TestCase):
     def test_four_popularity_levels_are_configured(self) -> None:
         self.assertEqual([1, 2, 3, 4], sorted(DIFFICULTY_CONFIG))
 
-    def test_fame_boundaries_map_to_expected_levels(self) -> None:
-        cases = {220: 1, 80: 1, 79: 2, 35: 2, 34: 3, 20: 3, 19: 4, 0: 4}
-        for fame_score, expected_level in cases.items():
-            with self.subTest(fame_score=fame_score):
-                self.assertEqual(expected_level, _difficulty_from_fame(fame_score))
+    def test_popularity_combines_player_fame_and_nationality(self) -> None:
+        cases = [
+            (220, ["Brazil"], 1),
+            (220, ["Liberia"], 1),
+            (90, ["Liberia"], 2),
+            (34, ["Spain"], 3),
+            (19, ["Brazil"], 3),
+            (19, ["Liberia"], 4),
+        ]
+        for fame_score, countries, expected_level in cases:
+            with self.subTest(fame_score=fame_score, countries=countries):
+                self.assertEqual(expected_level, difficulty_from_popularity(fame_score, countries))
+
+    def test_uses_most_prominent_nationality_for_dual_nationals(self) -> None:
+        self.assertEqual(1, nationality_popularity_level(["Cape Verde", "Portugal"]))
+
+
+class PlayerCardLifetimeTests(unittest.TestCase):
+    def test_player_card_token_expires_after_fifteen_minutes(self) -> None:
+        issued_at = int(datetime.now(timezone.utc).timestamp())
+        token = auth_manager.create_card_token({"player": "test"})
+        payload_token = token.split(".", 1)[0]
+        token_payload = json.loads(_urlsafe_b64decode(payload_token).decode("utf-8"))
+        self.assertEqual(15, CARD_LINK_TTL_MINUTES)
+        self.assertGreaterEqual(token_payload["exp"] - issued_at, 899)
+        self.assertLessEqual(token_payload["exp"] - issued_at, 900)
 
 
 if __name__ == "__main__":
