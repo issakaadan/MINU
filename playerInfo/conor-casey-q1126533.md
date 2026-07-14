@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1126533
-- Generated At (UTC): 2026-07-13T08:55:23+00:00
+- Generated At (UTC): 2026-07-13T12:11:52+00:00
 - English Name: Conor Casey
 - Arabic Name: كونور كيسي
 - Birth Year: 1981
@@ -32,32 +32,26 @@
 Conor Patrick Casey (born July 25, 1981) is an American former soccer player. He played for 16 seasons as a forward , finishing his career with Columbus Crew SC , before turning to coaching with his former club Colorado Rapids .
 
 ### English Achievements
-- With Colorado Rapids: Major League Soccer MLS Cup
-- With United States: CONCACAF Gold Cup Champions
-- Individual: MLS Cup Most Valuable Player
-- Individual: MLS Best XI
-- Individual: Colorado Rapids – All Time Goal Scorer
-- Individual: Colorado Rapids – All Time Hat Trick
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 117
+- Club goals total: 102
 - Senior national team goals total: 2
-- Senior career goals total: 119
+- Senior career goals total: 104
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
 | 2000–2001 | Borussia Dortmund II | 23 | 14 |
-| 2001–2004 | Borussia Dortmund | 0 | 0 |
-| 2001–2003 | Hannover 96 | 23 | 8 |
-| 2003–2004 | Karlsruher SC | 30 | 14 |
-| 2004–2006 | Mainz 05 | 40 | 3 |
+| 2001–2003 | Borussia Dortmund | 4 | 1 |
+| 2001 | Hannover 96 (loan) | 20 | 7 |
+| 2003 | Karlsruher SC (loan) | 32 | 14 |
+| 2004–2006 | Mainz 05 | 42 | 5 |
 | 2006 | Mainz 05 II | 2 | 1 |
 | 2007 | Toronto FC | 2 | 0 |
-| 2007–2012 | Colorado Rapids | 119 | 50 |
-| 2013–2015 | Philadelphia Union | 70 | 21 |
+| 2007–2012 | Colorado Rapids | 126 | 53 |
+| 2013–2015 | Philadelphia Union | 77 | 22 |
 | 2016 | Columbus Crew SC | 4 | 0 |
-| Total | Total | 313 | 111 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -78,12 +72,28 @@ Conor Patrick Casey (born July 25, 1981) is an American former soccer player. He
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 208
+- Senior national team goals total: 2
+- Senior career goals total: 210
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000–2001 | بوروسيا دورتموند ب | 23 | 14 |
+| 2001–2004 | بوروسيا دورتموند | 4 | 1 |
+| 2001–2002 | هانوفر 96 | 19 | 7 |
+| 2003–2004 | كارلسروه | 30 | 14 |
+| 2004–2006 | ماينتس 05 | 40 | 3 |
+| 2006 | [الإنجليزية] | 2 | 1 |
+| 2007 | تورونتو | 2 | 0 |
+| 2007–2012 | كولورادو رابيدز | 119 | 50 |
+| 2013–2015 | فيلادلفيا يونيون | 70 | 21 |
+| 2016 | كولومبوس كرو | 4 | 0 |
+| - | مجموع | 313 | 111 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001 | الولايات المتحدة تحت 20 | 3 | 0 |
+| 2000 | الولايات المتحدة تحت 23 | 9 | 0 |
+| 2004–2010 | الولايات المتحدة | 19 | 2 |

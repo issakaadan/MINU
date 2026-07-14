@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q269883
-- Generated At (UTC): 2026-07-13T08:52:34+00:00
+- Generated At (UTC): 2026-07-13T12:09:09+00:00
 - English Name: Emmanuel Petit
 - Arabic Name: إيمانويل بوتي
 - Birth Year: 1970
@@ -32,14 +32,7 @@
 Emmanuel Laurent Petit ( French pronunciation: [emanɥɛl lɔʁɑ̃ pəti] ; born 22 September 1970) is a French former professional footballer who played as a defensive midfielder at club level for Arsenal , Barcelona , Monaco , and Chelsea . He represented France at international level in two FIFA World Cups and two UEFA European Championships ; he scored the third goal in France's 3–0 victory in the 1998 FIFA World Cup Final and was also a member of the French squad that won UEFA Euro 2000 . He was known for his strong defensive abilities, including tackling, interceptions, and marking, as well as his passing range and ability to transition play from defense to attack. In his prime, he was one of the best left-footed players in European and world football.
 
 ### English Achievements
-- With Monaco: Division 1
-- With Arsenal: Premier League
-- With France: FIFA World Cup
-- Individual: Division 1 Rookie of the Year
-- Orders [ edit ]: Knight of the Legion of Honour
-- With Monaco: Coupe de France
-- With Arsenal: FA Cup
-- With Arsenal: FA Charity Shield
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 20
@@ -49,11 +42,10 @@ Emmanuel Laurent Petit ( French pronunciation: [emanɥɛl lɔʁɑ̃ pəti] ; bor
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1988–1997 | Monaco | 222 | 4 |
-| 1997–2000 | Arsenal | 85 | 9 |
-| 2000–2001 | Barcelona | 23 | 1 |
-| 2001–2004 | Chelsea | 55 | 2 |
-| Total | Total | 385 | 16 |
+| 1988–1996 | Monaco | 292 | 5 |
+| 1997–2000 | Arsenal | 118 | 11 |
+| 2000 | Barcelona | 38 | 1 |
+| 2001–2003 | Chelsea | 76 | 3 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -72,12 +64,20 @@ Emmanuel Laurent Petit ( French pronunciation: [emanɥɛl lɔʁɑ̃ pəti] ; bor
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 32
+- Senior national team goals total: 6
+- Senior career goals total: 38
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1988–1997 | موناكو | 222 | 4 |
+| 1997–2000 | أرسنال | 85 | 9 |
+| 2000–2001 | برشلونة | 23 | 1 |
+| 2001–2004 | تشيلسي | 55 | 2 |
+| - | مجموع | 385 | 16 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1990–2003 | فرنسا | 63 | 6 |

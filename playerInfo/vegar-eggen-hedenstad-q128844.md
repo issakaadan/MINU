@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q128844
-- Generated At (UTC): 2026-07-13T08:56:06+00:00
+- Generated At (UTC): 2026-07-13T12:12:34+00:00
 - English Name: Vegar Eggen Hedenstad
 - Arabic Name: فيغار أغين هيدينستيد
 - Birth Year: 1991
@@ -32,9 +32,7 @@
 Vegar Eggen Hedenstad (born 26 June 1991) is a Norwegian professional footballer who plays as a right-back for Norwegian First Division club Vålerenga . Hedenstad has been capped at international level for Norway
 
 ### English Achievements
-- With Stabæk: Norwegian League
-- With Rosenborg: Norwegian League
-- With Rosenborg: Norwegian Football Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 21
@@ -44,14 +42,13 @@ Vegar Eggen Hedenstad (born 26 June 1991) is a Norwegian professional footballer
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2008–2012 | Stabæk | 94 | 6 |
-| 2012–2016 | SC Freiburg | 23 | 0 |
-| 2012–2016 | SC Freiburg II | 9 | 0 |
-| 2014–2015 | Eintracht Braunschweig | 28 | 1 |
-| 2016–2017 | FC St. Pauli | 15 | 0 |
-| 2017–2020 | Rosenborg | 100 | 5 |
-| 2021–2022 | Fatih Karagümrük | 32 | 1 |
-| 2022– | Vålerenga | 89 | 4 |
+| 2008–2012 | Stabæk | 117 | 6 |
+| 2012–2015 | SC Freiburg | 29 | 0 |
+| 2014 | Eintracht Braunschweig (loan) | 30 | 1 |
+| 2016 | FC St. Pauli | 16 | 1 |
+| 2017–2020 | Rosenborg | 148 | 6 |
+| 2020–2021 | Fatih Karagümrük | 32 | 1 |
+| 2022–2025 | Vålerenga | 83 | 6 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -74,12 +71,26 @@ Vegar Eggen Hedenstad (born 26 June 1991) is a Norwegian professional footballer
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 13
+- Senior national team goals total: 0
+- Senior career goals total: 13
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008–2012 | ستابك | 94 | 6 |
+| 2012–2016 | فرايبورغ | 23 | 0 |
+| 2012–2016 | نادي فرايبورغ II [الإنجليزية] | 9 | 0 |
+| 2014–2015 | آينتراخت براونشفايغ | 28 | 1 |
+| 2016–2017 | سانت باولي | 15 | 0 |
+| 2017–2020 | روسنبورغ | 100 | 5 |
+| 2021–2022 | فاتح كاراغومروك | 32 | 1 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008 | النرويج تحت 17 | 13 | 2 |
+| 2010 | النرويج تحت 19 | 5 | 0 |
+| 2010–2013 | النرويج تحت 21 | 22 | 0 |
+| 2011 | Norway U23 | 1 | 0 |
+| 2012–2013 | النرويج | 4 | 0 |

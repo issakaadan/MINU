@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1253294
-- Generated At (UTC): 2026-07-13T08:56:35+00:00
+- Generated At (UTC): 2026-07-13T12:13:10+00:00
 - English Name: Laurent Huard
 - Arabic Name: لوران هوارد
 - Birth Year: 1973
@@ -62,12 +62,16 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 20
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 20
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1990–1999 | ستاد رين | 196 | 14 |
+| 1999–2000 | سيدان | 31 | 2 |
+| 2000–2002 | سانت إتيان | 49 | 4 |
 
 ### Arabic National Team Stats
 _No rows found._

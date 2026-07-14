@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q315309
-- Generated At (UTC): 2026-07-13T08:53:29+00:00
+- Generated At (UTC): 2026-07-13T12:10:05+00:00
 - English Name: İlhan Mansız
 - Arabic Name: إلهان مانسيز
 - Birth Year: 1975
@@ -32,10 +32,7 @@
 İlhan Mansız (born 10 August 1975) is a German-Turkish former professional footballer who played as a forward . He is also a competing figure skater. He is of Crimean Tatar descent. [ 2 ]
 
 ### English Achievements
-- With Beşiktaş: Süper Lig
-- With Turkey: FIFA World Cup
-- Individual: Süper Lig top goalscorer
-- Order: Turkish State Medal of Distinguished Service
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 85
@@ -45,16 +42,13 @@
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1994–1995 | 1. FC Köln II | 1 | 0 |
-| 1995–1996 | Gençlerbirliği | 2 | 0 |
-| 1996–1997 | SV Türk Gücü München | 24 | 11 |
-| 1997–1998 | Kuşadasıspor [ 1 ] | 37 | 19 |
-| 1998–2001 | Samsunspor | 89 | 26 |
-| 2001–2004 | Beşiktaş | 66 | 36 |
+| 1995 | Gençlerbirliği | 2 | 0 |
+| 1997 | Kuşadasıspor | 37 | 19 |
+| 1998–2000 | Samsunspor | 89 | 26 |
+| 2001–2003 | Beşiktaş | 66 | 36 |
 | 2004 | Vissel Kobe | 3 | 0 |
-| 2005 | Hertha BSC | 1 | 0 |
-| 2005–2007 | MKE Ankaragücü | 9 | 4 |
-| Total | Total | 198 | 78 |
+| 2004 | Hertha BSC | 0 | 0 |
+| 2005 | Ankaragücü | 9 | 4 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -73,12 +67,25 @@
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 174
+- Senior national team goals total: 7
+- Senior career goals total: 181
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1994–1995 | كولن | 1 | 0 |
+| 1995–1996 | غنتشليربيرليغي | 2 | 0 |
+| 1996–1997 | SV Türk Gücü München | 24 | 11 |
+| 1997–1998 | قوش آطه سي سبور [لغات أخرى] [ 1 ] | 37 | 19 |
+| 1998–2001 | سامسون سبور | 89 | 26 |
+| 2001–2004 | بشكتاش | 66 | 36 |
+| 2004 | فيسيل كوبه | 3 | 0 |
+| 2005 | هرتا برلين | 1 | 0 |
+| 2005–2007 | أنقرة غوجو | 9 | 4 |
+| - | مجموع | 198 | 78 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001–2007 | تركيا | 21 | 7 |

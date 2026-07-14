@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q23540953
-- Generated At (UTC): 2026-07-13T08:52:25+00:00
+- Generated At (UTC): 2026-07-13T12:09:00+00:00
 - English Name: Alphonso Davies
 - Arabic Name: ألفونسو ديفيز
 - Birth Year: 2000
@@ -36,14 +36,7 @@ Davies was the first player born in the 2000s to play in a Major League Soccer m
 Born a Liberian refugee in Ghana, Davies and his family relocated to Canada when he was five years old. Davies obtained Canadian citizenship in June 2017; he was until then a Liberian national. Later that month, he became the youngest player to appear for the Canada national team. [ 11 ] By scoring two goals in a 2017 CONCACAF Gold Cup match against French Guiana , he became the youngest player to score for the team, the youngest to score at the CONCACAF Gold Cup , and first player born in the 2000s to score at a top-level international tournament. [ 12 ] He was named CONCACAF Men's Player of the Year in 2021 and 2022 . [ 13 ] [ 14 ] Davies was called up to play in the 2022 FIFA World Cup , where he scored Canada's first-ever goal at a men's World Cup. He is widely considered both the best player on and the face of the Canada national team. [ 15 ] [ 16 ] [ 17 ]
 
 ### English Achievements
-- With Bayern Munich: Bundesliga
-- Individual: CONCACAF Gold Cup Best XI
-- With Bayern Munich: DFB-Pokal
-- With Bayern Munich: DFL-Supercup
-- With Bayern Munich: UEFA Champions League
-- With Bayern Munich: UEFA Super Cup
-- With Bayern Munich: FIFA Club World Cup
-- Individual: CONCACAF Gold Cup Bright Future Award
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 29
@@ -53,10 +46,10 @@ Born a Liberian refugee in Ghana, Davies and his family relocated to Canada when
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2015–2016 | Whitecaps FC 2 | 11 | 2 |
-| 2016–2018 | Vancouver Whitecaps FC | 65 | 8 |
-| 2018–2019 | Bayern Munich II | 6 | 0 |
-| 2019– | Bayern Munich | 167 | 10 |
+| 2016 | Whitecaps FC 2 | 11 | 2 |
+| 2016–2018 | Vancouver Whitecaps FC | 81 | 12 |
+| 2018–2019 | Bayern Munich II | 8 | 0 |
+| 2018–2025 | Bayern Munich | 249 | 15 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -78,15 +71,31 @@ Born a Liberian refugee in Ghana, Davies and his family relocated to Canada when
 في يونيو 2017، أصبح أصغر لاعب يشارك مع المنتخب الكندي . [ 10 ] من خلال تسجيله لهدفين في مباراة كأس الكونكاكاف الذهبية 2017 ضد غويانا الفرنسية ، أصبح أصغر لاعب يسجل للمنتخب الكندي، وأصغر لاعب يسجل في كأس الكونكاكاف الذهبية ، وأول لاعب ولد في الألفية الجديدة يسجل في بطولة دولية كبرى. [ 11 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي بايرن ميونخ: الدوري الألماني
+- الفردية: أفضل لاعب كندي تحت 17 سنة
+- مع النادي بايرن ميونخ: كأس ألمانيا
+- مع النادي بايرن ميونخ: كأس السوبر الألماني
+- مع النادي بايرن ميونخ: دوري أبطال أوروبا
+- مع النادي بايرن ميونخ: كأس السوبر الأوروبي
+- مع النادي بايرن ميونخ: كأس العالم للأندية
+- الفردية: كأس الكونكاكاف الذهبية جائزة المستقبل المشرق
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 18
+- Senior national team goals total: 15
+- Senior career goals total: 33
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2016 | فانكوفر وايتكابس 2 | 11 | 2 |
+| 2016–2018 | فانكوفر وايتكابس | 81 | 12 |
+| 2018–2019 | بايرن ميونخ ب | 8 | 0 |
+| 2018–2020 | بايرن ميونخ | 49 | 4 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2016 | كندا تحت 17 سنة | 2 | 1 |
+| 2016 | كندا تحت 20 سنة | 1 | 0 |
+| 2017– | كندا | 53 | 15 |

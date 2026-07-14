@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q311676
-- Generated At (UTC): 2026-07-13T08:55:11+00:00
+- Generated At (UTC): 2026-07-13T12:11:40+00:00
 - English Name: Édgar Barreto
 - Arabic Name: إدغار باريتو
 - Birth Year: 1984
@@ -36,24 +36,21 @@ After starting his career with Cerro Porteño in his homeland and NEC in the Dut
 Barreto earned 60 caps for the Paraguay national team from 2004 to 2011. After winning a silver medal at the 2004 Olympics , he played for the country at three Copa América tournaments and two FIFA World Cups , finishing as runner-up in the 2011 Copa América .
 
 ### English Achievements
-- With Paraguay U23: Silver Medal at the Summer Olympics
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 34
+- Club goals total: 33
 - Senior national team goals total: 3
-- Senior career goals total: 37
+- Senior career goals total: 36
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2002–2003 | Cerro Porteño | 26 | 4 |
-| 2004–2007 | NEC | 95 | 10 |
-| 2007–2009 | Reggina | 68 | 5 |
-| 2009–2011 | Atalanta | 33 | 1 |
-| 2011–2015 | Palermo | 122 | 7 |
-| 2015–2020 | Sampdoria | 104 | 3 |
-| 2020–2022 | NEC | 47 | 4 |
-| Total | Total | 495 | 34 |
+| 2003–2021 | NEC | 154 | 14 |
+| 2007–2008 | Reggina | 71 | 6 |
+| 2009–2010 | Atalanta | 34 | 1 |
+| 2011–2014 | Palermo | 125 | 7 |
+| 2015–2019 | Sampdoria | 110 | 5 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -75,12 +72,26 @@ Barreto earned 60 caps for the Paraguay national team from 2004 to 2011. After w
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 68
+- Senior national team goals total: 3
+- Senior career goals total: 71
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2003 | سيرو بورتينيو | 26 | 4 |
+| 2004–2007 | إن إي سي نيميخن | 95 | 10 |
+| 2007–2009 | ريجينا | 68 | 5 |
+| 2009–2011 | أتالانتا | 33 | 1 |
+| 2011–2015 | باليرمو | 122 | 7 |
+| 2015–2020 | سامبدوريا | 104 | 3 |
+| 2020–2022 | إن إي سي نيميخن | 47 | 4 |
+| - | مجموع | 495 | 34 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001 | باراغواي تحت 17 | 3 | 0 |
+| 2003 | باراغواي تحت 20 | 4 | 0 |
+| 2004 | باراغواي تحت 23 | 7 | 0 |
+| 2004–2011 | باراغواي | 60 | 3 |

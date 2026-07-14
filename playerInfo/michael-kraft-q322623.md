@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q322623
-- Generated At (UTC): 2026-07-13T08:56:42+00:00
+- Generated At (UTC): 2026-07-13T12:13:18+00:00
 - English Name: Michael Kraft
 - Arabic Name: ميخائيل كرافت
 - Birth Year: 1966
@@ -63,12 +63,18 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 0
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1988–1990 | كولن | 1 | 0 |
+| 1990–1993 | نادي بكركوي الرياضي | 81 | 0 |
+| 1993–1998 | كولن | 26 | 0 |
+| 1998–1999 | غوترسلوه 2000 [الإنجليزية] | 17 | 0 |
+| 2000–2001 | كارل زايس يينا | 1 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

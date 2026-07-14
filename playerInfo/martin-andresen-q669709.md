@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q669709
-- Generated At (UTC): 2026-07-13T08:55:52+00:00
+- Generated At (UTC): 2026-07-13T12:12:21+00:00
 - English Name: Martin Andresen
 - Arabic Name: مارتن اندرسين
 - Birth Year: 1977
@@ -32,12 +32,7 @@
 Martin Andresen (born 2 February 1977) is a Norwegian former professional football player [ 1 ] and manager, who played as a central midfielder . Martin is also keen bridge player [ 2 ] winning both a North American and European championship.
 
 ### English Achievements
-- With Stabæk: Norwegian Cup
-- With Brann: Norwegian Premier League
-- With Vålerenga: Norwegian Cup
-- Individual: Kniksen of the year
-- Individual: Kniksen award
-- Individual: Norwegian Football Association Gold Watch
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 68
@@ -47,19 +42,16 @@ Martin Andresen (born 2 February 1977) is a Norwegian former professional footba
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1995–1997 | Moss | 45 | 10 |
+| 1995–1996 | Moss | 45 | 10 |
 | 1997 | Viking | 26 | 8 |
-| 1998–1999 | Stabæk | 47 | 16 |
-| 1999–2000 | Wimbledon | 13 | 1 |
+| 1998–2013 | Stabæk | 149 | 35 |
+| 1999–2000 | Wimbledon | 15 | 1 |
 | 2000 | Molde | 9 | 1 |
-| 2001–2004 | Stabæk | 87 | 16 |
-| 2003–2004 | Blackburn | 11 | 0 |
-| 2005–2007 | Brann | 64 | 11 |
-| 2008–2010 | Vålerenga | 40 | 2 |
+| 2003 | Blackburn | 11 | 0 |
+| 2005–2007 | Brann | 68 | 11 |
+| 2008–2010 | Vålerenga | 50 | 2 |
 | 2011–2012 | Follo | 8 | 0 |
-| 2013 | Stabæk | 1 | 0 |
 | 2015 | Sandefjord | 3 | 0 |
-| Total | Total | 355 | 65 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -79,12 +71,29 @@ Martin Andresen (born 2 February 1977) is a Norwegian former professional footba
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 130
+- Senior national team goals total: 3
+- Senior career goals total: 133
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1995–1997 | [الإنجليزية] | 45 | 10 |
+| 1997 | فيكينغ | 26 | 8 |
+| 1998–1999 | ستابك | 47 | 16 |
+| 1999–2000 | ويمبلدون | 13 | 1 |
+| 2000 | مولده | 9 | 1 |
+| 2001–2004 | ستابك | 87 | 16 |
+| 2003–2004 | بلاكبيرن روفرز | 11 | 0 |
+| 2005–2007 | بران | 64 | 11 |
+| 2008–2010 | فوليرينغا | 40 | 2 |
+| 2011–2012 | [الإنجليزية] | 8 | 0 |
+| 2013 | ستابك | 1 | 0 |
+| 2015 | ساندفيورد | 3 | 0 |
+| - | مجموع | 355 | 65 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1995–1998 | النرويج تحت 21 | 24 | 4 |
+| 2001–2009 | النرويج | 43 | 3 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q211126
-- Generated At (UTC): 2026-07-13T08:53:44+00:00
+- Generated At (UTC): 2026-07-13T12:10:21+00:00
 - English Name: Paulo Wanchope
 - Arabic Name: باولو وانشوب
 - Birth Year: 1976
@@ -36,33 +36,25 @@ As a player he was a striker who notably played in the Premier League for Derby 
 As he is the former head coach of the Costa Rica national football team with a spell in charge between 2014 and 2015. He has also managed Herediano, Uruguay Coronado , CS Cartaginés and Pérez Zeledón.
 
 ### English Achievements
-- With Player [ edit ]: UEFA Intertoto Cup
-- With Player [ edit ]: Football League First Division
-- With Player [ edit ]: UNCAF Nations Cup
-- With Player [ edit ]: Premier League Player of the Month
-- With Manager [ edit ]: Copa Centroamericana
-- With Manager [ edit ]: Costa Rican Cup
-- With Player [ edit ]: CONCACAF Gold Cup Best XI
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 102
+- Club goals total: 92
 - Senior national team goals total: 44
-- Senior career goals total: 146
+- Senior career goals total: 136
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1993–1997 | Herediano | 14 | 20 |
-| 1997–1999 | Derby County | 72 | 23 |
-| 1999–2000 | West Ham United | 35 | 12 |
-| 2000–2004 | Manchester City | 64 | 27 |
-| 2004–2005 | Málaga | 25 | 6 |
+| 1996–1998 | Derby County | 83 | 28 |
+| 1999–2000 | West Ham United | 47 | 15 |
+| 2000–2003 | Manchester City | 75 | 29 |
+| 2004 | Málaga | 25 | 6 |
 | 2005 | Al-Gharafa | 6 | 1 |
-| 2006 | Herediano | 10 | 3 |
+| 2005 | Herediano | 10 | 3 |
 | 2006 | Rosario Central | 14 | 5 |
-| 2007 | FC Tokyo | 11 | 3 |
-| 2007 | Chicago Fire | 12 | 2 |
-| Total | Total | 264 | 102 |
+| 2007 | FC Tokyo | 16 | 3 |
+| 2007 | Chicago Fire | 13 | 2 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -83,12 +75,26 @@ As he is the former head coach of the Costa Rica national football team with a s
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 204
+- Senior national team goals total: 45
+- Senior career goals total: 249
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1993–1997 | نادي هيريديانو | 14 | 20 |
+| 1997–1999 | ديربي كاونتي | 72 | 23 |
+| 1999–2000 | وست هام يونايتد | 35 | 12 |
+| 2000–2004 | مانشستر سيتي | 64 | 27 |
+| 2004–2005 | مالقا | 25 | 6 |
+| 2005 | نادي الغرافة | 6 | 1 |
+| 2006 | نادي هيريديانو | 10 | 3 |
+| 2006 | روزاريو سنترال | 14 | 5 |
+| 2007 | طوكيو | 11 | 3 |
+| 2007 | شيكاغو فاير | 12 | 2 |
+| - | مجموع | 264 | 102 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1996–2008 | كوستاريكا | 73 | 45 |

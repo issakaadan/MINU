@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q150268
-- Generated At (UTC): 2026-07-13T08:51:57+00:00
+- Generated At (UTC): 2026-07-13T12:08:38+00:00
 - English Name: David de Gea
 - Arabic Name: دافيد دي خيا
 - Birth Year: 1990
@@ -36,14 +36,7 @@ Born in Madrid , De Gea began his playing career with Atlético Madrid , rising 
 During his time in Manchester, De Gea made over 500 appearances and won a Premier League title, an FA Cup , two League Cups , three Community Shields and a second Europa League . For three consecutive seasons from 2013–14 to 2015–16 , he was elected as United's Sir Matt Busby Player of the Year , the first player in the award's history to win on three successive occasions (four in total), as well as being included in four consecutive (five in total) PFA Team of the Year sides from 2015 to 2018. In 2018, he was named in the FIFA FIFPro World11 . De Gea left United following the expiration of his contract in 2023, and, following a year away from football, joined Fiorentina.
 
 ### English Achievements
-- With Atlético Madrid: UEFA Europa League
-- With Manchester United: Premier League
-- With Spain: UEFA Nations League runner-up
-- Individual: Premier League Golden Glove
-- With Atlético Madrid: UEFA Super Cup
-- With Atlético Madrid: Copa del Rey runner-up
-- With Manchester United: FA Cup
-- With Manchester United: EFL Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 0
@@ -53,10 +46,10 @@ During his time in Manchester, De Gea made over 500 appearances and won a Premie
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2008–2009 | Atlético Madrid B | 35 | 0 |
-| 2009–2011 | Atlético Madrid | 57 | 0 |
-| 2011–2023 | Manchester United | 415 | 0 |
-| 2024– | Fiorentina | 72 | 0 |
+| 2008 | Atlético Madrid B | 35 | 0 |
+| 2009–2010 | Atlético Madrid | 84 | 0 |
+| 2011–2022 | Manchester United | 545 | 0 |
+| 2024–2025 | Fiorentina | 88 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -85,12 +78,25 @@ During his time in Manchester, De Gea made over 500 appearances and won a Premie
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 0
+- Senior national team goals total: 0
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008–2009 | أتلتيكو مدريد ب | 35 | 5 |
+| 2009–2011 | أتلتيكو مدريد | 57 | 0 |
+| 2011–2023 | مانشستر يونايتد | 415 | 0 |
+| 2024– | فيورنتينا | 0 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004 | إسبانيا تحت 15 | 12 | 0 |
+| 2007 | إسبانيا تحت 17 | 15 | 0 |
+| 2007–2009 | إسبانيا تحت 19 | 15 | 0 |
+| 2009 | إسبانيا تحت 20 | 1 | 0 |
+| 2009–2013 | إسبانيا تحت 21 | 27 | 0 |
+| 2012 | إسبانيا تحت 23 | 5 | 0 |
+| 2014–2020 | إسبانيا | 45 | 0 |

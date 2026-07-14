@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q388530
-- Generated At (UTC): 2026-07-13T08:56:19+00:00
+- Generated At (UTC): 2026-07-13T12:12:47+00:00
 - English Name: Damien Perrinelle
 - Arabic Name: داميان بيرينيل
 - Birth Year: 1983
@@ -32,7 +32,7 @@
 Damien Perrinelle (born 12 September 1983) is a French former footballer who played as a defender . He is currently assistant coach at Ligue 1 club Monaco .
 
 ### English Achievements
-- With New York Red Bulls: MLS Supporters' Shield
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 13
@@ -68,12 +68,22 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 14
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 14
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004–2005 | كريتيل | 24 | 2 |
+| 2005–2006 | كليرمونت 63 | 25 | 0 |
+| 2006–2010 | بولون | 99 | 6 |
+| 2010–2013 | كليرمونت 63 | 73 | 4 |
+| 2014 | إستر | 13 | 0 |
+| 2014–2017 | نيويورك ريد بولز | 65 | 2 |
+| 2016 | نيو يورك ريد بولز 2 | 2 | 0 |
+| 2018 | نادي توكيه [لغات أخرى] | 1 | 0 |
+| 2019 | راسينغ كولومب | 5 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

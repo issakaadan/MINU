@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q448937
-- Generated At (UTC): 2026-07-13T08:54:26+00:00
+- Generated At (UTC): 2026-07-13T12:10:57+00:00
 - English Name: Hossam Hassan
 - Arabic Name: حسام حسن
 - Birth Year: 1966
@@ -34,14 +34,7 @@ Hossam Hassan Hassanin Hassan is an Egyptian professional football manager and f
 Hassan represented the national team in the 1990 FIFA World Cup and seven Africa Cup of Nations tournaments. He is regarded as one of the best players in African football history and is the 15th most capped player in men's international football. A prolific scorer, he is the 2nd in the list of the Egyptian Premier League's all-time top scorers . Hassan is considered one of Egypt's best players of all time. [ 7 ]
 
 ### English Achievements
-- With Al Ahly: Egyptian Premier League
-- With Al Ain: UAE Pro League
-- With Zamalek: Egyptian Premier League
-- With Egypt: African Cup of Nations
-- Individual [ edit ]: Confederation of African Football
-- With Al Ahly: Egypt Cup
-- With Al Ahly: African Cup of Champions Clubs
-- With Al Ahly: African Cup Winners' Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 238
@@ -51,16 +44,14 @@ Hassan represented the national team in the 1990 FIFA World Cup and seven Africa
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1984–1990 | Al Ahly | 78 | 31 |
-| 1990–1991 | PAOK | 19 | 5 |
-| 1991–1992 | Neuchâtel Xamax | 8 | 3 |
-| 1992–1999 | Al Ahly | 153 | 78 |
+| 1984–2000 | Al Ahly | 301 | 137 |
+| 1990 | PAOK | 21 | 6 |
+| 1991 | Neuchâtel Xamax | 11 | 7 |
 | 1999–2000 | Al Ain | 10 | 3 |
-| 2000–2004 | Zamalek | 61 | 38 |
-| 2004–2006 | Al Masry | 47 | 15 |
-| 2006–2007 | Tersana | 21 | 6 |
-| 2007–2008 | Al Ittihad Alexandria | 5 | 0 |
-| Total | Total | 402 | 179 |
+| 2000–2003 | Zamalek | 110 | 57 |
+| 2004–2005 | Al Masry | 53 | 18 |
+| 2006 | Tersana | 21 | 6 |
+| 2007 | Al Ittihad Alexandria | 5 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -79,12 +70,25 @@ Hassan represented the national team in the 1990 FIFA World Cup and seven Africa
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 234
+- Senior national team goals total: 68
+- Senior career goals total: 302
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1984–1990 | الأهلي | 78 | 31 |
+| 1990–1991 | باوك سالونيكا | 19 | 5 |
+| 1991–1992 | نوشاتيل زاماكس | 8 | 3 |
+| 1992–1999 | الأهلي | 153 | 78 |
+| 1999–2000 | العين | 10 | 3 |
+| 2000–2004 | الزمالك | 61 | 38 |
+| 2004–2006 | المصري | 47 | 15 |
+| 2006–2007 | الترسانة | 21 | 6 |
+| 2007–2008 | الاتحاد السكندري | 5 | 0 |
+| - | مجموع | 402 | 179 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1985–2006 | مصر | 176 | 68 |

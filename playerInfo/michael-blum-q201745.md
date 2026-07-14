@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q201745
-- Generated At (UTC): 2026-07-13T08:56:42+00:00
+- Generated At (UTC): 2026-07-13T12:13:17+00:00
 - English Name: Michael Blum
 - Arabic Name: ميخائيل بلوم
 - Birth Year: 1988
@@ -35,9 +35,9 @@ Michael Blum (born 25 December 1988 in Düsseldorf ) is a German footballer who 
 _No honours section found._
 
 ### English Career Totals
-- Club goals total: 21
+- Club goals total: 12
 - Senior national team goals total: Unavailable
-- Senior career goals total: 21
+- Senior career goals total: 12
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
@@ -73,12 +73,27 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 17
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 17
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2007–2008 | شبيلدورف | 34 | 3 |
+| 2008–2010 | نادي كارلسروه 2 [الإنجليزية] | 46 | 2 |
+| 2009–2010 | كارلسروه | 15 | 2 |
+| 2010 | دويسبورغ | 0 | 0 |
+| 2011 | هانزا روستوك | 11 | 0 |
+| 2011–2013 | هانزا روستوك | 54 | 1 |
+| 2013–2014 | أوسنابروك | 5 | 0 |
+| 2013–2014 | أوسنابروك | 16 | 0 |
+| 2014–2015 | نادي إلفرسبيرغ | 21 | 0 |
+| 2015–2016 | نادي إلفرسبيرغ | 11 | 7 |
+| 2016–2017 | اينتراخت ترير 05 [لغات أخرى] | 25 | 1 |
+| 2017–2018 | فوبرتال الرياضي | 11 | 0 |
+| 2018–2019 | كيمنتزر | 17 | 0 |
+| 2019- | دينامو برلين | 35 | 1 |
 
 ### Arabic National Team Stats
 _No rows found._

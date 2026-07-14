@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1091404
-- Generated At (UTC): 2026-07-13T08:56:07+00:00
+- Generated At (UTC): 2026-07-13T12:12:36+00:00
 - English Name: Vincenzo Italiano
 - Arabic Name: فينشينزو ايتاليانو
 - Birth Year: 1977
@@ -32,14 +32,7 @@
 Vincenzo Italiano (born 10 December 1977) is an Italian professional football manager and former player who played as a midfielder . He is the head coach of Turkish Süper Lig side Beşiktaş .
 
 ### English Achievements
-- With Hellas Verona: Serie B
-- With Chievo Verona: Serie B
-- With Trapani: Serie C play-offs
-- With Spezia: Serie B play-offs
-- With Fiorentina: Coppa Italia runner-up
-- With Bologna: Coppa Italia
-- Individual [ edit ]: Serie A Coach of the Month
-- With Fiorentina: UEFA Europa Conference League runner-up
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 40
@@ -74,12 +67,22 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 80
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 80
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1994–1996 | نادي طرابنش 1905 [لغات أخرى] | 7 | 0 |
+| 1996–2005 | هيلاس فيرونا | 196 | 21 |
+| 2005 | جنوى | 9 | 0 |
+| 2005–2007 | هيلاس فيرونا | 52 | 3 |
+| 2007–2009 | كييفو فيرونا | 49 | 7 |
+| 2009–2012 | بادوفا | 83 | 9 |
+| 2013 | بيروجيا | 3 | 0 |
+| 2013–2014 | نادي لومتزانه | 11 | 0 |
+| - | مجموع | 410 | 40 |
 
 ### Arabic National Team Stats
 _No rows found._

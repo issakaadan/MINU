@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q177123
-- Generated At (UTC): 2026-07-13T08:55:44+00:00
+- Generated At (UTC): 2026-07-13T12:12:12+00:00
 - English Name: Juan Cayasso
 - Arabic Name: جوان كاياسو
 - Birth Year: 1961
@@ -73,12 +73,24 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 265
+- Senior national team goals total: 9
+- Senior career goals total: 274
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1981–1987 | ألاخولينسي | 225 | 62 |
+| 1990–1992 | شتوتغارت كيكرز | 53 | 11 |
+| 1993–1995 | ديبورتيفو سابريسا | 104 | 27 |
+| 1996 | Turrialba | 4 | 0 |
+| 1996 | [الإنجليزية] | 2 | 0 |
+| 1996–1997 | Goicoechea | 14 | 1 |
+| 1997–2000 | Carmelita | 88 | 14 |
+| 2000–2001 | مولودية وهران | 25 | 10 |
+| - | مجموع | 515 | 140 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1983–1993 | كوستاريكا | 49 | 9 |

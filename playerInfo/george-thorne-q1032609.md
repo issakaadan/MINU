@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1032609
-- Generated At (UTC): 2026-07-13T08:55:35+00:00
+- Generated At (UTC): 2026-07-13T12:12:04+00:00
 - English Name: George Thorne
 - Arabic Name: جورج ثورن
 - Birth Year: 1993
@@ -32,7 +32,7 @@
 George Louis Elliot Thorne (born 4 January 1993) [ 3 ] is an English former footballer who played as a midfielder . He is currently Emerging Talent Coach at Cambridge United .
 
 ### English Achievements
-- UEFA European Under-17 Football Championship champions
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 6
@@ -42,18 +42,14 @@ George Louis Elliot Thorne (born 4 January 1993) [ 3 ] is an English former foot
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2009–2014 | West Bromwich Albion | 10 | 0 |
-| 2011 | Portsmouth | 4 | 0 |
-| 2012 | Portsmouth | 10 | 0 |
-| 2012 | Peterborough United | 7 | 1 |
-| 2013–2014 | Watford | 8 | 0 |
-| 2014 | Derby County | 9 | 1 |
-| 2014–2020 | Derby County | 57 | 2 |
-| 2019 | Luton Town | 3 | 0 |
-| 2019–2020 | Oxford United | 1 | 0 |
-| 2020 | Oxford United | 3 | 0 |
-| 2022–2023 | Bedford Town | 15 | 0 |
-| Total | Total | 127 | 4 |
+| 2009–2013 | West Bromwich Albion | 17 | 0 |
+| 2011 | Portsmouth (loan) | 14 | 0 |
+| 2012 | Peterborough United (loan) | 7 | 1 |
+| 2013 | Watford (loan) | 8 | 0 |
+| 2013 | Derby County (loan) | 12 | 2 |
+| 2014–2019 | Derby County | 73 | 5 |
+| 2018 | Luton Town (loan) | 3 | 0 |
+| 2019 | Oxford United | 7 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -75,12 +71,29 @@ George Louis Elliot Thorne (born 4 January 1993) [ 3 ] is an English former foot
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 4
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 4
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009–2014 | وست بروميتش ألبيون | 10 | 0 |
+| 2011 | بورتسموث | 4 | 0 |
+| 2012 | بورتسموث | 10 | 0 |
+| 2012 | بيتربورو يونايتد | 7 | 1 |
+| 2013–2014 | واتفورد | 8 | 0 |
+| 2014 | ديربي كاونتي | 9 | 1 |
+| 2014–2020 | ديربي كاونتي | 57 | 2 |
+| 2019 | لوتون تاون | 3 | 0 |
+| 2019–2020 | أكسفورد يونايتد | 1 | 0 |
+| 2020 | أكسفورد يونايتد | 3 | 0 |
+| 2022– | بدفورد تاون [الإنجليزية] | 2 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009 | إنجلترا تحت 16 | 2 | 0 |
+| 2009–2010 | إنجلترا تحت 17 | 13 | 0 |
+| 2011 | إنجلترا تحت 18 | 1 | 0 |
+| 2010–2012 | إنجلترا تحت 19 | 20 | 1 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q85445
-- Generated At (UTC): 2026-07-13T08:56:43+00:00
+- Generated At (UTC): 2026-07-13T12:13:20+00:00
 - English Name: Patrick Bürger
 - Arabic Name: باتريك برغر
 - Birth Year: 1987
@@ -65,12 +65,19 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 91
+- Senior national team goals total: 0
+- Senior career goals total: 91
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005–2008 | ماترسبرغ | 43 | 3 |
+| 2008–2010 | هارتبيرغ | 55 | 28 |
+| 2010–2020 | ماترسبرغ | 215 | 57 |
+| 2020–2021 | [الإنجليزية] | 20 | 3 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2012 | النمسا | 2 | 0 |

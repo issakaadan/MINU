@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q299403
-- Generated At (UTC): 2026-07-13T08:54:10+00:00
+- Generated At (UTC): 2026-07-13T12:10:41+00:00
 - English Name: Charles Itandje
 - Arabic Name: شارل إيتاندج
 - Birth Year: 1982
@@ -32,7 +32,7 @@
 Charles Hubert Itandje (born 2 November 1982) is a retired professional footballer who played as a goalkeeper . Born in France, Itandje represented the Cameroon national team .
 
 ### English Achievements
-- UEFA Intertoto Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 0
@@ -42,18 +42,16 @@ Charles Hubert Itandje (born 2 November 1982) is a retired professional football
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2000–2001 | Red Star | 9 | 0 |
-| 2001–2007 | Lens | 171 | 0 |
-| 2007–2010 | Liverpool | 0 | 0 |
-| 2009–2010 | Kavala | 19 | 0 |
-| 2010–2013 | Atromitos | 57 | 0 |
-| 2013–2015 | PAOK | 35 | 0 |
-| 2013–2014 | Konyaspor | 33 | 0 |
-| 2015–2016 | Çaykur Rizespor | 33 | 0 |
-| 2016–2017 | Gaziantepspor | 5 | 0 |
-| 2017 | Adanaspor | 12 | 0 |
-| 2018–2019 | Versailles | 7 | 0 |
-| Total | Total | 381 | 0 |
+| 2000 | Red Star | 9 | 0 |
+| 2001–2006 | Lens | 187 | 0 |
+| 2007–2010 | Liverpool | 7 | 0 |
+| 2009 | Kavala (loan) | 21 | 0 |
+| 2010–2012 | Atromitos | 67 | 0 |
+| 2012–2014 | PAOK | 40 | 0 |
+| 2013 | Konyaspor (loan) | 33 | 0 |
+| 2015 | Çaykur Rizespor | 37 | 0 |
+| 2016 | Gaziantepspor | 33 | 0 |
+| 2016 | Adanaspor | 33 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -73,12 +71,28 @@ Charles Hubert Itandje (born 2 November 1982) is a retired professional football
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 0
+- Senior national team goals total: 0
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000–2001 | النجم الأحمر | 9 | 0 |
+| 2001–2007 | لانس | 171 | 0 |
+| 2007–2010 | ليفربول | 0 | 0 |
+| 2009–2010 | كافالا | 21 | 0 |
+| 2010–2013 | أتروميتوس | 57 | 0 |
+| 2013–2015 | باوك | 35 | 0 |
+| 2013–2014 | قونيا سبور | 33 | 0 |
+| 2015–2016 | تشايكور ريزه سبور | 33 | 0 |
+| 2016–2017 | غازي عنتاب سبور | 5 | 0 |
+| 2017 | أضنة سبور | 12 | 0 |
+| 2018–2019 | [الإنجليزية] | 7 | 0 |
+| - | مجموع | 381 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2003 | فرنسا تحت 21 | 6 | 0 |
+| 2013–2014 | الكاميرون | 12 | 0 |

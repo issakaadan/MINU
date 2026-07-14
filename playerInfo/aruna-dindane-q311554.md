@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q311554
-- Generated At (UTC): 2026-07-13T08:54:03+00:00
+- Generated At (UTC): 2026-07-13T12:10:35+00:00
 - English Name: Aruna Dindane
 - Arabic Name: أرونا دينداني
 - Birth Year: 1980
@@ -34,14 +34,7 @@ Aruna Dindane (born 26 November 1980) is an Ivorian former professional football
 He has 62 caps and 17 goals for the Ivory Coast since his debut in 2000, and has played at four Africa Cup of Nations and two FIFA World Cups . At club level, he has played for clubs in Belgium, France, England and Qatar, as well as in the Ivory Coast.
 
 ### English Achievements
-- With ASEC Mimosas: Côte d'Ivoire Premier Division
-- With Anderlecht: Belgian First Division
-- With Lens: UEFA Intertoto Cup
-- With Portsmouth: FA Cup runner-up
-- With Ivory Coast: Africa Cup of Nations runner-up
-- Individual: Belgian Ebony Shoe
-- With ASEC Mimosas: CAF Super Cup
-- With Anderlecht: Belgian Supercup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 102
@@ -82,12 +75,14 @@ He has 62 caps and 17 goals for the Ivory Coast since his debut in 2000, and has
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 102
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 102
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| - | مجموع | 341 | 102 |
 
 ### Arabic National Team Stats
 _No rows found._

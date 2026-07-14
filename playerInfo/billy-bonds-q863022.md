@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q863022
-- Generated At (UTC): 2026-07-13T08:55:20+00:00
+- Generated At (UTC): 2026-07-13T12:11:48+00:00
 - English Name: Billy Bonds
 - Arabic Name: بيلي بوندز
 - Birth Year: 1946
@@ -32,10 +32,7 @@
 William Arthur Bonds MBE (17 September 1946 – 30 November 2025) was an English professional footballer and manager , who was most often associated with West Ham United with whom he spent 27 years as player and manager. He played 799 first-team games for West Ham in a career spanning 21 seasons, winning two FA Cups with them. He died peacefully on 30 November 2025 whilst sleeping.
 
 ### English Achievements
-- With West Ham United: FA Cup
-- With West Ham United: Football League Second Division
-- With West Ham United: Football League Cup runner-up
-- With West Ham United: European Cup Winners' Cup runner-up
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 62
@@ -45,9 +42,8 @@ William Arthur Bonds MBE (17 September 1946 – 30 November 2025) was an English
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1964–1967 | Charlton Athletic | 95 | 1 |
-| 1967–1988 | West Ham United | 663 | 48 |
-| Total | Total | 758 | 49 |
+| 1964–1966 | Charlton Athletic | 100 | 1 |
+| 1967–1987 | West Ham United | 799 | 61 |
 
 ### English National Team Stats
 _No rows found._
@@ -64,12 +60,15 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 49
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 49
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1964–1967 | تشارلتون أثلتيك | 95 | 1 |
+| 1967–1988 | وست هام يونايتد | 663 | 48 |
 
 ### Arabic National Team Stats
 _No rows found._

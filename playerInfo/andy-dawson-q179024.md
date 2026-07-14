@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q179024
-- Generated At (UTC): 2026-07-13T08:55:16+00:00
+- Generated At (UTC): 2026-07-13T12:11:45+00:00
 - English Name: Andy Dawson
 - Arabic Name: أندي داوسون
 - Birth Year: 1978
@@ -34,13 +34,7 @@ Andrew Stuart Dawson (born 20 October 1978) is an English former professional fo
 As a player he was a left-back from 1997 to 2015. Having departed Nottingham Forest as a youngster he joined Scunthorpe United permanently following a loan spell. He played for United on two occasions during his career having also spent ten years with Hull City .
 
 ### English Achievements
-- With Scunthorpe United: Football League Third Division play-offs
-- With Hull City: Football League Championship play-offs
-- Individual: PFA Team of the Year
-- With Hull City: Football League Championship runner-up
-- With Hull City: Football League One runner-up
-- With Hull City: Football League Third Division runner-up
-- Individual: Hull City Player of the Year
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 18
@@ -50,12 +44,10 @@ As a player he was a left-back from 1997 to 2015. Having departed Nottingham For
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1997–1999 | Nottingham Forest | 0 | 0 |
-| 1998–1999 | Scunthorpe United | 12 | 0 |
-| 1999–2003 | Scunthorpe United | 184 | 8 |
-| 2003–2013 | Hull City | 293 | 8 |
-| 2013–2015 | Scunthorpe United | 21 | 0 |
-| Total | Total | 510 | 16 |
+| 1997–1998 | Nottingham Forest | 1 | 0 |
+| 1998 | Scunthorpe United (loan) | 13 | 0 |
+| 1998–2014 | Scunthorpe United | 249 | 10 |
+| 2003–2012 | Hull City | 317 | 8 |
 
 ### English National Team Stats
 _No rows found._
@@ -72,12 +64,19 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 32
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 32
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997–1999 | نوتينغهام فورست | 0 | 0 |
+| 1998–1999 | سكونثورب يونايتد | 12 | 0 |
+| 1999–2003 | سكونثورب يونايتد | 184 | 8 |
+| 2003–2013 | هال سيتي | 293 | 8 |
+| 2013–2015 | سكونثورب يونايتد | 21 | 0 |
+| - | مجموع | 510 | 16 |
 
 ### Arabic National Team Stats
 _No rows found._

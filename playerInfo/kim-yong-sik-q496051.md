@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q496051
-- Generated At (UTC): 2026-07-13T08:53:42+00:00
+- Generated At (UTC): 2026-07-13T12:10:19+00:00
 - English Name: Kim Yong-sik
 - Arabic Name: كيم يونغ سيك
 - Birth Year: 1910
@@ -32,14 +32,7 @@
 Kim Yong-sik ( Korean : 김용식 ; Hanja : 金容植 ; 25 July 1910 – 8 March 1985) was a South Korean football player and manager. He is esteemed as the godfather of the South Korean football.
 
 ### English Achievements
-- With Soongsil College: All Joseon Football Tournament
-- With Kyungsung FC: All Joseon Football Tournament
-- With Joseon Electrical Industry: Korean National Championship
-- Individual: Korean FA Hall of Fame
-- With South Korea: AFC Asian Cup
-- With Yangzee: Korean National Championship
-- With Kyungsung FC: Emperor's Cup
-- With Kyungsung FC: Chōsen Shrine Games
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: Unavailable

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q211363
-- Generated At (UTC): 2026-07-13T08:55:43+00:00
+- Generated At (UTC): 2026-07-13T12:12:11+00:00
 - English Name: Jeremy Bokila
 - Arabic Name: جيريمي بوكيلا
 - Birth Year: 1988
@@ -32,38 +32,33 @@
 Jeremy Loteteka Bokila (born 14 November 1988) is a Congolese professional footballer who last played for Scottish Championship club Livingston . He formerly played for the DR Congo national team .
 
 ### English Achievements
-- With Sparta Rotterdam: Eerste Divisie runner-up
-- With Petrolul Ploiești: Cupa României
-- With CFR Cluj: Liga I
-- With Akhisarspor: Turkish Super Cup
-- With Willem II: Eerste Divisie
-- With DR Congo: Africa Cup of Nations bronze
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 132
+- Club goals total: 109
 - Senior national team goals total: 6
-- Senior career goals total: 138
+- Senior career goals total: 115
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2007–2010 | AGOVV | 97 | 31 |
-| 2010–2013 | Zulte Waregem | 25 | 2 |
-| 2011–2012 | Sparta | 30 | 15 |
-| 2012–2013 | Petrolul Ploiești | 31 | 16 |
-| 2013–2015 | Terek Grozny | 36 | 4 |
-| 2015–2017 | Guangzhou R&F | 13 | 4 |
-| 2016 | Eskişehirspor | 13 | 1 |
-| 2016–2017 | Al-Kharitiyath | 12 | 3 |
-| 2017–2019 | Akhisarspor | 20 | 4 |
-| 2017 | CFR Cluj | 5 | 1 |
-| 2017 | Dinamo București | 12 | 1 |
-| 2019 | Hatayspor | 6 | 2 |
-| 2020 | Ankara Keçiörengücü | 12 | 1 |
+| 2007–2009 | AGOVV | 97 | 29 |
+| 2010–2011 | Zulte Waregem | 23 | 2 |
+| 2011 | Sparta (loan) | 33 | 19 |
+| 2012 | Petrolul Ploiești (loan) | 37 | 22 |
+| 2013–2014 | Terek Grozny | 40 | 9 |
+| 2015 | Guangzhou R&F | 14 | 4 |
+| 2015 | Eskişehirspor (loan) | 13 | 1 |
+| 2016 | Al Kharaitiyat (loan) | 12 | 3 |
+| 2016–2018 | Akhisarspor | 28 | 7 |
+| 2017 | CFR Cluj (loan) | 5 | 0 |
+| 2017 | Dinamo București (loan) | 13 | 1 |
+| 2019 | Hatayspor | 7 | 2 |
+| 2019 | Ankara Keçiörengücü | 12 | 1 |
 | 2020 | Thes Sport | 0 | 0 |
-| 2021 | Oakland Roots | 24 | 5 |
-| 2022–2025 | Willem II | 94 | 22 |
-| 2025–2026 | Livingston | 23 | 5 |
+| 2021 | Oakland Roots | 26 | 6 |
+| 2022–2024 | Willem II | 105 | 23 |
+| 2025 | Livingston | 10 | 3 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -79,15 +74,24 @@ Jeremy Loteteka Bokila (born 14 November 1988) is a Congolese professional footb
 جيريمي لوتيتيكا بوكيلا ( الفرنسية : Jérémy Bokila ) (مواليد 14 نوفمبر 1988) هو لاعب كرة قدم كونغولي ديمقراطي هولندي يلعب حاليًا لصالح نادي تيريك غروزني الروسي.
 
 ### Arabic Achievements
-_No honours section found._
+- الدوري الهولندي الدرجة الثانية
+- كأس رومانيا
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 42
+- Senior national team goals total: 6
+- Senior career goals total: 48
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2007–2009 | أغوف أبيلدورن | 32 | 5 |
+| 2010–2011 | زولته فاريجيم | 2 | 1 |
+| 2011 | سبارتا روتردام | 19 | 5 |
+| 2012 | بترولول بلويشتي | 22 | 10 |
+| 2013 | تيريك غروزني | 81 | 21 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2012–2017 | الكونغو الديمقراطية | 20 | 6 |

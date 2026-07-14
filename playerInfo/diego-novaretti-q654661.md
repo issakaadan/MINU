@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q654661
-- Generated At (UTC): 2026-07-13T08:55:26+00:00
+- Generated At (UTC): 2026-07-13T12:11:54+00:00
 - English Name: Diego Novaretti
 - Arabic Name: دييغو نوفاريتي
 - Birth Year: 1985
@@ -32,7 +32,7 @@
 Diego Martín Novaretti (born 9 May 1985), sometimes known as El Flaco , is an Argentine former footballer who played as a centre-back .
 
 ### English Achievements
-- With Toluca: Liga MX
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 20
@@ -66,12 +66,21 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 20
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 20
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2003–2009 | أتليتيكو بيلغرانو | 113 | 7 |
+| 2009–2013 | ديبورتيفو تولوكا | 138 | 8 |
+| 2013–2015 | لاتسيو | 16 | 0 |
+| 2015–2018 | León | 58 | 2 |
+| 2018 | كيريتارو | 17 | 1 |
+| 2018–2019 | León | 19 | 0 |
+| 2019–2021 | روزاريو سنترال | 28 | 1 |
+| 2021– | أتليتيكو بيلغرانو | 45 | 1 |
 
 ### Arabic National Team Stats
 _No rows found._

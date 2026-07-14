@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q509079
-- Generated At (UTC): 2026-07-13T08:53:26+00:00
+- Generated At (UTC): 2026-07-13T12:10:03+00:00
 - English Name: Yuki Otsu
 - Arabic Name: يوكي أوتسو
 - Birth Year: 1990
@@ -32,9 +32,7 @@
 Yūki Ōtsu ( 大津 祐樹 , Ōtsu Yūki ; born 24 March 1990) is a Japanese former professional footballer who played as an attacking midfielder or a winger .
 
 ### English Achievements
-- With Kashiwa Reysol: J. League Division 2
-- With Yokohama F.Marinos: J1 League
-- With Júbilo Iwata: J2 League
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 33
@@ -44,14 +42,11 @@ Yūki Ōtsu ( 大津 祐樹 , Ōtsu Yūki ; born 24 March 1990) is a Japanese fo
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2008–2011 | Kashiwa Reysol | 66 | 7 |
-| 2011–2012 | Borussia Mönchengladbach | 3 | 0 |
-| 2011–2012 | Borussia Mönchengladbach II | 9 | 0 |
-| 2012–2015 | VVV-Venlo | 50 | 6 |
-| 2015–2017 | Kashiwa Reysol | 49 | 3 |
-| 2018–2020 | Yokohama F. Marinos | 60 | 1 |
-| 2021–2023 | Júbilo Iwata | 77 | 9 |
-| Total | Total | 305 | 26 |
+| 2008–2017 | Kashiwa Reysol | 151 | 12 |
+| 2011 | Borussia Mönchengladbach | 4 | 0 |
+| 2012–2014 | VVV-Venlo | 54 | 6 |
+| 2018–2020 | Yokohama F. Marinos | 83 | 6 |
+| 2021–2023 | Júbilo Iwata | 86 | 9 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -71,12 +66,20 @@ Yūki Ōtsu ( 大津 祐樹 , Ōtsu Yūki ; born 24 March 1990) is a Japanese fo
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 23
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 23
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008–2011 | كاشيوا ريسول | 66 | 7 |
+| 2011–2012 | بوروسيا مونشنغلادباخ | 3 | 0 |
+| 2011–2012 | بوروسيا مونشنغلادباخ | 9 | 0 |
+| 2012–2015 | في في في فينلو | 50 | 6 |
+| 2015–2017 | كاشيوا ريسول | 49 | 3 |
+| 2018–2020 | يوكوهاما إف مارينوس | 60 | 1 |
+| 2021– | جوبيلو إيواتا | 40 | 6 |
 
 ### Arabic National Team Stats
 _No rows found._

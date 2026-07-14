@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q175303
-- Generated At (UTC): 2026-07-13T08:53:29+00:00
+- Generated At (UTC): 2026-07-13T12:10:07+00:00
 - English Name: Aaron Lennon
 - Arabic Name: آرون لينون
 - Birth Year: 1987
@@ -36,7 +36,7 @@ Lennon began his career at hometown club Leeds United , making his first-team de
 He joined Everton in 2015 for £4.5 million, after his successful spell with the club on loan . He scored nine goals in 77 appearances for Everton before joining fellow Premier League club Burnley in 2018 on a two-and-a-half-year deal for an undisclosed fee. He made 55 appearances for the Lancashire club and scored one goal before departing on a free transfer to Kayserispor in Turkey in September 2020. He returned to Burnley in August 2021 at the expiry of his contract with Kayserispor.
 
 ### English Achievements
-- With Tottenham Hotspur: Football League Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 43
@@ -46,14 +46,12 @@ He joined Everton in 2015 for £4.5 million, after his successful spell with the
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2003–2005 | Leeds United | 38 | 1 |
-| 2005–2015 | Tottenham Hotspur | 266 | 26 |
-| 2015 | Everton | 14 | 2 |
-| 2015–2018 | Everton | 51 | 5 |
-| 2018–2020 | Burnley | 46 | 1 |
-| 2020–2021 | Kayserispor | 36 | 0 |
-| 2021–2022 | Burnley | 28 | 2 |
-| Total | Total | 479 | 37 |
+| 2003–2004 | Leeds United | 43 | 1 |
+| 2005–2014 | Tottenham Hotspur | 364 | 30 |
+| 2014 | Everton (loan) | 14 | 2 |
+| 2015–2017 | Everton | 77 | 9 |
+| 2017–2021 | Burnley | 87 | 3 |
+| 2020 | Kayserispor | 36 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -76,12 +74,26 @@ He joined Everton in 2015 for £4.5 million, after his successful spell with the
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 37
+- Senior national team goals total: 0
+- Senior career goals total: 37
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2003–2005 | ليدز يونايتد | 38 | 1 |
+| 2005–2015 | توتنهام هوتسبير | 266 | 26 |
+| 2015 | إيفرتون | 14 | 2 |
+| 2015–2018 | إيفرتون | 51 | 5 |
+| 2018–2020 | بيرنلي | 46 | 1 |
+| 2020–2021 | كايسري سبور | 36 | 0 |
+| 2021–2022 | بيرنلي | 28 | 2 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2003 | إنجلترا تحت 17 | 1 | 0 |
+| 2004–2006 | إنجلترا تحت 19 | 15 | 0 |
+| 2005–2008 | إنجلترا تحت 21 | 5 | 0 |
+| 2006–2007 | إنجلترا الرديف | 2 | 0 |
+| 2006–2013 | إنجلترا | 21 | 0 |

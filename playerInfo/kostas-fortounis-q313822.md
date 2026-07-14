@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q313822
-- Generated At (UTC): 2026-07-13T08:54:36+00:00
+- Generated At (UTC): 2026-07-13T12:11:06+00:00
 - English Name: Kostas Fortounis
 - Arabic Name: كوستاس فورتونيس
 - Birth Year: 1992
@@ -32,30 +32,21 @@
 Konstantinos " Kostas " Fortounis ( Greek : Κώστας Φορτούνης , pronounced [ˈkostas forˈtunis] ; born 16 October 1992) is a Greek professional footballer who plays as an attacking midfielder or winger for Super League 1 club Olympiacos . [ 1 ] He was born in Trikala , Thessaly but comes from the nearby village of Sarakina, close to the town of Kalabaka .
 
 ### English Achievements
-- With Olympiacos: Super League Greece
-- Individual: UEFA European Under-19 Championship Team of the Tournament
-- Record: Most assists in the history of Olympiacos.
-- With Olympiacos: Greek Football Cup
-- With Olympiacos: UEFA Conference League
-- Individual: Super League Greece Player of the Season
-- Individual: Super League Greece Greek Footballer of the Season
-- Individual: Super League Greece Top scorer
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 119
+- Club goals total: 118
 - Senior national team goals total: 9
-- Senior career goals total: 128
+- Senior career goals total: 127
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2008–2010 | Trikala | 13 | 0 |
-| 2010–2011 | Asteras Tripolis | 24 | 1 |
-| 2011–2014 | 1. FC Kaiserslautern | 70 | 2 |
-| 2014–2024 | Olympiacos | 230 | 75 |
-| 2022 | Olympiacos B | 2 | 1 |
-| 2024–2026 | Al-Khaleej | 59 | 19 |
-| 2026– | Olympiacos | 0 | 0 |
+| 2010 | Asteras Tripolis | 26 | 1 |
+| 2011–2013 | 1. FC Kaiserslautern | 77 | 3 |
+| 2014–2023 | Olympiacos | 343 | 94 |
+| 2021 | Olympiacos B | 2 | 1 |
+| 2024–2025 | Al-Khaleej | 61 | 20 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -76,12 +67,22 @@ Konstantinos " Kostas " Fortounis ( Greek : Κώστας Φορτούνης , pr
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 69
+- Senior national team goals total: 9
+- Senior career goals total: 78
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008–2010 | [الإنجليزية] | 13 | 0 |
+| 2010–2011 | أستيراس تريبوليس | 24 | 1 |
+| 2011–2014 | كايزرسلاوترن | 70 | 2 |
+| 2014– | أولمبياكوس | 181 | 65 |
+| 2022 | [الإنجليزية] | 2 | 1 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2010–2011 | اليونان تحت 19 | 15 | 1 |
+| 2011–2015 | اليونان تحت 21 | 14 | 4 |
+| 2012– | اليونان | 54 | 9 |

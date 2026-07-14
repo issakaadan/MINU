@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q216260
-- Generated At (UTC): 2026-07-13T08:54:23+00:00
+- Generated At (UTC): 2026-07-13T12:10:54+00:00
 - English Name: Hedwiges Maduro
 - Arabic Name: هيدفيغز مادورو
 - Birth Year: 1985
@@ -36,11 +36,7 @@ Maduro spent the majority of his club career in La Liga , most notably with Vale
 A Dutch international during the 2000s, Maduro earned 18 caps and was part of the Netherlands squad at the 2006 FIFA World Cup .
 
 ### English Achievements
-- With Ajax: KNVB Cup
-- With Valencia: Copa del Rey
-- With PAOK: Greek Football Cup runner-up
-- Individual: Ajax Talent of the Future/Talent of the Year
-- With Ajax: Johan Cruyff Shield
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 22
@@ -50,13 +46,12 @@ A Dutch international during the 2000s, Maduro earned 18 caps and was part of th
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2004–2008 | Ajax | 70 | 9 |
-| 2008–2012 | Valencia | 76 | 2 |
-| 2012–2014 | Sevilla | 26 | 0 |
-| 2014–2015 | PAOK | 19 | 3 |
-| 2015–2017 | Groningen | 32 | 1 |
-| 2017–2018 | Omonia | 28 | 1 |
-| Total | Total | 251 | 16 |
+| 2004–2007 | Ajax | 109 | 11 |
+| 2007–2011 | Valencia | 113 | 3 |
+| 2012–2013 | Sevilla | 31 | 0 |
+| 2013–2014 | PAOK | 31 | 4 |
+| 2015–2016 | Groningen | 45 | 3 |
+| 2017 | Omonia | 28 | 1 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -76,12 +71,23 @@ A Dutch international during the 2000s, Maduro earned 18 caps and was part of th
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 32
+- Senior national team goals total: 0
+- Senior career goals total: 32
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004–2008 | أياكس أمستردام | 70 | 9 |
+| 2008–2012 | فالنسيا | 76 | 2 |
+| 2012–2014 | إشبيلية | 26 | 0 |
+| 2014–2015 | باوك | 19 | 3 |
+| 2015–2017 | غرونينغن | 32 | 1 |
+| 2017–2018 | أومونيا | 28 | 1 |
+| - | مجموع | 251 | 16 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005–2007 | هولندا تحت 21 | 9 | 1 |
+| 2005–2011 | هولندا | 18 | 0 |

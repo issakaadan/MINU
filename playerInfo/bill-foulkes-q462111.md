@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q462111
-- Generated At (UTC): 2026-07-13T08:54:06+00:00
+- Generated At (UTC): 2026-07-13T12:10:38+00:00
 - English Name: Bill Foulkes
 - Arabic Name: بيل فولكيس
 - Birth Year: 1932
@@ -34,15 +34,12 @@ William Anthony Foulkes ( / f aʊ k s / or / f oʊ k s / ; 5 January 1932 – 25
 After retiring as a player, he spent more than 20 years as a coach and manager at numerous clubs in England and overseas.
 
 ### English Achievements
-- With Manchester United: Football League First Division
-- With Manchester United: FA Cup
-- With Manchester United: FA Charity Shield
-- With Manchester United: European Cup
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 9
+- Club goals total: 7
 - Senior national team goals total: 0
-- Senior career goals total: 9
+- Senior career goals total: 7
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
@@ -67,12 +64,14 @@ After retiring as a player, he spent more than 20 years as a coach and manager a
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 7
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 7
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1951–1970 | مانشستر يونايتد | 566 | 7 |
 
 ### Arabic National Team Stats
 _No rows found._

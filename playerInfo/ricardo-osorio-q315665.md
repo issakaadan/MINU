@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q315665
-- Generated At (UTC): 2026-07-13T08:54:59+00:00
+- Generated At (UTC): 2026-07-13T12:11:27+00:00
 - English Name: Ricardo Osorio
 - Arabic Name: ريكاردو أوسوريو
 - Birth Year: 1980
@@ -32,12 +32,7 @@
 Ricardo Osorio Mendoza (born 30 March 1980) is a Mexican former professional footballer who played as a defender .
 
 ### English Achievements
-- With VfB Stuttgart: Bundesliga
-- With Monterrey: Mexican Primera División
-- With Mexico: CONCACAF Gold Cup
-- Individual: CONCACAF Gold Cup Best XI
-- With VfB Stuttgart: UEFA Intertoto Cup
-- With Monterrey: CONCACAF Champions League
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 2
@@ -71,12 +66,21 @@ Ricardo Osorio Mendoza (born 30 March 1980) is a Mexican former professional foo
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 4
+- Senior national team goals total: 1
+- Senior career goals total: 5
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000–2001 | [الإنجليزية] | 25 | 0 |
+| 2001–2006 | كروز آزول | 140 | 0 |
+| 2006–2010 | شتوتغارت | 73 | 1 |
+| 2010–2016 | مونتيري | 114 | 1 |
+| 2014–2015 | كيريتارو | 30 | 0 |
+| - | مجموع | 382 | 2 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2003–2011 | المكسيك | 82 | 1 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q212139
-- Generated At (UTC): 2026-07-13T08:55:33+00:00
+- Generated At (UTC): 2026-07-13T12:12:03+00:00
 - English Name: Frank Schmidt
 - Arabic Name: فرانك شميت
 - Birth Year: 1974
@@ -34,12 +34,7 @@ Frank Schmidt (born 3 January 1974) is a German football manager and former prof
 On 17 September 2023, he became the longest-serving manager at a single club in German football history. [ 2 ]
 
 ### English Achievements
-- With Alemannia Aachen: Regionalliga West/Südwest (III)
-- With 1. FC Heidenheim: 2. Bundesliga (II)
-- Individual: 3. Liga Manager of the Year
-- With 1. FC Heidenheim: 3. Liga (III)
-- With 1. FC Heidenheim: Regionalliga Süd (IV)
-- With 1. FC Heidenheim: Württemberg Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 66
@@ -77,12 +72,23 @@ On 17 September 2023, he became the longest-serving manager at a single club in 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 132
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 132
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1992–1994 | [الإنجليزية] | 50 | 10 |
+| 1992–1994 | نورنبرغ | 0 | 0 |
+| 1994–1996 | [الإنجليزية] | 51 | 10 |
+| 1996–1997 | غرويتر فورت | 5 | 1 |
+| 1997 | فينر | 13 | 3 |
+| 1997–1998 | فيرست فيينا | 28 | 2 |
+| 1998–2003 | ألمانيا آخن | 101 | 18 |
+| 2003 | فالدهوف مانهايم | 8 | 0 |
+| 2003–2007 | هايدنهايم | 112 | 22 |
+| - | مجموع | 368 | 66 |
 
 ### Arabic National Team Stats
 _No rows found._

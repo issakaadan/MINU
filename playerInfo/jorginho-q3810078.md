@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q3810078
-- Generated At (UTC): 2026-07-13T08:52:51+00:00
+- Generated At (UTC): 2026-07-13T12:09:26+00:00
 - English Name: Jorginho
 - Arabic Name: جورجينهو
 - Birth Year: 1991
@@ -36,14 +36,7 @@ Born in Brazil, Jorginho moved to Italy at the age of 15, and began his professi
 At international level, he has represented Italy, making his senior debut in 2016, while his competitive debut came the following year. He was part of the Italy squad which won UEFA Euro 2020 , and was named in the Team of the Tournament for his performances. In 2021, he was named UEFA Men's Player of the Year and is the only Italian player to ever win the award. He also placed third in voting for the Ballon d'Or .
 
 ### English Achievements
-- With Napoli: Coppa Italia
-- With Chelsea: UEFA Champions League
-- With Flamengo: FIFA Challenger Cup
-- With Italy: UEFA European Championship
-- Individual: UEFA Men's Player of the Year
-- Orders [ edit ]: Knight of the Order of Merit of the Italian Republic
-- With Napoli: Supercoppa Italiana
-- With Chelsea: UEFA Europa League
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 57
@@ -53,12 +46,12 @@ At international level, he has represented Italy, making his senior debut in 201
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2010–2014 | Hellas Verona | 89 | 11 |
-| 2010–2011 | Sambonifacese | 31 | 1 |
-| 2014–2018 | Napoli | 133 | 2 |
-| 2018–2023 | Chelsea | 143 | 29 |
-| 2023–2025 | Arsenal | 53 | 0 |
-| 2025– | Flamengo | 29 | 5 |
+| 2010 | Sambonifacese | 31 | 1 |
+| 2011–2013 | Hellas Verona | 96 | 11 |
+| 2013–2017 | Napoli | 160 | 6 |
+| 2018–2022 | Chelsea | 213 | 29 |
+| 2022–2024 | Arsenal | 79 | 2 |
+| 2025–2026 | Flamengo | 48 | 8 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -78,15 +71,30 @@ At international level, he has represented Italy, making his senior debut in 201
 على المستوى الدولي، يُمثّل إيطاليا ، حيث شارك لأول مرة في عام 2016، بينما جاءت مشاركته الرسمية الأولى له في العام التالي. كان جزءًا من تشكيلة إيطاليا التي فازت ببطولة أمم أوروبا 2020 . تم اختياره في فريق البطولة لأدائه، وحصل لاحقًا على جائزة أفضل لاعب في أوروبا .
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي نابولي: كأس إيطاليا
+- مع النادي تشيلسي: دوري أبطال أوروبا
+- مع النادي أرسنال: درع المجتمع الإنجليزي
+- مع المنتخب إيطاليا: بطولة أمم أوروبا
+- الفردية: فريق الموسم للدوري الأوروبي
+- مع النادي نابولي: كأس السوبر الإيطالي
+- مع النادي تشيلسي: الدوري الأوروبي
+- مع النادي تشيلسي: كأس السوبر الأوروبي
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 48
+- Senior national team goals total: 5
+- Senior career goals total: 53
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2010 | سامبونيفيسيس (إعارة) | 33 | 1 |
+| 2011–2013 | فيرونا | 96 | 11 |
+| 2013–2017 | نابولي | 160 | 6 |
+| 2018–2022 | تشيلسي | 213 | 29 |
+| 2022–2024 | أرسنال | 67 | 1 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2016– | إيطاليانادي | 47 | 5 |

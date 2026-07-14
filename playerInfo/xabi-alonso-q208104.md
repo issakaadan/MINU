@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q208104
-- Generated At (UTC): 2026-07-13T08:51:15+00:00
+- Generated At (UTC): 2026-07-13T12:08:06+00:00
 - English Name: Xabi Alonso
 - Arabic Name: تشابي ألونسو
 - Birth Year: 1981
@@ -34,14 +34,7 @@ Xabier Alonso Olano ( Basque: [ˈʃaβi aˈlons̺o oˈlano] , Spanish: [ˈʃaβj
 Alonso began his career at Real Sociedad , the main team of his home province Gipuzkoa . After a brief loan period at Eibar , he was appointed as team captain of Real Sociedad and finished as runners-up in La Liga in the 2002–03 season . He moved to Liverpool in 2004 for £ 10.5 million and won the UEFA Champions League in his first season, scoring in the final . He later won the UEFA Super Cup , the FA Cup and the FA Community Shield . Alonso moved to Real Madrid in 2009 in a deal worth £30 million and won La Liga, two Copa del Rey titles, and another UEFA Champions League. He joined German club Bayern Munich in 2014 and won three Bundesliga titles, including a domestic double in his second season, and retired in 2017. [ 11 ]
 
 ### English Achievements
-- With Liverpool: FA Cup
-- With Real Madrid: La Liga
-- With Bayern Munich: Bundesliga
-- With Spain: FIFA World Cup
-- Individual: Spanish Player of the Year
-- With Decorations: Gold Medal of the Royal Order of Sporting Merit
-- With Bayer Leverkusen: Bundesliga
-- Individual: Globe Soccer Best Coach of the Year
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 44
@@ -51,13 +44,11 @@ Alonso began his career at Real Sociedad , the main team of his home province Gi
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1999–2000 | Real Sociedad B | 39 | 2 |
-| 1999–2004 | Real Sociedad | 114 | 9 |
-| 2000–2001 | Eibar | 14 | 0 |
-| 2004–2009 | Liverpool | 143 | 15 |
-| 2009–2014 | Real Madrid | 158 | 4 |
-| 2014–2017 | Bayern Munich | 79 | 5 |
-| Total | Total | 547 | 35 |
+| 1999–2003 | Real Sociedad | 124 | 10 |
+| 2000 | Eibar (loan) | 14 | 0 |
+| 2004–2008 | Liverpool | 210 | 19 |
+| 2009–2014 | Real Madrid | 236 | 6 |
+| 2014–2016 | Bayern Munich | 117 | 9 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -80,15 +71,33 @@ Alonso began his career at Real Sociedad , the main team of his home province Gi
 انتقل إلى ريال مدريد في بداية موسم 2009–10 في صفقة تبلغ قيمتها حوالي 30 مليون جنيه إسترليني. بعد فوزه بألقاب بما في ذلك لقب الدوري عام 2012 ودوري أبطال أوروبا عام 2014 خلال خمسة مواسم في مدريد، وقع مع النادي الألماني بايرن ميونخ بعقد لمدة عامين. تم تمديد ذلك لمدة عام آخر، واعتزل اللعب في نهاية المطاف في صيف 2017، بعمر 35 عامًا، بعد فوزه بالدوري الألماني في كل من المواسم الثلاثة التي قضاها مع بايرن. [ 10 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع كلاعب ليفربول: كأس الاتحاد الإنجليزي
+- مع كلاعب ريال مدريد: الدوري الإسباني
+- مع كلاعب بايرن ميونخ: الدوري الألماني
+- مع كلاعب إسبانيا: كأس العالم لكرة القدم
+- كلاعب الفردية: أفضل لاعب إسباني لعام 2003
+- مع كمدرب باير ليفركوزن: الدوري الألماني
+- كمدرب الفردية: جائزة جلوب سوكر لأفضل مدرب في العام 2024
+- مع كلاعب ليفربول: درع الاتحاد الإنجليزي لكرة القدم
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 44
+- Senior national team goals total: 16
+- Senior career goals total: 60
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1999–2003 | ريال سوسيداد | 124 | 10 |
+| 2000 | إيبار (إعارة) | 14 | 0 |
+| 2004–2008 | ليفربول | 210 | 19 |
+| 2009–2014 | ريال مدريد | 236 | 6 |
+| 2014–2016 | بايرن ميونخ | 117 | 9 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000 | إسبانيا تحت 18 | 1 | 0 |
+| 2002–2003 | إسبانيا تحت 21 | 9 | 0 |
+| 2003–2014 | إسبانيا | 114 | 16 |
+| 2001–2012 | إقليم الباسك | 5 | 0 |

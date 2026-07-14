@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q661722
-- Generated At (UTC): 2026-07-13T08:55:20+00:00
+- Generated At (UTC): 2026-07-13T12:11:49+00:00
 - English Name: Bernd Stange
 - Arabic Name: بيرند شتانغه
 - Birth Year: 1948

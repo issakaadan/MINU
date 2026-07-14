@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q20630956
-- Generated At (UTC): 2026-07-13T08:53:12+00:00
+- Generated At (UTC): 2026-07-13T12:09:49+00:00
 - English Name: Ritsu Dōan
 - Arabic Name: ريتسو دوان
 - Birth Year: 1998
@@ -32,29 +32,23 @@
 Ritsu Dōan ( 堂安 律 , Dōan Ritsu ; born 16 June 1998) [ 2 ] is a Japanese professional footballer who plays as a right winger for Bundesliga club Eintracht Frankfurt and the Japan national team .
 
 ### English Achievements
-- With PSV: KNVB Cup
-- With Japan: AFC Asian Cup runner-up
-- Individual: AFC U-19 Championship Most Valuable Player
-- Individual: AFC Youth Player of the Year
-- Individual: Japan Pro-Footballers Association Best XI
-- Individual: Bundesliga Fantasy Team of the Season
-- Individual: IFFHS Asian Men's Team of the Year
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 71
-- Senior national team goals total: 12
-- Senior career goals total: 83
+- Senior national team goals total: 18
+- Senior career goals total: 89
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2015–2018 | Gamba Osaka | 15 | 3 |
-| 2017–2018 | Groningen | 29 | 9 |
-| 2018–2019 | Groningen | 34 | 6 |
-| 2019–2022 | PSV | 43 | 10 |
-| 2020–2021 | Arminia Bielefeld | 34 | 5 |
-| 2022–2025 | SC Freiburg | 97 | 22 |
-| 2025– | Eintracht Frankfurt | 31 | 5 |
+| 2015–2017 | Gamba Osaka | 25 | 4 |
+| 2017 | Groningen (loan) | 31 | 10 |
+| 2018–2019 | Groningen | 35 | 6 |
+| 2019–2021 | PSV Eindhoven | 64 | 13 |
+| 2020 | Arminia Bielefeld (loan) | 35 | 5 |
+| 2022–2024 | SC Freiburg | 123 | 26 |
+| 2025 | Eintracht Frankfurt | 40 | 7 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -77,12 +71,24 @@ Ritsu Dōan ( 堂安 律 , Dōan Ritsu ; born 16 June 1998) [ 2 ] is a Japanese 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 33
+- Senior national team goals total: 3
+- Senior career goals total: 36
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2015–2018 | جامبا أوساكا | 15 | 3 |
+| 2017–2018 | غرونينغن | 29 | 9 |
+| 2018–2019 | غرونينغن | 34 | 6 |
+| 2019–2022 | آيندهوفن | 43 | 10 |
+| 2020–2021 | أرمينيا بيليفيلد | 34 | 5 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2014 | اليابان تحت 17 | 4 | 1 |
+| 2016 | اليابان تحت 20 | 19 | 5 |
+| 2017 | اليابان تحت 20 | 5 | 3 |
+| 2019–2021 | اليابان تحت 23 | 11 | 6 |
+| 2018– | اليابان | 28 | 3 |

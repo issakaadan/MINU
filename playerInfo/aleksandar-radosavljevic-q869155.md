@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q869155
-- Generated At (UTC): 2026-07-13T08:56:10+00:00
+- Generated At (UTC): 2026-07-13T12:12:39+00:00
 - English Name: Aleksandar Radosavljević
 - Arabic Name: ألكسندر رادوسافيليفيتش
 - Birth Year: 1982
@@ -57,12 +57,19 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 0
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001–2007 | تشوكاريتشكي | 92 | 0 |
+| 2007–2010 | بارتيزان | 5 | 0 |
+| 2010–2011 | غيور تورنا أوزتالي | 3 | 0 |
+| 2010–2011 | غيور تورنا أوزتالي | 6 | 0 |
+| 2012–2013 | العقبان البيضاء الصربية | 0 | 0 |
+| - | مجموع | 106 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

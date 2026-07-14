@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q20110
-- Generated At (UTC): 2026-07-13T08:48:01+00:00
+- Generated At (UTC): 2026-07-13T12:05:38+00:00
 - English Name: Francesco Totti
 - Arabic Name: فرانشيسكو توتي
 - Birth Year: 1976
@@ -34,14 +34,7 @@ Francesco Totti Ufficiale OMRI [ 3 ] [ 4 ] ( Italian pronunciation: [franˈtʃes
 Totti was a one-club man, spending his entire career at Roma and winning a Serie A title, two Coppa Italia titles, and two Supercoppa Italiana titles. As a prolific goalscorer, he is the second-highest scorer of all time in Italian league history with 250 goals, and is the seventh-highest scoring Italian in all competitions with 316 goals. [ 7 ] Totti is the top goalscorer and the most capped player in Roma's history, holds the record for the most goals scored in Serie A while playing for a single club, and also holds the record for the youngest club captain in the history of Serie A. During his career at Roma, Totti has been referred to as Er Bimbo de Oro (The Golden Boy), Er Pupone (The Big Baby), L'Ottavo Re di Roma (The Eighth King of Rome), L'Imperatore (The Emperor) and Er Capitano (The Captain) by the Italian sports media. In 2013, the New York Times described him as a "Roman god in his game." [ 8 ]
 
 ### English Achievements
-- With Roma: Serie A
-- With Italy: FIFA World Cup
-- Individual: Guerin d'Oro
-- Records: Roma all-time leading goalscorer
-- With Roma: Coppa Italia
-- With Roma: Supercoppa Italiana
-- With Italy: UEFA European Championship runner-up
-- Individual: Serie A Young Footballer of the Year
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 307
@@ -51,7 +44,7 @@ Totti was a one-club man, spending his entire career at Roma and winning a Serie
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1993–2017 | Roma | 619 | 250 |
+| 1992–2016 | Roma | 786 | 307 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -74,15 +67,31 @@ Totti was a one-club man, spending his entire career at Roma and winning a Serie
 كان توتي من محبي كرة القدم المتحمسين منذ طفولته، وانضمّ إلى صفوف شباب روما في عمر 13 عامًا، ويُعتبر واحداً من أكثر لاعبي روما شهرةً منذ أكثر من عقدين. بدأ توتي اللعب كلاعب خط وسط مهاجم، ولكنّه لعب أيضًا مهاجمًا لكلٍّ من ناديه وبلده خلال مسيرته الناجحة. وقد كان أحد الأسماء الأساسيين في الفريق الإيطالي الفائز بكأس العالم في ألمانيا عام 2006 وهو صانع ألعاب المنتخب.
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي روما: الدوري الإيطالي الدرجة الأولى (1)
+- مع المنتخب إيطاليا: كأس العالم (1)
+- مع المنتخب إيطاليا للشباب: ألعاب البحر الأبيض (تحت 23 سنة) (1)
+- الفردية: جائزة غورين الذهبية (2)
+- مع النادي روما: كأس إيطاليا (2)
+- مع النادي روما: كأس السوبر الإيطالي (2)
+- مع المنتخب إيطاليا للشباب: بطولة أوروبا تحت 21 سنة (1)
+- الفردية: جائزة أفضل لاعب شاب في الدوري الإيطالي
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 307
+- Senior national team goals total: 9
+- Senior career goals total: 316
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1992–2016 | روما | 786 | 307 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1992 | إيطاليا تحت 16 | 6 | 3 |
+| 1991–1992 | إيطاليا تحت 17 | 13 | 2 |
+| 1993–1995 | إيطاليا تحت 19 | 14 | 7 |
+| 1995–1997 | إيطاليا تحت 21 | 8 | 4 |
+| 1997 | إيطاليا في الألعاب الأولمبية | 4 | 2 |
+| 1998–2006 | إيطاليا | 58 | 9 |

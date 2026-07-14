@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q313111
-- Generated At (UTC): 2026-07-13T08:54:42+00:00
+- Generated At (UTC): 2026-07-13T12:11:12+00:00
 - English Name: Marc Muniesa
 - Arabic Name: مارك مونييسا
 - Birth Year: 1992
@@ -36,29 +36,24 @@ Muniesa began his career with Barcelona , making his debut at the end of the 200
 Muniesa gained 26 caps for Spain at youth level , including five for the under-21 side with which he won the 2013 European Championship .
 
 ### English Achievements
-- With Barcelona B: Segunda División B play-off winner
-- With Barcelona: La Liga
-- With Al Arabi SC: Emir of Qatar Cup
-- With Barcelona: Supercopa de España
-- With Barcelona: UEFA Champions League
-- With Barcelona: UEFA Super Cup
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 8
+- Club goals total: 4
 - Senior national team goals total: 0
-- Senior career goals total: 8
+- Senior career goals total: 4
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2009–2013 | Barcelona B | 79 | 4 |
-| 2009–2013 | Barcelona | 2 | 0 |
-| 2013–2018 | Stoke City | 57 | 1 |
-| 2017–2018 | Girona | 13 | 0 |
-| 2018–2019 | Girona | 19 | 0 |
-| 2019–2023 | Al-Arabi | 63 | 1 |
-| 2023–2024 | Lyngby | 10 | 0 |
-| 2024– | Al Shahaniya | 31 | 0 |
+| 2009–2012 | Barcelona B | 81 | 4 |
+| 2008–2012 | Barcelona | 4 | 0 |
+| 2013–2016 | Stoke City | 67 | 3 |
+| 2016 | Stoke City U23 | 3 | 0 |
+| 2017 | Girona (loan) | 14 | 0 |
+| 2018 | Girona | 38 | 0 |
+| 2019–2022 | Al-Arabi | 73 | 1 |
+| 2023 | Lyngby | 14 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -81,12 +76,21 @@ Muniesa gained 26 caps for Spain at youth level , including five for the under-2
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 2
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 2
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009–2013 | برشلونة ب | 79 | 4 |
+| 2009–2013 | برشلونة | 2 | 0 |
+| 2013–2018 | ستوك سيتي | 57 | 1 |
+| 2017–2018 | جيرونا | 13 | 0 |
+| 2018–2019 | جيرونا | 19 | 0 |
+| 2019–2023 | النادي العربي | 51 | 1 |
+| 2023–2024 | نادي لينغبي | 10 | 0 |
+| 2024– | نادي الشحانية | 3 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

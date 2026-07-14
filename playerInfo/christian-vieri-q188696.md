@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q188696
-- Generated At (UTC): 2026-07-13T08:53:34+00:00
+- Generated At (UTC): 2026-07-13T12:10:09+00:00
 - English Name: Christian Vieri
 - Arabic Name: كريستيان فييري
 - Birth Year: 1973
@@ -34,14 +34,7 @@ Christian " Bobo " Vieri ( Italian pronunciation: [ˈkristjaɱ ˈvjɛːri] ; bor
 A prolific goalscorer, for a number of years, he was widely regarded as one of the best strikers of his generation, [ 3 ] leading to him becoming the world's most expensive player in 1999 when Inter Milan paid Lazio £32 million (€43 million) for his services. [ 4 ] [ 5 ] Something of a footballing nomad, Vieri played for no fewer than 12 clubs throughout his career, mainly in Italy, but also in Spain and France. He started his career with Torino in 1991, but his most notable and successful spells were those at Juventus , Atlético Madrid , Lazio and Inter, clubs with which he won several honours.
 
 ### English Achievements
-- With Torino: Coppa Italia
-- With Juventus: Serie A
-- With Lazio: UEFA Cup Winners' Cup
-- With Inter Milan: Coppa Italia
-- With Italy: UEFA European Under-21 Championship
-- Individual: Pichichi Trophy
-- With Juventus: UEFA Super Cup
-- With Juventus: Intercontinental Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 236
@@ -51,22 +44,18 @@ A prolific goalscorer, for a number of years, he was widely regarded as one of t
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1991–1992 | Torino | 7 | 1 |
-| 1992–1993 | Pisa | 18 | 2 |
-| 1993–1994 | Ravenna | 32 | 12 |
-| 1994–1995 | Venezia | 29 | 11 |
-| 1995–1996 | Atalanta | 21 | 9 |
-| 1996–1997 | Juventus | 23 | 8 |
-| 1997–1998 | Atlético Madrid | 24 | 24 |
-| 1998–1999 | Lazio | 22 | 12 |
-| 1999–2005 | Inter Milan | 143 | 103 |
-| 2005–2006 | AC Milan | 8 | 1 |
-| 2006 | Monaco | 7 | 3 |
-| 2006 | Sampdoria | 0 | 0 |
-| 2006–2007 | Atalanta | 7 | 2 |
-| 2007–2008 | Fiorentina | 26 | 6 |
-| 2008–2009 | Atalanta | 9 | 2 |
-| Total | Total | 374 | 194 |
+| 1991–1992 | Torino | 9 | 2 |
+| 1992 | Pisa | 18 | 2 |
+| 1993 | Ravenna | 32 | 12 |
+| 1994 | Venezia | 29 | 11 |
+| 1995–2008 | Atalanta | 37 | 13 |
+| 1996 | Juventus | 37 | 14 |
+| 1997 | Atlético Madrid | 32 | 29 |
+| 1998 | Lazio | 28 | 14 |
+| 1999–2004 | Inter Milan | 190 | 123 |
+| 2005 | AC Milan | 14 | 2 |
+| 2005 | Monaco | 11 | 5 |
+| 2007 | Fiorentina | 39 | 9 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -86,12 +75,32 @@ A prolific goalscorer, for a number of years, he was widely regarded as one of t
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 390
+- Senior national team goals total: 23
+- Senior career goals total: 413
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1991–1992 | تورينو | 7 | 1 |
+| 1992–1993 | بيزا | 18 | 2 |
+| 1993–1994 | رافينا | 32 | 12 |
+| 1994–1995 | فينيزيا | 29 | 11 |
+| 1995–1996 | أتالانتا | 21 | 9 |
+| 1996–1997 | يوفنتوس | 23 | 8 |
+| 1997–1998 | أتلتيكو مدريد | 24 | 24 |
+| 1998–1999 | لاتسيو | 22 | 12 |
+| 1999–2005 | إنتر ميلان | 143 | 103 |
+| 2005–2006 | إيه سي ميلان | 8 | 1 |
+| 2006 | موناكو | 7 | 3 |
+| 2006 | سامبدوريا | 0 | 0 |
+| 2006–2007 | أتالانتا | 7 | 2 |
+| 2007–2008 | فيورنتينا | 26 | 6 |
+| 2008–2009 | أتالانتا | 9 | 2 |
+| - | مجموع | 374 | 194 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1992–1996 | إيطاليا تحت 21 | 22 | 11 |
+| 1997–2005 | إيطاليا | 49 | 23 |

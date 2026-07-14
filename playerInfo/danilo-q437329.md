@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q437329
-- Generated At (UTC): 2026-07-13T08:52:34+00:00
+- Generated At (UTC): 2026-07-13T12:09:09+00:00
 - English Name: Danilo
 - Arabic Name: دانيلو لويز دا سيلفا
 - Birth Year: 1991
@@ -36,30 +36,23 @@ Danilo began his career with América Mineiro before moving to Santos , where he
 Danilo was first capped by the senior Brazil team in 2011, also winning the 2011 U-20 World Cup and a silver medal at the 2012 Summer Olympics . He represented the nation at the FIFA World Cup in 2018 , 2022 and 2026 , and the Copa América in 2021 and 2024 .
 
 ### English Achievements
-- With América Mineiro: Campeonato Brasileiro Série C
-- With Santos: Campeonato Paulista
-- With Porto: Primeira Liga
-- With Real Madrid: La Liga
-- With Manchester City: Premier League
-- With Juventus: Serie A
-- With Flamengo: FIFA Challenger Cup
-- Individual: Campeonato Mineiro Best Newcomer
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 45
-- Senior national team goals total: 1
-- Senior career goals total: 46
+- Senior national team goals total: 2
+- Senior career goals total: 47
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
 | 2009–2010 | América Mineiro | 29 | 2 |
-| 2010–2012 | Santos | 62 | 5 |
-| 2012–2015 | Porto | 91 | 11 |
-| 2015–2017 | Real Madrid | 41 | 3 |
-| 2017–2019 | Manchester City | 34 | 4 |
-| 2019–2025 | Juventus | 156 | 8 |
-| 2025– | Flamengo | 30 | 1 |
+| 2010–2011 | Santos | 78 | 10 |
+| 2011–2014 | Porto | 138 | 12 |
+| 2015–2016 | Real Madrid | 56 | 3 |
+| 2017–2018 | Manchester City | 60 | 4 |
+| 2019–2024 | Juventus | 213 | 9 |
+| 2025–2026 | Flamengo | 50 | 5 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -81,15 +74,34 @@ Danilo was first capped by the senior Brazil team in 2011, also winning the 2011
 استُدعي دانيلو لأول مرة لمنتخب البرازيل الأول في 2011، وفاز أيضًا بـ كأس العالم تحت 20 سنة 2011 وميدالية فضية في أولمبياد لندن 2012 . مثل البرازيل في كأس العالم 2018 وكأس العالم 2022 ، وشارك في كوبا أمريكا 2021 وكوبا أمريكا 2024 .
 
 ### Arabic Achievements
-_No honours section found._
+- مع أمريكا مينيرو: الدوري البرازيلي الدرجة الثالثة
+- مع سانتوس: بطولة ساو باولو لكرة القدم
+- مع بورتو: الدوري البرتغالي الممتاز
+- مع ريال مدريد: الدوري الإسباني
+- مع مانشستر سيتي: الدوري الإنجليزي الممتاز
+- مع يوفنتوس: الدوري الإيطالي
+- مع فلامنغو: كأس السوبر البرازيلي
+- مع البرازيل تحت 20: كأس العالم تحت 20 سنة
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 86
+- Senior national team goals total: 1
+- Senior career goals total: 87
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009–2010 | نادي أمريكا (ميناس جرايس) | 29 | 2 |
+| 2010–2011 | سانتوس | 78 | 10 |
+| 2011–2014 | بورتو | 138 | 12 |
+| 2015–2016 | ريال مدريد | 56 | 3 |
+| 2017–2018 | مانشستر سيتي | 60 | 4 |
+| 2019–2024 | يوفنتوس | 213 | 9 |
+| 2025 | فلامنغو | 640 | 46 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2011 | البرازيل تحت 20 | 15 | 2 |
+| 2012 | البرازيل تحت 23 | 4 | 1 |
+| 2011– | البرازيل | 65 | 1 |

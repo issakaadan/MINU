@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q94329
-- Generated At (UTC): 2026-07-13T08:55:16+00:00
+- Generated At (UTC): 2026-07-13T12:11:44+00:00
 - English Name: Andreas Bouchalakis
 - Arabic Name: أندرياس بوشالاكيس
 - Birth Year: 1993
@@ -32,11 +32,7 @@
 Andreas Bouchalakis ( Greek : Ανδρέας Μπουχαλάκης , born 5 April 1993) is a Greek professional footballer who plays as a central midfielder for Super League club OFI .
 
 ### English Achievements
-- With Olympiacos: Super League Greece
-- With Greece U19: UEFA European Under-19 Championship runner-up
-- Individual [ edit ]: Super League Greece 2 Young Player of the Season
-- With Olympiacos: Greek Football Cup
-- Individual [ edit ]: Super League Greece Team of the Season
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 26
@@ -46,14 +42,13 @@ Andreas Bouchalakis ( Greek : Ανδρέας Μπουχαλάκης , born 5 Apr
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2011–2014 | Ergotelis | 73 | 8 |
-| 2014–2017 | Olympiacos | 22 | 2 |
-| 2017–2018 | Nottingham Forest | 25 | 2 |
-| 2018–2023 | Olympiacos | 119 | 8 |
-| 2023 | Konyaspor | 12 | 0 |
-| 2023–2025 | Hertha BSC | 34 | 1 |
-| 2025–2026 | Panetolikos | 30 | 1 |
-| 2026– | OFI | 0 | 0 |
+| 2011–2013 | Ergotelis | 73 | 8 |
+| 2014–2022 | Olympiacos | 226 | 14 |
+| 2017 | Nottingham Forest | 25 | 2 |
+| 2022 | Konyaspor (Ioan) | 12 | 0 |
+| 2023–2024 | Hertha BSC | 37 | 1 |
+| 2025 | Panetolikos | 37 | 1 |
+| 2026 | OFI | 0 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -76,12 +71,22 @@ Andreas Bouchalakis ( Greek : Ανδρέας Μπουχαλάκης , born 5 Apr
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 19
+- Senior national team goals total: 1
+- Senior career goals total: 20
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2011–2014 | إيرغوتيليس | 71 | 7 |
+| 2014–2017 | أولمبياكوس | 22 | 2 |
+| 2017–2018 | نوتينغهام فورست | 21 | 2 |
+| 2018– | أولمبياكوس | 111 | 8 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2012–2013 | اليونان تحت 19 | 9 | 0 |
+| 2013–2014 | اليونان تحت 20 | 7 | 1 |
+| 2013–2016 | اليونان تحت 21 | 9 | 1 |
+| 2017– | اليونان | 35 | 1 |

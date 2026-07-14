@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q187273
-- Generated At (UTC): 2026-07-13T08:56:08+00:00
+- Generated At (UTC): 2026-07-13T12:12:37+00:00
 - English Name: Zeki Rıza Sporel
 - Arabic Name: زكي رضا سبوريل
 - Birth Year: 1898
@@ -34,11 +34,7 @@ Zeki Rıza Sporel (28 February 1898 – 3 November 1969) [ 1 ] was a Turkish foo
 Zeki Rıza was the younger brother of Hasan Kamil Sporel who both played for and served as president of Fenerbahçe S.K. [ 4 ]
 
 ### English Achievements
-- Turkish Football Championship (1)
-- Istanbul Football League (4)
-- Istanbul Friday League (2)
-- Istanbul Shield (1)
-- General Harrington Cup (1)
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 470
@@ -67,12 +63,16 @@ Zeki Rıza was the younger brother of Hasan Kamil Sporel who both played for and
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 470
+- Senior national team goals total: 15
+- Senior career goals total: 485
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1915–1934 | فنربخشة | 352 | 470 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1923–1934 | تركيا | 16 | 15 |

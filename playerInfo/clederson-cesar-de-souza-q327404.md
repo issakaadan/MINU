@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q327404
-- Generated At (UTC): 2026-07-13T08:56:18+00:00
+- Generated At (UTC): 2026-07-13T12:12:46+00:00
 - English Name: Clederson Cesar de Souza
 - Arabic Name: سيزار
 - Birth Year: 1979

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q176446
-- Generated At (UTC): 2026-07-13T08:56:15+00:00
+- Generated At (UTC): 2026-07-13T12:12:43+00:00
 - English Name: Benedikt Pliquett
 - Arabic Name: بينديكت بليكويت
 - Birth Year: 1984
@@ -65,12 +65,20 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 0
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2003 | هامبورغ | 0 | 0 |
+| 2004 | نادي لوبيك [الإنجليزية] | 0 | 0 |
+| 2004–2013 | سانت باولي | 48 | 0 |
+| 2004–2013 | سانت باولي | 43 | 0 |
+| 2013–2015 | شتورم غراتس | 26 | 0 |
+| 2015–2016 | أتليتيكو بالياريس | 20 | 0 |
+| - | مجموع | 137 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

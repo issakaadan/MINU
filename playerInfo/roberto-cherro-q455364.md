@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q455364
-- Generated At (UTC): 2026-07-13T08:54:59+00:00
+- Generated At (UTC): 2026-07-13T12:11:27+00:00
 - English Name: Roberto Cherro
 - Arabic Name: روبرتو تشيرو
 - Birth Year: 1907
@@ -64,15 +64,18 @@ _No honours section found._
 حقق تشيرو خمس مرات بطولة الدوري مع نادي بوكا جونيورز حيث توج في هذه المرات الخمس هدافا للنادي كما توج هدافا لبطولة دوري الدرجة الممتازة 3 مرات في عصر الهواية سنوات 1926 ، 1928 ، و 1930 .
 
 ### Arabic Achievements
-_No honours section found._
+- مع نادي بوكا جونيورز: دوري الدرجة الممتازة (5)
+- مع نادي بوكا جونيورز: كأس إستيمولو (1)
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 221
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 221
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1926–1938 | بوكا جونيورز | 305 | 221 |
 
 ### Arabic National Team Stats
 _No rows found._

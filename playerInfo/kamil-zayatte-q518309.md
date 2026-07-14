@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q518309
-- Generated At (UTC): 2026-07-13T08:55:46+00:00
+- Generated At (UTC): 2026-07-13T12:12:14+00:00
 - English Name: Kamil Zayatte
 - Arabic Name: كامل زاياتي
 - Birth Year: 1985
@@ -74,12 +74,25 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 18
+- Senior national team goals total: 4
+- Senior career goals total: 22
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2003–2007 | لانس | 55 | 1 |
+| 2005–2007 | لانس | 1 | 0 |
+| 2007–2009 | يانغ بويز | 47 | 2 |
+| 2008–2009 | هال سيتي | 18 | 1 |
+| 2009–2011 | هال سيتي | 53 | 2 |
+| 2011 | قونيا سبور | 13 | 1 |
+| 2011–2013 | إسطنبول باشاكشهر | 26 | 0 |
+| 2013–2015 | شيفيلد وينزداي | 21 | 2 |
+| 2015–2016 | الرائد | 6 | 0 |
+| - | مجموع | 240 | 9 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006–2015 | غينيا | 44 | 4 |

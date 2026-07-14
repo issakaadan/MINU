@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q657823
-- Generated At (UTC): 2026-07-13T08:55:44+00:00
+- Generated At (UTC): 2026-07-13T12:12:12+00:00
 - English Name: Jonatan Cristaldo
 - Arabic Name: جوناتان كريستالدو
 - Birth Year: 1989
@@ -32,32 +32,17 @@
 Jonatan Ezequiel Cristaldo (born 5 March 1989), nicknamed " Churry ", is an Argentine professional footballer who plays as a striker for Bolivian club Oriente Petrolero .
 
 ### English Achievements
-- Argentine Primera División (1)
-- Copa do Brasil
-- Campeonato Brasileiro A
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 102
+- Club goals total: 19
 - Senior national team goals total: 0
-- Senior career goals total: 102
+- Senior career goals total: 19
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2006–2011 | Vélez Sarsfield | 85 | 21 |
-| 2011–2014 | Metalist Kharkiv | 62 | 27 |
-| 2013–2014 | Bologna | 26 | 4 |
-| 2014–2016 | Palmeiras | 43 | 9 |
-| 2016–2017 | Cruz Azul | 10 | 2 |
-| 2017 | Monterrey | 4 | 1 |
-| 2017 | Vélez Sarsfield | 5 | 0 |
-| 2018–2021 | Racing Club | 40 | 8 |
-| 2021 | Newell's Old Boys | 20 | 3 |
-| 2022 | Independiente Petrolero | 22 | 12 |
-| 2023 | Oriente Petrolero | 28 | 7 |
-| 2024 | Independiente Petrolero | 12 | 2 |
-| 2024 | São Bernardo | 4 | 0 |
-| 2025– | Oriente Petrolero | 17 | 6 |
+| 2014–2016 | Palmeiras | 72 | 19 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -77,12 +62,24 @@ Jonatan Ezequiel Cristaldo (born 5 March 1989), nicknamed " Churry ", is an Arge
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 72
+- Senior national team goals total: 0
+- Senior career goals total: 72
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006–2011 | فيليز سارسفيلد | 85 | 21 |
+| 2011–2014 | ميتاليست خاركيف | 62 | 27 |
+| 2013–2014 | بولونيا | 26 | 4 |
+| 2014–2016 | بالميراس | 43 | 9 |
+| 2016–2017 | كروز آزول | 10 | 2 |
+| 2017 | مونتيري | 4 | 1 |
+| 2017 | فيليز سارسفيلد | 5 | 0 |
+| 2018–2021 | راسينغ | 40 | 8 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009 | الأرجنتين تحت 20 | 9 | 2 |
+| 2011 | الأرجنتين | 1 | 0 |

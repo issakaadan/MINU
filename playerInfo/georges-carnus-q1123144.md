@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1123144
-- Generated At (UTC): 2026-07-13T08:55:35+00:00
+- Generated At (UTC): 2026-07-13T12:12:04+00:00
 - English Name: Georges Carnus
 - Arabic Name: جورج كارنو
 - Birth Year: 1940
@@ -32,10 +32,7 @@
 Georges Carnus (born 13 August 1940) is a French former professional footballer who played as goalkeeper . At international level, he made 36 appearances for the France national team .
 
 ### English Achievements
-- With Saint-Étienne: Division 1
-- With Marseille: Division 1
-- With Saint-Étienne: Coupe de France
-- With Marseille: Coupe de France
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 0
@@ -67,12 +64,19 @@ Georges Carnus (born 13 August 1940) is a French former professional footballer 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 0
+- Senior national team goals total: 0
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1958–1962 | أيكس | 77 | 0 |
+| 1962–1967 | فرنسا | 171 | 0 |
+| 1967–1971 | سانت إتيان | 130 | 0 |
+| 1971–1974 | أولمبيك مارسيليا | 109 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1963–1973 | فرنسا | 36 | 0 |

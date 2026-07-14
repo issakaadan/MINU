@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1028592
-- Generated At (UTC): 2026-07-13T08:55:43+00:00
+- Generated At (UTC): 2026-07-13T12:12:12+00:00
 - English Name: John Goodall
 - Arabic Name: جون جودال
 - Birth Year: 1863
@@ -66,12 +66,20 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 156
+- Senior national team goals total: 12
+- Senior career goals total: 168
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1885–1889 | بريستون نورث إيند | 66 | 56 |
+| 1889–1899 | ديربي كاونتي | 211 | 76 |
+| 1899 | [الإنجليزية] | 6 | 2 |
+| 1901–1903 | [الإنجليزية] | 35 | 8 |
+| 1903–1907 | واتفورد | 62 | 14 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1888–1898 | إنجلترا | 14 | 12 |

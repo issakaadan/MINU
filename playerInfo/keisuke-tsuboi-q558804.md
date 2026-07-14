@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q558804
-- Generated At (UTC): 2026-07-13T08:52:52+00:00
+- Generated At (UTC): 2026-07-13T12:09:27+00:00
 - English Name: Keisuke Tsuboi
 - Arabic Name: كيسوكي تسوبوي
 - Birth Year: 1979
@@ -32,14 +32,7 @@
 Keisuke Tsuboi ( 坪井 慶介 , Tsuboi Keisuke ; born 16 September 1979) is a Japanese former professional footballer who played as a defender . [ 2 ]
 
 ### English Achievements
-- With Urawa Reds: J1 League
-- With Shonan Bellmare: J2 League
-- Individual: J.League Best Eleven
-- With Urawa Reds: Emperor's Cup
-- With Urawa Reds: J.League Cup
-- With Urawa Reds: AFC Champions League
-- With Urawa Reds: Japanese Super Cup
-- Individual: J.League Rookie of the Year
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 2
@@ -49,10 +42,10 @@ Keisuke Tsuboi ( 坪井 慶介 , Tsuboi Keisuke ; born 16 September 1979) is a J
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2002–2014 | Urawa Red Diamonds | 292 | 1 |
-| 2015–2017 | Shonan Bellmare | 28 | 0 |
-| 2018–2019 | Renofa Yamaguchi | 28 | 0 |
-| Total | Total | 348 | 1 |
+| 1999 | Fukuoka University | 3 | 0 |
+| 2002–2014 | Urawa Red Diamonds | 383 | 1 |
+| 2015–2017 | Shonan Bellmare | 42 | 1 |
+| 2018–2019 | Renofa Yamaguchi | 30 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -75,12 +68,19 @@ Keisuke Tsuboi ( 坪井 慶介 , Tsuboi Keisuke ; born 16 September 1979) is a J
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 2
+- Senior national team goals total: 0
+- Senior career goals total: 2
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2014 | أوراوا رد دايموندز | 292 | 1 |
+| 2015–2017 | شونان بلمار | 28 | 0 |
+| 2018–2019 | رينوفا ياماغوتشي [الإنجليزية] | 28 | 0 |
+| - | مجموع | 348 | 1 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2003–2007 | اليابان | 40 | 0 |

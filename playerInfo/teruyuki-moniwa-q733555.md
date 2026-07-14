@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q733555
-- Generated At (UTC): 2026-07-13T08:53:19+00:00
+- Generated At (UTC): 2026-07-13T12:09:56+00:00
 - English Name: Teruyuki Moniwa
 - Arabic Name: تيرويوكي مونيوا
 - Birth Year: 1981
@@ -35,21 +35,20 @@ Teruyuki Moniwa ( 茂庭 照幸 , Moniwa Teruyuki ; born 8 September 1981) is a 
 _No honours section found._
 
 ### English Career Totals
-- Club goals total: 4
+- Club goals total: 3
 - Senior national team goals total: 1
-- Senior career goals total: 5
+- Senior career goals total: 4
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1999–2001 | Shonan Bellmare | 52 | 0 |
-| 2002–2009 | FC Tokyo | 172 | 1 |
-| 2010–2013 | Cerezo Osaka | 116 | 0 |
+| 1999 | Bellmare Hiratsuka | 13 | 0 |
+| 2000–2001 | Shonan Bellmare | 60 | 0 |
+| 2002–2009 | FC Tokyo | 219 | 1 |
+| 2010–2018 | Cerezo Osaka | 209 | 2 |
 | 2014 | Bangkok Glass | 32 | 0 |
-| 2015–2018 | Cerezo Osaka | 35 | 2 |
-| 2016–2018 | Cerezo Osaka U-23 | 6 | 0 |
-| 2019–2022 | Maruyasu Okazaki | 27 | 0 |
-| 2023 | FC Kariya | 3 | 1 |
+| 2016–2017 | Cerezo Osaka U-23 | 6 | 0 |
+| 2019 | FC Maruyasu Okazaki | 15 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -71,12 +70,20 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 6
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 6
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1999–2001 | شونان بلمار | 52 | 0 |
+| 2002–2009 | طوكيو | 172 | 1 |
+| 2010–2013 | سيريزو أوساكا | 116 | 0 |
+| 2014 | باثوم يونايتد | 32 | 0 |
+| 2015–2018 | سيريزو أوساكا | 35 | 2 |
+| 2016–2018 | [الإنجليزية] | 6 | 0 |
+| - | مجموع | 413 | 3 |
 
 ### Arabic National Team Stats
 _No rows found._

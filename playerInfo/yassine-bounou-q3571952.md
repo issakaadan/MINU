@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q3571952
-- Generated At (UTC): 2026-07-13T08:53:26+00:00
+- Generated At (UTC): 2026-07-13T12:10:02+00:00
 - English Name: Yassine Bounou
 - Arabic Name: ياسين بونو
 - Birth Year: 1991
@@ -36,31 +36,24 @@ Bounou began his youth career in Morocco, playing for Wydad AC . He spent most o
 Born in Canada to Moroccan parents, Bounou returned to Morocco at the age of two with his family. He has been a full international for Morocco since 2013. Having previously played for the under-23 team at the 2012 Olympics , he has represented his nation at three FIFA World Cup and five Africa Cup of Nations tournaments.
 
 ### English Achievements
-- With Wydad AC: Botola Pro
-- With Atlético Madrid: La Liga
-- With Sevilla: UEFA Europa League
-- With Al-Hilal: Saudi Pro League
-- With Morocco: Africa Cup of Nations
-- Individual: La Liga Zamora Trophy
-- Orders: Order of the Throne
-- With Wydad AC: CAF Champions League runner-up
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 1
+- Club goals total: 2
 - Senior national team goals total: 0
-- Senior career goals total: 1
+- Senior career goals total: 2
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2010–2012 | Wydad Casablanca | 8 | 0 |
-| 2012–2014 | Atlético Madrid B | 47 | 0 |
-| 2012–2016 | Atlético Madrid | 0 | 0 |
-| 2014–2016 | Zaragoza | 35 | 0 |
-| 2016–2020 | Girona | 83 | 0 |
-| 2019–2020 | Sevilla | 6 | 0 |
-| 2020–2023 | Sevilla | 90 | 1 |
-| 2023– | Al Hilal | 88 | 0 |
+| 2009–2011 | Wydad AC | 9 | 0 |
+| 2012–2013 | Atlético Madrid B | 47 | 0 |
+| 2013 | Atlético Madrid | 0 | 0 |
+| 2014–2015 | Zaragoza (loan) | 38 | 0 |
+| 2016–2019 | Girona | 84 | 0 |
+| 2019 | Sevilla (loan) | 18 | 0 |
+| 2020–2023 | Sevilla | 266 | 2 |
+| 2023–2025 | Al Hilal | 128 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -82,15 +75,35 @@ Born in Canada to Moroccan parents, Bounou returned to Morocco at the age of two
 ولد بونو في كندا لأبوين مغربيين، وعاد إلى المغرب مع عائلته في الثالثة من عمره. [ 6 ] يمثل منتخب المغرب الأول منذ عام 2013. بعد أن سبق له تمثيل منتخب المغرب تحت 23 عامًا في دورة الألعاب الأولمبية 2012 ، شارك مع منتخب بلاده في ثلاث بطولات لكأس العالم وخمس نسخ من كأس الأمم الإفريقية .
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي أتليتيكو مدريد: الدوري الإسباني
+- مع النادي إشبيلية: الدوري الأوروبي
+- مع النادي الهلال: الدوري السعودي للمحترفين
+- مع المنتخب المغرب: كأس العالم
+- الفردية: جائزة زامورا
+- مع النادي أتليتيكو مدريد: كأس السوبر الإسباني
+- مع النادي إشبيلية: كأس السوبر الأوروبي الوصيف
+- مع النادي الهلال: كأس خادم الحرمين الشريفين
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 1
+- Senior national team goals total: 0
+- Senior career goals total: 1
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009–2011 | الوداد | 11 | 0 |
+| 2012–2013 | أتلتيكو مدريد ب | 47 | 0 |
+| 2013 | أتلتيكو مدريد | 0 | 0 |
+| 2014–2015 | سرقسطة (إعارة) | 38 | 0 |
+| 2016–2018 | جيرونا | 84 | 0 |
+| 2019 | إشبيلية (إعارة) | 18 | 0 |
+| 2020–2023 | إشبيلية | 142 | 1 |
+| 2023–2025 | الهلال | 128 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2011–2012 | المغرب تحت 20 | 4 | 0 |
+| 2011–2012 | المغرب تحت 23 | 4 | 0 |
+| 2013– | المغرب | 96 | 0 |

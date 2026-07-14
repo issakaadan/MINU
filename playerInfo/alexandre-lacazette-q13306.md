@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q13306
-- Generated At (UTC): 2026-07-13T08:52:21+00:00
+- Generated At (UTC): 2026-07-13T12:08:58+00:00
 - English Name: Alexandre Lacazette
 - Arabic Name: ألكسندر لاكازيت
 - Birth Year: 1991
@@ -36,28 +36,20 @@ Lacazette began his senior career with hometown club Lyon in 2010, at age 19. In
 Lacazette made his debut for the senior side of the France national team in 2013, after he represented his nation across all youth levels. Lacazette was a key contributor in France's victory in the 2010 UEFA European Under-19 Championship , where he scored the match-winning goal in the final against Spain. [ 5 ] He recorded three goals in sixteen appearances.
 
 ### English Achievements
-- With Lyon: Coupe de France
-- With Arsenal: FA Cup
-- Individual: FIFA U-20 World Cup Bronze Shoe
-- Orders: Knight of the National Order of Merit
-- With Lyon: Trophée des Champions
-- With Arsenal: FA Community Shield
-- With Arsenal: UEFA Europa League runner-up
-- Individual: UNFP Ligue 1 Team of the Year
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 307
-- Senior national team goals total: 3
-- Senior career goals total: 310
+- Club goals total: 284
+- Senior national team goals total: 6
+- Senior career goals total: 290
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2008–2011 | Lyon B | 53 | 23 |
-| 2010–2017 | Lyon | 203 | 100 |
-| 2017–2022 | Arsenal | 158 | 54 |
-| 2022–2025 | Lyon | 94 | 61 |
-| 2025– | Neom | 32 | 11 |
+| 2008–2010 | Lyon B | 53 | 23 |
+| 2009–2024 | Lyon | 391 | 201 |
+| 2017–2021 | Arsenal | 206 | 71 |
+| 2025 | Neom | 33 | 12 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -87,12 +79,25 @@ Lacazette made his debut for the senior side of the France national team in 2013
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 187
+- Senior national team goals total: 3
+- Senior career goals total: 190
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2010–2011 | أكاديمية ليون | 12 | 6 |
+| 2010–2017 | ليون | 203 | 100 |
+| 2017–2022 | أرسنال | 158 | 54 |
+| 2022– | ليون | 35 | 27 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006–2007 | فرنسا تحت 16 | 4 | 0 |
+| 2007–2008 | فرنسا تحت 17 | 11 | 1 |
+| 2008–2009 | فرنسا تحت 18 | 10 | 1 |
+| 2009–2010 | فرنسا تحت 19 | 10 | 4 |
+| 2010–2011 | فرنسا تحت 20 | 12 | 9 |
+| 2011–2012 | فرنسا تحت 21 | 11 | 5 |
+| 2013– | فرنسا | 16 | 3 |

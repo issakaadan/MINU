@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q278442
-- Generated At (UTC): 2026-07-13T08:56:03+00:00
+- Generated At (UTC): 2026-07-13T12:12:31+00:00
 - English Name: Sjaak Troost
 - Arabic Name: سياك تروست
 - Birth Year: 1959
@@ -32,10 +32,7 @@
 Jacob "Sjaak" Troost (born 28 August 1959) is a Dutch former footballer who played as a defender .
 
 ### English Achievements
-- With Club [ edit ]: Eredivisie
-- With International [ edit ]: UEFA European Championship
-- With Club [ edit ]: KNVB Cup
-- With Club [ edit ]: Johan Cruijff Shield
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 5
@@ -66,12 +63,16 @@ Jacob "Sjaak" Troost (born 28 August 1959) is a Dutch former footballer who play
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 5
+- Senior national team goals total: 0
+- Senior career goals total: 5
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1978–1992 | فاينورد | 325 | 5 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1987–1988 | هولندا | 4 | 0 |

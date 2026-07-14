@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q444293
-- Generated At (UTC): 2026-07-13T08:55:08+00:00
+- Generated At (UTC): 2026-07-13T12:11:37+00:00
 - English Name: Tomáš Skuhravý
 - Arabic Name: توماس سكوهارفي
 - Birth Year: 1965
@@ -68,12 +68,23 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 135
+- Senior national team goals total: 17
+- Senior career goals total: 152
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1982–1984 | سبارتا براغ | 29 | 4 |
+| 1984–1986 | RH Cheb [لغات أخرى] | 58 | 17 |
+| 1986–1990 | سبارتا براغ | 113 | 55 |
+| 1990–1995 | نادي جنوة | 164 | 59 |
+| 1995–1996 | سبورتينغ لشبونة | 4 | 0 |
+| 1996–1997 | Viktoria Žižkov | 0 | 0 |
+| - | Total | 368 | 135 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1985–1993 [ 1 ] | تشيكوسلوفاكيا | 43 | 14 |
+| 1994–1995 [ 1 ] | منتخب جمهورية تشيك لكرة القدم | 6 | 3 |

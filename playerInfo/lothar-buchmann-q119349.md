@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q119349
-- Generated At (UTC): 2026-07-13T08:56:38+00:00
+- Generated At (UTC): 2026-07-13T12:13:13+00:00
 - English Name: Lothar Buchmann
 - Arabic Name: لوتار بوخمان
 - Birth Year: 1936
@@ -32,10 +32,7 @@
 Lothar Buchmann (15 August 1936 – 21 November 2023) was a German football player and coach.
 
 ### English Achievements
-- With VfR Bürstadt [ edit ]: Hessian Cup
-- With SV Darmstadt 98 [ edit ]: 2. Bundesliga Süd
-- With Eintracht Frankfurt [ edit ]: DFB-Pokal
-- With Kickers Offenbach [ edit ]: Hessian Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: Unavailable

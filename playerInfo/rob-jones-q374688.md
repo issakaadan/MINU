@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q374688
-- Generated At (UTC): 2026-07-13T08:56:46+00:00
+- Generated At (UTC): 2026-07-13T12:13:22+00:00
 - English Name: Rob Jones
 - Arabic Name: روبرت جونز
 - Birth Year: 1979
@@ -36,12 +36,7 @@ Jones played as a defender having started his career with York City , before pla
 Jones captained Hibs as the club won the 2007 Scottish League Cup final , in which he scored the opening goal. He moved to Scunthorpe United in 2009 for a club record fee, before signing for Sheffield Wednesday in 2011. Jones won promotion with Wednesday in 2011–12, but signed for Doncaster Rovers on 31 July 2012. He was appointed to a player/coach role with Doncaster in January 2013.
 
 ### English Achievements
-- With Hibernian: Scottish League Cup
-- With Sheffield Wednesday: Football League One runner-up
-- With Doncaster Rovers: Football League One
-- Individual: PFA Team of the Year
-- Individual: Grimsby Town Player of the Year
-- Individual: Doncaster Rovers Player of the Year
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 56
@@ -51,17 +46,16 @@ Jones captained Hibs as the club won the 2007 Scottish League Cup final , in whi
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2001–2003 | Gateshead | 71 | 12 |
-| 2003–2004 | Stockport County | 16 | 2 |
-| 2003 | Macclesfield Town | 1 | 0 |
-| 2004–2006 | Grimsby Town | 60 | 5 |
-| 2006–2009 | Hibernian | 96 | 8 |
-| 2009–2011 | Scunthorpe United | 42 | 2 |
-| 2011 | Sheffield Wednesday | 8 | 1 |
-| 2011–2012 | Sheffield Wednesday | 33 | 4 |
-| 2012–2016 | Doncaster Rovers | 68 | 10 |
-| 2016–2017 | Hartlepool United | 11 | 0 |
-| Total | Total | 406 | 44 |
+| 2001–2002 | Gateshead | 87 | 19 |
+| 2003 | Stockport County | 19 | 2 |
+| 2003 | Macclesfield Town (loan) | 1 | 0 |
+| 2004–2005 | Grimsby Town | 68 | 5 |
+| 2006–2008 | Hibernian | 118 | 12 |
+| 2009–2010 | Scunthorpe United | 48 | 2 |
+| 2010 | Sheffield Wednesday (loan) | 8 | 1 |
+| 2011 | Sheffield Wednesday | 45 | 5 |
+| 2012–2015 | Doncaster Rovers | 78 | 11 |
+| 2015–2016 | Hartlepool United | 10 | 0 |
 
 ### English National Team Stats
 _No rows found._
@@ -78,12 +72,24 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 88
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 88
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001–2003 | غيتزهد | 71 | 12 |
+| 2003–2004 | ستوكبورت كونتي | 16 | 2 |
+| 2003 | ماكليسفيلد تاون | 1 | 0 |
+| 2004–2006 | غريمسبي تاون | 60 | 5 |
+| 2006–2009 | هيبرنيان | 96 | 8 |
+| 2009–2011 | سكونثورب يونايتد | 42 | 2 |
+| 2011 | شيفيلد وينزداي | 8 | 1 |
+| 2011–2012 | شيفيلد وينزداي | 33 | 4 |
+| 2012–2016 | دونكاستر روفرز | 68 | 10 |
+| 2016–2017 | هارتلبول يونايتد | 11 | 0 |
+| - | مجموع | 406 | 44 |
 
 ### Arabic National Team Stats
 _No rows found._

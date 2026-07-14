@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q360713
-- Generated At (UTC): 2026-07-13T08:56:21+00:00
+- Generated At (UTC): 2026-07-13T12:12:49+00:00
 - English Name: Dominic Hassler
 - Arabic Name: دومينيك هاسلر
 - Birth Year: 1981
@@ -70,12 +70,25 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 92
+- Senior national team goals total: 0
+- Senior career goals total: 92
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001–2003 | أوستريا سالزبورغ | 35 | 10 |
+| 2004–2005 | غراتزر أي كاي | 12 | 1 |
+| 2005–2006 | لاسك لينتس | 13 | 3 |
+| 2006–2007 | غراتزر أي كاي | 34 | 6 |
+| 2007–2009 | [الإنجليزية] | 46 | 16 |
+| 2009–2011 | شتورم غراتس | 23 | 2 |
+| 2011–2012 | بلاو فايس لينتس | 21 | 7 |
+| 2012–2013 | [الإنجليزية] | 26 | 4 |
+| 2013–2016 | FC Frohnleiten | 76 | 19 |
+| 2016–2018 | SV Peggau | 38 | 24 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| - | Austria national football team | 5 | 0 |

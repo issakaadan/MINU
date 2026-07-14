@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q331975
-- Generated At (UTC): 2026-07-13T08:53:01+00:00
+- Generated At (UTC): 2026-07-13T12:09:37+00:00
 - English Name: Naohiro Takahara
 - Arabic Name: ناوهيرو تاكاهارا
 - Birth Year: 1979
@@ -32,14 +32,7 @@
 Naohiro Takahara ( 高原 直泰 , Takahara Naohiro ; born 4 June 1979) is a Japanese football manager and former player who played as a forward . He is currently the president of Japan Football League club Okinawa SV .
 
 ### English Achievements
-- With Júbilo Iwata: AFC Champions League
-- With Hamburger SV: DFB-Ligapokal
-- With Okinawa SV: Kyushu Soccer League
-- With Japan: AFC Asian Cup
-- Individual: AFC U-19 Championship top scorer
-- With Júbilo Iwata: Asian Super Cup
-- With Júbilo Iwata: J.League Division 1
-- With Júbilo Iwata: J.League Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 182
@@ -49,17 +42,16 @@ Naohiro Takahara ( 高原 直泰 , Takahara Naohiro ; born 4 June 1979) is a Jap
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1998–2002 | Júbilo Iwata | 105 | 58 |
-| 2001 | Boca Juniors | 6 | 1 |
-| 2002–2006 | Hamburger SV | 97 | 13 |
-| 2006–2008 | Eintracht Frankfurt | 38 | 12 |
-| 2008–2010 | Urawa Reds | 63 | 10 |
-| 2010 | Suwon Samsung Bluewings | 12 | 4 |
-| 2011–2012 | Shimizu S-Pulse | 46 | 9 |
+| 1998–2002 | Júbilo Iwata | 124 | 65 |
+| 2001 | Boca Juniors | 7 | 1 |
+| 2002–2005 | Hamburger SV | 119 | 16 |
+| 2006–2007 | Eintracht Frankfurt | 49 | 18 |
+| 2008–2010 | Urawa Reds | 80 | 15 |
+| 2010 | Suwon Samsung Bluewings | 14 | 4 |
+| 2011–2012 | Shimizu S-Pulse | 53 | 10 |
 | 2013–2014 | Tokyo Verdy | 41 | 11 |
 | 2014–2015 | SC Sagamihara | 54 | 11 |
-| 2016–2023 | Okinawa SV | 62 | 30 |
-| Total | Total | 464 | 129 |
+| 2018–2023 | Okinawa SV | 73 | 31 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -85,12 +77,28 @@ Naohiro Takahara ( 高原 直泰 , Takahara Naohiro ; born 4 June 1979) is a Jap
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 258
+- Senior national team goals total: 23
+- Senior career goals total: 281
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1998–2002 | جوبيلو إيواتا | 105 | 58 |
+| 2001 | بوكا جونيورز | 6 | 1 |
+| 2002–2006 | هامبورغ | 97 | 13 |
+| 2006–2008 | آينتراخت فرانكفورت | 38 | 12 |
+| 2008–2010 | أوراوا رد دايموندز | 63 | 10 |
+| 2010 | سوون سامسونغ بلووينغز | 12 | 4 |
+| 2011–2012 | شيميزو إس-بولس | 46 | 9 |
+| 2013–2014 | طوكيو فيردي | 41 | 11 |
+| 2014–2015 | [الإنجليزية] | 54 | 11 |
+| - | مجموع | 462 | 129 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1995 | اليابان تحت 17 | 3 | 1 |
+| 1998–1999 | اليابان تحت 20 | 16 | 16 |
+| 1998–2000 | اليابان تحت 23 | 11 | 4 |
+| 2000–2008 | اليابان | 57 | 23 |

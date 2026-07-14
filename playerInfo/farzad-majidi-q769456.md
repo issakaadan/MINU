@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q769456
-- Generated At (UTC): 2026-07-13T08:56:25+00:00
+- Generated At (UTC): 2026-07-13T12:12:51+00:00
 - English Name: Farzad Majidi
 - Arabic Name: فرزاد مجيدي
 - Birth Year: 1977
@@ -32,7 +32,7 @@
 Farzad Majidi ( Persian : فرزاد مجیدی , born September 9, 1977, in Tehran , Iran ) is a former Iranian football player. He usually played in the midfield position. He is the younger brother of fellow footballer Farhad Majidi .
 
 ### English Achievements
-- Iran's Premier Football League Winner
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: Unavailable
@@ -60,11 +60,13 @@ _No honours section found._
 
 ### Arabic Career Totals
 - Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior national team goals total: 0
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
 _No rows found._
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004–2006 | إيران | 2 | 0 |

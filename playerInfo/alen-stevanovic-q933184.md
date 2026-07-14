@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q933184
-- Generated At (UTC): 2026-07-13T08:53:56+00:00
+- Generated At (UTC): 2026-07-13T12:10:29+00:00
 - English Name: Alen Stevanović
 - Arabic Name: ألين ستيفانوفيتش
 - Birth Year: 1991
@@ -34,35 +34,29 @@ Alen Stevanović ( Serbian Cyrillic : Ален Стевановић , pronounced
 A product of the Radnički Obrenovac youth academy, Stevanović made name for himself while playing for Torino . He made his debut with the Serbia national team in 2012.
 
 ### English Achievements
-- With Inter Milan: Serie A
-- With Toronto: Canadian Championship
-- With Palermo: Serie B
-- With Partizan: Serbian SuperLiga
-- With Shohan Bellmare: J. League Cup
-- With Partizan: Serbian Cup
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 25
+- Club goals total: 27
 - Senior national team goals total: 0
-- Senior career goals total: 25
+- Senior career goals total: 27
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2008–2009 | Radnički Obrenovac | 12 | 0 |
-| 2009–2010 | Inter Milan | 1 | 0 |
-| 2010–2015 | Torino | 57 | 5 |
-| 2011 | Toronto FC | 12 | 0 |
-| 2013–2014 | Palermo | 21 | 0 |
-| 2014–2015 | Bari | 16 | 1 |
-| 2015 | Spezia | 9 | 1 |
-| 2015–2017 | Partizan | 37 | 5 |
-| 2018 | Shonan Bellmare | 8 | 2 |
-| 2019 | Wisła Płock | 10 | 1 |
-| 2021–2022 | Tsarsko Selo | 21 | 1 |
-| 2022–2023 | IMT | 39 | 7 |
-| 2023–2024 | Jamshedpur | 16 | 0 |
-| 2024–2025 | IMT | 30 | 2 |
+| 2008 | Radnički Obrenovac | 12 | 0 |
+| 2009 | Internazionale | 1 | 0 |
+| 2010–2012 | Torino | 63 | 5 |
+| 2011 | Toronto FC (loan) | 12 | 0 |
+| 2013 | Palermo (loan) | 22 | 0 |
+| 2014 | Bari (loan) | 16 | 1 |
+| 2014 | Spezia | 9 | 1 |
+| 2015–2016 | Partizan | 47 | 6 |
+| 2018 | Shonan Bellmare | 12 | 2 |
+| 2018–2019 | Wisła Płock | 10 | 1 |
+| 2020–2021 | Tsarsko Selo | 22 | 1 |
+| 2021–2024 | IMT | 74 | 10 |
+| 2023 | Jamshedpur | 18 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -82,12 +76,27 @@ A product of the Radnički Obrenovac youth academy, Stevanović made name for hi
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 16
+- Senior national team goals total: 0
+- Senior career goals total: 16
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008–2009 | [الإنجليزية] | 12 | 0 |
+| 2009–2010 | إنتر ميلان | 1 | 0 |
+| 2010–2015 | تورينو | 57 | 5 |
+| 2011 | تورونتو | 12 | 0 |
+| 2013–2014 | باليرمو | 21 | 0 |
+| 2014–2015 | باري | 16 | 1 |
+| 2015 | سبيزيا | 9 | 1 |
+| 2015–2017 | بارتيزان | 37 | 5 |
+| 2018 | شونان بلمار | 8 | 2 |
+| 2019 | فيسلا بوك [الإنجليزية] | 10 | 1 |
+| 2021–2022 | تسارسكو سيلو صوفيا | 21 | 1 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2010 | صربيا تحت 21 | 1 | 0 |
+| 2012–2013 | صربيا | 3 | 0 |

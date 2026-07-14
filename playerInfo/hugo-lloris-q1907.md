@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1907
-- Generated At (UTC): 2026-07-13T08:51:49+00:00
+- Generated At (UTC): 2026-07-13T12:08:30+00:00
 - English Name: Hugo Lloris
 - Arabic Name: هوغو لوريس
 - Birth Year: 1986
@@ -36,14 +36,7 @@ Lloris began his career with his hometown club Nice , made his debut as a teenag
 Lloris joined Premier League side Tottenham Hotspur in 2012 and made over 400 appearances for the club across eleven seasons, being named captain in 2015 and helping the team reach the UEFA Champions League final in 2019 . He joined Los Angeles FC in Major League Soccer in 2024.
 
 ### English Achievements
-- With Lyon: Coupe de France
-- With Tottenham Hotspur: Football League Cup/EFL Cup runner-up
-- With Los Angeles FC: U.S. Open Cup
-- With France: FIFA World Cup
-- Individual: Toulon Tournament Best Goalkeeper
-- Orders: Knight of the Legion of Honour
-- With Lyon: Trophée des Champions
-- With Tottenham Hotspur: UEFA Champions League runner-up
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 0
@@ -53,11 +46,11 @@ Lloris joined Premier League side Tottenham Hotspur in 2012 and made over 400 ap
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2005–2006 | Nice II | 20 | 0 |
-| 2005–2008 | Nice | 72 | 0 |
-| 2008–2012 | Lyon | 146 | 0 |
-| 2012–2024 | Tottenham Hotspur | 361 | 0 |
-| 2024– | Los Angeles FC | 77 | 0 |
+| 2004–2005 | Nice II | 20 | 0 |
+| 2005–2007 | Nice | 78 | 0 |
+| 2008–2012 | Lyon | 201 | 0 |
+| 2012–2023 | Tottenham Hotspur | 447 | 0 |
+| 2024–2026 | Los Angeles FC | 109 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -80,12 +73,24 @@ Lloris joined Premier League side Tottenham Hotspur in 2012 and made over 400 ap
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 0
+- Senior national team goals total: 0
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005–2006 | نيس | 20 | 0 |
+| 2005–2008 | نيس | 72 | 0 |
+| 2008–2012 | أولمبيك ليون | 146 | 0 |
+| 2012–2024 | توتنهام هوتسبير | 358 | 0 |
+| 2024- | لوس أنجلوس غالاكسي | 0 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004 | فرنسا تحت 18 | 3 | 0 |
+| 2004–2005 | فرنسا تحت 19 | 14 | 0 |
+| 2006 | فرنسا تحت 20 | 4 | 0 |
+| 2006–2008 | فرنسا تحت 21 | 5 | 0 |
+| 2008–2022 | فرنسا | 145 | 0 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q374224
-- Generated At (UTC): 2026-07-13T08:56:10+00:00
+- Generated At (UTC): 2026-07-13T12:12:38+00:00
 - English Name: Adrian Sikora
 - Arabic Name: أدريان سيكورا
 - Birth Year: 1980
@@ -32,13 +32,7 @@
 Adrian Sebastian Sikora (born 19 March 1980) is a Polish footballer who plays as a striker for KS Nierodzim.
 
 ### English Achievements
-- With Dyskobolia Grodzisk Wielkopolski: Polish Cup
-- With APOEL: Cypriot Super Cup
-- With Kuźnia Ustroń: Regional league Bielsko-Biała
-- With KS Nierodzim: Klasa B Skoczów
-- Individual: Ekstraklasa Cup top scorer
-- With Dyskobolia Grodzisk Wielkopolski: Ekstraklasa Cup
-- With Kuźnia Ustroń: Polish Cup (Skoczów regionals)
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 133
@@ -79,12 +73,22 @@ Adrian Sebastian Sikora (born 19 March 1980) is a Polish footballer who plays as
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 66
+- Senior national team goals total: 1
+- Senior career goals total: 67
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002 | بييلسكو بياوا | 15 | 6 |
+| 2003 | غورنيك زابجه | 26 | 10 |
+| 2004–2008 | دايسكوبوليا غرودجيسك ويلكوبولسكي | 109 | 46 |
+| 2008–2009 | ريال مورسيا | 25 | 1 |
+| 2009–2011 | أبويل | 3 | 2 |
+| 2011–2012 | بييلسكو بياوا | 14 | 0 |
+| 2012–2013 | بياست غليفيتسه | 9 | 1 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2003 | بولندا | 2 | 1 |

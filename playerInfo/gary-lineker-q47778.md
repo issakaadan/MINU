@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q47778
-- Generated At (UTC): 2026-07-13T08:50:43+00:00
+- Generated At (UTC): 2026-07-13T12:07:43+00:00
 - English Name: Gary Lineker
 - Arabic Name: غاري لينيكر
 - Birth Year: 1960
@@ -32,29 +32,21 @@
 Gary Winston Lineker (born 30 November 1960) is an English sports broadcaster , former professional footballer and businessman who played as a striker . Regarded as one of the best players of his generation and one of England's greatest players, Lineker is the only player to have been the top goalscorer in England with three clubs: Leicester City , Everton and Tottenham Hotspur . He also played for Barcelona in Spain, and won 80 caps for England . His media career began with the BBC , where he presented the flagship football programme Match of the Day from 1999 until 2025, the longest tenure of any MOTD presenter. Lineker was also the BBC's lead presenter for live football matches, including coverage of international tournaments such as the FIFA World Cup . He has also worked for Al Jazeera Sports , Eredivisie Live , NBC Sports Network , and BT Sport 's coverage of the UEFA Champions League . In 2018 he cofounded Goalhanger , a media company that primarily produces podcasts , notably several under " The Rest is... " brand. [ 2 ]
 
 ### English Achievements
-- With Leicester City: Football League Second Division
-- With Everton: FA Charity Shield
-- With Barcelona: Copa del Rey
-- With Tottenham Hotspur: FA Cup
-- Individual: English Football Hall of Fame
-- With Everton: FA Cup runner-up
-- With Barcelona: European Cup Winners' Cup
-- With Tottenham Hotspur: FA Charity Shield
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 238
+- Club goals total: 283
 - Senior national team goals total: 48
-- Senior career goals total: 286
+- Senior career goals total: 331
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1978–1985 | Leicester City | 194 | 95 |
-| 1985–1986 | Everton | 41 | 30 |
-| 1986–1989 | Barcelona | 103 | 42 |
-| 1989–1992 | Tottenham Hotspur | 105 | 67 |
-| 1992–1994 | Nagoya Grampus | 18 | 4 |
-| Total | Total | 461 | 238 |
+| 1978–1984 | Leicester City | 216 | 103 |
+| 1985 | Everton | 57 | 40 |
+| 1986–1988 | Barcelona | 138 | 52 |
+| 1989–1991 | Tottenham Hotspur | 138 | 80 |
+| 1993–1994 | Nagoya Grampus Eight | 24 | 8 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -74,12 +66,22 @@ Gary Winston Lineker (born 30 November 1960) is an English sports broadcaster , 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 476
+- Senior national team goals total: 48
+- Senior career goals total: 524
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1978–1985 | ليستر سيتي | 194 | 95 |
+| 1985–1986 | إيفرتون | 41 | 30 |
+| 1986–1989 | برشلونة | 103 | 42 |
+| 1989–1992 | توتنهام هوتسبير | 105 | 67 |
+| 1992–1994 | ناغويا غرامبوس | 18 | 4 |
+| - | مجموع | 461 | 238 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1984 | منتخب إنجلترا لكرة القدم الرديف | 1 | 0 |
+| 1984–1992 | إنجلترا | 80 | 48 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q244790
-- Generated At (UTC): 2026-07-13T08:53:08+00:00
+- Generated At (UTC): 2026-07-13T12:09:44+00:00
 - English Name: Pablo Zabaleta
 - Arabic Name: بابلو زاباليتا
 - Birth Year: 1985
@@ -36,14 +36,7 @@ With Manchester City , Zabaleta won all of English football's major honours: the
 A full international since 2005, Zabaleta represented Argentina at the 2011 and 2015 Copa América , and was part of their team which finished as runners-up in the 2014 FIFA World Cup . He was also in their team which won gold at the 2008 Olympics .
 
 ### English Achievements
-- With San Lorenzo: Copa Sudamericana
-- With Espanyol: Copa del Rey
-- With Manchester City: Premier League
-- With Argentina Youth: FIFA U-20 World Cup
-- With Argentina: FIFA World Cup runner-up
-- Individual: PFA Team of the Year
-- With Manchester City: FA Cup
-- With Manchester City: Football League Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 24
@@ -53,11 +46,10 @@ A full international since 2005, Zabaleta represented Argentina at the 2011 and 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2002–2005 | San Lorenzo | 66 | 8 |
-| 2005–2008 | Espanyol | 79 | 3 |
-| 2008–2017 | Manchester City | 230 | 9 |
-| 2017–2020 | West Ham United | 73 | 1 |
-| Total | Total | 448 | 20 |
+| 2002–2004 | San Lorenzo | 79 | 8 |
+| 2005–2007 | Espanyol | 102 | 3 |
+| 2008–2016 | Manchester City | 333 | 12 |
+| 2017–2019 | West Ham United | 80 | 1 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -82,12 +74,22 @@ A full international since 2005, Zabaleta represented Argentina at the 2011 and 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 40
+- Senior national team goals total: 0
+- Senior career goals total: 40
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2005 | سان لورينزو | 66 | 8 |
+| 2005–2008 | إسبانيول | 79 | 3 |
+| 2008–2017 | مانشستر سيتي | 230 | 9 |
+| 2017–2020 | وست هام يونايتد | 73 | 0 |
+| - | مجموع | 448 | 20 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2003–2005 | الأرجنتين تحت 20 | 28 | 4 |
+| 2008 | الأرجنتين تحت 23 | 9 | 0 |
+| 2005–2016 | الأرجنتين | 58 | 0 |

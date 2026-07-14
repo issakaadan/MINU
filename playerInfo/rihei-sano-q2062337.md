@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q2062337
-- Generated At (UTC): 2026-07-13T08:53:10+00:00
+- Generated At (UTC): 2026-07-13T12:09:47+00:00
 - English Name: Rihei Sano
 - Arabic Name: ريهي سانو
 - Birth Year: 1912

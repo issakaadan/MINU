@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q483309
-- Generated At (UTC): 2026-07-13T08:50:38+00:00
+- Generated At (UTC): 2026-07-13T12:07:38+00:00
 - English Name: Sergio Ramos
 - Arabic Name: سيرخيو راموس
 - Birth Year: 1986
@@ -34,14 +34,7 @@ Sergio Ramos García ( Spanish pronunciation: [ˈseɾxjo ˈramos ɣaɾˈθi.a] ;
 Born in Camas in the Spanish province of Seville , Ramos played in Sevilla 's youth academy and spent two seasons with the senior team, before moving to Real Madrid in the summer of 2005. He went on to become a mainstay for the club, winning 22 major honours, including five La Liga titles and four UEFA Champions League titles. He was vital to all of the Champions League winning campaigns, as he was named in the competition's Team of the Season each time. Out of contract with Real Madrid, he signed for Ligue 1 club Paris Saint-Germain in July 2021, spending two seasons at the club and winning Ligue 1 twice, before returning to Sevilla for one season. After leaving Sevilla, Ramos joined Liga MX side Monterrey , where he captained the team and played in the inaugural edition of the expanded FIFA Club World Cup .
 
 ### English Achievements
-- With Real Madrid: La Liga
-- With Paris Saint-Germain: Ligue 1
-- With Spain: FIFA World Cup
-- Individual: La Liga Breakthrough Player of the Year
-- With Real Madrid: Copa del Rey
-- With Real Madrid: Supercopa de España
-- With Real Madrid: UEFA Champions League
-- With Real Madrid: UEFA Super Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 127
@@ -51,12 +44,11 @@ Born in Camas in the Spanish province of Seville , Ramos played in Sevilla 's yo
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2003–2004 | Sevilla Atlético | 26 | 2 |
-| 2004–2005 | Sevilla | 39 | 2 |
-| 2005–2021 | Real Madrid | 469 | 72 |
-| 2021–2023 | Paris Saint-Germain | 45 | 4 |
-| 2023–2024 | Sevilla | 28 | 3 |
-| 2025–2026 | Monterrey | 27 | 6 |
+| 2003 | Sevilla Atlético | 26 | 2 |
+| 2003–2023 | Sevilla | 87 | 10 |
+| 2005–2020 | Real Madrid | 671 | 101 |
+| 2021–2022 | Paris Saint-Germain | 58 | 6 |
+| 2024–2025 | Monterrey | 34 | 8 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -80,15 +72,34 @@ Born in Camas in the Spanish province of Seville , Ramos played in Sevilla 's yo
 بجانب ليونيل ميسي إنه اللاعب الوحيد الذي سجل في أكثر من 15 مواسم متتالية من الدوري الإسباني. [ 12 ] اُختير ضمن تشكيلة العام للفيفا عشر مرات، وهو الرقم القياسي للمدافعين والثالث على الإطلاق، واُختير لجائزة اليويفا لأفضل فريق ثماني مرات، وهو أيضًا رقم قياسي للمدافعين والثالث على الإطلاق. كما أنه حصل على جائزة أفضل مدافع في الدوري الإسباني برقم قياسي وهو خمس مرات، وكان ضمن فريق الدوري الإسباني لموسم 2015–16 .
 
 ### Arabic Achievements
-_No honours section found._
+- مع ريال مدريد: الدوري الإسباني
+- مع باريس سان جيرمان: الدوري الفرنسي
+- مع إسبانيا: كأس العالم
+- مع إسبانيا تحت 19 سنة: بطولة أمم أوروبا تحت 19 سنة
+- الفردية: أفضل لاعب صاعد في الدوري الاسباني
+- مع ريال مدريد: كأس السوبر الإسباني
+- مع ريال مدريد: كأس ملك إسبانيا
+- مع ريال مدريد: دوري أبطال أوروبا
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 127
+- Senior national team goals total: 23
+- Senior career goals total: 150
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2003 | إشبيلية أتلتيكو | 26 | 2 |
+| 2003–2023 | إشبيلية | 87 | 10 |
+| 2005–2020 | ريال مدريد | 671 | 101 |
+| 2021–2022 | باريس سان جيرمان | 58 | 6 |
+| 2024–2025 | مونتيري | 34 | 8 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002 | إسبانيا تحت 16 | 1 | 0 |
+| 2003 | إسبانيا تحت 17 | 1 | 0 |
+| 2004 | إسبانيا تحت 19 | 7 | 0 |
+| 2004 | إسبانيا تحت 21 | 6 | 0 |
+| 2005–2021 | إسبانيا | 180 | 23 |

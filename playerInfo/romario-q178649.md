@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q178649
-- Generated At (UTC): 2026-07-13T08:52:22+00:00
+- Generated At (UTC): 2026-07-13T12:08:56+00:00
 - English Name: Romário
 - Arabic Name: روماريو
 - Birth Year: 1966
@@ -46,22 +46,16 @@ _No honours section found._
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1985–1988 | Vasco da Gama | 141 | 80 |
-| 1988–1993 | PSV Eindhoven | 110 | 98 |
-| 1993–1995 | Barcelona | 46 | 34 |
-| 1995–1996 | Flamengo | 59 | 60 |
-| 1996–1997 | Valencia | 11 | 5 |
-| 1997 | Flamengo | 22 | 21 |
-| 1998–1999 | Flamengo | 65 | 34 |
-| 2000–2002 | Vasco da Gama | 73 | 79 |
-| 2002–2004 | Fluminense | 73 | 45 |
-| 2003 | Al Sadd | 3 | 0 |
-| 2005–2006 | Vasco da Gama | 50 | 35 |
-| 2006 | Miami FC | 25 | 19 |
+| 1985–2007 | Vasco da Gama | 349 | 266 |
+| 1988–1992 | PSV | 149 | 128 |
+| 1993–1994 | Barcelona | 65 | 39 |
+| 1995–1999 | Flamengo | 209 | 184 |
+| 1996–1997 | Valencia | 12 | 6 |
+| 2002–2004 | Fluminense | 75 | 47 |
+| 2002 | Al-Sadd (loan) | 3 | 0 |
+| 2006 | Miami FC | 26 | 19 |
 | 2006 | Adelaide United | 4 | 1 |
-| 2007 | Vasco da Gama | 15 | 13 |
 | 2009 | America-RJ | 1 | 0 |
-| Total | Total | 698 | 542 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -86,12 +80,27 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 690
+- Senior national team goals total: 55
+- Senior career goals total: 745
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1985–2007 | فاسكو دا غاما | 349 | 266 |
+| 1988–1992 | بي إس في آيندهوفن | 149 | 128 |
+| 1993–1994 | برشلونة | 65 | 39 |
+| 1995–1999 | فلامنغو | 209 | 184 |
+| 1996–1997 | فالنسيا | 12 | 6 |
+| 2002–2004 | فلومينينسي | 75 | 47 |
+| 2002 | السد (إعارة) | 3 | 0 |
+| 2006 | ميامي إف سي | 26 | 19 |
+| 2006 | أديلايد يونايتد | 4 | 1 |
+| 2009 | أمريكا-آر جيه | 1 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1985 | البرازيل تحت 20 سنة | 11 | 11 |
+| 1988 | البرازيل تحت 23 سنة | 7 | 8 |
+| 1987–2005 | البرازيل | 70 | 55 |

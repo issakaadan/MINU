@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q257116
-- Generated At (UTC): 2026-07-13T08:55:31+00:00
+- Generated At (UTC): 2026-07-13T12:12:00+00:00
 - English Name: Emerich Vogl
 - Arabic Name: إميريتش فوغل
 - Birth Year: 1905
@@ -32,10 +32,7 @@
 Emerich Vogl (12 August 1905 – 29 October 1971) was a Romanian football player and coach of Banat Swabian ethnicity, who was a member of the Romania national team that participated in the 1930 World Cup in Uruguay and the 1934 edition in Italy .
 
 ### English Achievements
-- With Chinezul Timișoara: Divizia A
-- With Juventus București: Divizia A
-- With Romania: Balkan Cup
-- With Romania: Central European International Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 30
@@ -66,12 +63,16 @@ Emerich Vogl (12 August 1905 – 29 October 1971) was a Romanian football player
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 56
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 56
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1922–1929 | تشينزول تيميشوارا | 31 | 21 |
+| 1929–1940 | بترولول بلويشتي | 106 | 7 |
+| - | مجموع | 137 | 28 |
 
 ### Arabic National Team Stats
 _No rows found._

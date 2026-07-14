@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1365312
-- Generated At (UTC): 2026-07-13T08:53:17+00:00
+- Generated At (UTC): 2026-07-13T12:09:54+00:00
 - English Name: Takuya Takagi
 - Arabic Name: تاكويا تاكاغي
 - Birth Year: 1967
@@ -34,9 +34,7 @@ Takuya Takagi ( 高木 琢也 , Takagi Takuya ; born November 12, 1967) is a Jap
 His son Toshiya is also a footballer.
 
 ### English Achievements
-- With Japan: 1992 Asian Cup
-- Individual: Dynasty Cup top scorer
-- With Japan: Dynasty Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 90
@@ -46,11 +44,11 @@ His son Toshiya is also a footballer.
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1990–1991 | Fujita Industries | 15 | 3 |
-| 1991–1997 | Sanfrecce Hiroshima | 173 | 62 |
-| 1998–1999 | Verdy Kawasaki | 40 | 11 |
-| 2000 | Consadole Sapporo | 17 | 0 |
-| Total | Total | 245 | 76 |
+| 1990 | Fujita Industries | 15 | 3 |
+| 1991 | Mazda | 22 | 9 |
+| 1992–1997 | Sanfrecce Hiroshima | 179 | 65 |
+| 1998–1999 | Verdy Kawasaki | 47 | 12 |
+| 2000 | Consadole Sapporo | 21 | 1 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -71,12 +69,20 @@ His son Toshiya is also a footballer.
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 152
+- Senior national team goals total: 27
+- Senior career goals total: 179
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1990–1991 | شونان بلمار | 15 | 3 |
+| 1991–1997 | سانفريس هيروشيما | 173 | 62 |
+| 1998–1999 | طوكيو فيردي | 40 | 11 |
+| 2000 | هوكايدو كونسادول سابورو | 17 | 0 |
+| - | مجموع | 245 | 76 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1992–1997 | اليابان | 44 | 27 |

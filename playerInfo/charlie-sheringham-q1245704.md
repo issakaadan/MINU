@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1245704
-- Generated At (UTC): 2026-07-13T08:56:16+00:00
+- Generated At (UTC): 2026-07-13T12:12:44+00:00
 - English Name: Charlie Sheringham
 - Arabic Name: تشارلي شيرنغهام
 - Birth Year: 1988
@@ -32,7 +32,7 @@
 Charles Edward William Sheringham (born 17 April 1988) is an English professional footballer who plays as a striker for Southern Counties East League Premier Division club Snodland Town . He is the son of former England forward Teddy Sheringham .
 
 ### English Achievements
-- FA Youth Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 169
@@ -84,12 +84,33 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 141
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 141
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006–2008 | كريستال بالاس | 0 | 0 |
+| 2007 | [الإنجليزية] | 9 | 1 |
+| 2008 | كامبريدج ستي | 5 | 6 |
+| 2008–2009 | ويلينج يونايتد | 39 | 19 |
+| 2009–2010 | بيشوب ستورتفورد | 28 | 17 |
+| 2010 | [الإنجليزية] | 15 | 0 |
+| 2010–2011 | دارتفورد | 46 | 30 |
+| 2011–2013 | بورنموث | 6 | 1 |
+| 2013 | دارتفورد | 10 | 4 |
+| 2013–2014 | إيه أف سي ويمبلدون | 15 | 1 |
+| 2014 | سالزبري سيتي | 9 | 5 |
+| 2014–2017 | إبسفليت يونايتد | 49 | 11 |
+| 2014–2015 | بيشوب ستورتفورد | 4 | 1 |
+| 2017 | هيميل هيمبستيد تاون | 11 | 9 |
+| 2017 | هيميل هيمبستيد تاون | 16 | 6 |
+| 2017–2018 | [الإنجليزية] | 10 | 6 |
+| 2018 | هيميل هيمبستيد تاون | 4 | 0 |
+| 2018–2021 | دارتفورد | 45 | 17 |
+| 2020 | ليذرهيد | 3 | 2 |
+| 2020–2021 | تشيلمسفورد | 4 | 5 |
 
 ### Arabic National Team Stats
 _No rows found._

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1030341
-- Generated At (UTC): 2026-07-13T08:55:59+00:00
+- Generated At (UTC): 2026-07-13T12:12:28+00:00
 - English Name: Roberto Telch
 - Arabic Name: روبرتو تلتش
 - Birth Year: 1943
@@ -32,9 +32,7 @@
 Roberto "Oveja" Telch (6 November 1943 – 12 October 2014) was an Argentine footballer who played as a midfielder . He was born in San Vicente , Córdoba , and won four league championships with San Lorenzo in Argentina and represented the Argentina national football team at the 1974 FIFA World Cup . He died in Buenos Aires of a heart attack . [ 1 ]
 
 ### English Achievements
-- Primera División Argentina
-- Taça das Nações
-- Copa Argentina Final Canceled
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 27
@@ -66,12 +64,19 @@ Roberto "Oveja" Telch (6 November 1943 – 12 October 2014) was an Argentine foo
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 54
+- Senior national team goals total: 2
+- Senior career goals total: 56
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1962–1975 | سان لورينزو | 413 | 25 |
+| 1976–1979 | يونيون دي سانتا في | 189 | 2 |
+| 1980 | أتليتيكو كولون | 29 | 0 |
+| - | مجموع | 631 | 27 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1964–1974 | الأرجنتين | 24 | 2 |

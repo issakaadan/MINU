@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1255625
-- Generated At (UTC): 2026-07-13T08:50:21+00:00
+- Generated At (UTC): 2026-07-13T12:07:25+00:00
 - English Name: Samuel Eto'o
 - Arabic Name: صامويل إيتو
 - Birth Year: 1981
@@ -34,14 +34,7 @@ Samuel Eto'o Fils ( French pronunciation: [samɥɛl eto fis] ; born 10 March 198
 A precocious talent, Eto'o moved to Real Madrid as a 16 year old. Due to competition in his position with more experienced players, he had several loan spells, before signing for Mallorca in 2000 where he scored 70 goals, a club record . [ 7 ] His impressive form saw him join Barcelona in 2004 where he scored 130 goals in five seasons and also became the record holder for the most appearances by an African player in La Liga . [ 8 ] Winning La Liga three times, he was a key member of the Barcelona attack, alongside Ronaldinho , that won the 2006 UEFA Champions League Final , with Eto'o scoring in the final, and was part of a front three of Lionel Messi and Thierry Henry that won the 2009 UEFA Champions League Final , with Eto'o again scoring in the final. He is the second player in history to score in two UEFA Champions League finals. [ 9 ] At Barcelona, Eto'o came in third for the FIFA World Player of the Year in 2005 and was twice named in the FIFA FIFPro World XI , in 2005 and 2006.
 
 ### English Achievements
-- With Mallorca: Copa del Rey
-- With Barcelona: La Liga
-- With Inter Milan: Serie A
-- With Cameroon: African Cup of Nations
-- Individual: Young African Player of the Year
-- Records: African Cup of Nations all-time top goalscorer
-- With Barcelona: Copa del Rey
-- With Barcelona: Supercopa de España
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 371
@@ -51,21 +44,19 @@ A precocious talent, Eto'o moved to Real Madrid as a 16 year old. Due to competi
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1997–2000 | Real Madrid | 3 | 0 |
-| 1997–1998 | Leganés | 28 | 3 |
-| 1999 | Espanyol | 0 | 0 |
-| 2000 | Mallorca | 13 | 6 |
-| 2000–2004 | Mallorca | 120 | 48 |
-| 2004–2009 | Barcelona | 144 | 108 |
-| 2009–2011 | Inter Milan | 67 | 33 |
-| 2011–2013 | Anzhi Makhachkala | 53 | 25 |
-| 2013–2014 | Chelsea | 21 | 9 |
-| 2014–2015 | Everton | 14 | 3 |
-| 2015 | Sampdoria | 18 | 2 |
-| 2015–2018 | Antalyaspor | 76 | 44 |
-| 2018 | Konyaspor | 13 | 6 |
-| 2018–2019 | Qatar SC | 17 | 6 |
-| Total | Total | 587 | 293 |
+| 1997 | Leganés (loan) | 30 | 4 |
+| 1998–2000 | Real Madrid | 7 | 0 |
+| 1998 | Espanyol (loan) | 1 | 0 |
+| 1999–2003 | Mallorca | 165 | 70 |
+| 2004–2008 | Barcelona | 199 | 130 |
+| 2009–2011 | Inter Milan | 102 | 53 |
+| 2011–2013 | Anzhi Makhachkala | 73 | 36 |
+| 2013 | Chelsea | 35 | 12 |
+| 2014 | Everton | 20 | 4 |
+| 2014 | Sampdoria | 18 | 2 |
+| 2015–2017 | Antalyaspor | 77 | 44 |
+| 2017 | Konyaspor | 18 | 6 |
+| 2018 | Qatar SC | 23 | 10 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -84,15 +75,39 @@ A precocious talent, Eto'o moved to Real Madrid as a 16 year old. Due to competi
 كموهبة واعدة، انتقل إيتو إلى ريال مدريد وهو في سن السادسة عشرة من عمره. بسبب المنافسة في مركزه مع لاعبين أكثر خبرة، حصل على العديد من فترات الإعارة، قبل التوقيع مع مايوركا في عام 2000 حيث سجل 70 هدفًا. أداه المثير للإعجاب جعله ينضم إلى برشلونة في عام 2004 حيث سجل 130 هدفًا في خمسة مواسم وأصبح أيضًا حامل الرقم القياسي لأكبر عدد من المشاركة من قبل اللاعبين الأفارقة في الدوري الإسباني. [ 9 ] بعد فوزه بالدوري ثلاث مرات، كان لاعبًا أساسيًا في هجوم برشلونة، جنبًا إلى جنب مع رونالدينيو ، عندما فازوا بدوري أبطال أوروبا 2005–06 ، وسجل إيتو في المباراة النهائية ، وكان جزءًا من ثلاثي الهجوم بجانب ليونيل ميسي وتييري هنري عندما فازو بدوري أبطال أوروبا 2008–09 ، وسجل إيتو مرة أخرى في المباراة النهائية . وهو ثاني لاعب في التاريخ يسجل في نهائيين في دوري أبطال أوروبا . في برشلونة، حل إيتو في المركز الثالث في جائزة أفضل لاعب في العالم لعام 2005 وتم تسميته اختياره ضمن تشكيلة الفيفا السنوية "فيفبرو" في عامي 2005 و2006.
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي مايوركا: كأس ملك إسبانيا
+- مع النادي برشلونة: الدوري الإسباني
+- مع النادي إنتر ميلان: الدوري الإيطالي
+- مع المنتخب الكاميرون: كأس الأمم الأفريقية
+- الفردية: جائزة أفضل لاعب أفريقي شاب
+- مع الأرقام القياسية: الهداف التاريخي لكأس الأمم الأفريقية
+- مع النادي برشلونة: كأس ملك إسبانيا
+- مع النادي برشلونة: كأس السوبر الإسباني
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 371
+- Senior national team goals total: 56
+- Senior career goals total: 427
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997 | ليغانيس (إعارة) | 30 | 4 |
+| 1998–2000 | ريال مدريد | 7 | 0 |
+| 1998 | إسبانيول (إعارة) | 1 | 0 |
+| 1999–2003 | مايوركا | 165 | 70 |
+| 2004–2008 | برشلونة | 199 | 130 |
+| 2009–2011 | إنتر ميلان | 102 | 53 |
+| 2011–2013 | أنجي محج قلعة | 73 | 36 |
+| 2013 | تشيلسي | 35 | 12 |
+| 2014 | إيفرتون | 20 | 4 |
+| 2014 | سامبدوريا | 18 | 2 |
+| 2015–2017 | أنطاليا سبور | 77 | 44 |
+| 2017 | قونيا سبور | 14 | 6 |
+| 2018 | قطر | 23 | 10 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000 | الكاميرون تحت 23 سنة | 6 | 1 |
+| 1997–2014 | الكاميرون | 118 | 56 |

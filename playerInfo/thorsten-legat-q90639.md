@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q90639
-- Generated At (UTC): 2026-07-13T08:57:01+00:00
+- Generated At (UTC): 2026-07-13T12:13:27+00:00
 - English Name: Thorsten Legat
 - Arabic Name: توسن ليغات
 - Birth Year: 1968

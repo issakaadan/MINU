@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q60545
-- Generated At (UTC): 2026-07-13T08:53:01+00:00
+- Generated At (UTC): 2026-07-13T12:09:37+00:00
 - English Name: Moussa Sissoko
 - Arabic Name: موسى سيسوكو
 - Birth Year: 1989
@@ -34,12 +34,7 @@ Moussa Sissoko (born 16 August 1989) is a French professional footballer who pla
 Sissoko began his football career playing for local youth clubs in the Île-de-France region , such as Espérance Aulnay and Red Star . In 2002, he moved south to join professional club Toulouse . Sissoko spent four years in the club's youth academy and made his professional debut in the 2007–08 season , as well as making his UEFA Champions League debut. In the following season, Sissoko earned award nominations for his performances and also helped Toulouse qualify for the newly created UEFA Europa League . He eventually joined Newcastle United in the Premier League in 2013, before moving on to Tottenham Hotspur in 2016 following Newcastle's relegation from the top flight. At Tottenham, Sissoko finished runner-up in the 2016–17 Premier League and started the 2019 UEFA Champions League final . After departing Tottenham in 2021, he spent a season at Watford before joining Nantes in 2022.
 
 ### English Achievements
-- With Tottenham Hotspur: EFL Cup runner-up
-- With Nantes: Coupe de France runner-up
-- With France: UEFA European Championship runner-up
-- Individual: UEFA Champions League Squad of the Season
-- With Tottenham Hotspur: UEFA Champions League runner-up
-- Individual: Tottenham Hotspur Legends' Player of the Season
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 51
@@ -49,13 +44,12 @@ Sissoko began his football career playing for local youth clubs in the Île-de-F
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2007–2013 | Toulouse | 192 | 20 |
-| 2013–2016 | Newcastle United | 118 | 11 |
-| 2016–2021 | Tottenham Hotspur | 141 | 3 |
-| 2021–2022 | Watford | 36 | 2 |
-| 2022–2024 | Nantes | 56 | 2 |
-| 2024–2026 | Watford | 60 | 6 |
-| 2026– | Panathinaikos | 4 | 0 |
+| 2007–2012 | Toulouse | 218 | 24 |
+| 2012–2015 | Newcastle United | 133 | 12 |
+| 2016–2020 | Tottenham Hotspur | 202 | 5 |
+| 2021–2025 | Watford | 99 | 8 |
+| 2022–2023 | Nantes | 72 | 2 |
+| 2025 | Panathinaikos | 3 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -83,12 +77,25 @@ Sissoko began his football career playing for local youth clubs in the Île-de-F
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 37
+- Senior national team goals total: 2
+- Senior career goals total: 39
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2007–2013 | تولوز | 192 | 20 |
+| 2013–2016 | نيوكاسل يونايتد | 118 | 11 |
+| 2016–2021 | توتنهام هوتسبير | 141 | 3 |
+| 2021–2022 | واتفورد | 36 | 2 |
+| 2022– | نانت | 9 | 1 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005 | فرنسا تحت 16 | 2 | 0 |
+| 2005–2006 | فرنسا تحت 17 | 9 | 2 |
+| 2006–2007 | فرنسا تحت 18 | 8 | 0 |
+| 2007–2008 | فرنسا تحت 19 | 7 | 0 |
+| 2008–2011 | فرنسا تحت 21 | 20 | 1 |
+| 2009– | فرنسا | 71 | 2 |

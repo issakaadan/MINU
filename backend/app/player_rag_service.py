@@ -19,11 +19,14 @@ FILLER_WORDS = {
     },
     "ar": {
         "اللاعب", "النادي", "الأندية", "الانديه", "الفريق", "الفرق", "هل", "كم", "وش", "شنو",
-        "ايش", "إيش", "اي", "أي", "في", "مع", "له", "على", "من", "الى", "إلى", "ل",
+        "ايش", "إيش", "اي", "أي", "اللي", "التي", "شي", "في", "مع", "له", "على", "من", "الى", "إلى", "ل",
         "لعب", "يلعب", "سجل", "هدف", "أهداف", "اهداف", "عن", "هذا", "ذلك",
     },
 }
-YOUTH_TEAM_PATTERN = re.compile(r"\bU(?:17|18|19|20|21|23)\b|under-\d+|\bolympic\b|\bamateur\b|\bB\b|\bC\b|الأولمبي|الشباب", re.IGNORECASE)
+YOUTH_TEAM_PATTERN = re.compile(
+    r"\bU(?:17|18|19|20|21|23)\b|under[- ]?\d+|\bolympic\b|\bamateur\b|\bB\b|\bC\b|b team|c team|reserve|reserves|الأولمبي|الشباب|(?:\s|^)[بج](?:\s|$)",
+    re.IGNORECASE,
+)
 
 
 @dataclass(frozen=True)
@@ -108,7 +111,13 @@ def fuzzy_token_match(left: str, right: str) -> bool:
         return True
     if len(left) >= 4 and len(right) >= 4 and (left in right or right in left):
         return True
-    return SequenceMatcher(None, left, right).ratio() >= 0.8
+    minimum_length = min(len(left), len(right))
+    if minimum_length < 3:
+        return False
+    ratio = SequenceMatcher(None, left, right).ratio()
+    if minimum_length == 3:
+        return ratio >= 0.9
+    return ratio >= 0.84
 
 
 def token_overlap(query_tokens: list[str], candidate_tokens: tuple[str, ...]) -> int:
@@ -360,6 +369,33 @@ def _answer_direct(
                 source_title="Arabic Introduction" if language == "ar" else "English Introduction",
                 source_language=language,
                 source_excerpt=summary,
+            )
+
+    if _looks_like_club_history_query(normalized_question):
+        club_rows = _load_stat_rows(document, language, "club")
+        mentions_youth = _question_mentions_youth_team(normalized_question)
+        clubs: list[str] = []
+        seen: set[str] = set()
+        for row in club_rows:
+            team_name = clean_text(str(row.get("team", "") or ""))
+            if not team_name:
+                continue
+            if _row_is_youth_team(team_name) and not mentions_youth:
+                continue
+            normalized_team = normalize_text(team_name)
+            if not normalized_team or normalized_team in seen:
+                continue
+            seen.add(normalized_team)
+            clubs.append(team_name)
+        if clubs:
+            prefix = "تسلسل الأندية" if language == "ar" else "Club history"
+            answer = f"{prefix}: {' - '.join(clubs)}."
+            return PlayerRagAnswer(
+                answer=answer,
+                source_kind="club_stats",
+                source_title="Arabic Club Career Stats" if language == "ar" else "English Club Career Stats",
+                source_language=language,
+                source_excerpt=answer,
             )
 
     if _looks_like_achievement_query(normalized_question):
@@ -697,12 +733,39 @@ def _looks_like_achievement_query(normalized_question: str) -> bool:
             "achievement", "achievements", "honour", "honors", "honours", "award", "awards", "ballon",
             "record", "records", "milestone", "لقب", "القاب", "ألقاب", "بطول", "انجاز", "إنجاز",
             "جائزة", "جوائز", "رقم", "ارقام", "أرقام", "قياسي", "قياسية",
+            "حقق", "حققه", "ابرز", "أبرز", "اهم انجاز", "أهم إنجاز", "اهم شي حققه", "أهم شي حققه",
         )
     )
 
 
 def _looks_like_team_query(normalized_question: str) -> bool:
-    return any(marker in normalized_question for marker in ("for ", "with ", "at ", "مع ", "للنادي", "لـ", "لنادي"))
+    return bool(
+        any(marker in normalized_question for marker in ("for ", "with ", "at ", "مع ", "للنادي", "لـ", "لنادي"))
+        or re.search(r"(?:^|\s)[لب][اأإآء-ي]{3,}", normalized_question)
+    )
+
+
+def _looks_like_club_history_query(normalized_question: str) -> bool:
+    if any(
+        marker in normalized_question
+        for marker in (
+            "club history", "team history", "clubs did he play for", "teams did he play for",
+            "which clubs did he play for", "which teams did he play for", "where has he played",
+            "الانديه التي لعب لها", "الأندية التي لعب لها", "الفرق التي لعب لها",
+            "الفرق اللي لعب لها", "التيمات التي لعب لها", "التيمات اللي لعب لها",
+            "كل الاندية", "كل الأندية", "كل الفرق", "كل التيمات",
+            "تسلسل الاندية", "تسلسل الأندية", "تسلسل الفرق", "تسلسل التيمات",
+            "الفرق اللي مر عليها", "وش الفرق اللي مر عليها", "وش الأندية اللي مر عليها",
+        )
+    ):
+        return True
+
+    has_team_marker = any(
+        marker in normalized_question
+        for marker in ("clubs", "teams", "اندية", "أندية", "الاندية", "الأندية", "نوادي", "فرق", "التيمات", "تيمات")
+    )
+    has_history_marker = any(marker in normalized_question for marker in ("play", "played", "لعب", "يلعب", "مر", "تنقل", "مثل"))
+    return has_team_marker and has_history_marker
 
 
 def _looks_like_national_query(normalized_question: str) -> bool:
@@ -718,6 +781,7 @@ def _should_use_search_fallback(normalized_question: str) -> bool:
             "born", "country", "position", "stats", "record", "records", "مسيره", "مسير", "نبذه", "نبذة",
             "هدف", "اهداف", "أهداف", "انجاز", "إنجاز", "جائزة", "جوائز", "لعب", "نادي", "أندية", "المنتخب",
             "منتخب", "اعتزل", "حي", "مواليد", "مركز", "احصائيات", "إحصائيات", "رقم قياسي", "أرقام قياسية",
+            "مر", "مر عليها", "حقق", "حققه", "تيمات",
         )
     )
 

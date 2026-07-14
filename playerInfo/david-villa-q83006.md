@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q83006
-- Generated At (UTC): 2026-07-13T08:51:24+00:00
+- Generated At (UTC): 2026-07-13T12:08:12+00:00
 - English Name: David Villa
 - Arabic Name: دافيد فيا
 - Birth Year: 1981
@@ -36,33 +36,25 @@ Nicknamed El Guaje ( The Kid in Asturian ) due to a reputation of playing footba
 After a five-season tenure in Valencia where Villa elevated into one of the best players in La Liga, he signed for Barcelona for €40 million in 2010. In his first season, he won his first La Liga and UEFA Champions League titles, scoring in the 2011 final . He left the club in 2013 after transferring to Atlético Madrid , where he won another La Liga title and reached the 2014 UEFA Champions League final . After a single season in the Spanish capital, Villa departed to join new MLS franchise New York City , where he became the club's record goalscorer and appearance maker, winning the MLS MVP Award for best player in 2016. [ 11 ] In 2018, Villa announced his departure from New York, to join Vissel Kobe in Japan before retiring in 2020. [ 12 ]
 
 ### English Achievements
-- With Zaragoza: Copa del Rey
-- With Valencia: Copa del Rey
-- With Barcelona: La Liga
-- With Atlético Madrid: La Liga
-- With Vissel Kobe: Emperor's Cup
-- With Spain: FIFA World Cup
-- Individual: FIFA FIFPro World11
-- With Achievements: Valencia Top Scorer
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 382
+- Club goals total: 368
 - Senior national team goals total: 60
-- Senior career goals total: 442
+- Senior career goals total: 428
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
 | 2000–2001 | Sporting Gijón B | 36 | 14 |
-| 2001–2003 | Sporting Gijón | 80 | 38 |
-| 2003–2005 | Real Zaragoza | 73 | 32 |
-| 2005–2010 | Valencia [ 2 ] [ 3 ] | 166 | 108 |
-| 2010–2013 | Barcelona | 77 | 33 |
-| 2013–2014 | Atlético Madrid | 36 | 13 |
-| 2014–2018 | New York City FC | 117 | 77 |
-| 2014 | Melbourne City | 4 | 2 |
-| 2019–2020 | Vissel Kobe | 28 | 13 |
-| Total | Total | 617 | 330 |
+| 2000–2002 | Sporting Gijón | 85 | 41 |
+| 2003–2004 | Zaragoza | 94 | 39 |
+| 2005–2009 | Valencia | 225 | 130 |
+| 2010–2012 | Barcelona | 119 | 48 |
+| 2013 | Atlético Madrid | 47 | 15 |
+| 2014 | Melbourne City (loan) | 4 | 2 |
+| 2015–2018 | New York City FC | 126 | 80 |
+| 2019 | Vissel Kobe | 29 | 13 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -84,15 +76,36 @@ After a five-season tenure in Valencia where Villa elevated into one of the best
 وبعد خمسة مواسم مع فالنسيا أصبح خلالها من أبرز لاعبي الدوري الإسباني، وقع دافيد مع برشلونة عام 2010 مقابل 40 مليون يورو. وفي موسمه الأول فاز بلقب الدوري الإسباني ودوري أبطال أوروبا ، وسجل في نهائي 2011. غادر النادي عام 2013 بعد انتقاله إلى أتلتيكو مدريد ، حيث توّج بلقب الدوري الإسباني ووصل إلى نهائي دوري أبطال أوروبا 2014 . وبعد موسم واحد في العاصمة الإسبانية، غادر دافيد للانضمام إلى نادي نيويورك سيتي في الدوري الأمريكي لكرة القدم ، حيث أصبح الهدّاف التاريخي للنادي وأكثر من مثّل الفريق في المباريات، وفاز بجائزة أفضل لاعب في الدوري عام 2016. [ 8 ] وفي 2018 أعلن مغادرته لنيويورك من أجل الانضمام إلى فيسيل كوبه في اليابان قبل اعتزاله عام 2020. [ 9 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع ريال سرقسطة: كأس ملك إسبانيا
+- مع فالنسيا: كأس ملك إسبانيا
+- مع برشلونة: الدوري الإسباني
+- مع أتلتيكو مدريد: الدوري الإسباني
+- مع فيسيل كوبه: كأس الإمبراطور
+- مع إسبانيا: كأس العالم
+- الفردية: فيفبرو
+- مع ريال سرقسطة: كأس السوبر الإسباني
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 368
+- Senior national team goals total: 60
+- Senior career goals total: 428
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000–2001 | سبورتينغ خيخون ب | 36 | 14 |
+| 2000–2002 | ريال سبورتينغ خيخون | 85 | 41 |
+| 2003–2004 | ريال سرقسطة | 94 | 39 |
+| 2005–2009 | فالنسيا | 225 | 130 |
+| 2010–2012 | برشلونة | 119 | 48 |
+| 2013 | أتلتيكو مدريد | 47 | 15 |
+| 2014 | ملبورن سيتي (إعارة) | 4 | 2 |
+| 2015–2018 | نيويورك سيتي | 126 | 80 |
+| 2019 | فيسيل كوبه | 29 | 13 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001–2002 | منتخب أشتورية لكرة القدم المستقل [الإنجليزية] | 2 | 1 |
+| 2002–2003 | إسبانيا تحت 21 | 7 | 0 |
+| 2005–2017 | إسبانيا | 98 | 59 |

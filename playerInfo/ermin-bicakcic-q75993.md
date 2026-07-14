@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q75993
-- Generated At (UTC): 2026-07-13T08:54:18+00:00
+- Generated At (UTC): 2026-07-13T12:10:49+00:00
 - English Name: Ermin Bičakčić
 - Arabic Name: إرمين بيتشاكتشيتش
 - Birth Year: 1990
@@ -46,12 +46,11 @@ _No honours section found._
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2010–2012 | VfB Stuttgart II | 23 | 0 |
-| 2010–2012 | VfB Stuttgart | 1 | 0 |
-| 2012–2014 | Eintracht Braunschweig | 79 | 5 |
-| 2014–2023 | TSG Hoffenheim | 130 | 6 |
-| 2023–2025 | Eintracht Braunschweig | 54 | 6 |
-| 2026 | Željezničar | 15 | 1 |
+| 2009–2011 | VfB Stuttgart II | 23 | 0 |
+| 2010–2011 | VfB Stuttgart | 6 | 1 |
+| 2011–2024 | Eintracht Braunschweig | 139 | 11 |
+| 2014–2022 | TSG Hoffenheim | 147 | 7 |
+| 2025 | Željezničar | 16 | 1 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |

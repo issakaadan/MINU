@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q3573075
-- Generated At (UTC): 2026-07-13T08:53:26+00:00
+- Generated At (UTC): 2026-07-13T12:10:02+00:00
 - English Name: Yu Kobayashi
 - Arabic Name: يو كوباياشي
 - Birth Year: 1987
@@ -32,13 +32,7 @@
 Yū Kobayashi ( 小林 悠 , Kobayashi Yū ; born 23 September 1987) is a Japanese football player currently playing for Kawasaki Frontale and the Japan national team . [ 2 ]
 
 ### English Achievements
-- With Kawasaki Frontale: J1 League
-- Individual [ edit ]: J.League Player of the Year
-- With Kawasaki Frontale: Emperor's Cup
-- With Kawasaki Frontale: J.League Cup
-- With Kawasaki Frontale: Japanese Super Cup
-- Individual [ edit ]: J.League Top Scorer
-- Individual [ edit ]: J.League Best XI
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 178
@@ -68,12 +62,17 @@ Yū Kobayashi ( 小林 悠 , Kobayashi Yū ; born 23 September 1987) is a Japane
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 130
+- Senior national team goals total: 2
+- Senior career goals total: 132
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008 | ميتو هوليهوك | 5 | 0 |
+| 2010– | كاواساكي فرونتال | 319 | 130 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2014–2018 | اليابان | 14 | 2 |

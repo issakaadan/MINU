@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q246379
-- Generated At (UTC): 2026-07-13T08:55:52+00:00
+- Generated At (UTC): 2026-07-13T12:12:21+00:00
 - English Name: Mark Delaney
 - Arabic Name: مارك ديلاني
 - Birth Year: 1976
@@ -32,9 +32,7 @@
 Mark Anthony Delaney (born 13 May 1976) is a Welsh former professional footballer . He played for Carmarthen Town , Cardiff City and Aston Villa as a right-back . He is also a former member of the Wales national team , gaining 36 caps during his career. In doing so, he became the first player to progress from the Cymru Premier to the senior national side. [ 2 ]
 
 ### English Achievements
-- With Aston Villa: UEFA Intertoto Cup
-- Individual: PFA Team of the Year
-- With Aston Villa: FA Cup runner-up
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 6
@@ -44,10 +42,9 @@ Mark Anthony Delaney (born 13 May 1976) is a Welsh former professional footballe
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1995–1998 | Carmarthen Town | 58 | 3 |
-| 1998–1999 | Cardiff City | 28 | 0 |
-| 1999–2007 | Aston Villa | 158 | 2 |
-| Total | Total | 244 | 5 |
+| 1996–1997 | Carmarthen Town | 58 | 3 |
+| 1998 | Cardiff City | 40 | 1 |
+| 1998–2006 | Aston Villa | 193 | 2 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -70,12 +67,19 @@ Mark Anthony Delaney (born 13 May 1976) is a Welsh former professional footballe
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 10
+- Senior national team goals total: 0
+- Senior career goals total: 10
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1995–1998 | كرمرذن تون [الإنجليزية] | 58 | 3 |
+| 1998–1999 | كارديف سيتي | 28 | 0 |
+| 1999–2007 | أستون فيلا | 158 | 2 |
+| - | مجموع | 244 | 5 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1999–2006 | ويلز | 36 | 0 |

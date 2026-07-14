@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q377163
-- Generated At (UTC): 2026-07-13T08:56:24+00:00
+- Generated At (UTC): 2026-07-13T12:12:51+00:00
 - English Name: Eric Orie
 - Arabic Name: إريك أوري
 - Birth Year: 1968
@@ -32,8 +32,7 @@
 Eric Alexander Orie (born 25 January 1968) [ 1 ] is a Dutch football manager. [ 2 ]
 
 ### English Achievements
-- With Manager: Liechtenstein Football Cup (2)
-- Individual: Liechtensteiner Coach of the Year (1)
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 11
@@ -70,12 +69,24 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 11
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 11
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1989–1990 | رابطة أوتريخت الرياضية إلينكويك [لغات أخرى] | 10 | 0 |
+| 1990–1992 | في في في فينلو | 18 | 2 |
+| 1992–1993 | رابطة أوتريخت الرياضية إلينكويك [لغات أخرى] | 20 | 0 |
+| 1993 | أوستريا فيينا | 7 | 1 |
+| 1994 | أدميرا فاكر مودلينغ | 13 | 2 |
+| 1994–1995 | ريجيانا 1919 | 16 | 1 |
+| 1995–1996 | نادي سانت بولتن | 21 | 2 |
+| 1996 | بلاكبول | 0 | 0 |
+| 1997 | جيلا | 8 | 0 |
+| 1997–1998 | ASK Kottingbrunn | 12 | 2 |
+| 1998–2002 | FC Lustenau | 34 | 1 |
 
 ### Arabic National Team Stats
 _No rows found._

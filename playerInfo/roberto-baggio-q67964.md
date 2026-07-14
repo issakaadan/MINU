@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q67964
-- Generated At (UTC): 2026-07-13T08:50:24+00:00
+- Generated At (UTC): 2026-07-13T12:07:27+00:00
 - English Name: Roberto Baggio
 - Arabic Name: روبرتو باجو
 - Birth Year: 1967
@@ -36,14 +36,7 @@ In 1999, Baggio came fourth in the FIFA Player of the Century internet poll, [ 2
 Baggio played for Italy in 56 matches and is the joint fourth-highest goalscorer for his national team. He starred in the Italian team that finished third in the 1990 FIFA World Cup . At the 1994 World Cup , he led Italy to the final , received the World Cup Silver Ball and was named in the World Cup All-Star Team . Although he was the star performer for Italy at the tournament, he missed the decisive penalty in the shootout of the final against Brazil . [ 7 ] Baggio is the only Italian to score in three World Cups , and with nine goals holds the record for most goals scored in World Cup tournaments for Italy , along with Paolo Rossi and Christian Vieri . [ 23 ]
 
 ### English Achievements
-- With Juventus: Serie A
-- With AC Milan: Serie A
-- With Italy: FIFA World Cup Runner-Up
-- Individual: Guerin d'Oro ( Serie C Best Player)
-- With Juventus: Coppa Italia
-- With Juventus: UEFA Cup
-- Individual: Bravo Award
-- Individual: UEFA Cup Winners' Cup Top Scorer
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 291
@@ -53,14 +46,13 @@ Baggio played for Italy in 56 matches and is the joint fourth-highest goalscorer
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1982–1985 | Vicenza | 36 | 13 |
-| 1985–1990 | Fiorentina | 94 | 39 |
-| 1990–1995 | Juventus | 141 | 78 |
-| 1995–1997 | AC Milan | 51 | 12 |
-| 1997–1998 | Bologna | 30 | 22 |
-| 1998–2000 | Inter Milan | 41 | 9 |
-| 2000–2004 | Brescia | 95 | 45 |
-| Total | Total | 488 | 218 |
+| 1982–1984 | Vicenza | 47 | 16 |
+| 1985–1989 | Fiorentina | 136 | 55 |
+| 1990–1994 | Juventus | 200 | 115 |
+| 1995–1996 | AC Milan | 67 | 19 |
+| 1997 | Bologna | 33 | 23 |
+| 1998–1999 | Inter Milan | 59 | 17 |
+| 2000–2003 | Brescia | 101 | 46 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -84,12 +76,22 @@ Baggio played for Italy in 56 matches and is the joint fourth-highest goalscorer
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 291
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 291
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1982–1984 | فيتشنزا | 47 | 16 |
+| 1985–1989 | فيورنتينا | 136 | 55 |
+| 1990–1994 | يوفنتوس | 200 | 115 |
+| 1995–1996 | ميلان | 67 | 19 |
+| 1997 | بولونيا | 33 | 23 |
+| 1998–1999 | إنتر ميلان | 59 | 17 |
+| 2000–2003 | بريشيا | 101 | 46 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1984–1984 | إيطاليا تحت 16 سنة | 4 | 3 |

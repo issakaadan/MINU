@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q482931
-- Generated At (UTC): 2026-07-13T08:49:38+00:00
+- Generated At (UTC): 2026-07-13T12:06:52+00:00
 - English Name: Ferenc Puskás
 - Arabic Name: فيرينتس بوشكاش
 - Birth Year: 1927
@@ -32,14 +32,7 @@
 Ferenc Puskás [ pron 1 ] ( né Purczeld ; 1 April 1927 – 17 November 2006) was a Hungarian footballer and manager, widely regarded as one of the greatest players of all time, the greatest Hungarian footballer of all time, [ 5 ] and the sport's first international superstar. [ 6 ] A forward and an attacking midfielder, he scored 84 goals in 85 international matches for Hungary and later played four international matches for Spain as well. He is the European all-time top assist provider in international football (53). He became an Olympic champion in 1952 and led his nation to the final of the 1954 World Cup . He won three European Cups (1959, 1960, 1966), ten national championships (five Hungarian and five Spanish Primera División ) and eight top individual scoring honors. Known as the "Galloping Major", [ 7 ] in 1995, he was recognized as the greatest top division scorer of the 20th century by the IFFHS . [ 8 ] [ 9 ] [ 10 ] Scoring 802 goals in 792 official games during his career, he is the seventh top goal scorer of all time by the RSSSF . [ 11 ]
 
 ### English Achievements
-- With Budapest Honvéd: Nemzeti Bajnokság I
-- With Real Madrid: La Liga
-- With Hungary: Summer Olympics
-- Individual: Ballon d'Or Silver Award
-- With Panathinaikos: Alpha Ethniki
-- With Sol de América: Paraguayan Primera División
-- With South Melbourne Hellas: National Soccer League
-- With Real Madrid: Copa del Generalísimo
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 670
@@ -49,9 +42,8 @@ Ferenc Puskás [ pron 1 ] ( né Purczeld ; 1 April 1927 – 17 November 2006) wa
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1943–1956 | Budapest Honvéd [ i ] | 397 | 428 |
-| 1958–1966 | Real Madrid | 262 | 242 |
-| Total | Total | 659 | 670 |
+| 1943–1956 | Kispest/Budapesti Honvéd SE | 397 | 428 |
+| 1958–1965 | Real Madrid | 262 | 242 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -71,15 +63,30 @@ Ferenc Puskás [ pron 1 ] ( né Purczeld ; 1 April 1927 – 17 November 2006) wa
 كان بوشكاش ابن اللاعب السابق فرينتس بوشكاش الأب. بدأ مسيرته في هنغاريا مع كيشپشت وبودابست هونفيد . كان هداف الدوري الهنغاري 4 مرات، وفي عام 1948 كان أفضل هداف في أوروبا. خلال خمسينيات القرن الماضي كان عضواً بارزاً وقائداً لمنتخب هنغاريا المعروف بـ المجريون العظام. بعد الثورة الهنغارية، تعرّض لعقوبة إيقاف لمدة سنتين من اليويفا. ورغم فشل انتقاله إلى إثنيكوس بيرايوس عام 1957 نتيجة ضغوط من أندية منافسة، فقد هاجر عام 1958 إلى إسبانيا حيث وقّع بنجاح مع ريال مدريد وهو في عمر 31 عاماً. [ 8 ] وخلال مسيرته مع النادي، فاز بـ 4 جوائز بيتشيشي وسجّل 7 أهداف في نهائيين من نهائيات كأس أوروبا، محققاً اللقب 3 مرات، إضافة إلى 5 ألقاب متتالية في الليغا . سجّل 619 هدفاً في 618 مباراة في الدوريات والبطولات الوطنية في هنغاريا وإسبانيا.
 
 ### Arabic Achievements
-_No honours section found._
+- مع بودابست هونفيد: نمزيتي باجنوكساج الأول
+- مع ريال مدريد: الدوري الإسباني
+- مع هنغاريا: الألعاب الأولمبية الصيفية
+- مع فردي: جائزة الكرة الذهبية الفضية
+- مع باناثينايكوس: ألفا إثنيكي
+- مع شمس أمريكا: دوري الدرجة الأولى الباراجواياني
+- مع جنوب ملبورن اليونان: الدوري الوطني لكرة القدم
+- مع ريال مدريد: كأس الجنرال
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 1238
+- Senior national team goals total: 86
+- Senior career goals total: 1324
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1943–1956 | بودابست هونفيد | 356 | 375 |
+| 1958–1966 | ريال مدريد | 262 | 244 |
+| - | مجموع | 618 | 619 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1945–1956 | المجر | 85 | 84 |
+| 1961–1962 | إسبانيا | 4 | 0 |
+| 1963 | مدريد | 1 | 2 |

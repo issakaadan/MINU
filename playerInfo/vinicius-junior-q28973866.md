@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q28973866
-- Generated At (UTC): 2026-07-13T08:52:06+00:00
+- Generated At (UTC): 2026-07-13T12:08:45+00:00
 - English Name: Vinícius Júnior
 - Arabic Name: فينيسيوس جونيور
 - Birth Year: 2000
@@ -34,14 +34,7 @@ Vinícius José Paixão de Oliveira "Vini" Júnior ( Brazilian Portuguese: [viˈ
 Born in São Gonçalo , Vinícius began his professional career at Flamengo , where he made his senior debut in 2017, at age 16. A few weeks later, Vinícius was the subject of a transfer to La Liga club Real Madrid, for whom he signed in a £38 million deal, which was a national record for a player under 18. [ 4 ] The transfer was made effective after his 18th birthday, with Vinícius debuting for the club in 2018–19 . Over the following seasons, Vinícius established himself as a prominent member in Real Madrid's squad, helping the club win two La Liga– Champions League doubles, scoring the winning goal in the 2022 final , as well as the second goal in the 2024 final , being named the tournament's Player of the Season in 2024. [ 5 ] [ 6 ] [ 7 ] Vinícius was included in the FIFPRO World 11 in 2023 and 2024, and was named The Best FIFA Men's Player in 2024 . [ 8 ] He also finished runner-up in the 2024 Ballon d'Or voting.
 
 ### English Achievements
-- With Real Madrid: La Liga
-- With Brazil U15: South American U-15 Championship
-- With Brazil: Copa América runner-up
-- Individual: Copa São Paulo de Futebol Júnior Best Left Winger
-- With Real Madrid: Copa del Rey
-- With Real Madrid: Supercopa de España
-- With Real Madrid: UEFA Champions League
-- With Real Madrid: UEFA Super Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 146
@@ -51,9 +44,9 @@ Born in São Gonçalo , Vinícius began his professional career at Flamengo , wh
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2017–2018 | Flamengo | 50 | 11 |
-| 2018 | Real Madrid B | 5 | 4 |
-| 2018– | Real Madrid | 242 | 77 |
+| 2017–2018 | Flamengo | 69 | 14 |
+| 2018 | Real Madrid Castilla | 5 | 4 |
+| 2018–2025 | Real Madrid | 376 | 128 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -74,15 +67,31 @@ Born in São Gonçalo , Vinícius began his professional career at Flamengo , wh
 ولد فينيسيوس في ساو غونسالو ، وبدأ مسيرته الاحترافية في نادي فلامنغو ، حيث خاض مباراته الأولى مع الفريق الأول في عام 2017 وهو في سن 16 عامًا. وبعد بضعة أسابيع، كان فينيسيوس محط صفقة انتقال إلى نادي ريال مدريد في الدوري الإسباني، والذي وقع معه في صفقة بلغت قيمتها 38 مليون جنيه إسترليني، وهو رقم قياسي وطني للاعب دون 18 عامًا. [ 12 ] أصبح الانتقال ساريًا بعد عيد ميلاده الثامن عشر، حيث شارك فينيسيوس لأول مرة مع النادي في موسم 2018–19 . وخلال المواسم التالية، أثبت نفسه كلاعب بارز في تشكيلة ريال مدريد، حيث ساعد النادي على تحقيق ثنائية الدوري الإسباني و دوري أبطال أوروبا مرتين، مسجلاً هدف الفوز في نهائي 2022 ، بالإضافة إلى الهدف الثاني في نهائي 2024 ، واُختير أفضل لاعب في البطولة عام 2024. [ 13 ] [ 14 ] [ 15 ] كما أُدرج فينيسيوس في تشكيلة فيفبرو العالمية [الإنجليزية] لعامي 2023 و2024، وحصل على جائزة أفضل لاعب في العالم من الفيفا لعام 2024. [ 16 ] وحلَّ أيضًا في المركز الثاني في التصويت على جائزة الكرة الذهبية 2024 .
 
 ### Arabic Achievements
-_No honours section found._
+- مع ريال مدريد: الدوري الإسباني
+- مع البرازيل تحت 15 سنة: كوبا أمريكا تحت 15 سنة
+- مع البرازيل تحت 17 سنة: كوبا أمريكا تحت 17 سنة
+- الفردية: جائزة الفيفا لأفضل لاعب
+- مع ريال مدريد: كأس ملك إسبانيا
+- مع ريال مدريد: كأس السوبر الإسباني
+- مع ريال مدريد: دوري أبطال أوروبا
+- مع ريال مدريد: كأس السوبر الأوروبي
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 142
+- Senior national team goals total: 13
+- Senior career goals total: 155
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2017–2018 | فلامنغو | 69 | 14 |
+| 2018 | ريال مدريد ب | 5 | 4 |
+| 2018–2025 | ريال مدريد | 376 | 128 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2015–2016 | البرازيل تحت 15 | 10 | 7 |
+| 2016–2017 | البرازيل تحت 17 | 19 | 17 |
+| 2018–2019 | البرازيل تحت 20 | 4 | 0 |
+| 2019– | البرازيل | 53 | 13 |

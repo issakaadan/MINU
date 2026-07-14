@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q313316
-- Generated At (UTC): 2026-07-13T08:51:04+00:00
+- Generated At (UTC): 2026-07-13T12:07:55+00:00
 - English Name: Romelu Lukaku
 - Arabic Name: روميلو لوكاكو
 - Birth Year: 1993
@@ -36,14 +36,7 @@ Lukaku began his senior club career playing for Anderlecht , where he won a Belg
 In 2019, following a disappointing second season with United, Lukaku departed for Inter Milan . In his debut season , he helped Inter reach the UEFA Europa League final and was named the competition's Player of the Season . In the following season , he led them to their first Serie A title in 11 years and was awarded both the league's Most Valuable Player and Footballer of the Year . In 2021, Lukaku returned to Chelsea in a club-record transfer worth £97.5 million (€115 million). However, after just one season, he was sent out on loan back to Italy to Inter and Roma before joining Napoli on a permanent deal in 2024. Lukaku was Napoli's top goalscorer en route to winning the 2024–25 Serie A title and was named in the league's Team of the Season .
 
 ### English Achievements
-- With Anderlecht: Belgian Pro League
-- With Manchester United: FA Cup runner-up
-- With Inter Milan: Serie A
-- With Chelsea: FIFA Club World Cup
-- With Napoli: Serie A
-- With Belgium: FIFA World Cup third place
-- Individual: Belgian Sportsman Promising Talent of the Year
-- With Inter Milan: Coppa Italia
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 315
@@ -53,16 +46,16 @@ In 2019, following a disappointing second season with United, Lukaku departed fo
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2009–2011 | Anderlecht | 73 | 33 |
-| 2011–2014 | Chelsea | 10 | 0 |
-| 2012–2013 | West Bromwich Albion | 35 | 17 |
-| 2013–2017 | Everton | 141 | 68 |
-| 2017–2019 | Manchester United | 66 | 28 |
-| 2019–2021 | Inter Milan | 72 | 47 |
-| 2021–2024 | Chelsea | 26 | 8 |
-| 2022–2023 | Inter Milan | 25 | 10 |
-| 2023–2024 | Roma | 32 | 13 |
-| 2024– | Napoli | 41 | 15 |
+| 2008–2011 | Anderlecht | 98 | 41 |
+| 2011–2021 | Chelsea | 59 | 15 |
+| 2012 | West Bromwich Albion (loan) | 38 | 17 |
+| 2013 | Everton (loan) | 33 | 16 |
+| 2014–2016 | Everton | 166 | 87 |
+| 2017–2018 | Manchester United | 96 | 42 |
+| 2019–2020 | Inter Milan | 95 | 64 |
+| 2022 | Inter Milan (loan) | 37 | 14 |
+| 2023 | Roma (loan) | 47 | 21 |
+| 2024–2025 | Napoli | 45 | 15 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -83,15 +76,38 @@ In 2019, following a disappointing second season with United, Lukaku departed fo
 ولد في أنتويرب ، وبدأ مسيرته المهنية مع رويال أندرلخت البلجيكي في عام 2009، حيث شارك لأول مرة في سن 16 عامًا. وفاز بجائزة هداف الدوري. وقع لصالح نادي تشيلسي الإنجليزي في عام 2011، لكنه شارك بشكل متقطع في موسمه الأول وانضم إلى وست بروميتش ألبيون على سبيل الإعارة في عام 2012. وساعدهم في الوصول إلى المركز الثامن بشكل غير متوقع في موسم 2012–13، وقبل موسم 2013–14 انضم إلى إيفرتون على سبيل الإعارة. بعد مساعدة إيفرتون في الوصول إلى رصيد نقاط قياسي في تاريخ النادي، انضم إلى الفريق في صفقة دائمة بقيمة رسوم قياسية بلغت 28 مليون جنيه استرليني في عام 2014. تم اختياره في فريق العام في الدوري الإنجليزي لعام 2016–17 ، وقع لوكاكو لمانشستر يونايتد في عام 2017، مقابل رسوم أولية بلغت 75 مليون جنيه استرليني. [ 5 ] بعد موسمين في مانشستر، تدهورت علاقة لوكاكو بالنادي. لم يحضر لوكاكو لتدريبات قبل الموسم، وتم تغريمه، ووقع لاحقًا مع إنتر ميلان في أغسطس 2019، مقابل رسوم انتقال قياسية للنادي بلغت 80 مليون يورو؛ [ 6 ] فاز بلقب الدوري الإيطالي في موسمه الثاني مع النادي وحصل على لقب أفضل لاعب في الدوري.
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي أندرلخت: الدوري البلجيكي الممتاز
+- مع النادي إنتر ميلان: الدوري الإيطالي
+- مع النادي تشيلسي: كأس العالم للأندية
+- مع المنتخب بلجيكا: كأس العالم المركز الثالث
+- الفردية: رياضي العام للمواهب الشابة البلجيكية للعام
+- مع النادي إنتر ميلان: الدوري الأوروبي الوصيف
+- مع النادي إنتر ميلان: كأس إيطاليا
+- مع النادي إنتر ميلان: كأس السوبر الإيطالي
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 315
+- Senior national team goals total: 93
+- Senior career goals total: 408
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008–2011 | أندرلخت | 98 | 41 |
+| 2011–2021 | تشيلسي | 59 | 15 |
+| 2012 | وست بروميتش ألبيون (إعارة) | 38 | 17 |
+| 2013 | إيفرتون (إعارة) | 33 | 16 |
+| 2014–2016 | إيفرتون | 166 | 87 |
+| 2017–2018 | مانشستر يونايتد | 96 | 42 |
+| 2019–2020 | إنتر ميلان | 95 | 64 |
+| 2022 | إنتر ميلان (إعارة) | 37 | 14 |
+| 2023 | روما (إعارة) | 47 | 21 |
+| 2024–2025 | نابولي | 45 | 15 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008 | بلجيكا تحت 15 | 4 | 1 |
+| 2011 | بلجيكا تحت 18 | 1 | 0 |
+| 2009 | بلجيكا تحت 21 | 5 | 1 |
+| 2010– | بلجيكا | 132 | 93 |

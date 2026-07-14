@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q494319
-- Generated At (UTC): 2026-07-13T08:55:18+00:00
+- Generated At (UTC): 2026-07-13T12:11:47+00:00
 - English Name: Andrea Mandorlini
 - Arabic Name: اندريا ماندورليني
 - Birth Year: 1960
@@ -32,13 +32,7 @@
 Andrea Mandorlini (born 17 July 1960) is an Italian professional football manager and former player, currently in charge of Serie C Group B club Ravenna .
 
 ### English Achievements
-- With Inter Milan: Serie A
-- With Spezia: Serie C2
-- With CFR Cluj: Liga I
-- With Inter Milan: Supercoppa Italiana
-- With Inter Milan: UEFA Cup
-- With CFR Cluj: Cupa României
-- With CFR Cluj: Supercupa României
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 17
@@ -72,12 +66,21 @@ Andrea Mandorlini (born 17 July 1960) is an Italian professional football manage
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 34
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 34
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1978–1980 | تورينو | 27 | 0 |
+| 1980–1981 | أتالانتا | 34 | 1 |
+| 1981–1984 | أسكولي | 73 | 5 |
+| 1984–1991 | إنتر ميلان | 180 | 9 |
+| 1991–1993 | أودينيزي | 42 | 2 |
+| - | مجموع | 356 | 17 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1980 | إيطاليا تحت 21 | 1 | 0 |

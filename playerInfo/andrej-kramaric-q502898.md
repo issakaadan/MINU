@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q502898
-- Generated At (UTC): 2026-07-13T08:52:26+00:00
+- Generated At (UTC): 2026-07-13T12:09:01+00:00
 - English Name: Andrej Kramarić
 - Arabic Name: أندري كراماريتش
 - Birth Year: 1991
@@ -34,14 +34,7 @@ Andrej Kramarić ( Croatian pronunciation: [ǎndrej krǎmaritɕ] ; [ 4 ] [ 5 ] b
 Kramarić started his football career in his hometown club Dinamo Zagreb and holds the record as the top youth goalscorer in the club's history. [ 6 ] Hailed as one of the club's biggest talents, he made his first official appearance for Dinamo at the age of 17. In 2013, after he had a dispute with the Dinamo board of directors, [ 7 ] Kramarić was transferred to HNK Rijeka , where he scored 37 times in 42 league games prior to his move to Leicester City for a record £9 million. [ 8 ] He played a year-and-a-half there, spending time on loan at TSG Hoffenheim before moving there permanently. On 29 March 2019, he became the club's all-time top goalscorer. [ 9 ] On 24 January 2021, he became the Bundesliga's all-time top Croatian goalscorer. [ 10 ] On 15 January 2026, he became most capped Croatian player in the Bundesliga and Croatian player with most goals in professional career, surpassing Zvonimir Soldo and Davor Šuker respectively. [ 11 ]
 
 ### English Achievements
-- With Dinamo Zagreb: Prva HNL
-- With Rijeka: Croatian Cup
-- With Croatia: FIFA World Cup runner-up
-- Individual: Prva HNL Player of the Year
-- Orders: Order of Duke Branimir
-- With Dinamo Zagreb: Croatian Cup
-- With Dinamo Zagreb: Croatian Super Cup
-- With Rijeka: Croatian Super Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 261
@@ -51,12 +44,12 @@ Kramarić started his football career in his hometown club Dinamo Zagreb and hol
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2009–2013 | Dinamo Zagreb | 42 | 10 |
-| 2012–2013 | Lokomotiva Zagreb | 44 | 20 |
-| 2013–2015 | Rijeka | 42 | 37 |
-| 2015–2016 | Leicester City | 15 | 2 |
-| 2016 | TSG Hoffenheim | 15 | 5 |
-| 2016– | TSG Hoffenheim | 305 | 135 |
+| 2008–2013 | Dinamo Zagreb | 63 | 20 |
+| 2011–2012 | Lokomotiva Zagreb (loan) | 50 | 24 |
+| 2013–2014 | Rijeka | 65 | 55 |
+| 2014–2015 | Leicester City | 20 | 4 |
+| 2015 | TSG Hoffenheim (loan) | 15 | 5 |
+| 2016–2025 | TSG Hoffenheim | 707 | 311 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -82,12 +75,28 @@ Kramarić started his football career in his hometown club Dinamo Zagreb and hol
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 190
+- Senior national team goals total: 29
+- Senior career goals total: 219
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009–2013 | دينامو زغرب | 42 | 10 |
+| 2012–2013 | لوكوموتيفا | 44 | 20 |
+| 2013–2015 | رييكا | 42 | 37 |
+| 2015–2016 | ليستر سيتي | 15 | 2 |
+| 2016 | هوفنهايم | 15 | 5 |
+| 2016– 0000 | 1899 هوفنهايم | 255 | 116 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005 | كرواتيا تحت 14 | 2 | 0 |
+| 2007 | كرواتيا تحت 16 | 7 | 4 |
+| 2007–2008 | كرواتيا تحت 17 | 12 | 6 |
+| 2008–2009 | كرواتيا تحت 18 | 9 | 3 |
+| 2008–2010 | كرواتيا تحت 19 | 12 | 3 |
+| 2011 | كرواتيا تحت 20 | 2 | 1 |
+| 2009–2013 | كرواتيا تحت 21 | 9 | 5 |
+| 2014– | كرواتيا | 101 | 29 |

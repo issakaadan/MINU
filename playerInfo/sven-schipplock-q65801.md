@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q65801
-- Generated At (UTC): 2026-07-13T08:56:04+00:00
+- Generated At (UTC): 2026-07-13T12:12:33+00:00
 - English Name: Sven Schipplock
 - Arabic Name: سفين شيبلوك
 - Birth Year: 1988
@@ -35,9 +35,9 @@ Sven Schipplock (born 8 November 1988) is a German professional footballer who p
 _No honours section found._
 
 ### English Career Totals
-- Club goals total: 60
+- Club goals total: 29
 - Senior national team goals total: Unavailable
-- Senior career goals total: 60
+- Senior career goals total: 29
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
@@ -66,12 +66,21 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 60
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 60
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2007–2008 | رويتلينغن 05 [الإنجليزية] | 19 | 8 |
+| 2008–2011 | شتوتغارت للرديف | 89 | 31 |
+| 2010–2011 | شتوتغارت | 12 | 1 |
+| 2011–2015 | هوفنهايم | 84 | 16 |
+| 2015–2018 | هامبورغ | 30 | 0 |
+| 2016–2017 | دارمشتات 98 | 23 | 2 |
+| 2018–2021 | أرمينيا بيليفيلد | 44 | 2 |
+| 2021– | شتوتغارت للرديف | 0 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

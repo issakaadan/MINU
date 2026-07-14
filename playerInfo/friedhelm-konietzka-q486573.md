@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q486573
-- Generated At (UTC): 2026-07-13T08:55:36+00:00
+- Generated At (UTC): 2026-07-13T12:12:04+00:00
 - English Name: Friedhelm Konietzka
 - Arabic Name: فريدهيلم كونيتزكا
 - Birth Year: 1938
@@ -32,11 +32,7 @@
 Friedhelm " Timo " Konietzka (2 August 1938 – 12 March 2012) was a German professional football player and manager who played as a striker . [ 1 ] He earned his nickname "Timo" due to a supposed resemblance to the Soviet commander Semyon Timoshenko . [ 2 ]
 
 ### English Achievements
-- With Borussia Dortmund: West German champions
-- With 1860 Munich: Bundesliga
-- With FC Zürich: Nationalliga A
-- With Grasshoppers: Nationalliga A
-- With Borussia Dortmund: DFB-Pokal
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 151
@@ -66,12 +62,15 @@ Friedhelm " Timo " Konietzka (2 August 1938 – 12 March 2012) was a German prof
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 151
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 151
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1958–1965 | بوروسيا دورتموند | 163 | 121 |
+| 1965–1967 | ميونخ 1860 | 47 | 30 |
 
 ### Arabic National Team Stats
 _No rows found._

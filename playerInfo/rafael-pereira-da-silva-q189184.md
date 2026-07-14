@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q189184
-- Generated At (UTC): 2026-07-13T08:53:49+00:00
+- Generated At (UTC): 2026-07-13T12:10:23+00:00
 - English Name: Rafael Pereira da Silva
 - Arabic Name: رافاييل بيريرا دا سيلفا
 - Birth Year: 1990
@@ -36,13 +36,7 @@ Rafael and his twin brother, Fabio , began their careers with Fluminense before 
 Rafael has two caps for Brazil , having made his debut in a 3–1 victory over Denmark on 26 May 2012. He has also played for Brazil at under-17 level and was part of the silver medal-winning under-23 side at the 2012 Summer Olympics .
 
 ### English Achievements
-- With Manchester United: Premier League
-- With Botafogo: Campeonato Brasileiro Série B
-- With Botafogo: Copa Libertadores
-- With Botafogo: Campeonato Brasileiro Série A
-- With Manchester United: Football League Cup
-- With Manchester United: FA Community Shield
-- With Manchester United: FIFA Club World Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 7
@@ -52,11 +46,10 @@ Rafael has two caps for Brazil , having made his debut in a 3–1 victory over D
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2008–2015 | Manchester United | 109 | 5 |
-| 2015–2020 | Lyon | 103 | 2 |
-| 2020–2021 | İstanbul Başakşehir | 21 | 0 |
-| 2021–2024 | Botafogo | 32 | 0 |
-| Total | Total | 265 | 7 |
+| 2008–2014 | Manchester United | 170 | 5 |
+| 2015–2019 | Lyon | 139 | 2 |
+| 2020 | İstanbul Başakşehir | 28 | 0 |
+| 2021–2024 | Botafogo | 40 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -77,12 +70,17 @@ Rafael has two caps for Brazil , having made his debut in a 3–1 victory over D
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 2
+- Senior national team goals total: 0
+- Senior career goals total: 2
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008–2010 | مانشستر يونايتد | 63 | 2 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2012 | البرازيل تحت 23 | 7 | 1 |
+| 2012 | البرازيل | 2 | 0 |

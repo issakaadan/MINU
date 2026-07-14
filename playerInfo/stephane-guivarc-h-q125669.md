@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q125669
-- Generated At (UTC): 2026-07-13T08:55:06+00:00
+- Generated At (UTC): 2026-07-13T12:11:35+00:00
 - English Name: Stéphane Guivarc'h
 - Arabic Name: ستيفان غيفارش
 - Birth Year: 1970
@@ -36,14 +36,7 @@ His early career was spent in France with the Breton clubs Stade Brestois and En
 Guivarc'h left France for Newcastle United of the Premier League after the World Cup but left after three months having failed to make an impact at St James' Park. He finished the season at Rangers of the Scottish Premier League with medals in the league and Scottish League Cup , of which he scored in the final. He then returned to Auxerre before retiring after the 2001–02 season with En Avant Guingamp.
 
 ### English Achievements
-- With Auxerre: Division 1
-- With Rangers: Scottish Premier League
-- With France: FIFA World Cup
-- Individual: Division 1 Golden Boot
-- Orders: Knight of the Legion of Honour
-- With Auxerre: UEFA Intertoto Cup
-- With Rangers: Scottish League Cup
-- Individual: UEFA Cup Golden Boot
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 147
@@ -81,12 +74,25 @@ Guivarc'h left France for Newcastle United of the Premier League after the World
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 294
+- Senior national team goals total: 1
+- Senior career goals total: 295
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1989–1991 | بريست | 14 | 1 |
+| 1991–1995 | غانغون | 110 | 68 |
+| 1995–1996 | أوكسير | 23 | 3 |
+| 1996–1997 | ستاد رين | 36 | 22 |
+| 1997–1998 | أوكسير | 32 | 21 |
+| 1998 | نيوكاسل يونايتد | 4 | 1 |
+| 1998–1999 | رينجرز | 14 | 5 |
+| 1999–2001 | أوكسير | 60 | 25 |
+| 2001–2002 | غانغون | 11 | 1 |
+| - | مجموع | 304 | 147 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997–1999 | فرنسا | 14 | 1 |

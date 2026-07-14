@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q139800
-- Generated At (UTC): 2026-07-13T08:55:30+00:00
+- Generated At (UTC): 2026-07-13T12:11:58+00:00
 - English Name: Elbasan Rashani
 - Arabic Name: ألباسان راشاني
 - Birth Year: 1993
@@ -32,9 +32,7 @@
 Elbasan "Elba" Rashani ( Albanian: [ɛlˈbasan ɾaˈʃani] ; [ 2 ] born 9 May 1993) is a professional footballer who plays as a left winger for A-League Men club Melbourne City . Born in Sweden and raised in Norway, he represented Norway at youth international levels but in 2015 switched to play for Kosovo national team at senior level.
 
 ### English Achievements
-- With Rosenborg: Eliteserien
-- With Rosenborg: Norwegian Cup
-- With Rosenborg: Mesterfinalen
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 58
@@ -44,15 +42,13 @@ Elbasan "Elba" Rashani ( Albanian: [ɛlˈbasan ɾaˈʃani] ; [ 2 ] born 9 May 19
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2010–2014 | Odd | 69 | 7 |
-| 2014–2016 | Brøndby | 24 | 3 |
-| 2016 | Rosenborg | 19 | 3 |
-| 2017 | Rosenborg | 8 | 0 |
-| 2017–2020 | Odd | 93 | 15 |
-| 2021 | BB Erzurumspor | 12 | 3 |
-| 2021–2024 | Clermont | 85 | 13 |
-| 2024–2025 | Elche | 11 | 3 |
-| 2025– | Melbourne City | 12 | 1 |
+| 2010–2020 | Odd | 182 | 28 |
+| 2014–2015 | Brøndby | 34 | 7 |
+| 2016 | Rosenborg (loan) | 28 | 4 |
+| 2017 | Rosenborg | 12 | 1 |
+| 2020 | BB Erzurumspor | 12 | 3 |
+| 2021–2023 | Clermont | 88 | 13 |
+| 2024 | Elche | 7 | 2 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -76,12 +72,27 @@ Elbasan "Elba" Rashani ( Albanian: [ɛlˈbasan ɾaˈʃani] ; [ 2 ] born 9 May 19
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 36
+- Senior national team goals total: 4
+- Senior career goals total: 40
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2010–2014 | أود | 69 | 7 |
+| 2014–2016 | بروندبي | 24 | 3 |
+| 2016 | روسنبورغ | 19 | 3 |
+| 2017 | روسنبورغ | 8 | 0 |
+| 2017–2020 | أود | 93 | 15 |
+| 2021 | بي بي أرضروم سبور | 12 | 3 |
+| 2021– | كليرمونت 63 | 16 | 5 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2010 | النرويج تحت 17 | 3 | 1 |
+| 2011–2012 | النرويج تحت 19 | 12 | 0 |
+| 2012–2013 | النرويج تحت 19 | 7 | 0 |
+| 2012 | Norway U20 | 2 | 0 |
+| 2013–2015 | النرويج تحت 21 | 9 | 2 |
+| 2015– | كوسوفو | 22 | 4 |

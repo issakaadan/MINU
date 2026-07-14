@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q168870
-- Generated At (UTC): 2026-07-13T08:55:50+00:00
+- Generated At (UTC): 2026-07-13T12:12:19+00:00
 - English Name: Lex Immers
 - Arabic Name: ليكس إيميرس
 - Birth Year: 1986
@@ -35,21 +35,17 @@ Lex Immers (born 8 June 1986) is a Dutch former professional footballer who play
 _No honours section found._
 
 ### English Career Totals
-- Club goals total: 98
+- Club goals total: 88
 - Senior national team goals total: Unavailable
-- Senior career goals total: 98
+- Senior career goals total: 88
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2007–2012 | ADO Den Haag | 145 | 25 |
-| 2012–2016 | Feyenoord | 100 | 31 |
-| 2016 | Cardiff City | 15 | 5 |
-| 2016–2017 | Cardiff City | 13 | 0 |
-| 2017 | Club Brugge | 10 | 1 |
-| 2017–2020 | ADO Den Haag | 90 | 13 |
-| 2020–2021 | NAC Breda | 28 | 6 |
-| 2021–2025 | Scheveningen | 93 | 17 |
+| 2007–2019 | ADO Den Haag | 195 | 41 |
+| 2012–2015 | Feyenoord | 124 | 35 |
+| 2015–2016 | Cardiff City | 28 | 5 |
+| 2016 | Club Brugge | 10 | 1 |
 
 ### English National Team Stats
 _No rows found._
@@ -66,12 +62,21 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 81
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 81
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2007–2012 | أدو دين هاغ | 145 | 25 |
+| 2012–2016 | فاينورد | 100 | 31 |
+| 2016 | كارديف سيتي | 15 | 5 |
+| 2016–2017 | كارديف سيتي | 13 | 0 |
+| 2017 | كلوب بروج | 10 | 1 |
+| 2017–2020 | أدو دين هاغ | 90 | 13 |
+| 2020–2021 | ناك بريدا | 28 | 6 |
+| 2021– | [الإنجليزية] | 7 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

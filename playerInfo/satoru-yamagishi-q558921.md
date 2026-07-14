@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q558921
-- Generated At (UTC): 2026-07-13T08:53:14+00:00
+- Generated At (UTC): 2026-07-13T12:09:51+00:00
 - English Name: Satoru Yamagishi
 - Arabic Name: ساتورو ياماغيشي
 - Birth Year: 1983
@@ -42,11 +42,11 @@ _No honours section found._
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2002–2007 | JEF United Chiba | 130 | 20 |
-| 2008–2009 | Kawasaki Frontale | 45 | 0 |
-| 2010–2015 | Sanfrecce Hiroshima | 115 | 9 |
-| 2016–2017 | Oita Trinita | 44 | 0 |
-| Total | Total | 334 | 29 |
+| 2002–2004 | JEF United Ichihara | 38 | 6 |
+| 2005–2007 | JEF United Chiba | 123 | 20 |
+| 2008–2009 | Kawasaki Frontale | 54 | 0 |
+| 2010–2015 | Sanfrecce Hiroshima | 156 | 14 |
+| 2016–2017 | Oita Trinita | 46 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -70,12 +70,21 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 58
+- Senior national team goals total: 0
+- Senior career goals total: 58
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2007 | جيف يونايتد تشيبا | 130 | 20 |
+| 2008–2009 | كاواساكي فرونتال | 45 | 0 |
+| 2010–2015 | سانفريس هيروشيما | 115 | 9 |
+| 2016–2017 | أويتا ترينيتا | 44 | 0 |
+| - | مجموع | 334 | 29 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2003 | اليابان تحت 20 | 2 | 0 |
+| 2006–2008 | اليابان | 11 | 0 |

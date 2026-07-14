@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q78370
-- Generated At (UTC): 2026-07-13T08:57:04+00:00
+- Generated At (UTC): 2026-07-13T12:13:30+00:00
 - English Name: Werner Heine
 - Arabic Name: فيرنر هايني
 - Birth Year: 1935
@@ -65,12 +65,18 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 30
+- Senior national team goals total: 2
+- Senior career goals total: 32
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1955–1966 | دينامو برلين [ ا ] | 194 | 13 |
+| 1966–1967 | يونيون برلين | 16 | 2 |
+| - | مجموع | 210 | 15 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1958–1964 | ألمانيا الشرقية | 29 | 2 |

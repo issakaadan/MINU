@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q131234
-- Generated At (UTC): 2026-07-13T08:51:34+00:00
+- Generated At (UTC): 2026-07-13T12:08:19+00:00
 - English Name: Toni Kroos
 - Arabic Name: توني كروس
 - Birth Year: 1990
@@ -34,28 +34,20 @@ Toni Kroos ( German pronunciation: [ˈtoːni kʁoːs] ; born 4 January 1990) is 
 Kroos began his senior club career at Bayern Munich , where he debuted at age 17 in 2007. He was used sparingly for Bayern and he went on loan to fellow Bundesliga side Bayer Leverkusen for 18 months, where he became a key contributor. He returned to his parent club in 2010. With Bayern, Kroos won three Bundesliga titles (including two consecutive titles), a UEFA Champions League , two DFB-Pokal trophies, and was named in the Bundesliga Team of the Season three times. In 2014, he joined Real Madrid for a €25 million transfer . [ 16 ]
 
 ### English Achievements
-- With Bayern Munich: Bundesliga
-- With Real Madrid: La Liga
-- With Germany: FIFA World Cup
-- Individual: UEFA European Under-17 Championship Golden Player
-- Orders: Knight Commander's Cross of the Order of Merit of the Federal Republic of Germany
-- With Bayern Munich: DFB-Pokal
-- With Bayern Munich: DFL-Supercup
-- With Bayern Munich: UEFA Champions League
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 67
+- Club goals total: 63
 - Senior national team goals total: 17
-- Senior career goals total: 84
+- Senior career goals total: 80
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
 | 2007–2008 | Bayern Munich II | 13 | 4 |
-| 2007–2014 | Bayern Munich | 130 | 13 |
-| 2009–2010 | Bayer Leverkusen | 43 | 10 |
-| 2014–2024 | Real Madrid | 306 | 22 |
-| Total | Total | 492 | 49 |
+| 2007–2013 | Bayern Munich | 205 | 25 |
+| 2008–2009 | Bayer Leverkusen (loan) | 48 | 10 |
+| 2014–2023 | Real Madrid | 465 | 28 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -78,15 +70,32 @@ Kroos began his senior club career at Bayern Munich , where he debuted at age 17
 في مدريد، كان كروس جزءًا حيويًا من الفريق تحت قيادة المدربين كارلو أنشيلوتي وزين الدين زيدان ، وساعد ريال مدريد بالفوز بثلاثة ألقاب متتالية في دوري أبطال أوروبا من 2015–16 إلى 2017–18 ، وفي جميع تلك البطولات اُختير ضمن فريق الموسم. كما ساهم بشكل كبير حيث حصل النادي على لقب الدوري الإسباني في عام 2017 ، وتم اختياره أيضًا ضمن فريق الموسم، وكذلك لقب دوري آخر في عام 2020 . كما تم اختيار كروس أيضًا في كل من فيفبرو وجائزة اليويفا لأفضل فريق لعامي 2016 و2017، وفاز ببطولات أخرى، بما في ذلك خمسة ألقاب في كأس العالم للأندية . [ 10 ] [ 11 ] في عام 2018، حصل كروس على جائزة لاعب العام في ألمانيا من قبل مجموعة مختارة من الصحفيين والإعلاميين من صحيفة كيكر .
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي بايرن ميونخ: الدوري الألماني
+- مع النادي ريال مدريد: الدوري الإسباني
+- مع المنتخب: كأس العالم
+- الفردية: بطولة أوروبا تحت 17 سنة اللاعب الذهبي
+- مع النادي بايرن ميونخ: كأس ألمانيا
+- مع النادي بايرن ميونخ: كأس السوبر الألماني
+- مع النادي بايرن ميونخ: دوري أبطال أوروبا
+- مع النادي بايرن ميونخ: كأس السوبر الأوروبي
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 63
+- Senior national team goals total: 17
+- Senior career goals total: 80
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2007–2008 | بايرن ميونخ ب | 13 | 4 |
+| 2007–2013 | بايرن ميونخ | 205 | 25 |
+| 2008–2009 | باير ليفركوزن (إعارة) | 48 | 10 |
+| 2014–2023 | ريال مدريد | 465 | 28 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005–2007 | ألمانيا تحت 17 | 34 | 17 |
+| 2009 | ألمانيا تحت 19 | 5 | 3 |
+| 2008–2009 | ألمانيا تحت 21 | 10 | 2 |
+| 2010–2024 | ألمانيا | 114 | 17 |

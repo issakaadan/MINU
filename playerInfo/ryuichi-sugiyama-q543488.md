@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q543488
-- Generated At (UTC): 2026-07-13T08:53:13+00:00
+- Generated At (UTC): 2026-07-13T12:09:50+00:00
 - English Name: Ryuichi Sugiyama
 - Arabic Name: ريويتشي سوجياما
 - Birth Year: 1941
@@ -62,12 +62,15 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 82
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 82
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1966–1973 | أوراوا رد دايموندز | 115 | 41 |
+| - | مجموع | 115 | 41 |
 
 ### Arabic National Team Stats
 _No rows found._

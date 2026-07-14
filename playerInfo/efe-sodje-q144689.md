@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q144689
-- Generated At (UTC): 2026-07-13T08:55:28+00:00
+- Generated At (UTC): 2026-07-13T12:11:58+00:00
 - English Name: Efe Sodje
 - Arabic Name: إيفي سوجي
 - Birth Year: 1972
@@ -34,37 +34,28 @@ Efetobore Peter " Efe " Sodje (born 5 October 1972) is a former professional foo
 Sodje began his career at Stevenage Borough and later played for Luton Town , Colchester United , Crewe Alexandra , Huddersfield Town , Yeovil Town , Southend United , Gillingham , Bury , Barrow and Macclesfield Town in two spells.
 
 ### English Achievements
-- With Stevenage Borough: Football Conference
-- With Macclesfield Town: Football League Division Three runner-up
-- With Crewe Alexandra: Football League Division Three runner-up
-- With Huddersfield Town: Football League Third Division play-offs
-- With Southend United: Football League One
-- With Bury: Football League Two runner-up
-- Individual: PFA Team of the Year
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 44
+- Club goals total: 39
 - Senior national team goals total: 1
-- Senior career goals total: 45
+- Senior career goals total: 40
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1994–1997 | Stevenage Borough | 116 | 9 |
-| 1997–1999 | Macclesfield Town | 83 | 6 |
-| 1999–2000 | Luton Town | 9 | 0 |
-| 2000 | Colchester United | 3 | 0 |
-| 2000–2003 | Crewe Alexandra | 97 | 3 |
-| 2003–2005 | Huddersfield Town | 67 | 5 |
-| 2005–2006 | Yeovil Town | 25 | 3 |
-| 2006 | Southend United | 1 | 0 |
-| 2006–2007 | Southend United | 36 | 2 |
-| 2007–2008 | Gillingham | 13 | 0 |
-| 2008 | Bury | 16 | 1 |
-| 2008–2013 | Bury | 182 | 15 |
-| 2013 | Barrow | 9 | 0 |
-| 2013–2014 | Macclesfield Town | 6 | 0 |
-| Total | Total | 663 | 44 |
+| 1997–2013 | Macclesfield Town | 102 | 7 |
+| 1999–2000 | Luton Town | 14 | 0 |
+| 1999–2000 | Colchester United (loan) | 3 | 0 |
+| 2000–2002 | Crewe Alexandra | 115 | 4 |
+| 2003–2004 | Huddersfield Town | 77 | 5 |
+| 2004–2005 | Yeovil Town | 30 | 3 |
+| 2005 | Southend United (loan) | 1 | 0 |
+| 2005–2006 | Southend United | 40 | 2 |
+| 2007 | Gillingham | 16 | 0 |
+| 2007 | Bury (loan) | 16 | 1 |
+| 2008–2012 | Bury | 196 | 17 |
+| 2012 | Barrow (loan) | 9 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -83,12 +74,30 @@ Sodje began his career at Stevenage Borough and later played for Luton Town , Co
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 88
+- Senior national team goals total: 1
+- Senior career goals total: 89
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1994–1997 | ستيفيناغ بوروه | 116 | 9 |
+| 1997–1999 | ماكليسفيلد تاون | 83 | 6 |
+| 1999–2000 | لوتون تاون | 9 | 0 |
+| 2000 | كولتشستر يونايتد | 3 | 0 |
+| 2000–2003 | كرو ألكساندرا | 97 | 3 |
+| 2003–2005 | هدرسفيلد تاون | 67 | 5 |
+| 2005–2006 | يوفل تاون | 25 | 3 |
+| 2006 | ساوثيند يونايتد | 1 | 0 |
+| 2006–2007 | ساوثيند يونايتد | 36 | 2 |
+| 2007–2008 | غيلينغهام | 13 | 0 |
+| 2008 | بوري | 16 | 1 |
+| 2008–2013 | بوري | 182 | 15 |
+| 2013 | بارو | 9 | 0 |
+| 2013–2014 | ماكليسفيلد تاون | 6 | 0 |
+| - | مجموع | 663 | 44 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000–2004 | نيجيريا | 12 | 1 |

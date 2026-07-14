@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q517874
-- Generated At (UTC): 2026-07-13T08:55:54+00:00
+- Generated At (UTC): 2026-07-13T12:12:23+00:00
 - English Name: Nathan Eccleston
 - Arabic Name: ناثان اكيلستون
 - Birth Year: 1990
@@ -44,19 +44,16 @@ _No honours section found._
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2009–2012 | Liverpool | 2 | 0 |
-| 2010 | Huddersfield Town | 12 | 1 |
-| 2011 | Charlton Athletic | 21 | 3 |
-| 2011 | Rochdale | 5 | 1 |
-| 2012–2014 | Blackpool | 9 | 1 |
-| 2012 | Tranmere Rovers | 1 | 0 |
-| 2013 | Carlisle United | 2 | 0 |
-| 2014 | Coventry City | 8 | 0 |
-| 2014–2015 | Partick Thistle | 9 | 1 |
-| 2015 | Kilmarnock | 10 | 1 |
-| 2016 | Békéscsaba 1912 Előre | 5 | 1 |
-| 2019 | Nuneaton Borough | 2 | 0 |
-| Total | Total | 86 | 9 |
+| 2009–2011 | Liverpool | 9 | 0 |
+| 2009 | Huddersfield Town (loan) | 12 | 1 |
+| 2010 | Charlton Athletic (loan) | 21 | 3 |
+| 2011 | Rochdale (loan) | 7 | 1 |
+| 2012–2013 | Blackpool | 12 | 1 |
+| 2012 | Tranmere Rovers (loan) | 1 | 0 |
+| 2013 | Carlisle United (loan) | 3 | 0 |
+| 2013 | Coventry City (loan) | 8 | 0 |
+| 2014 | Partick Thistle | 11 | 2 |
+| 2014 | Kilmarnock | 10 | 1 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -75,12 +72,27 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 9
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 9
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009–2012 | ليفربول | 2 | 0 |
+| 2010 | هدرسفيلد تاون | 12 | 1 |
+| 2011 | تشارلتون أثلتيك | 21 | 3 |
+| 2011 | روتشديل | 5 | 1 |
+| 2012–2014 | بلاكبول | 9 | 1 |
+| 2012 | ترانمير روفرز | 1 | 0 |
+| 2013 | كارلايل يونايتد | 2 | 0 |
+| 2014 | كوفنتري سيتي | 8 | 0 |
+| 2014–2015 | بارتيك ثيسل | 9 | 1 |
+| 2015 | كيلمارنوك | 10 | 1 |
+| 2016 | بكسكابا 1912 إلوره | 5 | 1 |
+| 2019 | نونيتون بورو [لغات أخرى] | 2 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006 | إنجلترا تحت 17 | 1 | 0 |

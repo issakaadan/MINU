@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q208087
-- Generated At (UTC): 2026-07-13T08:53:40+00:00
+- Generated At (UTC): 2026-07-13T12:10:17+00:00
 - English Name: Jonás Gutiérrez
 - Arabic Name: خوناس غوتيريز
 - Birth Year: 1983
@@ -36,9 +36,7 @@ He began his career with Vélez Sarsfield , moving to Mallorca in 2005 after win
 A full international between 2007 and 2011, Gutiérrez won 22 caps for Argentina , representing the nation at the 2010 World Cup . He was considered a key part of the national side by coach Diego Maradona , who stated that his team was " Mascherano , Messi , Jonás, and eight more". [ 5 ]
 
 ### English Achievements
-- With Vélez Sársfield: Argentine Primera División
-- With Newcastle United: Football League Championship
-- With Independiente: Copa Sudamericana
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 19
@@ -48,17 +46,12 @@ A full international between 2007 and 2011, Gutiérrez won 22 caps for Argentina
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2001–2005 | Vélez Sársfield | 99 | 2 |
-| 2005–2008 | Mallorca | 96 | 5 |
-| 2008–2015 | Newcastle United | 187 | 11 |
-| 2014 | Norwich City | 4 | 0 |
-| 2015–2016 | Deportivo La Coruña | 15 | 0 |
-| 2016–2017 | Defensa y Justicia | 18 | 0 |
-| 2017–2018 | Independiente | 20 | 0 |
-| 2018–2019 | Defensa y Justicia | 2 | 0 |
-| 2019–2021 | Banfield | 14 | 0 |
-| 2021 | Almagro | 6 | 0 |
-| Total | Total | 461 | 18 |
+| 2000–2004 | Vélez Sársfield | 104 | 2 |
+| 2005–2007 | Mallorca | 104 | 5 |
+| 2008–2014 | Newcastle United | 205 | 12 |
+| 2013 | Norwich City (loan) | 4 | 0 |
+| 2015 | Deportivo La Coruña | 17 | 0 |
+| 2016 | Defensa y Justicia | 19 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -77,12 +70,24 @@ A full international between 2007 and 2011, Gutiérrez won 22 caps for Argentina
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 36
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 36
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001–2005 | فيليز سارسفيلد | 99 | 2 |
+| 2005–2008 | ريال مايوركا | 96 | 5 |
+| 2008–2015 | نيوكاسل يونايتد | 187 | 11 |
+| 2014 | نورويتش سيتي | 4 | 0 |
+| 2015–2016 | ديبورتيفو لاكورونيا | 15 | 0 |
+| 2016–2017 | ديفنسا خوستيكا | 18 | 0 |
+| 2017–2018 | إنديبندينتي | 20 | 0 |
+| 2018–2019 | ديفنسا خوستيكا | 2 | 0 |
+| 2019–2021 | بانفيلد | 14 | 0 |
+| 2021 | ألماجرو | 6 | 0 |
+| - | مجموع | 461 | 18 |
 
 ### Arabic National Team Stats
 _No rows found._

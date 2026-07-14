@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q358075
-- Generated At (UTC): 2026-07-13T08:52:31+00:00
+- Generated At (UTC): 2026-07-13T12:09:06+00:00
 - English Name: Danijel Subašić
 - Arabic Name: دانييل سوباشيتش
 - Birth Year: 1984
@@ -36,14 +36,7 @@ Subašić began his career in Croatia with Zadar and Hajduk . In January 2012, h
 Subašić made his senior international debut for Croatia in 2009. He was part of their squads for two FIFA World Cups and as many UEFA European Championships . He was a member of the Croatian squad which ended as runners-up to France in the 2018 FIFA World Cup .
 
 ### English Achievements
-- With Hajduk Split: Croatian Cup
-- With Monaco: Ligue 1
-- With Croatia: FIFA World Cup runner-up
-- Individual: Ligue 1 Goalkeeper of the Year
-- Orders: Order of Duke Branimir
-- With Monaco: Ligue 2
-- Individual: UNFP Ligue 1 Team of the Year
-- Individual: Honorary citizen of the Zadar County
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 1
@@ -53,12 +46,10 @@ Subašić made his senior international debut for Croatia in 2009. He was part o
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2003–2009 | Zadar | 81 | 0 |
-| 2008–2009 | Hajduk Split | 31 | 0 |
-| 2009–2012 | Hajduk Split | 64 | 0 |
-| 2012–2020 | Monaco | 244 | 1 |
-| 2021–2023 | Hajduk Split | 5 | 0 |
-| Total | Total | 425 | 1 |
+| 2003–2007 | Zadar | 82 | 0 |
+| 2008 | Hajduk Split (loan) | 42 | 0 |
+| 2009–2022 | Hajduk Split | 133 | 0 |
+| 2011–2019 | Monaco | 292 | 1 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -78,12 +69,21 @@ Subašić made his senior international debut for Croatia in 2009. He was part o
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 1
+- Senior national team goals total: 0
+- Senior career goals total: 1
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2003–2009 | نادي زادار [الإنجليزية] | 81 | 0 |
+| 2008–2009 | هايدوك سبليت | 31 | 0 |
+| 2009–2012 | هايدوك سبليت | 64 | 0 |
+| 2012–2020 | موناكو | 244 | 1 |
+| 2021– | هايدوك سبليت | 4 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006 | كرواتيا تحت 21 | 6 | 0 |
+| 2009–2018 | كرواتيا | 44 | 0 |

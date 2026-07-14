@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q42731
-- Generated At (UTC): 2026-07-13T08:50:10+00:00
+- Generated At (UTC): 2026-07-13T12:07:19+00:00
 - English Name: Fernando Torres
 - Arabic Name: فرناندو توريس
 - Birth Year: 1984
@@ -34,14 +34,7 @@ Fernando José Torres Sanz ( Spanish pronunciation: [feɾˈnando ˈtores] ; born
 Torres started his career with Atlético Madrid , progressing through their youth system to the first team. He made his debut in 2001 and left the club with 75 goals in 174 La Liga appearances. Torres joined Premier League club Liverpool in 2007 and became the fastest player in Liverpool history to score 50 league goals. [ 6 ] In 2008 , he finished third for both the Ballon d'Or and FIFA World Player of the Year . Striving to compete for trophies, Torres left Liverpool in January 2011 to join Chelsea for a Premier League record transfer fee of £50 million , which made him the most expensive Spanish player in history. At Chelsea, he won the FA Cup , the UEFA Champions League , and the UEFA Europa League . Torres went on to have a brief stint at AC Milan before returning to Atlético Madrid, where he won the 2017-18 UEFA Europa League . He signed for Japanese club Sagan Tosu in July 2018, before retiring from professional football after the 2019 season .
 
 ### English Achievements
-- With Atlético Madrid: UEFA Europa League
-- With Chelsea: FA Cup
-- With Spain U16: UEFA European Under-16 Championship
-- With Spain: FIFA World Cup
-- Individual: UEFA European Under-16 Championship Player of the Tournament
-- With Decorations: Prince of Asturias Award for Sports
-- With Atlético Madrid: Segunda División
-- With Atlético Madrid: UEFA Champions League runner-up
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 263
@@ -51,13 +44,12 @@ Torres started his career with Atlético Madrid , progressing through their yout
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2001–2007 | Atlético Madrid | 214 | 82 |
-| 2007–2011 | Liverpool | 102 | 65 |
-| 2011–2015 | Chelsea | 110 | 20 |
-| 2014–2015 | AC Milan | 10 | 1 |
-| 2015–2018 | Atlético Madrid | 107 | 27 |
-| 2018–2019 | Sagan Tosu | 35 | 5 |
-| Total | Total | 578 | 200 |
+| 2000–2017 | Atlético Madrid | 404 | 129 |
+| 2007–2010 | Liverpool | 142 | 81 |
+| 2010–2013 | Chelsea | 172 | 45 |
+| 2014 | AC Milan (loan) | 10 | 1 |
+| 2014–2015 | Atlético Madrid (loan) | 70 | 18 |
+| 2018–2019 | Sagan Tosu | 40 | 7 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -81,15 +73,40 @@ Torres started his career with Atlético Madrid , progressing through their yout
 بدأ توريس بلعب الكرة منذ صغره، وفي سن الحادية عشر، بدأ باللعب في فريق الأشبال في نادي أتلتيكو مدريد ، ولعب لأول مرة مع الفريق الأول للنادي في السابعة عشر، وبعدها بعامين فقط أصبح قائدًا للفريق، وخلال ست مواسم مع أتلتيكو مدريد، أثبتَ حضوره كنجم ومهاجم قوي قادر على الإنهاء؛ برصيد تهديفي بلغ 82 هدفًا. انتقل بعد ذلك إلى الدوري الإنجليزي الممتاز مع نادي ليفربول في صفقة قياسية وقتذاك قُدرت بأربعين مليون يورو . لينتقل بعد ذلك إلى تشيلسي لأربع مواسم. ثم أُعير لموسمين إلى نادي إيه سي ميلان الإيطالي، وبعد ذلك إلى ناديه الأمّ أتلتيكو مدريد، واعتزل في نادي ساغان توسو الياباني. [ 3 ] [ عر 1 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع مع الأندية أتلتيكو مدريد: الدوري الإسباني الدرجة الثانية
+- مع مع الأندية تشيلسي: كأس الاتحاد الإنجليزي
+- مع مع المنتخب إسبانيا تحت 16: بطولة أمم أوروبا تحت 16 سنة
+- مع مع المنتخب إسبانيا تحت 19: بطولة أمم أوروبا تحت 19 سنة
+- مع مع المنتخب إسبانيا: كأس العالم لكرة القدم
+- بصفة فردية: أفضل لاعب في بطولة أمم أوروبا تحت 16 سنة
+- مع مع الأندية أتلتيكو مدريد: الدوري الأوروبي
+- مع مع الأندية أتلتيكو مدريد: وصيف دوري أبطال أوروبا
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 400
+- Senior national team goals total: 38
+- Senior career goals total: 438
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001–2007 | أتلتيكو مدريد | 214 | 82 |
+| 2007–2011 | ليفربول | 102 | 65 |
+| 2011–2015 | تشيلسي | 110 | 20 |
+| 2014–2015 | إيه سي ميلان | 10 | 1 |
+| 2015–2016 | إيه سي ميلان | 0 | 0 |
+| 2015–2016 | أتلتيكو مدريد | 49 | 14 |
+| 2016–2018 | أتلتيكو مدريد | 58 | 13 |
+| 2018–2019 | ساغان توسو | 35 | 5 |
+| - | مجموع | 578 | 200 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000 | إسبانيا تحت 15 | 1 | 0 |
+| 2001 | إسبانيا تحت 16 | 9 | 11 |
+| 2001 | إسبانيا تحت 17 | 4 | 1 |
+| 2002 | إسبانيا تحت 18 | 1 | 1 |
+| 2002 | إسبانيا تحت 19 | 5 | 6 |
+| 2002–2003 | إسبانيا تحت 21 | 10 | 3 |
+| 2003–2014 | إسبانيا | 110 | 38 |

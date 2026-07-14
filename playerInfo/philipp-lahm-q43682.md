@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q43682
-- Generated At (UTC): 2026-07-13T08:51:10+00:00
+- Generated At (UTC): 2026-07-13T12:08:01+00:00
 - English Name: Philipp Lahm
 - Arabic Name: فيليب لام
 - Birth Year: 1983
@@ -34,27 +34,19 @@ Philipp Lahm ( German pronunciation: [ˈfɪlɪp ˈlaːm] ; born 11 November 1983
 Lahm is also a former captain of his national team , which he led to win the 2014 FIFA World Cup , before retiring from international football. [ 2 ] [ 7 ] He was included in the World Cup team of the tournament in 2006 , 2010 , and 2014 , and the UEFA Team of the Tournament in 2008 and 2012 and in the UEFA Team of the Year 2006, 2008, 2012, 2013 and 2014. His 113 appearances make him the eighth-most capped player in Germany’s history.
 
 ### English Achievements
-- With Bayern Munich: Bundesliga
-- With Germany: FIFA World Cup
-- Individual: Silbernes Lorbeerblatt
-- With Bayern Munich: DFB-Pokal
-- With Bayern Munich: DFL-Ligapokal
-- With Bayern Munich: DFL-Supercup
-- With Bayern Munich: UEFA Champions League
-- With Bayern Munich: UEFA Super Cup
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 22
+- Club goals total: 19
 - Senior national team goals total: 5
-- Senior career goals total: 27
+- Senior career goals total: 24
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2001–2003 | Bayern Munich II | 63 | 3 |
-| 2002–2017 | Bayern Munich | 332 | 12 |
-| 2003–2005 | VfB Stuttgart | 53 | 2 |
-| Total | Total | 448 | 17 |
+| 2001–2005 | Bayern Munich II | 64 | 3 |
+| 2002–2016 | Bayern Munich | 517 | 16 |
+| 2003–2004 | Stuttgart (loan) | 71 | 3 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -80,12 +72,26 @@ Lahm is also a former captain of his national team , which he led to win the 201
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 39
+- Senior national team goals total: 6
+- Senior career goals total: 45
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000 | بايرن ميونخ 2 تحت 19 | 1 | 0 |
+| 2001–2002 | بايرن ميونخ تحت 19 | 2 | 1 |
+| 2001–2003 | بايرن ميونخ 2 | 64 | 3 |
+| 2002–2017 | بايرن ميونخ | 489 | 16 |
+| 2003–2005 | شتوتغارت | 71 | 3 |
+| - | مجموع | 448 | 17 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1999 | منتخب ألمانيا لكرة القدم للشباب | 1 | 0 |
+| 2000 | منتخب ألمانيا لكرة القدم للشباب | 1 | 0 |
+| 2001–2002 | منتخب ألمانيا لكرة القدم للشباب | 9 | 1 |
+| 2002–2003 | منتخب ألمانيا لكرة القدم للشباب | 6 | 0 |
+| 2003 | ألمانيا تحت 21 | 3 | 0 |
+| 2004–2014 | ألمانيا | 113 | 5 |

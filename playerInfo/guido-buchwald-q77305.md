@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q77305
-- Generated At (UTC): 2026-07-13T08:52:41+00:00
+- Generated At (UTC): 2026-07-13T12:09:17+00:00
 - English Name: Guido Buchwald
 - Arabic Name: غيدو بوخفالت
 - Birth Year: 1961
@@ -34,28 +34,20 @@ Guido Ulrich Buchwald (born 24 January 1961) is a German former professional foo
 The best game of Buchwald's career was the final of the 1990 FIFA World Cup victory for West Germany against Argentina where he effectively marked Diego Maradona for almost the entire match, earning him the nickname "Diego". [ 2 ] His other nickname, 'Bucky' is due to his surname. He was also part of Germany's disappointing 1994 FIFA World Cup campaign and collected in his career 76 caps. [ 3 ]
 
 ### English Achievements
-- With VfB Stuttgart: Bundesliga
-- With Germany: FIFA World Cup
-- Individual: FIFA World Cup All-Star Team
-- With Urawa Red Diamonds: J.League Division 1
-- Individual: J.League Manager of the Year
-- With VfB Stuttgart: DFL-Supercup
-- Individual: kicker Bundesliga Team of the Season
-- Individual: J.League Best XI
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 77
-- Senior national team goals total: 4
-- Senior career goals total: 81
+- Senior national team goals total: 5
+- Senior career goals total: 82
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1979–1983 | Stuttgarter Kickers | 146 | 18 |
-| 1983–1994 | VfB Stuttgart | 325 | 28 |
-| 1994–1997 | Urawa Red Diamonds | 127 | 11 |
-| 1997–1999 | Karlsruher SC | 40 | 3 |
-| Total | Total | 638 | 60 |
+| 1979–1982 | Stuttgarter Kickers | 152 | 18 |
+| 1983–1993 | VfB Stuttgart | 387 | 45 |
+| 1994–1997 | Urawa Reds | 157 | 11 |
+| 1997–1998 | Karlsruher SC | 41 | 3 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -76,12 +68,22 @@ The best game of Buchwald's career was the final of the 1990 FIFA World Cup vict
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 120
+- Senior national team goals total: 4
+- Senior career goals total: 124
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1979–1983 | شتوتغارت كيكرز | 146 | 18 |
+| 1983–1994 | شتوتغارت | 325 | 28 |
+| 1994–1997 | أوراوا رد دايموندز | 127 | 11 |
+| 1997–1999 | كارلسروه | 40 | 3 |
+| - | مجموع | 638 | 60 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1980 | ألمانيا الغربية تحت 21 | 1 | 0 |
+| 1983–1984 | ألمانيا الغربية الأولمبي | 9 | 1 |
+| 1984–1994 | ألمانيا | 76 | 4 |

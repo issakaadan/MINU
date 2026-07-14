@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q185650
-- Generated At (UTC): 2026-07-13T08:53:05+00:00
+- Generated At (UTC): 2026-07-13T12:09:40+00:00
 - English Name: Nigel de Jong
 - Arabic Name: نايجل دي يونغ
 - Birth Year: 1984
@@ -34,32 +34,25 @@ Nigel de Jong (born 30 November 1984) is a Dutch former professional footballer 
 De Jong joined the Ajax youth academy and made the first team at age 17. He moved in 2006 to join Hamburg and then joined Manchester City in January 2009 for an estimated £18 million, [ 5 ] where he became an important part of their holding midfield. A tireless grafter, he garnered a reputation of being a combative and feisty player in his performances, a reputation that earned him nicknames such as "The Destroyer" and "Lawnmower" . [ 6 ] [ 7 ] He moved to Italian side AC Milan in August 2012, before joining MLS side LA Galaxy in February 2016. He subsequently had spells with Galatasaray in Turkey, Mainz 05 in Germany, and Al Ahli and Al-Shahania in Qatar.
 
 ### English Achievements
-- With Ajax: Eredivisie
-- With Manchester City: Premier League
-- With Netherlands: FIFA World Cup runner-up
-- Individual: Ajax Player of the Year (Rinus Michels Award)
-- With Ajax: Johan Cruyff Shield
-- With Manchester City: FA Cup
-- With Manchester City: FA Community Shield
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 29
+- Club goals total: 27
 - Senior national team goals total: 1
-- Senior career goals total: 30
+- Senior career goals total: 28
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2002–2006 | Ajax | 96 | 9 |
-| 2006–2009 | Hamburger SV | 66 | 3 |
-| 2009–2012 | Manchester City | 104 | 1 |
-| 2012–2016 | AC Milan | 79 | 6 |
-| 2016 | LA Galaxy | 18 | 0 |
-| 2016–2018 | Galatasaray | 18 | 1 |
-| 2018 | Mainz 05 | 11 | 0 |
-| 2018–2019 | Al Ahli | 21 | 4 |
-| 2019–2021 | Al-Shahania | 36 | 0 |
-| Total | Total | 449 | 24 |
+| 2002–2005 | Ajax | 126 | 14 |
+| 2005–2008 | Hamburg | 84 | 5 |
+| 2008–2012 | Manchester City | 137 | 2 |
+| 2012–2015 | A.C. Milan | 96 | 7 |
+| 2016 | LA Galaxy | 16 | 0 |
+| 2016–2017 | Galatasaray | 24 | 1 |
+| 2017 | Mainz 05 | 12 | 0 |
+| 2018 | Al Ahli | 21 | 4 |
+| 2019 | Al Shahaniya | 27 | 1 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -83,12 +76,26 @@ De Jong joined the Ajax youth academy and made the first team at age 17. He move
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 48
+- Senior national team goals total: 1
+- Senior career goals total: 49
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2006 | أياكس أمستردام | 96 | 9 |
+| 2006–2009 | هامبورغ | 66 | 3 |
+| 2009–2012 | مانشستر سيتي | 104 | 1 |
+| 2012–2016 | إيه سي ميلان | 79 | 6 |
+| 2016 | لوس أنجلوس غلاكسي | 18 | 0 |
+| 2016–2018 | غلطة سراي | 18 | 1 |
+| 2018 | ماينتس 05 | 11 | 0 |
+| 2018–2019 | النادي الأهلي | 21 | 4 |
+| 2019–2021 | الشحانية | 36 | 0 |
+| - | مجموع | 449 | 24 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2005 | هولندا تحت 21 | 10 | 0 |
+| 2004–2015 | هولندا | 81 | 1 |

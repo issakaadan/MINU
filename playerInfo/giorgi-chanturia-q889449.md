@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q889449
-- Generated At (UTC): 2026-07-13T08:55:36+00:00
+- Generated At (UTC): 2026-07-13T12:12:05+00:00
 - English Name: Giorgi Chanturia
 - Arabic Name: جيورجي شانتوريا
 - Birth Year: 1993
@@ -42,14 +42,12 @@ _No honours section found._
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2011–2014 | Vitesse | 37 | 5 |
-| 2012–2013 | Alania Vladikavkaz | 6 | 0 |
-| 2014 | CFR Cluj | 7 | 1 |
-| 2014–2015 | Verona | 0 | 0 |
-| 2014–2015 | CFR Cluj | 25 | 5 |
-| 2015–2016 | MSV Duisburg | 22 | 4 |
-| 2016–2018 | Ural Yekaterinburg | 30 | 5 |
-| 2020 | Saburtalo Tbilisi | 0 | 0 |
+| 2011–2013 | Vitesse Arnhem | 47 | 6 |
+| 2012 | Alania Vladikavkaz (loan) | 6 | 0 |
+| 2013–2014 | CFR Cluj | 33 | 7 |
+| 2014 | Verona | 0 | 0 |
+| 2015 | MSV Duisburg | 22 | 4 |
+| 2016–2018 | Ural Yekaterinburg | 33 | 7 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -71,12 +69,26 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 20
+- Senior national team goals total: 2
+- Senior career goals total: 22
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2011–2014 | فيتيسه آرنهم | 37 | 5 |
+| 2012–2013 | [الإنجليزية] | 6 | 0 |
+| 2014 | سي إف آر كلوج | 7 | 1 |
+| 2014–2015 | هيلاس فيرونا | 0 | 0 |
+| 2014–2015 | سي إف آر كلوج | 25 | 5 |
+| 2015–2016 | دويسبورغ | 22 | 4 |
+| 2016–2018 | أورال يكاترينبورغ | 30 | 5 |
+| 2020 | نادي إيبيريا 1999 | 0 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008–2009 | جورجيا تحت 17 | 9 | 5 |
+| 2010–2012 | جورجيا تحت 19 | 6 | 4 |
+| 2011–2014 | جورجيا تحت 21 | 14 | 5 |
+| 2014–2017 | جورجيا | 15 | 2 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q982159
-- Generated At (UTC): 2026-07-13T08:52:52+00:00
+- Generated At (UTC): 2026-07-13T12:09:28+00:00
 - English Name: Kosuke Ota
 - Arabic Name: كوسوكه أوتا
 - Birth Year: 1987
@@ -69,12 +69,23 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 11
+- Senior national team goals total: 0
+- Senior career goals total: 11
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006–2008 | يوكوهاما | 49 | 0 |
+| 2009–2011 | شيميزو إس-بولس | 85 | 2 |
+| 2012–2015 | طوكيو | 112 | 7 |
+| 2016–2017 | فيتيسه آرنهم | 26 | 0 |
+| 2017–2019 | طوكيو | 61 | 2 |
+| 2019–2020 | ناغويا غرامبوس | 21 | 0 |
+| 2020–2022 | برث غلوري | 30 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2007 | اليابان تحت 20 | 1 | 0 |
+| 2010–2015 | اليابان | 7 | 0 |

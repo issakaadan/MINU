@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q186415
-- Generated At (UTC): 2026-07-13T08:53:32+00:00
+- Generated At (UTC): 2026-07-13T12:10:08+00:00
 - English Name: Carlos Marchena
 - Arabic Name: كارلوس مارتشينا
 - Birth Year: 1979
@@ -36,14 +36,7 @@ Most of his career (nine years) was spent at Valencia , where he helped the club
 A Spain international for the better part of the 2000s, Marchena won 69 caps and represented the national team in two World Cups and two European Championships , winning each tournament once. [ 3 ]
 
 ### English Achievements
-- With Valencia: La Liga
-- With Spain: FIFA World Cup
-- Individual: UEFA Euro 2008
-- With Valencia: Copa del Rey
-- With Valencia: UEFA Cup
-- With Valencia: UEFA Super Cup
-- With Spain: UEFA European Championship
-- With Spain: FIFA Confederations Cup third place
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 23
@@ -53,14 +46,12 @@ A Spain international for the better part of the 2000s, Marchena won 69 caps and
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1997–2000 | Sevilla | 68 | 1 |
-| 1998 | Sevilla B | 3 | 0 |
-| 2000–2001 | Benfica | 20 | 2 |
-| 2001–2010 | Valencia | 230 | 8 |
-| 2010–2012 | Villarreal | 45 | 1 |
-| 2012–2014 | Deportivo La Coruña | 44 | 5 |
+| 1997–1999 | Sevilla | 76 | 1 |
+| 2000 | Benfica | 20 | 2 |
+| 2001–2009 | Valencia | 319 | 11 |
+| 2010–2011 | Villarreal | 64 | 4 |
+| 2012–2013 | Deportivo | 46 | 5 |
 | 2015 | Kerala Blasters | 1 | 0 |
-| Total | Total | 411 | 17 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -86,12 +77,26 @@ A Spain international for the better part of the 2000s, Marchena won 69 caps and
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 34
+- Senior national team goals total: 2
+- Senior career goals total: 36
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997–2000 | إشبيلية | 68 | 1 |
+| 1998 | إشبيلية أتلتيكو | 3 | 0 |
+| 2000–2001 | بنفيكا | 20 | 2 |
+| 2001–2010 | فالنسيا | 230 | 8 |
+| 2010–2012 | فياريال | 45 | 1 |
+| 2012–2014 | ديبورتيفو لاكورونيا | 44 | 5 |
+| 2015 | كيرلا بلاستيرز | 1 | 0 |
+| - | مجموع | 411 | 17 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1999 | إسبانيا تحت 20 | 7 | 0 |
+| 1999–2001 | إسبانيا تحت 21 | 17 | 0 |
+| 2000 | إسبانيا تحت 23 | 5 | 0 |
+| 2002–2011 | إسبانيا | 69 | 2 |

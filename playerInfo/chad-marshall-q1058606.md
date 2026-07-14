@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1058606
-- Generated At (UTC): 2026-07-13T08:55:22+00:00
+- Generated At (UTC): 2026-07-13T12:11:50+00:00
 - English Name: Chad Marshall
 - Arabic Name: تشاد مارشال
 - Birth Year: 1984
@@ -32,14 +32,7 @@
 Chad Marshall (born August 22, 1984) is an American former professional soccer player. During his 16-year career, he played for Columbus Crew and Seattle Sounders FC in Major League Soccer . Regarded as one of the league's greatest players of all time, [ 1 ] he was a three-time MLS Defender of the Year Award winner, two-time MLS Cup winner, four-time Supporters' Shield winner, a U.S. Open Cup winner, and was selected to four All-Star teams.
 
 ### English Achievements
-- With Columbus Crew: MLS Cup
-- With Seattle Sounders: MLS Cup
-- Individual: MLS Defender of the Year
-- Records: Columbus Crew all-time appearance holder
-- With Columbus Crew: MLS Supporters' Shield
-- With Seattle Sounders: MLS Supporters' Shield
-- With Seattle Sounders: U.S. Open Cup
-- Individual: MLS Best XI
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 31
@@ -49,9 +42,8 @@ Chad Marshall (born August 22, 1984) is an American former professional soccer p
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2004–2013 | Columbus Crew | 253 | 16 |
-| 2014–2019 | Seattle Sounders FC | 156 | 10 |
-| Total | Total | 409 | 26 |
+| 2004–2013 | Columbus Crew | 272 | 19 |
+| 2014–2019 | Seattle Sounders FC | 186 | 12 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -73,12 +65,21 @@ Chad Marshall (born August 22, 1984) is an American former professional soccer p
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 52
+- Senior national team goals total: 1
+- Senior career goals total: 53
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004–2013 | كولومبوس كرو | 253 | 16 |
+| 2014–2019 | سياتل ساوندرز | 156 | 10 |
+| - | مجموع | 409 | 26 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000–2001 | الولايات المتحدة تحت 17 | 12 | 4 |
+| 2002–2003 | الولايات المتحدة تحت 20 | 30 | 0 |
+| 2004 | الولايات المتحدة تحت 23 | 4 | 0 |
+| 2005–2017 | الولايات المتحدة | 12 | 1 |

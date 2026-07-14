@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q360543
-- Generated At (UTC): 2026-07-13T08:56:31+00:00
+- Generated At (UTC): 2026-07-13T12:13:06+00:00
 - English Name: José Manuel Serrano
 - Arabic Name: خوسيه مانويل سيرانو
 - Birth Year: 1981
@@ -70,12 +70,25 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 36
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 36
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1999–2004 | إشبيلية أتلتيكو | 156 | 7 |
+| 2004–2005 | خيريث | 24 | 0 |
+| 2005–2007 | [الإنجليزية] | 52 | 2 |
+| 2007–2008 | ليفانتي | 39 | 1 |
+| 2008–2010 | رايو فايكانو | 20 | 0 |
+| 2010–2012 | قادش | 28 | 3 |
+| 2013–2018 | نادي ديبورتيفو الكالا | 177 | 5 |
+| - | مجموع | 496 | 18 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997–1998 | إسبانيا تحت 16 | 7 | 0 |
+| 1998–1999 | إسبانيا تحت 17 | 12 | 0 |
+| 1999–2000 | إسبانيا تحت 18 | 5 | 0 |

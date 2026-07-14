@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q269231
-- Generated At (UTC): 2026-07-13T08:55:14+00:00
+- Generated At (UTC): 2026-07-13T12:11:43+00:00
 - English Name: Aleksei Paramonov
 - Arabic Name: ألكسي بارامونوف
 - Birth Year: 1925

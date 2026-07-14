@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q219390
-- Generated At (UTC): 2026-07-13T08:53:37+00:00
+- Generated At (UTC): 2026-07-13T12:10:13+00:00
 - English Name: Giacinto Facchetti
 - Arabic Name: جاشينتو فاكيتي
 - Birth Year: 1942
@@ -36,14 +36,7 @@ Facchetti represented Italy internationally on 94 occasions, including three FIF
 Facchetti is remembered as one of the first prominent attacking full-backs and is considered among the best players at his position. Known for his pace, technique, intelligence, physique, and stamina, he formed a strong defensive partnership with Tarcisio Burgnich in Inter's catenaccio system and with the Italy national team. He was also recognized for his discipline and leadership, serving as captain for both Inter Milan and Italy for several years.
 
 ### English Achievements
-- Serie A
-- UEFA European Championship
-- FIFA 100 (125 greatest living players, as selected by Pelé )
-- Commander of the Order of Merit of the Italian Republic
-- Coppa Italia
-- European Cup
-- Intercontinental Cup
-- FIFA World Cup runner-up
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 75
@@ -53,7 +46,7 @@ Facchetti is remembered as one of the first prominent attacking full-backs and i
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1960–1978 | Inter Milan | 476 | 59 |
+| 1960–1977 | Inter Milan | 629 | 75 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -70,15 +63,22 @@ Facchetti is remembered as one of the first prominent attacking full-backs and i
 جاشينتو فاكـّيتـّي ( Giacinto Facchetti )، ( تريفيليو بمقاطعة بيرغامو ، 18 يوليو 1942 ). لاعب كرة قدم إيطالي سابق، وكان يلعب في إنتر ميلان ، وقد كان رئيس النادي منذ 2004 وحتى وفاته، وتوفي في 4 سبتمبر 2006 . فاكيتي لم يكن لاعب كرة قدم مشهور وحسب، لكنه سيتذكر دائما من عشاق الكرة لشخصيته وقيادته لفريقه ومنتخبه بكل تفاني، حيث طرد مرة واحدة طوال مسيرته الكروية بسبب تصفيقه للحكم إستهزاء.و منذ وفاته لا يستخدم الرقم 3 في نادي إنتر ميلان تخليدا لذكراه. [ 1 ] [ 2 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع الإنجازات: الدوري الإيطالي (4 مرات)
+- مع الإنجازات: كأس إيطاليا (مرة)
+- مع الإنجازات: دوري أبطال أوروبا (مرتين)
+- مع الإنجازات: كأس الإنتركونتيننتال (مرتين)
+- مع الإنجازات: كأس الأمم الأوروبية (مرة)
+- مع الإنجازات: أفضل 125 لاعب كرة قدم حي
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 59
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 59
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1960–1978 | إنتر ميلان | 476 | 59 |
 
 ### Arabic National Team Stats
 _No rows found._

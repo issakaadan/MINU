@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q276743
-- Generated At (UTC): 2026-07-13T08:56:14+00:00
+- Generated At (UTC): 2026-07-13T12:12:42+00:00
 - English Name: Ben Williams
 - Arabic Name: بين وليامز
 - Birth Year: 1982
@@ -57,12 +57,27 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 0
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2004 | مانشستر يونايتد | 0 | 0 |
+| 2002 | كوفنتري سيتي | 0 | 0 |
+| 2003 | تشيسترفيلد | 14 | 0 |
+| 2003 | ألترينتشام | 6 | 0 |
+| 2004 | كرو ألكساندرا | 10 | 0 |
+| 2004–2008 | كرو ألكساندرا | 125 | 0 |
+| 2008–2009 | كارلايل يونايتد | 31 | 0 |
+| 2009–2012 | كولتشستر يونايتد | 115 | 0 |
+| 2012–2014 | هيبرنيان | 74 | 0 |
+| 2014–2016 | برادفورد سيتي | 57 | 0 |
+| 2016–2017 | بوري | 21 | 0 |
+| 2017–2018 | بلاكبول | 3 | 0 |
+| 2018–2019 | بولتون واندررز | 0 | 0 |
+| - | مجموع | 448 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

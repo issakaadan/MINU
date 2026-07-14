@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q653218
-- Generated At (UTC): 2026-07-13T08:55:38+00:00
+- Generated At (UTC): 2026-07-13T12:12:06+00:00
 - English Name: Giulio Donati
 - Arabic Name: جوليو دوناتي
 - Birth Year: 1990
@@ -42,15 +42,14 @@ _No honours section found._
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2009–2013 | Inter Milan | 0 | 0 |
-| 2010–2011 | Lecce | 14 | 0 |
-| 2011–2012 | Padova | 28 | 0 |
-| 2012–2013 | Grosseto | 27 | 0 |
-| 2013–2016 | Bayer Leverkusen | 43 | 0 |
-| 2016–2019 | Mainz 05 | 81 | 0 |
-| 2019–2020 | Lecce | 20 | 1 |
-| 2020–2024 | Monza | 69 | 1 |
-| 2025– | Ravenna | 29 | 1 |
+| 2009 | Inter Milan | 1 | 0 |
+| 2010 | Lecce (loan) | 16 | 0 |
+| 2011 | Padova (loan) | 30 | 1 |
+| 2012 | Grosseto (loan) | 27 | 0 |
+| 2013–2015 | Bayer Leverkusen | 67 | 1 |
+| 2015–2018 | Mainz 05 | 88 | 0 |
+| 2019 | Lecce | 20 | 1 |
+| 2020–2023 | Monza | 67 | 1 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -70,12 +69,24 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 1
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 1
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009–2013 | إنتر ميلان | 0 | 0 |
+| 2010–2011 | ليتشي | 14 | 0 |
+| 2011–2012 | بادوفا | 28 | 0 |
+| 2012–2013 | غروسيتو | 27 | 0 |
+| 2013–2016 | باير 04 ليفركوزن | 43 | 0 |
+| 2016–2019 | ماينتس 05 | 81 | 0 |
+| 2019–2020 | ليتشي | 20 | 1 |
+| 2020– | مونزا | 61 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2010 | إيطاليا تحت 20 | 3 | 0 |
+| 2010–2013 | إيطاليا تحت 21 | 26 | 0 |

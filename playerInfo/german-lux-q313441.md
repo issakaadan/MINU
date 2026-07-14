@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q313441
-- Generated At (UTC): 2026-07-13T08:54:21+00:00
+- Generated At (UTC): 2026-07-13T12:10:52+00:00
 - English Name: Germán Lux
 - Arabic Name: خيرمان لوكس
 - Birth Year: 1982
@@ -34,13 +34,7 @@ Germán Darío Lux (born 7 June 1982) is an Argentine former professional footba
 After starting out at River Plate , he spent most of his career in Spain with Mallorca and Deportivo .
 
 ### English Achievements
-- With River Plate: Argentine Primera División
-- With Deportivo: Segunda División
-- With Argentina: FIFA U-20 World Cup
-- With River Plate: Copa Libertadores
-- With River Plate: Recopa Sudamericana
-- With Argentina: Summer Olympic Games
-- With Argentina: CONMEBOL Pre-Olympic Tournament
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 0
@@ -50,11 +44,9 @@ After starting out at River Plate , he spent most of his career in Spain with Ma
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2001–2007 | River Plate | 54 | 0 |
-| 2007–2011 | Mallorca | 29 | 0 |
-| 2011–2017 | Deportivo La Coruña | 106 | 0 |
-| 2017–2021 | River Plate | 12 | 0 |
-| Total | Total | 201 | 0 |
+| 2001–2020 | River Plate | 98 | 0 |
+| 2007–2010 | Mallorca | 44 | 0 |
+| 2011–2016 | Deportivo La Coruña | 114 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -72,15 +64,28 @@ After starting out at River Plate , he spent most of his career in Spain with Ma
 خيرمان داريو لوكس ( الإسبانية : Germán Darío Lux ) (مواليد 7 يونيو 1982 في كاركارانيا - الأرجنتين ) لاعب كرة قدم أرجنتيني يلعب حاليًا لصالح نادي ديبورتيفو لاكورونيا الإسباني منذ عام 2011 في مركز حراسة المرمى . [ 1 ] [ 2 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع ريفر بليت: دوري الدرجة الأولى الأرجنتيني
+- مع ديبورتيفو لاكورونيا: دوري الدرجة الثانية الإسباني
+- مع على المستوى الدولي: كأس العالم تحت 20 سنة لكرة القدم
+- مع على المستوى الدولي: الألعاب الأولمبية الصيفية
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 0
+- Senior national team goals total: 0
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001–2007 | ريفر بليت | 53 | 0 |
+| 2007–2011 | ريال مايوركا | 29 | 0 |
+| 2011–2017 | ديبورتيفو لاكورونيا | 106 | 0 |
+| 2017–2021 | ريفر بليت | 12 | 0 |
+| - | مجموع | 200 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001 | الأرجنتين تحت 20 | 5 | 0 |
+| 2004 | الأرجنتين تحت 23 | 9 | 0 |
+| 2005 | الأرجنتين | 6 | 0 |

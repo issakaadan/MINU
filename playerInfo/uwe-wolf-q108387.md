@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q108387
-- Generated At (UTC): 2026-07-13T08:57:03+00:00
+- Generated At (UTC): 2026-07-13T12:13:30+00:00
 - English Name: Uwe Wolf
 - Arabic Name: أوي وولف
 - Birth Year: 1967
@@ -32,7 +32,7 @@
 Uwe Wolf (born 10 August 1967 in Neustadt an der Weinstraße ) is a German football coach and former professional player.
 
 ### English Achievements
-- With Necaxa: Primera División de México
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 9
@@ -64,12 +64,19 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 9
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 9
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1989–1994 | نورنبرغ | 81 | 5 |
+| 1994–1995 | ميونخ 1860 | 9 | 0 |
+| 1995–1996 | نيكاكسا | 26 | 1 |
+| 1996–1997 | بويبلا | 26 | 3 |
+| 1998–1999 | أوستريا سالزبورغ | 3 | 0 |
+| 1999–2000 | دينامو درسدن | 4 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q94518
-- Generated At (UTC): 2026-07-13T08:56:34+00:00
+- Generated At (UTC): 2026-07-13T12:13:09+00:00
 - English Name: Lars Cramer
 - Arabic Name: لارس كرامر
 - Birth Year: 1991
@@ -67,12 +67,22 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 0
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2007–2012 | نادي سترومسغودست | 2 | 0 |
+| 2011 | Asker | 17 | 0 |
+| 2013–2015 | نادي كالمار | 49 | 0 |
+| 2016 | أوليسوند | 2 | 0 |
+| 2017 | بران | 0 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2010 | النرويج تحت 19 | 2 | 0 |
+| 2011 | النرويج تحت 21 | 1 | 0 |
+| 2012–2015 | Norway U23 | 5 | 0 |

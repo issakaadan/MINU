@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q2339
-- Generated At (UTC): 2026-07-13T08:49:23+00:00
+- Generated At (UTC): 2026-07-13T12:06:40+00:00
 - English Name: Robin van Persie
 - Arabic Name: روبين فان بيرسي
 - Birth Year: 1983
@@ -34,14 +34,7 @@ Robin van Persie ( Dutch pronunciation: [ˈrɔbɪɱ vɑm ˈpɛrsi] ⓘ ; born 6 
 Starting his career as a winger , Van Persie made his senior debut for Feyenoord during the 2001–02 season, which culminated with victory in the 2002 UEFA Cup final ; he was also named as the Dutch Football Talent of the Year . After five years with Feyenoord, he fell out with manager Bert van Marwijk , and he joined English club Arsenal in 2004 as a long-term replacement for compatriot Dennis Bergkamp . In his debut season , he scored several goals en route to the club's FA Cup win, and featured in their UEFA Champions League run to the final in 2005–06 . Following the departures of Bergkamp and Thierry Henry , Van Persie was converted to a sole striker and went on to score 111 goals in his next 199 matches for the club. He was club captain for the 2011–12 season, during which he was awarded the PFA Players' Player of the Year , FWA Footballer of the Year , and the Premier League Golden Boot .
 
 ### English Achievements
-- With Feyenoord: KNVB Cup
-- With Arsenal: FA Cup
-- With Manchester United: Premier League
-- With Fenerbahçe: Turkish Cup runner-up
-- With Netherlands: FIFA World Cup runner-up
-- Individual: Dutch Football Talent of the Year
-- Individual: Rinus Michels Manager of the Month
-- With Feyenoord: Johan Cruyff Shield
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 272
@@ -51,12 +44,10 @@ Starting his career as a winger , Van Persie made his senior debut for Feyenoord
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2001–2004 | Feyenoord | 61 | 14 |
-| 2004–2012 | Arsenal | 194 | 96 |
-| 2012–2015 | Manchester United | 86 | 48 |
-| 2015–2018 | Fenerbahçe | 57 | 25 |
-| 2018–2019 | Feyenoord | 37 | 21 |
-| Total | Total | 435 | 204 |
+| 2001–2018 | Feyenoord | 123 | 46 |
+| 2004–2011 | Arsenal | 278 | 132 |
+| 2012–2014 | Manchester United | 105 | 58 |
+| 2015–2017 | Fenerbahçe | 87 | 36 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -75,15 +66,31 @@ Starting his career as a winger , Van Persie made his senior debut for Feyenoord
 روبين فان بيرسي ( بالهولندية : Robin van Persie ) (مواليد 6 أغسطس 1983 )، هو لاعب كرة قدم هولندي سابق، كان يلعب في الدوري الهولندي الممتاز مع نادي فينورد في مركز الهجوم ، و لمانشستر يونايتد، و أرسنال الإنجليزي، كما كان يشارك مع منتخب هولندا . ولد روبن فان بيرسي في شرق مدينة روتردام بهولندا، ويعتبر من أبرز المهاجمين.
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي فاينورد: الدوري الأوروبي (1)
+- مع النادي أرسنال: كأس الاتحاد الإنجليزي (1)
+- مع النادي مانشستر يونايتد: الدوري الإنجليزي (1)
+- مع المنتخب هولندا: كأس العالم الوصيف (1)
+- مع النادي أرسنال: درع الاتحاد الإنجليزي (1)
+- مع النادي مانشستر يونايتد: درع الاتحاد الإنجليزي (1)
+- مع المنتخب هولندا: كأس العالم المركز الثالث (1)
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 248
+- Senior national team goals total: 50
+- Senior career goals total: 298
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001–2003 | فاينورد | 78 | 22 |
+| 2004–2011 | أرسنال | 278 | 132 |
+| 2012–2014 | مانشستر يونايتد | 105 | 58 |
+| 2015–2017 | فنربخشة | 87 | 36 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000 | هولندا تحت 17 | 6 | 0 |
+| 2001 | هولندا تحت 19 | 6 | 0 |
+| 2002–2005 | هولندا تحت 21 | 12 | 1 |
+| 2005–2017 | هولندا | 102 | 50 |

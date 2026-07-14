@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q344206
-- Generated At (UTC): 2026-07-13T08:56:41+00:00
+- Generated At (UTC): 2026-07-13T12:13:17+00:00
 - English Name: Mehmet Yılmaz
 - Arabic Name: محمد يلماز
 - Birth Year: 1979
@@ -32,7 +32,7 @@
 Mehmet Yılmaz (born 22 May 1979) is a Turkish retired footballer .
 
 ### English Achievements
-- With Trabzonspor: Turkish Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 111
@@ -77,12 +77,32 @@ Mehmet Yılmaz (born 22 May 1979) is a Turkish retired footballer .
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 111
+- Senior national team goals total: 0
+- Senior career goals total: 111
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997–1998 | [الإنجليزية] | 29 | 9 |
+| 1998–1999 | Gümüşhanespor | 26 | 6 |
+| 1999–2001 | [الإنجليزية] | 57 | 27 |
+| 2001–2003 | آلتاي إزمير | 16 | 9 |
+| 2001–2002 | سامسون سبور | 33 | 10 |
+| 2002–2003 | طرابزون سبور | 33 | 9 |
+| 2003–2006 | طرابزون سبور | 63 | 14 |
+| 2006 | دينيزلي سبور | 15 | 5 |
+| 2006–2008 | عثمانلي سبور | 46 | 11 |
+| 2008–2009 | أنقرة غوجو | 26 | 4 |
+| 2009–2010 | إسكيشهرسبور | 24 | 5 |
+| 2010 | غازي عنتاب سبور | 8 | 1 |
+| 2011–2012 | أنطاليا سبور | 17 | 1 |
+| 2012–2013 | بلدية آكهيسار سبور | 7 | 0 |
+| 2013 | Kızılcahamamspor | 2 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000–2001 | تركيا تحت 21 | 8 | 0 |
+| 2003–2004 | منتخب تركيا ب لكرة القدم [الإنجليزية] | 2 | 0 |
+| 2004 | تركيا | 1 | 0 |

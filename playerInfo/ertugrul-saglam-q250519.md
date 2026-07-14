@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q250519
-- Generated At (UTC): 2026-07-13T08:55:33+00:00
+- Generated At (UTC): 2026-07-13T12:12:02+00:00
 - English Name: Ertuğrul Sağlam
 - Arabic Name: أرطغرل ساغلام
 - Birth Year: 1969
@@ -32,14 +32,7 @@
 Ertuğrul Sağlam (born 19 November 1969) is a UEFA Pro Licensed Turkish football manager [ 1 ] and former player who most recently coached Kocaelispor . [ 2 ]
 
 ### English Achievements
-- With Player honours [ edit ]: 1. Lig
-- With Player honours [ edit ]: Süper Lig
-- With Managerial honours [ edit ]: UEFA Intertoto Cup
-- With Managerial honours [ edit ]: Süper Lig
-- With Player honours [ edit ]: Balkans Cup
-- With Player honours [ edit ]: Türkiye Kupası
-- With Player honours [ edit ]: Süper Kupa
-- With Player honours [ edit ]: TSYD Kupası
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 169
@@ -49,11 +42,8 @@ Ertuğrul Sağlam (born 19 November 1969) is a UEFA Pro Licensed Turkish footbal
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1986–1988 | Gaziantepspor | 21 | 7 |
-| 1988–1994 | Samsunspor | 138 | 42 |
-| 1994–2000 | Beşiktaş | 167 | 106 |
-| 2000–2003 | Samsunspor | 75 | 21 |
-| Total | Total | 380 | 169 |
+| 1989–2002 | Samsunspor | 214 | 70 |
+| 1994–1999 | Beşiktaş | 217 | 101 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -72,12 +62,19 @@ Ertuğrul Sağlam (born 19 November 1969) is a UEFA Pro Licensed Turkish footbal
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 338
+- Senior national team goals total: 11
+- Senior career goals total: 349
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1988–1994 | سامسون سبور | 138 | 42 |
+| 1994–2000 | بشكتاش | 167 | 106 |
+| 2000–2003 | سامسون سبور | 75 | 21 |
+| - | مجموع | 380 | 169 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1993–1997 | تركيا | 26 | 11 |

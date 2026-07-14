@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q215454
-- Generated At (UTC): 2026-07-13T08:54:13+00:00
+- Generated At (UTC): 2026-07-13T12:10:43+00:00
 - English Name: Cristian Riveros
 - Arabic Name: كريستيان ريفيروس
 - Birth Year: 1982
@@ -36,7 +36,7 @@ A full international for Paraguay since 2005, he has earned 99 caps for his coun
 On 19 July 2015, Paraguayan newspaper ExtraPRESS named Riveros the most expensive player in Paraguay. [ 3 ]
 
 ### English Achievements
-- With Libertad: Paraguayan Primera División
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 73
@@ -46,19 +46,16 @@ On 19 July 2015, Paraguayan newspaper ExtraPRESS named Riveros the most expensiv
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2000–2005 | Tacuary | 108 | 16 |
-| 2002 | Sportivo San Lorenzo | 24 | 0 |
-| 2005–2007 | Libertad | 50 | 8 |
-| 2007–2010 | Cruz Azul | 111 | 17 |
-| 2010–2012 | Sunderland | 12 | 1 |
-| 2011–2012 | Kayserispor | 33 | 2 |
-| 2012–2013 | Kayserispor | 30 | 0 |
-| 2013–2015 | Grêmio | 43 | 5 |
-| 2015–2018 | Olimpia Asunción | 107 | 11 |
-| 2018–2019 | Libertad | 53 | 1 |
-| 2020–2022 | Nacional Asunción | 59 | 4 |
-| 2022–2024 | Libertad | 34 | 4 |
-| Total | Total | 664 | 69 |
+| 2002 | San Lorenzo | 14 | 0 |
+| 2003–2005 | Tacuary | 79 | 7 |
+| 2005–2023 | Libertad | 174 | 17 |
+| 2007–2009 | Cruz Azul | 131 | 22 |
+| 2010 | Sunderland | 14 | 1 |
+| 2011 | Kayserispor (loan) | 40 | 3 |
+| 2012 | Kayserispor | 31 | 0 |
+| 2013–2014 | Grêmio | 69 | 6 |
+| 2015–2017 | Olimpia | 124 | 13 |
+| 2020–2021 | Nacional | 62 | 4 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -81,12 +78,26 @@ On 19 July 2015, Paraguayan newspaper ExtraPRESS named Riveros the most expensiv
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 65
+- Senior national team goals total: 16
+- Senior career goals total: 81
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000–2005 | [الإنجليزية] | 108 | 16 |
+| 2002 | [الإنجليزية] | 24 | 0 |
+| 2005–2007 | ليبرتاد | 50 | 8 |
+| 2007–2010 | كروز آزول | 111 | 17 |
+| 2010–2012 | سندرلاند | 12 | 1 |
+| 2011–2012 | كايسري سبور | 33 | 2 |
+| 2012–2013 | كايسري سبور | 30 | 0 |
+| 2013–2015 | غريميو بورتو أليغرينزي | 43 | 5 |
+| 2015–2018 | أوليمبيا أسونسيون | 107 | 11 |
+| 2018–2019 | ليبرتاد | 53 | 1 |
+| 2020–2022 | ناسيونال أسونسيون | 59 | 4 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005–2018 | باراغواي | 101 | 16 |

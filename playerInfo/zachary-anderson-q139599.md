@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q139599
-- Generated At (UTC): 2026-07-13T08:57:05+00:00
+- Generated At (UTC): 2026-07-13T12:13:31+00:00
 - English Name: Zachary Anderson
 - Arabic Name: زاك أنديرسون
 - Birth Year: 1991
@@ -36,10 +36,7 @@ Born in Queensland, Anderson made his professional debut with Gold Coast United 
 He has played for the Australian U-20 and U-23 sides.
 
 ### English Achievements
-- With Gold Coast United FC: National Youth League Championship
-- With Central Coast Mariners: A-League Championship
-- With Kedah FA: Sultan Haji Ahmad Shah Cup
-- With Kedah FA: Malaysia FA Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 11
@@ -49,16 +46,15 @@ He has played for the Australian U-20 and U-23 sides.
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2009–2012 | Gold Coast United FC | 17 | 1 |
-| 2012–2015 | Central Coast Mariners | 67 | 1 |
-| 2015–2016 | Sydney FC | 4 | 0 |
-| 2016 | Emirates Club | 2 | 0 |
-| 2017 | Kedah | 17 | 1 |
-| 2018 | PKNS | 20 | 1 |
-| 2019 | Perak | 10 | 0 |
+| 2009–2011 | Gold Coast United FC | 17 | 1 |
+| 2012–2014 | Central Coast Mariners | 82 | 1 |
+| 2015 | Sydney | 9 | 0 |
+| 2016 | Emirates Club | 3 | 0 |
+| 2017 | Kedah | 31 | 2 |
+| 2018 | PKNS | 29 | 1 |
+| 2019 | Perak FA | 15 | 0 |
 | 2020 | Hougang United | 14 | 1 |
-| 2021 | Olympic FC | 28 | 5 |
-| Total | Total | 179 | 10 |
+| 2021 | Olympic FC | 0 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -78,12 +74,26 @@ He has played for the Australian U-20 and U-23 sides.
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 20
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 20
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009–2012 | غولد كوست يونايتد | 17 | 1 |
+| 2012–2015 | سنترال كوست مارينرز | 67 | 1 |
+| 2015–2016 | سيدني إف سي | 4 | 0 |
+| 2016 | الإمارات | 2 | 0 |
+| 2017 | كيدا دارول أمان | 17 | 1 |
+| 2018 | نادي سلاغور الثاني [الإنجليزية] | 20 | 1 |
+| 2019 | [الإنجليزية] | 10 | 0 |
+| 2020 | هاوجانج يونايتد | 14 | 1 |
+| 2021 | [الإنجليزية] | 28 | 5 |
+| - | مجموع | 179 | 10 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009 | منتخب أستراليا تحت 20 سنة لكرة القدم | 2 | 0 |
+| 2012 | أستراليا تحت 23 | 1 | 0 |

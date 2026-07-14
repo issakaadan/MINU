@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q214117
-- Generated At (UTC): 2026-07-13T08:53:40+00:00
+- Generated At (UTC): 2026-07-13T12:10:16+00:00
 - English Name: Hélder Postiga
 - Arabic Name: هيلدر بوستيغا
 - Birth Year: 1982
@@ -36,14 +36,7 @@ After beginning at Porto , where he won eight items of silverware along the way,
 A Portugal international since 2003, Postiga represented the country in two World Cups and three European Championships , helping the nation to reach the final at Euro 2004 .
 
 ### English Achievements
-- With Porto: Primeira Liga
-- With Sporting CP: Supertaça Cândido de Oliveira
-- With Atlético Kolkata: Indian Super League
-- With Portugal: UEFA European Championship runner-up
-- Orders: Medal of Merit, Order of the Immaculate Conception of Vila Viçosa ( House of Braganza )
-- With Porto: Taça de Portugal
-- With Porto: Supertaça Cândido de Oliveira
-- With Porto: UEFA Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 109
@@ -53,21 +46,17 @@ A Portugal international since 2003, Postiga represented the country in two Worl
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2000–2001 | Porto B | 37 | 10 |
-| 2001–2003 | Porto | 58 | 22 |
-| 2003–2004 | Tottenham Hotspur | 19 | 1 |
-| 2004–2008 | Porto | 56 | 15 |
-| 2006 | Saint-Étienne | 16 | 2 |
-| 2008 | Panathinaikos | 11 | 2 |
-| 2008–2011 | Sporting CP | 71 | 12 |
-| 2011–2013 | Zaragoza | 70 | 23 |
-| 2013–2014 | Valencia | 15 | 3 |
-| 2014 | Lazio | 5 | 0 |
-| 2014–2015 | Deportivo La Coruña | 14 | 1 |
-| 2015 | Atlético Kolkata | 1 | 2 |
-| 2016 | Rio Ave | 10 | 5 |
-| 2016 | Atlético Kolkata | 11 | 2 |
-| Total | Total | 394 | 100 |
+| 2001–2007 | Porto | 164 | 48 |
+| 2003 | Tottenham Hotspur | 24 | 2 |
+| 2005 | Saint-Étienne (loan) | 16 | 2 |
+| 2007 | Panathinaikos (loan) | 17 | 2 |
+| 2008–2011 | Sporting CP | 111 | 18 |
+| 2011–2012 | Zaragoza | 75 | 23 |
+| 2013 | Valencia | 23 | 4 |
+| 2013 | Lazio (loan) | 5 | 0 |
+| 2014 | Deportivo La Coruña | 16 | 2 |
+| 2015–2016 | Atlético Kolkata | 12 | 4 |
+| 2015 | Rio Ave | 11 | 5 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -92,12 +81,28 @@ A Portugal international since 2003, Postiga represented the country in two Worl
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 250
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 250
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000–2001 | [الإنجليزية] | 37 | 10 |
+| 2001–2003 | بورتو | 58 | 22 |
+| 2003–2004 | توتنهام هوتسبير | 19 | 1 |
+| 2004–2008 | بورتو | 56 | 15 |
+| 2006 | سانت إتيان | 16 | 2 |
+| 2008 | باناثينايكوس | 14 | 2 |
+| 2008–2011 | سبورتينغ لشبونة | 71 | 12 |
+| 2011–2013 | ريال سرقسطة | 70 | 23 |
+| 2013–2014 | فالنسيا | 15 | 3 |
+| 2014 | لاتسيو | 5 | 0 |
+| 2014–2015 | ديبورتيفو لاكورونيا | 14 | 1 |
+| 2015 | أتلتيكو كلكتا | 1 | 2 |
+| 2016 | ريو أفي | 10 | 5 |
+| 2016–2017 | أتلتيكو كلكتا | 45 | 26 |
+| - | مجموع | 397 | 126 |
 
 ### Arabic National Team Stats
 _No rows found._

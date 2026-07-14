@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q513167
-- Generated At (UTC): 2026-07-13T08:55:26+00:00
+- Generated At (UTC): 2026-07-13T12:11:55+00:00
 - English Name: Darren Ferguson
 - Arabic Name: دارين فيرغسون
 - Birth Year: 1972
@@ -36,14 +36,7 @@ As a player, Ferguson was managed at Manchester United by his father, Sir Alex F
 Ferguson's first managerial appointment was as player-manager of League Two Peterborough United in January 2007. After two successive promotions, and guiding the club to the second tier of English football for the first time in 17 seasons, Ferguson was relieved of his duties on 9 November 2009, with Peterborough United at the foot of The Championship .
 
 ### English Achievements
-- With Manchester United: Premier League
-- With Wrexham: FAW Premier Cup
-- With Peterborough United: Football League Trophy / EFL Trophy
-- With Doncaster Rovers: EFL League Two third-place promotion
-- Individual: LMA Manager of the Year
-- With Manchester United: FA Charity Shield
-- With Wrexham: Football League Trophy
-- With Peterborough United: Football League One / EFL League One second-place promotion
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 56
@@ -77,12 +70,21 @@ Ferguson's first managerial appointment was as player-manager of League Two Pete
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 112
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 112
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1990–1994 | مانشستر يونايتد | 28 | 0 |
+| 1994–1999 | وولفرهامبتون واندررز | 117 | 4 |
+| 1999 | سبارتا روتردام | 14 | 1 |
+| 1999–2007 | ريكسهام | 310 | 51 |
+| 2007–2008 | بيتربورو يونايتد | 0 | 0 |
+| - | مجموع | 468 | 56 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1992–1993 | اسكتلندا تحت 21 | 5 | 0 |

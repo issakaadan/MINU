@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q313209
-- Generated At (UTC): 2026-07-13T08:52:32+00:00
+- Generated At (UTC): 2026-07-13T12:09:07+00:00
 - English Name: Carlos Queiroz
 - Arabic Name: كارلوس كيروش
 - Birth Year: 1953
@@ -34,14 +34,7 @@ Carlos Manuel Brito Leal de Queiroz [ a ] ComIH (born 1 March 1953) is a Portugu
 Queiroz is the longest-serving manager in the history of the Iran national team, serving for almost eight years between 2011 and 2019. He returned to the role for Iran's 2022 World Cup campaign. Queiroz is the only manager in the country's history to lead them at three consecutive World Cups.
 
 ### English Achievements
-- With Manchester United: Premier League
-- With Portugal: FIFA World Youth Championship
-- With Sporting CP: Taça de Portugal
-- With Nagoya Grampus: Asian Cup Winners' Cup runner–up
-- With United Arab Emirates: Arabian Gulf Cup third place
-- With Real Madrid: Supercopa de España
-- With Egypt: Africa Cup of Nations runner–up
-- With Manchester United: UEFA Champions League
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: Unavailable

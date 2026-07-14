@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q519625
-- Generated At (UTC): 2026-07-13T08:55:50+00:00
+- Generated At (UTC): 2026-07-13T12:12:19+00:00
 - English Name: Luciano Zauri
 - Arabic Name: لوتشيانو زاوري
 - Birth Year: 1978
@@ -32,8 +32,7 @@
 Luciano Zauri ( Italian pronunciation: [luˈtʃaːno dˈdzauri] ; born 20 January 1978) is an Italian football coach and a former player who played as a full-back or wide midfielder on either flank. He is the head coach of Serie C Group B club Campobasso .
 
 ### English Achievements
-- With Player [ edit ]: Coppa Italia
-- With Manager [ edit ]: Maltese Premier League
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 7
@@ -74,12 +73,24 @@ Luciano Zauri ( Italian pronunciation: [luˈtʃaːno dˈdzauri] ; born 20 Januar
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 14
+- Senior national team goals total: 0
+- Senior career goals total: 14
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1996–2003 | أتالانتا | 153 | 2 |
+| 1997–1998 | كييفو فيرونا | 24 | 0 |
+| 2003–2013 | لاتسيو | 139 | 4 |
+| 2008–2009 | فيورنتينا | 18 | 1 |
+| 2009–2011 | سامبدوريا | 59 | 0 |
+| 2013–2014 | بيسكارا | 24 | 0 |
+| - | مجموع | 417 | 7 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1995 | Italy U17 | 6 | 0 |
+| 1995–1996 | Italy U18 | 9 | 0 |
+| 2001–2006 | إيطاليا | 5 | 0 |

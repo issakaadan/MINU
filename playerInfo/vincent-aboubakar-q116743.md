@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q116743
-- Generated At (UTC): 2026-07-13T08:53:23+00:00
+- Generated At (UTC): 2026-07-13T12:09:59+00:00
 - English Name: Vincent Aboubakar
 - Arabic Name: فنسنت أبو بكر
 - Birth Year: 1992
@@ -36,14 +36,7 @@ Aboubakar began his career at Coton Sport and moved to Europe in 2010, playing f
 Aboubakar has earned over 110 caps for Cameroon since his international debut in May 2010. He is currently the second-highest scorer in the history of the national team, behind only Samuel Eto'o . He was part of their squads for the 2010 , 2014 and 2022 FIFA World Cups , as well as the Africa Cup of Nations in 2015 , 2017 , 2021 and 2023 . Aboubakar scored the winning goal in the final of the 2017 tournament, and was the top goalscorer of the 2021 edition.
 
 ### English Achievements
-- With Coton Sport: Elite One
-- With Beşiktaş: Süper Lig
-- With Porto: Primeira Liga
-- With Cameroon: Africa Cup of Nations
-- Individual: Africa Cup of Nations Golden Boot
-- With Beşiktaş: Turkish Cup
-- With Beşiktaş: Turkish Super Cup
-- With Porto: Taça de Portugal
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 187
@@ -53,16 +46,15 @@ Aboubakar has earned over 110 caps for Cameroon since his international debut in
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2009–2010 | Coton Sport | 15 | 7 |
-| 2010–2013 | Valenciennes | 72 | 9 |
-| 2013–2014 | Lorient | 37 | 17 |
-| 2014–2020 | Porto | 83 | 36 |
-| 2016–2017 | Beşiktaş | 27 | 12 |
-| 2020–2021 | Beşiktaş | 26 | 15 |
-| 2021–2023 | Al Nassr | 34 | 12 |
-| 2023–2024 | Beşiktaş | 38 | 18 |
-| 2024–2025 | Hatayspor | 25 | 7 |
-| 2025–2026 | Neftçi | 16 | 7 |
+| 2009 | Coton Sport | 15 | 7 |
+| 2010–2012 | Valenciennes | 81 | 15 |
+| 2013–2014 | Lorient | 38 | 17 |
+| 2014–2019 | Porto | 125 | 58 |
+| 2016 | Beşiktaş (loan) | 38 | 19 |
+| 2020–2023 | Beşiktaş | 79 | 41 |
+| 2021–2022 | Al Nassr | 39 | 13 |
+| 2024 | Hatayspor | 28 | 8 |
+| 2025 | Neftçi | 18 | 9 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -83,15 +75,34 @@ Aboubakar has earned over 110 caps for Cameroon since his international debut in
 على المستوى الدولى شارك أبوبكر مع المنتخب الكاميروني في أكثر من 75 مشاركة دولية منذ أول مباراة له في 2010، وشارك معهم في بطولة كأس العالم في نسختي 2010 و2014 وشارك في بطولة إفريقيا في نسخ 2015 و2017 و2021 ، وأحرز في المباراة النهائية هدفاً أمام منتخب مصر ليساهم في تتويج منتخب بلاده باللقب الخامس عام 2017.
 
 ### Arabic Achievements
-_No honours section found._
+- مع مع الأندية نادي القطن: الدوري الكاميروني الممتاز
+- مع مع الأندية نادي بورتو: الدوري البرتغالي الممتاز
+- مع مع الأندية نادي بشكتاش: الدوري التركي الممتاز
+- مع مع المنتخب الكاميرون: كأس أمم أفريقيا
+- مع مع الأندية نادي بورتو: كأس البرتغال
+- مع مع الأندية نادي بورتو: كأس السوبر البرتغالي
+- مع مع الأندية نادي بشكتاش: كأس تركيا
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 131
+- Senior national team goals total: 42
+- Senior career goals total: 173
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009–2010 | القطن | 15 | 7 |
+| 2010–2013 | فالنسيان | 72 | 9 |
+| 2013–2014 | لوريان | 35 | 16 |
+| 2014–2020 | بورتو | 83 | 36 |
+| 2016–2017 | بشكتاش | 27 | 12 |
+| 2020–2021 | بشكتاش | 26 | 15 |
+| 2021–2023 | النصر | 34 | 12 |
+| 2023–2024 | بشكتاش | 38 | 18 |
+| 2024– | حطاي سبور | 21 | 6 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009 | الكاميرون تحت 20 | 14 | 4 |
+| 2010– | الكاميرون | 109 | 42 |

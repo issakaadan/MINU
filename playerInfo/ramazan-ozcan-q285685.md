@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q285685
-- Generated At (UTC): 2026-07-13T08:54:56+00:00
+- Generated At (UTC): 2026-07-13T12:11:24+00:00
 - English Name: Ramazan Özcan
 - Arabic Name: رمضان أوزكان
 - Birth Year: 1984
@@ -42,15 +42,12 @@ _No honours section found._
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2003–2006 | Austria Lustenau | 86 | 0 |
-| 2006–2007 | Red Bull Salzburg | 2 | 0 |
-| 2007 | Red Bull Salzburg II | 8 | 0 |
-| 2008 | 1899 Hoffenheim | 17 | 0 |
-| 2008–2010 | 1899 Hoffenheim | 8 | 0 |
-| 2010 | Beşiktaş | 0 | 0 |
-| 2011–2016 | FC Ingolstadt 04 | 147 | 0 |
-| 2016–2020 | Bayer Leverkusen | 3 | 0 |
-| Total | Total | 271 | 0 |
+| 2003–2005 | Austria Lustenau | 93 | 0 |
+| 2006–2007 | Red Bull Salzburg | 5 | 0 |
+| 1899–2010 | Red Bull Salzburg II | 10 | 0 |
+| 2009 | Beşiktaş (loan) | 2 | 0 |
+| 2011–2015 | FC Ingolstadt 04 | 151 | 0 |
+| 2016–2019 | Bayer Leverkusen | 8 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -74,12 +71,24 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 0
+- Senior national team goals total: 0
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2003–2006 | [الإنجليزية] | 86 | 0 |
+| 2006–2007 | ريد بل سالزبورغ | 2 | 0 |
+| 2007 | ريد بل سالزبورغ | 8 | 0 |
+| 2008 | هوفنهايم | 17 | 0 |
+| 2008–2010 | هوفنهايم | 8 | 0 |
+| 2010 | بشكتاش | 0 | 0 |
+| 2011–2016 | إنغولشتات 04 | 147 | 0 |
+| 2016–2020 | باير 04 ليفركوزن | 3 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| - | النمسا تحت 21 | 24 | 0 |
+| 2008–2017 | النمسا | 10 | 0 |

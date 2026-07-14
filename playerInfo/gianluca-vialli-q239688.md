@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q239688
-- Generated At (UTC): 2026-07-13T08:52:41+00:00
+- Generated At (UTC): 2026-07-13T12:09:17+00:00
 - English Name: Gianluca Vialli
 - Arabic Name: جانلوكا فيالي
 - Birth Year: 1964
@@ -34,14 +34,7 @@ Gianluca Vialli ( Italian pronunciation: [dʒanˈluːka viˈalli, - ˈvjalli] ; 
 In 1992, Vialli transferred to Juventus for a world record £12.5 million. During his time at the Turin club, he won the Italian Cup, Serie A, Italian Supercup , UEFA Champions League and the UEFA Cup . In 1996, Vialli joined Chelsea and became their player-manager the following season. In England, he won the FA Cup , League Cup , UEFA Cup Winners Cup and UEFA Super Cup . He is one of nine footballers to have won the three main European club competitions and the only forward to have done so; he is also the only player in European footballing history to hold both winners and runners-up medals in all three mainstream UEFA club competitions, including two winners medals for the now-defunct UEFA Cup Winners' Cup .
 
 ### English Achievements
-- With Sampdoria: Serie A
-- With Juventus: Serie A
-- With Chelsea: FA Cup
-- With Italy: FIFA World Cup third place
-- Individual: UEFA European Under-21 Championship top-scorer
-- With Sampdoria: Coppa Italia
-- With Sampdoria: Supercoppa Italiana
-- With Sampdoria: UEFA Cup Winners' Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 259
@@ -51,11 +44,10 @@ In 1992, Vialli transferred to Juventus for a world record £12.5 million. Durin
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1980–1984 | Cremonese | 105 | 23 |
-| 1984–1992 | Sampdoria | 223 | 85 |
-| 1992–1996 | Juventus | 102 | 38 |
-| 1996–1999 | Chelsea | 58 | 21 |
-| Total | Total | 488 | 167 |
+| 1980–1983 | Cremonese | 113 | 25 |
+| 1984–1991 | Sampdoria | 328 | 141 |
+| 1992–1995 | Juventus | 145 | 53 |
+| 1996–1998 | Chelsea | 88 | 40 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -75,12 +67,17 @@ In 1992, Vialli transferred to Juventus for a world record £12.5 million. Durin
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 167
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 167
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1980–1984 | كريمونيزي | 105 | 23 |
+| 1984–1992 | سامبدوريا | 223 | 85 |
+| 1992–1996 | يوفنتوس | 102 | 38 |
+| 1996–1999 | تشيلسي | 58 | 21 |
 
 ### Arabic National Team Stats
 _No rows found._

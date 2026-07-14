@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q315114
-- Generated At (UTC): 2026-07-13T08:54:36+00:00
+- Generated At (UTC): 2026-07-13T12:11:06+00:00
 - English Name: Josip Skoblar
 - Arabic Name: جوسيب سكوبلار
 - Birth Year: 1941
@@ -36,19 +36,12 @@ He played for Zadar , OFK Belgrade , Hannover 96 , Marseille and NK Rijeka . Whi
 At the international level, Skoblar played for Yugoslavia appearing in 32 matches and scoring 11 goals. He was in the national team at the 1962 FIFA World Cup where they finished in fourth place losing to Czechoslovakia in the semi-final .
 
 ### English Achievements
-- With OFK Beograd: Yugoslav Cup
-- With Marseille: Division 1
-- Individual: European Golden Shoe
-- With Hajduk Split: Yugoslav Cup
-- Orders [ edit ]: Knight of the National Order of Merit
-- With Marseille: Coupe de France
-- With Marseille: Challenge des Champions
-- Individual: French championship top goalscorer
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 305
+- Club goals total: 254
 - Senior national team goals total: 11
-- Senior career goals total: 316
+- Senior career goals total: 265
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
@@ -81,12 +74,21 @@ At the international level, Skoblar played for Yugoslavia appearing in 32 matche
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 509
+- Senior national team goals total: 11
+- Senior career goals total: 520
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1959–1966 | أو إف كيه بيوغراد | 162 | 63 |
+| 1966–1970 | هانوفر 96 | 57 | 30 |
+| 1966–1967 | أولمبيك مارسيليا | 15 | 13 |
+| 1969–1974 | أولمبيك مارسيليا | 159 | 138 |
+| 1974–1977 | رييكا | 36 | 11 |
+| - | مجموع | 429 | 254 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1961–1967 | يوغوسلافيا | 32 | 11 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q158618
-- Generated At (UTC): 2026-07-13T08:54:08+00:00
+- Generated At (UTC): 2026-07-13T12:10:41+00:00
 - English Name: Carlton Cole
 - Arabic Name: كارلتون كول
 - Birth Year: 1983
@@ -36,7 +36,7 @@ Cole began his career at Chelsea in 2001, spending spells out on loan at Wolverh
 He made 19 England under-21 appearances (scoring six goals), and made his debut for the England national team on 11 February 2009 in a friendly match against Spain .
 
 ### English Achievements
-- With West Ham United: Football League Championship play-offs
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 86
@@ -46,16 +46,14 @@ He made 19 England under-21 appearances (scoring six goals), and made his debut 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2001–2006 | Chelsea | 25 | 4 |
-| 2002–2003 | Wolverhampton Wanderers | 7 | 1 |
-| 2003–2004 | Charlton Athletic | 21 | 4 |
-| 2004–2005 | Aston Villa | 27 | 3 |
-| 2006–2013 | West Ham United | 207 | 47 |
-| 2013–2015 | West Ham United | 49 | 8 |
-| 2015–2016 | Celtic | 4 | 0 |
+| 2001–2005 | Chelsea | 31 | 8 |
+| 2002 | Wolverhampton Wanderers (loan) | 7 | 1 |
+| 2003 | Charlton Athletic (loan) | 22 | 5 |
+| 2004 | Aston Villa (loan) | 30 | 3 |
+| 2006–2014 | West Ham United | 293 | 68 |
+| 2015 | Celtic | 5 | 1 |
 | 2016 | Sacramento Republic | 4 | 0 |
 | 2017 | Persib Bandung | 5 | 0 |
-| Total | Total | 349 | 67 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -76,15 +74,32 @@ He made 19 England under-21 appearances (scoring six goals), and made his debut 
 بدأ مسيرته الكروية مع نادي تشيلسي في عام 2001 ، ولعب معهم حتى عام 2006 ، وشارك معهم في 25 مباراة وسجل 4 أهداف، وفي موسم 2002/2003 أعير إلى نادي وولفرهامبتون واندرز ، ولعب معهم 7 مباريات وسجل هدف واحد، وفي موسم 2003/2004 أعير إلى نادي تشارلتون أثلتك ، ولعب معهم 21 مباراة وسجل 4 أهداف، وفي موسم 2004/2005 أعير إلى نادي أستون فيلا ، ولعب معهم 27 مباراة وسجل 3 أهداف، ومنذ عام 2006 وهو يلعب مع نادي وست هام يونايتد الإنجليزي .
 
 ### Arabic Achievements
-_No honours section found._
+- مع تشيلسي: الدوري الإنجليزي الممتاز
+- مع ويست هام يونايتد: دوري البطولة الإنجليزية - الأدوار الإقصائية
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 134
+- Senior national team goals total: 0
+- Senior career goals total: 134
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001–2006 | تشيلسي | 25 | 4 |
+| 2002–2003 | وولفرهامبتون واندررز | 7 | 1 |
+| 2003–2004 | تشارلتون أثلتيك | 21 | 4 |
+| 2004–2005 | أستون فيلا | 27 | 3 |
+| 2006–2013 | وست هام يونايتد | 207 | 47 |
+| 2013–2015 | وست هام يونايتد | 49 | 8 |
+| 2015–2016 | سلتيك | 4 | 0 |
+| 2016 | ساكارامينتو ريببلك | 4 | 0 |
+| 2017 | برسيب باندونغ | 5 | 0 |
+| - | مجموع | 349 | 67 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| - | إنجلترا تحت 19 | 5 | 0 |
+| 2002–2003 | إنجلترا تحت 20 | 2 | 0 |
+| 2003–2005 | إنجلترا تحت 21 | 19 | 6 |
+| 2009–2010 | إنجلترا | 7 | 0 |

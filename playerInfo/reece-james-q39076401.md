@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q39076401
-- Generated At (UTC): 2026-07-13T08:53:10+00:00
+- Generated At (UTC): 2026-07-13T12:09:46+00:00
 - English Name: Reece James
 - Arabic Name: رييس جيمس
 - Birth Year: 1999
@@ -36,25 +36,19 @@ James joined the Chelsea academy as a youth and turned professional in 2017, a s
 After representing England at various youth levels, James made his senior debut in 2020, and went on to appear at UEFA Euro 2020 .
 
 ### English Achievements
-- With Chelsea: UEFA Champions League
-- With England: UEFA European Championship runner-up
-- Individual: Toulon Tournament Best XI
-- With Chelsea: UEFA Conference League
-- With Chelsea: UEFA Super Cup
-- With Chelsea: FIFA Club World Cup
-- With Chelsea: FA Cup runner-up
-- With Chelsea: EFL Cup runner-up
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 20
+- Club goals total: 19
 - Senior national team goals total: 1
-- Senior career goals total: 21
+- Senior career goals total: 20
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2018– | Chelsea | 156 | 10 |
-| 2018–2019 | Wigan Athletic | 45 | 3 |
+| 2016–2017 | Chelsea U23/U21 | 7 | 1 |
+| 2018–2025 | Chelsea | 229 | 16 |
+| 2018 | Wigan Athletic (loan) | 46 | 3 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -74,15 +68,25 @@ After representing England at various youth levels, James made his senior debut 
 رييس جيمس ( الإنجليزية : Reece James ) (مواليد 8 ديسمبر 1999) هو لاعب كرة قدم إنجليزي يلعب لصالح نادي تشيلسي في الدوري الإنجليزي الممتاز و‌ المنتخب الإنجليزي ك‍ ظهير أيمن .
 
 ### Arabic Achievements
-_No honours section found._
+- مع تشيلسي: دوري أبطال أوروبا
+- مع تشيلسي: كأس السوبر الأوروبي
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 10
+- Senior national team goals total: 0
+- Senior career goals total: 10
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2018– | تشيلسي | 98 | 7 |
+| 2018–2019 | ويغان أتلتيك | 45 | 3 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2017 | إنجلترا تحت 18 | 3 | 0 |
+| 2017–2018 | إنجلترا تحت 19 | 7 | 0 |
+| 2017–2019 | إنجلترا تحت 20 | 12 | 0 |
+| 2019 | إنجلترا تحت 21 | 2 | 0 |
+| 2020– | إنجلترا | 15 | 0 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q167828
-- Generated At (UTC): 2026-07-13T08:50:54+00:00
+- Generated At (UTC): 2026-07-13T12:07:50+00:00
 - English Name: Lev Yashin
 - Arabic Name: ليف ياشين
 - Birth Year: 1929
@@ -34,14 +34,7 @@ Lev Ivanovich Yashin ( Russian : Лев Иванович Яшин ; 22 October 1
 Yashin earned status for revolutionising the goalkeeping position by imposing his authority on the entire defence. [ 4 ] [ 5 ] [ 8 ] A vocal presence in goal, he shouted orders at his defenders, came off his line to intercept crosses and also ran out to meet onrushing attackers , done at a time when goalkeepers spent the 90 minutes standing in the goal waiting to be called into action. [ 4 ] [ 8 ] [ 9 ] His performances made an indelible impression on a global audience at the 1958 World Cup , the first to be broadcast internationally. He dressed head to toe in apparent black (in truth very dark blue), [ 10 ] thus earning his nicknames " the Black Spider " or " the Black Panther ", [ 11 ] which enhanced his popularity. [ 4 ] [ 8 ]
 
 ### English Achievements
-- With Dynamo Moscow: Soviet Top League
-- With Soviet Union: Olympic Gold Medal
-- Individual: UEFA European Championship Team of the Tournament
-- With Dynamo Moscow: Soviet Cup
-- With Soviet Union: UEFA European Football Championship
-- Individual: USSR Goalkeeper of the year
-- Individual: Ballon d'Or Winner
-- Individual: World Soccer World XI
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 0
@@ -51,7 +44,7 @@ Yashin earned status for revolutionising the goalkeeping position by imposing hi
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1950–1970 | Dynamo Moscow | 326 | 0 |
+| 1950–1970 | Dynamo Moscow | 358 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -73,12 +66,17 @@ Yashin earned status for revolutionising the goalkeeping position by imposing hi
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 0
+- Senior national team goals total: 0
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1950–1970 | دينامو موسكو | 358 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1956 | الاتحاد السوفيتي الأولمبي | 6 | 0 |
+| 1954–1970 | الاتحاد السوفيتي | 74 | 0 |

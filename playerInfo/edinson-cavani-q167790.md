@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q167790
-- Generated At (UTC): 2026-07-13T08:51:40+00:00
+- Generated At (UTC): 2026-07-13T12:08:24+00:00
 - English Name: Edinson Cavani
 - Arabic Name: إدينسون كافاني
 - Birth Year: 1987
@@ -36,30 +36,23 @@ Cavani began his career playing for Danubio in Montevideo, where he played for t
 In mid-2013, Cavani joined French club Paris Saint-Germain for a reported €64 million, at the time the most expensive signing in French football history. [ 5 ] With PSG, Cavani won six Ligue 1 titles , five Coupes de la Ligue and four Coupes de France . [ 6 ] In January 2018, he became the club's all-time top goalscorer at the time. During his time with the club, he was named in the UNFP Ligue 1 Team of the Year three times, was awarded Ligue 1 Player of the Year for the 2016–17 season , and was the league's top scorer in the 2016–17 and 2017–18 seasons. In 2020, Cavani signed with Manchester United , helping them reach the UEFA Europa League final , before signing for Valencia in 2022. After a single season in Spain, Cavani joined Boca Juniors and soon played in the 2023 Copa Libertadores final , which the club lost.
 
 ### English Achievements
-- With Danubio: Primera División
-- With Napoli: Coppa Italia
-- With Paris Saint-Germain: Ligue 1
-- With Manchester United: UEFA Europa League runner-up
-- With Boca Juniors: Copa Libertadores runner-up
-- With Uruguay: Copa América
-- Individual: South American Youth Championship top goalscorer
-- With Paris Saint-Germain: Coupe de France
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 400
-- Senior national team goals total: 58
-- Senior career goals total: 458
+- Senior national team goals total: 61
+- Senior career goals total: 461
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2005–2007 | Danubio | 15 | 5 |
-| 2007–2010 | Palermo | 109 | 34 |
-| 2010–2013 | Napoli | 104 | 78 |
-| 2013–2020 | Paris Saint-Germain | 200 | 138 |
-| 2020–2022 | Manchester United | 41 | 12 |
-| 2022–2023 | Valencia | 25 | 5 |
-| 2023–2026 | Boca Juniors | 60 | 16 |
+| 2005–2006 | Danubio | 15 | 5 |
+| 2006–2009 | Palermo | 117 | 37 |
+| 2010–2012 | Napoli | 138 | 104 |
+| 2013–2019 | Paris Saint-Germain | 301 | 200 |
+| 2020–2021 | Manchester United | 59 | 19 |
+| 2022 | Valencia | 28 | 7 |
+| 2023–2026 | Boca Juniors | 81 | 28 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -81,15 +74,33 @@ In mid-2013, Cavani joined French club Paris Saint-Germain for a reported €64 
 في 16 يوليو 2013، انتقل كافاني إلى باريس سان جيرمان مقابل 64 مليون يورو، في ذلك الوقت كان أغلى صفقة في تاريخ كرة القدم الفرنسية. في يناير 2018، أصبح هداف النادي التاريخي بتسجيله لهدفه رقم 157. مع باريس سان جيرمان، فاز كافاني بست بطولات دوري و 5 بطولة في كأس الرابطة الفرنسية و 4 بطولات في كأس فرنسا . حصل على جائزة أفضل لاعب في الدوري الفرنسي لموسم 2016–17 وكان هداف الدوري في موسمي 2016–17 و2017–18 . [ 7 ]
 
 ### Arabic Achievements
-_No honours section found._
+- الدوري الأوروغواياني
+- كأس إيطاليا
+- الدوري الفرنسي
+- كوبا أمريكا
+- مع مانشستر يونايتد: الدوري الأوروبي الوصيف
+- الفردية: أفضل لاعب شاب في كوبا أمريكا تحت 20 سنة – الهدّاف
+- كأس فرنسا
+- كأس الرابطة الفرنسية
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 372
+- Senior national team goals total: 58
+- Senior career goals total: 430
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005–2006 | دانوبيو | 30 | 12 |
+| 2006–2009 | باليرمو | 117 | 37 |
+| 2010–2012 | نابولي | 138 | 104 |
+| 2013–2019 | باريس سان جيرمان | 301 | 200 |
+| 2020–2021 | مانشستر يونايتد | 59 | 19 |
+| 2022 | فالنسيا | 0 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006–2007 | الأوروغواي تحت 20 | 15 | 11 |
+| 2012 | الأوروغواي الأولمبي | 5 | 3 |
+| 2008–2022 | الأوروغواي | 136 | 58 |

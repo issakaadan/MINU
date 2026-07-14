@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q154305
-- Generated At (UTC): 2026-07-13T08:53:06+00:00
+- Generated At (UTC): 2026-07-13T12:09:42+00:00
 - English Name: Niko Kovač
 - Arabic Name: نيكو كوفاتش
 - Birth Year: 1971
@@ -36,31 +36,23 @@ Born and raised in West Germany, Kovač was the long-standing captain of the Cro
 He ended his playing career with Austrian club Red Bull Salzburg , where he then took the non-playing role of the reserve team coach and eventually became assistant manager under team manager Ricardo Moniz . In January 2013, Kovač took over the Croatia national under-21 team and in October 2013 he took over the Croatia senior team following the dismissal of Igor Štimac . Kovač managed Croatia at the 2014 FIFA World Cup , then became head coach of Eintracht Frankfurt in 2016, winning the 2018 DFB-Pokal Final with the club. At Bayern, Kovač won the domestic double in 2019 after a strong ending to the season, but lost his job later in autumn. He then managed Monaco from 2020 to 2022 before returning to the German football league. Initially managing Wolfsburg from 2022 to 2024, Kovač took over Borussia Dortmund in January 2025.
 
 ### English Achievements
-- With Bayern Munich: Bundesliga
-- With Red Bull Salzburg: Austrian Bundesliga
-- With Eintracht Frankfurt: DFB-Pokal
-- With Monaco: Coupe de France runner-up
-- With Bayern Munich: DFB-Pokal
-- With Bayern Munich: Intercontinental Cup
-- With Bayern Munich: DFL-Supercup
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 68
+- Club goals total: 67
 - Senior national team goals total: 14
-- Senior career goals total: 82
+- Senior career goals total: 81
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1990–1991 | Hertha Zehlendorf | 25 | 7 |
-| 1991 | Hertha BSC II | 12 | 1 |
-| 1992–1996 | Hertha BSC | 138 | 15 |
-| 1996–1999 | Bayer Leverkusen | 77 | 8 |
-| 1999–2001 | Hamburger SV | 55 | 12 |
-| 2001–2003 | Bayern Munich | 34 | 3 |
-| 2003–2006 | Hertha BSC | 75 | 8 |
-| 2006–2009 | Red Bull Salzburg | 65 | 9 |
-| Total | Total | 491 | 63 |
+| 1990 | Hertha Zehlendorf | 25 | 7 |
+| 1990 | Hertha BSC II | 12 | 1 |
+| 1991–2005 | Hertha BSC | 242 | 24 |
+| 1996–1998 | Bayer Leverkusen | 96 | 9 |
+| 1999–2000 | Hamburger SV | 67 | 13 |
+| 2001–2002 | Bayern Munich | 51 | 5 |
+| 2006–2008 | Red Bull Salzburg | 79 | 9 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -79,12 +71,24 @@ He ended his playing career with Austrian club Red Bull Salzburg , where he then
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 126
+- Senior national team goals total: 14
+- Senior career goals total: 140
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1990–1991 | هيرتا زيلندورف | 25 | 7 |
+| 1991 | هيرتا برلين 2 | 12 | 1 |
+| 1992–1996 | هيرتا برلين | 138 | 15 |
+| 1996–1999 | باير ليفركوزن | 77 | 8 |
+| 1999–2001 | هامبورغ | 55 | 12 |
+| 2001–2003 | بايرن ميونخ | 34 | 3 |
+| 2003–2006 | هيرتا برلين | 75 | 8 |
+| 2006–2009 | ريد بل سالزبورغ | 65 | 9 |
+| - | مجموع | 491 | 63 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1996–2008 | كرواتيا | 83 | 14 |

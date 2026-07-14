@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q97793
-- Generated At (UTC): 2026-07-13T08:56:37+00:00
+- Generated At (UTC): 2026-07-13T12:13:12+00:00
 - English Name: Manuel Schwenk
 - Arabic Name: مانويل جانزر
 - Birth Year: 1992
@@ -35,9 +35,9 @@ Manuel Schwenk (born 7 March 1992), previously known as Manuel Janzer until 2019
 _No honours section found._
 
 ### English Career Totals
-- Club goals total: 30
+- Club goals total: 13
 - Senior national team goals total: 3
-- Senior career goals total: 33
+- Senior career goals total: 16
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
@@ -68,12 +68,22 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 26
+- Senior national team goals total: 3
+- Senior career goals total: 29
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2011–2014 | شتوتغارت للرديف | 94 | 15 |
+| 2014–2015 | هايدنهايم | 10 | 0 |
+| 2015–2018 | هولشتاين كيل | 38 | 7 |
+| 2018–2021 | آينتراخت براونشفايغ | 48 | 4 |
+| 2021– | هولشتاين كيل | 0 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2007–2008 | ألمانيا تحت 16 | 4 | 0 |
+| 2008–2009 | منتخب ألمانيا لكرة القدم للشباب | 11 | 2 |
+| 2009–2010 | منتخب ألمانيا لكرة القدم للشباب | 6 | 1 |

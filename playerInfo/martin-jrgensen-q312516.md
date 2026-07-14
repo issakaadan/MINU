@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q312516
-- Generated At (UTC): 2026-07-13T08:54:45+00:00
+- Generated At (UTC): 2026-07-13T12:11:14+00:00
 - English Name: Martin Jørgensen
 - Arabic Name: مارتين يورغنسن
 - Birth Year: 1975
@@ -36,8 +36,7 @@ Jørgensen amassed 102 caps and scored 12 goals for the Denmark national team . 
 He is the older brother of retired Danish football player Mads Jørgensen .
 
 ### English Achievements
-- With AGF: Danish Cup
-- Individual: Danish under-21 Player of the Year
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 72
@@ -47,10 +46,9 @@ He is the older brother of retired Danish football player Mads Jørgensen .
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1994–1997 | AGF | 82 | 13 |
-| 1997–2004 | Udinese | 185 | 30 |
-| 2004–2010 | Fiorentina | 151 | 14 |
-| 2010–2014 | AGF | 102 | 14 |
+| 1993–2014 | AGF | 209 | 24 |
+| 1997–2003 | Udinese | 205 | 31 |
+| 2004–2009 | Fiorentina | 177 | 17 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -74,12 +72,24 @@ He is the older brother of retired Danish football player Mads Jørgensen .
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 137
+- Senior national team goals total: 12
+- Senior career goals total: 149
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1994–1997 | آرهوس جمناستيك فورينينغ | 82 | 13 |
+| 1997–2004 | أودينيزي | 185 | 30 |
+| 2004–2010 | فيورنتينا | 151 | 14 |
+| 2010–2014 | آرهوس جمناستيك فورينينغ | 102 | 14 |
+| - | مجموع | 530 | 66 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1991 | Denmark U16 | 2 | 0 |
+| 1991–1992 | الدنمارك تحت 17 | 11 | 1 |
+| 1992–1994 | الدنمارك تحت 19 | 10 | 3 |
+| 1994–1997 | الدنمارك تحت 21 | 31 | 9 |
+| 1998–2011 | الدنمارك | 102 | 12 |

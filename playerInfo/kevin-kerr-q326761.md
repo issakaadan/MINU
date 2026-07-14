@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q326761
-- Generated At (UTC): 2026-07-13T08:56:33+00:00
+- Generated At (UTC): 2026-07-13T12:13:08+00:00
 - English Name: Kevin Kerr
 - Arabic Name: كيفين كيرر
 - Birth Year: 1989
@@ -66,12 +66,21 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 88
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 88
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008–2011 | أرمينيا بيليفيلد | 42 | 8 |
+| 2009–2011 | أرمينيا بيليفيلد | 15 | 0 |
+| 2012 | أغوف أبيلدورن | 15 | 3 |
+| 2012 | [الإنجليزية] | 19 | 4 |
+| 2013–2019 | بيتسبورغ ريفرهوندز | 178 | 29 |
+| - | مجموع | 269 | 44 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009 | اسكتلندا تحت 21 | 2 | 0 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q169999
-- Generated At (UTC): 2026-07-13T08:54:36+00:00
+- Generated At (UTC): 2026-07-13T12:11:05+00:00
 - English Name: Klaus Fischer
 - Arabic Name: كلاوس فيشر
 - Birth Year: 1949
@@ -32,14 +32,7 @@
 Klaus Fischer (born 27 December 1949) is a German former professional footballer and coach . He was a key player on the West Germany national team that lost the 1982 World Cup final to Italy. As a forward , he was noted for his bicycle kicks , and scored a spectacular overhead kick equalizer in extra-time of a 1982 World Cup semi-final against France.
 
 ### English Achievements
-- With Schalke 04: DFB-Pokal
-- With 1. FC Köln: DFB-Pokal
-- With 1. FC Köln: FIFA World Cup runner-up
-- Individual: Bundesliga top scorer
-- Individual: Goal of the Year (Germany)
-- Individual: Goal of the Decade (Germany)
-- Individual: Goal of the Century (Germany)
-- Individual: Sport Ideal European XI
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 331
@@ -49,11 +42,9 @@ Klaus Fischer (born 27 December 1949) is a German former professional footballer
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1968–1970 | 1860 Munich | 60 | 28 |
-| 1970–1981 | Schalke 04 | 295 | 182 |
-| 1981–1984 | 1. FC Köln | 96 | 31 |
-| 1984–1988 | VfL Bochum | 84 | 27 |
-| Total | Total | 535 | 268 |
+| 1969–1980 | Schalke 04 | 349 | 226 |
+| 1981–1983 | 1. FC Köln | 115 | 46 |
+| 1984–1987 | VfL Bochum | 94 | 29 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -75,12 +66,21 @@ Klaus Fischer (born 27 December 1949) is a German former professional footballer
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 536
+- Senior national team goals total: 32
+- Senior career goals total: 568
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1968–1970 | ميونخ 1860 | 60 | 28 |
+| 1970–1981 | شالكه 04 | 295 | 182 |
+| 1981–1984 | كولن | 96 | 31 |
+| 1984–1988 | بوخوم | 84 | 27 |
+| - | مجموع | 535 | 268 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1971 | ألمانيا تحت 21 | 2 | 2 |
+| 1977–1982 | ألمانيا | 45 | 32 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q316852
-- Generated At (UTC): 2026-07-13T08:55:03+00:00
+- Generated At (UTC): 2026-07-13T12:11:32+00:00
 - English Name: Stefano Mauri
 - Arabic Name: ستيفانو ماوري
 - Birth Year: 1980
@@ -32,8 +32,7 @@
 Stefano Mauri ( Italian pronunciation: [ˈsteːfano ˈmauri] ; born 8 January 1980) is an Italian former footballer , who spent most of his career with Lazio , also serving as the club's captain . A versatile midfielder , he was capable of playing as an attacking midfielder , as a central midfielder , and as a winger , or even in a more advanced role, as a second striker , courtesy of his dribbling skills, precise passing, and playmaking ability. [ 1 ] Although predominantly left-footed, he was also capable of striking or passing the ball well with his right foot.
 
 ### English Achievements
-- Coppa Italia
-- Supercoppa Italiana
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 84
@@ -72,12 +71,22 @@ Stefano Mauri ( Italian pronunciation: [ˈsteːfano ˈmauri] ; born 8 January 19
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 79
+- Senior national team goals total: 0
+- Senior career goals total: 79
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997–1998 | Brugherio | 23 | 10 |
+| 1998–2001 | [الإنجليزية] | 83 | 12 |
+| 2001–2004 | مودينا | 34 | 2 |
+| 2003–2004 | بريشيا | 30 | 7 |
+| 2004–2006 | أودينيزي | 48 | 5 |
+| 2006–2016 | لاتسيو | 253 | 42 |
+| 2017 | بريشيا | 12 | 1 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004–2011 | إيطاليا | 11 | 0 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q2474222
-- Generated At (UTC): 2026-07-13T08:54:20+00:00
+- Generated At (UTC): 2026-07-13T12:10:51+00:00
 - English Name: Frédéric Bulot
 - Arabic Name: فريدريك بولوت
 - Birth Year: 1990
@@ -74,12 +74,29 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 17
+- Senior national team goals total: 2
+- Senior career goals total: 19
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2010–2011 | موناكو | 8 | 0 |
+| 2011–2012 | كاين | 38 | 4 |
+| 2012–2015 | ستاندارد لييج | 64 | 5 |
+| 2014–2015 | تشارلتون أثلتيك | 28 | 5 |
+| 2015–2017 | ستاد ريمس | 16 | 1 |
+| 2018 | تور | 11 | 1 |
+| 2019 | إف سي غيفو | 13 | 0 |
+| 2020 | فيلدا يونايتد | 4 | 1 |
+| 2021– | دوكسا كاتوكوبياس [الإنجليزية] | 5 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005–2006 | فرنسا تحت 16 | 12 | 0 |
+| 2006–2007 | فرنسا تحت 17 | 12 | 2 |
+| 2007–2008 | فرنسا تحت 18 | 5 | 0 |
+| 2008–2009 | فرنسا تحت 19 | 17 | 0 |
+| 2010–2012 | فرنسا تحت 21 | 9 | 3 |
+| 2014– | الغابون | 22 | 2 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q20851003
-- Generated At (UTC): 2026-07-13T08:51:43+00:00
+- Generated At (UTC): 2026-07-13T12:08:26+00:00
 - English Name: Ousmane Dembélé
 - Arabic Name: عثمان ديمبيلي
 - Birth Year: 1997
@@ -34,28 +34,21 @@ Masour Ousmane Dembélé ( French pronunciation: [usman dɛmbele] ; [ 2 ] born 1
 Dembélé began his professional career at Rennes , where he was named Ligue 1 Young Player of the Year in his sole season with the first team. In 2016, he transferred to German club Borussia Dortmund , winning the DFB-Pokal in his debut campaign and scoring in the final . Regarded as one of the most promising young talents in world football, he joined Spanish side Barcelona in 2017 for an initial fee of €105 million, making him at the time the joint-second most expensive player in history, alongside Paul Pogba and behind Neymar . Although he did not fully meet the expectations placed on him at the club, Dembélé won multiple domestic honours with Barcelona, including three La Liga , two Copa del Rey , and two Supercopa de España titles.
 
 ### English Achievements
-- With Borussia Dortmund: DFB-Pokal
-- With Barcelona: La Liga
-- With Paris Saint-Germain: Ligue 1
-- With France: FIFA World Cup
-- Individual: Ballon d'Or
-- Orders: Knight of the Legion of Honour
-- With Barcelona: Copa del Rey
-- With Barcelona: Supercopa de España
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 136
+- Club goals total: 123
 - Senior national team goals total: 12
-- Senior career goals total: 148
+- Senior career goals total: 135
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
 | 2014–2015 | Rennes II | 22 | 13 |
-| 2015–2016 | Rennes | 26 | 12 |
-| 2016–2017 | Borussia Dortmund | 32 | 6 |
-| 2017–2023 | Barcelona | 127 | 24 |
-| 2023– | Paris Saint-Germain | 77 | 34 |
+| 2015 | Rennes | 29 | 12 |
+| 2016–2017 | Borussia Dortmund | 50 | 10 |
+| 2017–2022 | Barcelona | 185 | 40 |
+| 2023–2025 | Paris Saint-Germain | 134 | 61 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -77,15 +70,34 @@ Dembélé began his professional career at Rennes , where he was named Ligue 1 Y
 بدأ ديمبيلي مسيرته الاحترافية مع رين ، حيث حصل على جائزة أفضل لاعب شاب في الدوري الفرنسي [الإنجليزية] في موسمه الوحيد مع الفريق الأول. في عام 2016، انتقل إلى بوروسيا دورتموند الألماني، وفاز بكأس ألمانيا في موسمه الأول وسجل في النهائي . باعتباره أحد أكثر المواهب الشابة الواعدة في كرة القدم العالمية، انضم إلى نادي برشلونة الإسباني في عام 2017 مقابل رسوم أولية قدرها 105 مليون يورو، مما جعله في ذلك الوقت ثاني أغلى لاعب في التاريخ ، إلى جانب بول بوغبا وخلف نيمار . على الرغم من أنه لم يلبِ تمامًا التوقعات الموضوعة عليه في النادي، فقد فاز ديمبيلي بالعديد من الألقاب المحلية مع برشلونة، بما في ذلك ثلاثة ألقاب في الدوري الإسباني ولقبين في كأس الملك ولقبين في كأس السوبر الإسباني .
 
 ### Arabic Achievements
-_No honours section found._
+- مع بروسيا دورتموند: كأس ألمانيا
+- مع برشلونة: الدوري الإسباني
+- مع باريس سان جيرمان: الدوري الفرنسي
+- مع فرنسا: كأس العالم
+- الفردية: جائزة لاعب الموسم في الدوري الفرنسي 2025 - 2026
+- الأوسمة: فارس جوقة الشرف
+- مع برشلونة: كأس الملك
+- مع برشلونة: كأس السوبر الإسباني
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 136
+- Senior national team goals total: 12
+- Senior career goals total: 148
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2014–2015 | رين الرديف | 22 | 13 |
+| 2015 | رين | 29 | 12 |
+| 2016–2017 | بوروسيا دورتموند | 50 | 10 |
+| 2017–2022 | برشلونة | 185 | 40 |
+| 2023–2025 | باريس سان جيرمان | 134 | 61 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2013–2014 | فرنسا تحت 17 | 8 | 4 |
+| 2014–2015 | فرنسا تحت 18 | 5 | 0 |
+| 2015 | فرنسا تحت 19 | 3 | 1 |
+| 2016 | فرنسا تحت 21 | 4 | 0 |
+| 2016– | فرنسا | 65 | 12 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q207005
-- Generated At (UTC): 2026-07-13T08:57:05+00:00
+- Generated At (UTC): 2026-07-13T12:13:31+00:00
 - English Name: Ziya Erdal
 - Arabic Name: زيا إردال
 - Birth Year: 1988
@@ -32,7 +32,7 @@
 Ziya Erdal (born 5 January 1988) is a Turkish professional footballer who plays as a left-back . [ 2 ]
 
 ### English Achievements
-- With Sivasspor: Turkish Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 8
@@ -64,12 +64,19 @@ Ziya Erdal (born 5 January 1988) is a Turkish professional footballer who plays 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 8
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 8
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008–2009 | سيفاسبور | 0 | 0 |
+| 2008–2009 | [الإنجليزية] | 8 | 0 |
+| 2009–2010 | Anadolu Üsküdar 1908 | 31 | 1 |
+| 2010– | سيفاسبور | 294 | 7 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2011–2013 | منتخب تركيا ب لكرة القدم [الإنجليزية] | 7 | 0 |

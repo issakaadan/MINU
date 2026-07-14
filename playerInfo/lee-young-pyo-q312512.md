@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q312512
-- Generated At (UTC): 2026-07-13T08:54:39+00:00
+- Generated At (UTC): 2026-07-13T12:11:09+00:00
 - English Name: Lee Young-pyo
 - Arabic Name: إي يونغ بيو
 - Birth Year: 1977
@@ -36,14 +36,7 @@ Prior to playing for PSV Eindhoven and Tottenham Hotspur , Lee started his profe
 On 19 November 2008, Lee became the seventh Korean player to earn 100 caps in a World Cup qualifier against Saudi Arabia . During the 2011 AFC Asian Cup , Lee captained the national team twice after the substitutions of the regular Korean captain, Park Ji-sung .
 
 ### English Achievements
-- With Anyang LG Cheetahs: K League 1
-- With PSV Eindhoven: Eredivisie
-- With Tottenham Hotspur: Football League Cup
-- With Al-Hilal: Saudi Pro League
-- With South Korea: AFC Asian Cup third place
-- Individual: K League All-Star
-- With Anyang LG Cheetahs: Korean Super Cup
-- With Anyang LG Cheetahs: Asian Club Championship runner-up
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 6
@@ -53,13 +46,12 @@ On 19 November 2008, Lee became the seventh Korean player to earn 100 caps in a 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2000–2002 | Anyang LG Cheetahs | 60 | 3 |
-| 2003–2005 | PSV Eindhoven | 81 | 1 |
-| 2005–2008 | Tottenham Hotspur | 70 | 0 |
-| 2008–2009 | Borussia Dortmund | 18 | 0 |
-| 2009–2011 | Al-Hilal | 46 | 0 |
-| 2011–2013 | Vancouver Whitecaps FC | 65 | 1 |
-| Total | Total | 340 | 5 |
+| 2000–2002 | Anyang LG Cheetahs | 81 | 3 |
+| 2002–2005 | PSV Eindhoven | 117 | 1 |
+| 2005–2007 | Tottenham Hotspur | 93 | 0 |
+| 2008 | Borussia Dortmund | 22 | 0 |
+| 2009–2010 | Al-Hilal | 77 | 1 |
+| 2012–2013 | Vancouver Whitecaps FC | 69 | 1 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -81,12 +73,24 @@ On 19 November 2008, Lee became the seventh Korean player to earn 100 caps in a 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 10
+- Senior national team goals total: 5
+- Senior career goals total: 15
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000–2002 | سول | 60 | 3 |
+| 2003–2005 | آيندهوفن | 81 | 1 |
+| 2005–2008 | توتنهام هوتسبير | 70 | 0 |
+| 2008–2009 | بوروسيا دورتموند | 18 | 0 |
+| 2009–2011 | الهلال | 46 | 0 |
+| 2012–2013 | فانكوفر وايتكابس | 65 | 1 |
+| - | مجموع | 340 | 5 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1999–2000 | كوريا الجنوبية تحت 23 | 14 | 1 |
+| 2002 | كوريا الجنوبية تحت 23 | 9 | 0 |
+| 1999–2011 | كوريا الجنوبية | 127 | 5 |

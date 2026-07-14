@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q207548
-- Generated At (UTC): 2026-07-13T08:53:07+00:00
+- Generated At (UTC): 2026-07-13T12:09:44+00:00
 - English Name: Obafemi Martins
 - Arabic Name: أوبافيمي مارتينس
 - Birth Year: 1984
@@ -36,14 +36,7 @@ After leaving Nigeria for Italy at age 16, he played for a number of top-divisio
 In club football, Martins won the Serie A title, the Italian Cup (twice), and the Italian Super Cup , all with Inter. With Birmingham he scored the winning goal in the 2011 Football League Cup final . Martins played in the UEFA Champions League with Inter, Wolfsburg and Rubin. His highest scoring league seasons saw him score 11 goals in the 2004–05 Serie A , and 17 in both the 2006–07 Premier League and 2014 MLS . In international football, Martins was in the Nigerian squad for the Africa Cup of Nations in 2006 , 2008 and 2010 , and for the FIFA World Cup in 2010 .
 
 ### English Achievements
-- With Inter Milan: Serie A
-- With Birmingham City: Football League Cup
-- With Rubin Kazan: Russian Cup
-- With Seattle Sounders FC: MLS Supporters' Shield
-- With Shanghai Shenhua: Chinese FA Cup
-- With Nigeria: Africa Cup of Nations third place
-- Individual: CAF Most Promising Talent of the Year
-- With Inter Milan: Coppa Italia
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 183
@@ -53,18 +46,16 @@ In club football, Martins won the Serie A title, the Italian Cup (twice), and th
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2000–2001 | Reggiana | 2 | 0 |
-| 2001–2006 | Inter Milan [ 2 ] | 88 | 28 |
-| 2006–2009 | Newcastle United | 88 | 28 |
-| 2009–2010 | VfL Wolfsburg | 16 | 6 |
-| 2010–2012 | Rubin Kazan | 20 | 3 |
-| 2011 | Birmingham City | 4 | 0 |
-| 2012–2013 | Levante | 21 | 7 |
-| 2013–2015 | Seattle Sounders FC | 72 | 40 |
-| 2016–2018 | Shanghai Shenhua | 40 | 19 |
-| 2020 | Shanghai Shenhua | 4 | 0 |
+| 2000 | Reggiana | 2 | 0 |
+| 2001–2005 | Inter Milan | 136 | 49 |
+| 2006–2008 | Newcastle United | 104 | 35 |
+| 2009 | VfL Wolfsburg | 25 | 7 |
+| 2010–2012 | Rubin Kazan | 35 | 5 |
+| 2010 | Birmingham City (loan) | 6 | 2 |
+| 2012 | Levante | 27 | 9 |
+| 2013–2015 | Seattle Sounders FC | 84 | 43 |
+| 2016–2020 | Shanghai Shenhua | 63 | 32 |
 | 2020 | Wuhan | 6 | 1 |
-| Total | Total | 361 | 132 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -85,12 +76,27 @@ In club football, Martins won the Serie A title, the Italian Cup (twice), and th
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 264
+- Senior national team goals total: 18
+- Senior career goals total: 282
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000–2001 | ريجيانا 1919 | 2 | 0 |
+| 2001–2006 | إنتر ميلان [ 2 ] | 88 | 28 |
+| 2006–2009 | نيوكاسل يونايتد | 88 | 28 |
+| 2009–2010 | فولفسبورغ | 16 | 6 |
+| 2010–2012 | روبين قازان | 20 | 3 |
+| 2011 | برمنغهام سيتي | 4 | 0 |
+| 2012–2013 | ليفانتي | 21 | 7 |
+| 2013–2015 | سياتل ساوندرز | 72 | 40 |
+| 2016–2018 | شانغهاي غرينلاند شينهوا | 40 | 19 |
+| 2020 | شانغهاي غرينلاند شينهوا | 4 | 0 |
+| 2020 | ووهان | 6 | 1 |
+| - | مجموع | 361 | 132 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004–2015 | نيجيريا | 42 | 18 |

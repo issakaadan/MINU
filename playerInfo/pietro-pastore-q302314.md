@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q302314
-- Generated At (UTC): 2026-07-13T08:55:58+00:00
+- Generated At (UTC): 2026-07-13T12:12:27+00:00
 - English Name: Pietro Pastore
 - Arabic Name: بيترو باستوري
 - Birth Year: 1903
@@ -32,8 +32,7 @@
 Pietro Mario Pastore , also known as Piero Pastore (3 April 1903 – 8 January 1968) [ 1 ] was an Italian professional footballer who played as a striker ; he later became an actor .
 
 ### English Achievements
-- With Club [ edit ]: Italian Football Championship
-- With International [ edit ]: Olympic Bronze Medal
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 146
@@ -67,12 +66,21 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 146
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 146
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1920–1923 | بادوفا | 20 | 4 |
+| 1923–1927 | يوفنتوس | 66 | 54 |
+| 1927–1929 | إيه سي ميلان | 58 | 39 |
+| 1929–1931 | لاتسيو | 57 | 23 |
+| 1931–1932 | Milan | 30 | 13 |
+| 1932–1934 | Lazio | 18 | 9 |
+| 1934–1935 | بيروجيا | 15 | 3 |
+| 1935–1936 | روما | 4 | 1 |
 
 ### Arabic National Team Stats
 _No rows found._

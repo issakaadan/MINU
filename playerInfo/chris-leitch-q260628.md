@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q260628
-- Generated At (UTC): 2026-07-13T08:56:18+00:00
+- Generated At (UTC): 2026-07-13T12:12:46+00:00
 - English Name: Chris Leitch
 - Arabic Name: كريس ليتش
 - Birth Year: 1979
@@ -64,12 +64,19 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 0
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002 | كولومبوس كرو | 13 | 0 |
+| 2002–2005 | نيويورك ريد بولز | 72 | 0 |
+| 2006 | كولومبوس كرو | 24 | 0 |
+| 2007–2008 | نيويورك ريد بولز | 29 | 0 |
+| 2009–2011 | سان خوسيه إيرثكويكس | 58 | 0 |
+| - | مجموع | 196 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

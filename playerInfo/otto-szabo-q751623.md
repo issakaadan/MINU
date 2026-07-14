@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q751623
-- Generated At (UTC): 2026-07-13T08:56:43+00:00
+- Generated At (UTC): 2026-07-13T12:13:19+00:00
 - English Name: Otto Szabó
 - Arabic Name: أوتو زابو
 - Birth Year: 1981
@@ -37,9 +37,9 @@ Szabó played first international match for Slovakia against San Marino on 13 Oc
 _No honours section found._
 
 ### English Career Totals
-- Club goals total: 20
+- Club goals total: 18
 - Senior national team goals total: 0
-- Senior career goals total: 20
+- Senior career goals total: 18
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
@@ -76,12 +76,29 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 20
+- Senior national team goals total: 0
+- Senior career goals total: 20
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997–1999 | رابيد فيينا | 5 | 0 |
+| 2000–2001 | Braunau | 24 | 1 |
+| 2001–2002 | رابيد فيينا | 1 | 0 |
+| 2000–2003 | رابيد فيينا | 19 | 2 |
+| 2003–2004 | بودابست | 24 | 4 |
+| 2004–2005 | [الإنجليزية] | 26 | 1 |
+| 2005–2006 | دبرتسني | 6 | 0 |
+| 2005–2006 | فاساس | 15 | 2 |
+| 2006–2007 | نادي داك 1904 دونيسكا ستريدا | 13 | 0 |
+| 2007–2009 | سلوفان براتيسلافا | 39 | 4 |
+| 2008–2009 | بيترزالكا | 13 | 0 |
+| 2009–2012 | غيور تورنا أوزتالي | 46 | 0 |
+| 2012–2013 | [الإنجليزية] | 33 | 0 |
+| 2014–2015 | نادي داك 1904 دونيسكا ستريدا | 38 | 6 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2007–2009 | سلوفاكيا | 3 | 0 |

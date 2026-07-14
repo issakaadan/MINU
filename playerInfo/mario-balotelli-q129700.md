@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q129700
-- Generated At (UTC): 2026-07-13T08:50:44+00:00
+- Generated At (UTC): 2026-07-13T12:07:43+00:00
 - English Name: Mario Balotelli
 - Arabic Name: ماريو بالوتيلي
 - Birth Year: 1990
@@ -36,14 +36,7 @@ Balotelli started his professional football career in 2005 at Lumezzane , before
 Balotelli earned his first cap for Italy in a friendly match against the Ivory Coast in 2010. He amassed over 30 caps and represented his country at UEFA Euro 2012 , the 2013 FIFA Confederations Cup , and the 2014 FIFA World Cup . He helped the national side reach the final of Euro 2012, scoring twice against Germany in the semi-finals, and won bronze at the Confederations Cup. Balotelli is Italy's joint-top scorer in the UEFA European Championship , [ 3 ] and joint-top scorer in the Confederations Cup . [ 4 ]
 
 ### English Achievements
-- With Inter Milan: Serie A
-- With Manchester City: Premier League
-- With Italy: UEFA European Championship runner-up
-- Individual: Golden Boy
-- With Inter Milan: Coppa Italia
-- With Inter Milan: Supercoppa Italiana
-- With Inter Milan: UEFA Champions League
-- With Manchester City: FA Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 195
@@ -53,21 +46,20 @@ Balotelli earned his first cap for Italy in a friendly match against the Ivory C
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2006 | Lumezzane | 2 | 0 |
-| 2007–2010 | Inter Milan | 59 | 20 |
-| 2010–2013 | Manchester City | 54 | 20 |
-| 2013–2014 | AC Milan | 43 | 26 |
-| 2014–2016 | Liverpool | 16 | 1 |
-| 2015–2016 | AC Milan | 20 | 1 |
-| 2016–2019 | Nice | 61 | 33 |
-| 2019 | Marseille | 15 | 8 |
-| 2019–2020 | Brescia | 19 | 5 |
-| 2020–2021 | Monza | 12 | 5 |
-| 2021–2022 | Adana Demirspor | 33 | 18 |
-| 2022–2023 | Sion | 18 | 6 |
-| 2023–2024 | Adana Demirspor | 16 | 7 |
-| 2024–2025 | Genoa | 6 | 0 |
-| 2026– | Al-Ittifaq | 12 | 6 |
+| 2005 | Lumezzane | 2 | 0 |
+| 2007–2009 | Inter Milan | 86 | 28 |
+| 2010–2012 | Manchester City | 80 | 30 |
+| 2012–2013 | AC Milan | 54 | 30 |
+| 2014 | Liverpool | 28 | 4 |
+| 2015 | AC Milan (loan) | 23 | 3 |
+| 2016–2018 | Nice | 76 | 43 |
+| 2018 | Marseille | 15 | 8 |
+| 2019 | Brescia | 19 | 5 |
+| 2020 | Monza | 14 | 6 |
+| 2021–2023 | Adana Demirspor | 51 | 26 |
+| 2022 | Sion | 19 | 6 |
+| 2024 | Genoa | 6 | 0 |
+| 2025 | Al-Ittifaq | 12 | 6 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -88,15 +80,33 @@ Balotelli earned his first cap for Italy in a friendly match against the Ivory C
 قبل أن يتم السنة الثالثة من عمره أُرسل إلى عائلة إيطالية لرعايته لمدة سنة. لكنه بقي معها حتى اليوم ويعتبر ماريو أن فرانشسكو وسيلفيا بالوتيللي هما والداه الحقيقيان وغير اسم عائلته تيمناً بعائلته الجديدة على الرغم من عدم تبنيه رسمياً حتى اللحظة.
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي: الدوري الإيطالي الدرجة الأولى (3)
+- مع النادي: الدوري الإنجليزي الممتاز (1)
+- مع المنتخب: بطولة أمم أوروبا الوصيف
+- الفردية: هدّاف كأس إيطاليا (1)
+- مع النادي: كأس إيطاليا (1)
+- مع النادي: كأس السوبر الإيطالي (1)
+- مع النادي: دوري أبطال أوروبا (1)
+- مع النادي: كأس الاتحاد الإنجليزي (1)
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 134
+- Senior national team goals total: 14
+- Senior career goals total: 148
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005 | لومتزانه | 2 | 0 |
+| 2007–2009 | إنتر ميلان | 86 | 28 |
+| 2010–2012 | مانشستر سيتي | 80 | 30 |
+| 2012–2013 | ميلان | 54 | 30 |
+| 2014 | ليفربول | 28 | 4 |
+| 2015 | ميلان (إعارة) | 23 | 3 |
+| 2016–2017 | نيس | 58 | 39 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008–2010 | إيطاليا تحت 21 | 18 | 7 |
+| 2010–2018 | إيطاليا | 36 | 14 |

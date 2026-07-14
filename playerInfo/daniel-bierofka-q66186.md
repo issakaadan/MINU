@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q66186
-- Generated At (UTC): 2026-07-13T08:55:24+00:00
+- Generated At (UTC): 2026-07-13T12:11:53+00:00
 - English Name: Daniel Bierofka
 - Arabic Name: دانيال بيروفكا
 - Birth Year: 1979
@@ -32,24 +32,20 @@
 Daniel Bierofka ( German pronunciation: [ˈdaːni̯eːl ˈbiːʁɔfkaː, -ni̯ɛl -] ; born 7 February 1979) is a German football coach and former player. A former midfielder , his playing career was plagued by injuries which limited his chances of playing more matches for the Germany national team and forced him to retire after the 2013–14 season.
 
 ### English Achievements
-- Bundesliga
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 44
+- Club goals total: 16
 - Senior national team goals total: 1
-- Senior career goals total: 45
+- Senior career goals total: 17
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
 | 1997–2000 | Bayern Munich II | 47 | 2 |
-| 2000–2002 | 1860 Munich | 55 | 7 |
-| 2002–2005 | Bayer Leverkusen | 78 | 11 |
-| 2005–2007 | VfB Stuttgart | 13 | 0 |
-| 2005–2006 | VfB Stuttgart II | 6 | 0 |
-| 2007–2014 | 1860 Munich | 138 | 20 |
-| 2014–2015 | 1860 Munich II | 0 | 0 |
-| Total | Total | 337 | 40 |
+| 2002–2004 | Bayer Leverkusen | 98 | 15 |
+| 2005–2006 | VfB Stuttgart | 16 | 1 |
+| 1860–2013 | VfB Stuttgart II | 152 | 22 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -70,12 +66,25 @@ Daniel Bierofka ( German pronunciation: [ˈdaːni̯eːl ˈbiːʁɔfkaː, -ni̯ɛ
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 80
+- Senior national team goals total: 1
+- Senior career goals total: 81
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997–2000 | بايرن ميونخ 2 | 47 | 2 |
+| 2000–2002 | ميونخ 1860 | 55 | 7 |
+| 2002–2005 | باير 04 ليفركوزن | 78 | 11 |
+| 2005–2007 | شتوتغارت | 13 | 0 |
+| 2005–2006 | شتوتغارت للرديف | 6 | 0 |
+| 2007–2014 | 1860 Munich | 138 | 20 |
+| 2014–2015 | [الإنجليزية] | 0 | 0 |
+| - | مجموع | 337 | 40 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1999–2001 | ألمانيا تحت 21 | 20 | 6 |
+| 2002 | ألمانيا | 3 | 1 |
+| 2002–2004 | منتخب ألمانيا ب لكرة القدم [لغات أخرى] | 5 | 0 |

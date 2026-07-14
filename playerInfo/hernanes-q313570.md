@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q313570
-- Generated At (UTC): 2026-07-13T08:52:45+00:00
+- Generated At (UTC): 2026-07-13T12:09:21+00:00
 - English Name: Hernanes
 - Arabic Name: أندرسون هيرنانيس
 - Birth Year: 1985
@@ -36,14 +36,7 @@ Hernanes began his career with São Paulo, where he won the Campeonato Brasileir
 Hernanes has earned 27 caps for the Brazil national team since 2008, scoring two goals. He won a bronze medal at that year's Olympics and was also part of the senior squads which won the 2013 FIFA Confederations Cup and came in fourth at the 2014 FIFA World Cup . He is nicknamed " Il Profeta " ("The Prophet") in Italy. [ 4 ]
 
 ### English Achievements
-- With São Paulo: Campeonato Brasileiro Série A
-- With Lazio: Coppa Italia
-- With Juventus: Serie A
-- With Brazil: FIFA Confederations Cup
-- Individual: Bola de Prata
-- With São Paulo: Campeonato Paulista
-- With Juventus: Coppa Italia
-- Individual: Campeonato Brasileiro Série A Team of the Year
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 107
@@ -53,15 +46,13 @@ Hernanes has earned 27 caps for the Brazil national team since 2008, scoring two
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2004–2010 | São Paulo | 117 | 18 |
-| 2006 | Santo André | 23 | 6 |
-| 2010–2014 | Lazio | 118 | 33 |
-| 2014–2015 | Inter Milan | 42 | 7 |
-| 2015–2017 | Juventus | 24 | 2 |
-| 2017–2018 | Hebei China Fortune | 19 | 4 |
-| 2017 | São Paulo | 19 | 9 |
-| 2019–2021 | São Paulo | 46 | 5 |
-| 2021 | Sport Recife | 8 | 0 |
+| 2005–2010 | São Paulo | 228 | 37 |
+| 2006 | Santo André (loan) | 31 | 7 |
+| 2010–2013 | Lazio | 154 | 40 |
+| 2013–2015 | Inter Milan | 52 | 7 |
+| 2015–2016 | Juventus | 32 | 2 |
+| 2017–2018 | Hebei Fortune | 22 | 5 |
+| 2017 | São Paulo (loan) | 19 | 9 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -85,12 +76,24 @@ Hernanes has earned 27 caps for the Brazil national team since 2008, scoring two
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 84
+- Senior national team goals total: 2
+- Senior career goals total: 86
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004–2010 | ساو باولو | 117 | 18 |
+| 2006 | سانتو أندريه | 23 | 6 |
+| 2010–2014 | لاتسيو | 118 | 33 |
+| 2014–2015 | إنتر ميلان | 42 | 7 |
+| 2015–2017 | يوفنتوس | 24 | 2 |
+| 2017–2018 | هيبي شينا فورشن | 19 | 4 |
+| 2017 | ساو باولو | 19 | 9 |
+| 2019–2021 | ساو باولو | 46 | 5 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008 | البرازيل تحت 23 | 7 | 1 |
+| 2008–2014 | البرازيل | 27 | 2 |

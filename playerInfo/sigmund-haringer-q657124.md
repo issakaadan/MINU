@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q657124
-- Generated At (UTC): 2026-07-13T08:56:02+00:00
+- Generated At (UTC): 2026-07-13T12:12:31+00:00
 - English Name: Sigmund Haringer
 - Arabic Name: سيغموند هارينغر
 - Birth Year: 1908
@@ -64,11 +64,13 @@ _No honours section found._
 
 ### Arabic Career Totals
 - Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior national team goals total: 0
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
 _No rows found._
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1931–1937 | ألمانيا | 15 | 0 |

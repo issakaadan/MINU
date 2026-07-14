@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q129027
-- Generated At (UTC): 2026-07-13T08:50:01+00:00
+- Generated At (UTC): 2026-07-13T12:07:11+00:00
 - English Name: Paul Pogba
 - Arabic Name: بول بوغبا
 - Birth Year: 1993
@@ -36,14 +36,7 @@ Pogba joined the youth team of Ligue 2 side Le Havre in 2007. He joined Manchest
 Pogba's performances at Juventus led to him returning to Manchester United in 2016 for a then- world record transfer fee of €105 million (£89.3 million). [ 2 ] The fee was the highest for an English club until 2021. [ 3 ] In his first season back, he won the League Cup and the Europa League . [ 4 ] In the 2018–19 season, he was named in the PFA Team of the Year . He rejoined Juventus in 2022, and was released by the club in 2024 after beginning an 18-month doping ban that was lifted in March 2025. [ 5 ] In June 2025 he signed for Monaco . [ 6 ]
 
 ### English Achievements
-- With Juventus: Serie A
-- With Manchester United: UEFA Europa League
-- With France: FIFA World Cup
-- Individual: UEFA European Under-17 Championship Team of the Tournament
-- Orders: Knight of the Legion of Honour
-- With Juventus: Coppa Italia
-- With Juventus: Supercoppa Italiana
-- With Juventus: UEFA Champions League runner-up
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 73
@@ -53,11 +46,9 @@ Pogba's performances at Juventus led to him returning to Manchester United in 20
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2011–2012 | Manchester United | 3 | 0 |
-| 2012–2016 | Juventus | 124 | 28 |
-| 2016–2022 | Manchester United | 154 | 29 |
-| 2022–2024 | Juventus | 8 | 0 |
-| 2025– | Monaco | 6 | 0 |
+| 2010–2021 | Manchester United | 233 | 39 |
+| 2012–2023 | Juventus | 190 | 34 |
+| 2025 | Monaco | 6 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -80,15 +71,32 @@ Pogba's performances at Juventus led to him returning to Manchester United in 20
 وُلد بوغبا في أجني سور، وانضم إلى فريق شباب نادي لوهافر في الدوري الفرنسي في عام 2007، قبل أن ينتقل إلى مانشستر يونايتد بعدها بعامين، ليبدأ مسيرته الكروية مع مانشستر يونايتد. أقنعته مشاركته المحدودة بالرحيل والانضمام إلى يوفنتوس الإيطالي في صفقة انتقال مجانية في عام 2012، حيث ساعد النادي على الفوز بأربعة ألقاب متتالية في الدوري الإيطالي ، بالإضافة إلى لقبين في كأس إيطاليا ولقبين في كأس السوبر الإيطالي . خلال الفترة التي قضاها في إيطاليا، أثبت بوغبا نفسه كواحد من أكثر اللاعبين الشباب الواعدين في العالم وحصل على جائزة الفتى الذهبي في عام 2013، وتلتها جائزة برافو في عام 2014. في عام 2016، تم اختيار بوغبا في فريق اليويفا لعام 2015 ، وكذلك فيفبرو 2015 ، بعد مساعدته يوفنتوس في الوصول إلى نهائي دوري أبطال أوروبا 2015 لأول مرة منذ 12 سنة.
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي يوفنتوس: الدوري الإيطالي (4)
+- مع النادي مانشستر يونايتد: كأس الرابطة الإنجليزية (1)
+- مع المنتخب فرنسا تحت 20: كأس العالم تحت 20 عامًا (1)
+- مع المنتخب فرنسا: كأس العالم (1)
+- الفردية: بطولة أمم أوروبا تحت 17 سنة فريق البطولة
+- مع النادي يوفنتوس: كأس إيطاليا (2)
+- مع النادي يوفنتوس: كأس السوبر الإيطالي (3)
+- مع النادي يوفنتوس: دوري أبطال أوروبا الوصيف
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 72
+- Senior national team goals total: 11
+- Senior career goals total: 83
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2010–2020 | مانشستر يونايتد | 206 | 38 |
+| 2012–2015 | يوفنتوس | 178 | 34 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008–2009 | فرنسا تحت 16 | 23 | 1 |
+| 2010 | فرنسا تحت 17 | 10 | 2 |
+| 2010–2011 | فرنسا تحت 18 | 6 | 1 |
+| 2011–2012 | فرنسا تحت 19 | 12 | 4 |
+| 2012–2013 | فرنسا تحت 20 | 13 | 3 |
+| 2013– | فرنسا | 91 | 11 |

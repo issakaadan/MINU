@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q324163
-- Generated At (UTC): 2026-07-13T08:56:28+00:00
+- Generated At (UTC): 2026-07-13T12:13:03+00:00
 - English Name: Ivica Majstorović
 - Arabic Name: إيفيكا مايستوروفيتش
 - Birth Year: 1981
@@ -65,12 +65,21 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 33
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 33
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001–2006 | أونترهاخينغ | 104 | 1 |
+| 2006–2009 | بانيونيوس | 53 | 2 |
+| 2009–2010 | باس جيانينا | 27 | 1 |
+| 2010–2013 | [الإنجليزية] | 54 | 1 |
+| 2013 | النادي الرياضي بكالوني | 12 | 0 |
+| 2013–2015 | ماترسبرغ | 29 | 0 |
+| 2016-2018 | AO Vyron | 40 | 16 |
+| - | مجموع | 301 | 12 |
 
 ### Arabic National Team Stats
 _No rows found._

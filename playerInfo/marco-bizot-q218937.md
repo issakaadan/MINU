@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q218937
-- Generated At (UTC): 2026-07-13T08:54:44+00:00
+- Generated At (UTC): 2026-07-13T12:11:14+00:00
 - English Name: Marco Bizot
 - Arabic Name: ماركو بيزوت
 - Birth Year: 1991
@@ -32,7 +32,7 @@
 Marco Remon Bizot ( Dutch pronunciation: [ˈmɑrkoː ˈbizɔt] ; born 10 March 1991) is a Dutch professional footballer who plays as a goalkeeper for Premier League club Aston Villa .
 
 ### English Achievements
-- With Aston Villa: UEFA Europa League
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 0
@@ -42,13 +42,12 @@ Marco Remon Bizot ( Dutch pronunciation: [ˈmɑrkoː ˈbizɔt] ; born 10 March 1
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2011–2012 | Ajax | 0 | 0 |
-| 2011–2012 | Cambuur | 17 | 0 |
-| 2012–2014 | Groningen | 50 | 0 |
-| 2014–2017 | Genk | 54 | 0 |
-| 2017–2021 | AZ | 125 | 0 |
-| 2021–2025 | Brest | 139 | 0 |
-| 2025– | Aston Villa | 7 | 0 |
+| 2011 | Cambuur (loan) | 21 | 0 |
+| 2012–2013 | Groningen | 59 | 0 |
+| 2014–2016 | Genk | 74 | 0 |
+| 2017–2020 | AZ | 164 | 0 |
+| 2021–2024 | Brest | 148 | 0 |
+| 2025 | Aston Villa | 14 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -68,12 +67,22 @@ Marco Remon Bizot ( Dutch pronunciation: [ˈmɑrkoː ˈbizɔt] ; born 10 March 1
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 0
+- Senior national team goals total: 0
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2011–2012 | أياكس أمستردام | 0 | 0 |
+| 2011–2012 | كامبور | 17 | 0 |
+| 2012–2014 | غرونينغن | 50 | 0 |
+| 2014–2017 | جينك | 54 | 0 |
+| 2017–2021 | إي زد ألكمار | 125 | 0 |
+| 2021– | بريست | 43 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2011–2013 | هولندا تحت 21 | 7 | 0 |
+| 2020– | هولندا | 1 | 0 |

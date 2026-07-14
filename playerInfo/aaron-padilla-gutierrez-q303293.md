@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q303293
-- Generated At (UTC): 2026-07-13T08:55:10+00:00
+- Generated At (UTC): 2026-07-13T12:11:39+00:00
 - English Name: Aarón Padilla Gutiérrez
 - Arabic Name: آرون باديلا غوتيريز
 - Birth Year: 1942
@@ -60,11 +60,13 @@ _No honours section found._
 
 ### Arabic Career Totals
 - Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior national team goals total: 8
+- Senior career goals total: 8
 
 ### Arabic Club Career Stats
 _No rows found._
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1965–1970 | المكسيك | 55 | 8 |

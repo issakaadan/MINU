@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1208340
-- Generated At (UTC): 2026-07-13T08:53:21+00:00
+- Generated At (UTC): 2026-07-13T12:09:57+00:00
 - English Name: Tsuyoshi Kitazawa
 - Arabic Name: تسويوشي كيتازاوا
 - Birth Year: 1968
@@ -32,12 +32,12 @@
 Tsuyoshi Kitazawa ( 北澤 豪 , Kitazawa Tsuyoshi ; born 10 August 1968) is a Japanese former football player who played for the Japan national team . He currently works on television as a football commentator.
 
 ### English Achievements
-- With Japan national team: AFC Asian Cup
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 76
+- Club goals total: 55
 - Senior national team goals total: 3
-- Senior career goals total: 79
+- Senior career goals total: 58
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
@@ -65,12 +65,18 @@ Tsuyoshi Kitazawa ( 北澤 豪 , Kitazawa Tsuyoshi ; born 10 August 1968) is a J
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 110
+- Senior national team goals total: 3
+- Senior career goals total: 113
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1987–1991 | هوندا إف سي | 51 | 14 |
+| 1991–2002 | طوكيو فيردي | 265 | 41 |
+| - | مجموع | 316 | 55 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1991–1999 | اليابان | 58 | 3 |

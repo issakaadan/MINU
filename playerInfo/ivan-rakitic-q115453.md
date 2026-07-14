@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q115453
-- Generated At (UTC): 2026-07-13T08:51:57+00:00
+- Generated At (UTC): 2026-07-13T12:08:39+00:00
 - English Name: Ivan Rakitić
 - Arabic Name: إيفان راكيتيتش
 - Birth Year: 1988
@@ -34,33 +34,24 @@ Ivan Rakitić ( Croatian pronunciation: [ǐʋan rǎkititɕ] ; [ 4 ] [ 5 ] born 1
 Rakitić started his professional career at Basel and spent two seasons with them before he was signed by Schalke 04 . After spending three-and-a-half seasons in the Bundesliga , he was signed by Sevilla in January 2011. Two years later, Rakitić was confirmed as the club captain and captained the team to UEFA Europa League triumph. In June 2014, Barcelona and Sevilla reached an agreement on the transfer of Rakitić. In his first season with Barça, he won the treble of La Liga , Copa del Rey and UEFA Champions League . He scored the first goal of the 2015 Champions League final and became the first player ever to win the Champions League a year after winning the Europa League while playing for two clubs. After appearing in 310 games and winning ten more trophies with Barcelona, Rakitić returned to Sevilla in 2020 and won the Europa League again in the 2023 UEFA Europa League final .
 
 ### English Achievements
-- With Basel: Swiss Cup
-- With Sevilla: UEFA Europa League
-- With Barcelona: La Liga
-- With Croatia: FIFA World Cup runner-up
-- Individual: Swiss Super League Young Player of the Year
-- Orders: Order of Duke Branimir
-- With Sevilla: UEFA-CONMEBOL Club Challenge
-- With Barcelona: Copa del Rey
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 126
+- Club goals total: 117
 - Senior national team goals total: 21
-- Senior career goals total: 147
+- Senior career goals total: 138
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2004 | Nordstern Basel | 0 | 0 |
-| 2005–2006 | FC Basel II | 21 | 9 |
-| 2005–2007 | FC Basel | 34 | 11 |
-| 2007–2011 | Schalke 04 | 97 | 12 |
-| 2011–2014 | Sevilla | 117 | 25 |
-| 2014–2020 | Barcelona | 200 | 25 |
-| 2020–2024 | Sevilla | 121 | 11 |
-| 2024 | Al-Shabab | 8 | 1 |
-| 2024–2025 | Hajduk Split | 35 | 2 |
-| Total | Total | 633 | 96 |
+| 2004 | Nordstern Basel | 1 | 0 |
+| 2005 | Basel II | 21 | 9 |
+| 2005–2006 | Basel | 50 | 11 |
+| 2007–2010 | Schalke 04 | 135 | 16 |
+| 2010–2023 | Sevilla | 323 | 51 |
+| 2014–2019 | Barcelona | 310 | 36 |
+| 2023 | Al-Shabab | 8 | 1 |
+| 2024 | Hajduk Split | 39 | 2 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -85,15 +76,34 @@ Rakitić started his professional career at Basel and spent two seasons with the
 وفي موسمه الأول مع البارسا، حقق الكرواتي الثلاثية ضامنًا دوري الأبطال والليغا وكأس الملك. وسجل الهدف الأول في نهائي دوري الأبطال 2015 . وأصبح بذلك أول لاعب يفوز بدوري أبطال أوروبا بعد عام واحد من فوزه بالدوري الأوروبي مع فريق آخر. وبعد لعبه لأكثر من 300 مباراة مع برشلونة وحصده لثلاثة عشر لقبًا، عاد راكيتيتش لإشبيلية في أغسطس 2020 قبل أن يننقل لنادي الشباب السعودي في يناير 2024.
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي بازل: كأس سويسرا (1)
+- مع النادي إشبيلية: الدوري الأوروبي (2)
+- مع النادي برشلونة: الدوري الإسباني (4)
+- مع المنتخب: كأس العالم
+- الفردية: دوري السوبر السويسري أفضل لاعب شاب في السنة (1)
+- مع النادي برشلونة: كأس ملك إسبانيا (4)
+- مع النادي برشلونة: كأس السوبر الإسباني (2)
+- مع النادي برشلونة: دوري أبطال أوروبا (1)
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 91
+- Senior national team goals total: 15
+- Senior career goals total: 106
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005–2006 | بازل | 46 | 11 |
+| 2007–2010 | شالكه | 135 | 16 |
+| 2010–2013 | إشبيلية | 149 | 34 |
+| 2014–2017 | برشلونة | 206 | 30 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2003–2004 | منتخب سويسرا تحت 16 سنة لكرة القدم [لغات أخرى] | 10 | 6 |
+| 2004–2005 | سويسرا تحت 17 | 12 | 7 |
+| 2005–2006 | سويسرا تحت 19 | 16 | 6 |
+| 2006–2007 | سويسرا تحت 21 | 4 | 1 |
+| 2009–2010 | كرواتيا تحت 21 | 4 | 2 |
+| 2007–2019 | كرواتيا | 106 | 15 |

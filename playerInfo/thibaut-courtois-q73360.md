@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q73360
-- Generated At (UTC): 2026-07-13T08:51:05+00:00
+- Generated At (UTC): 2026-07-13T12:07:57+00:00
 - English Name: Thibaut Courtois
 - Arabic Name: تيبو كورتوا
 - Birth Year: 1992
@@ -34,14 +34,7 @@ Thibaut Nicolas Marc Courtois ( French pronunciation: [tibo kuʁtwa] ; Dutch pro
 Courtois began his career with Genk and made his senior debut in 2009, at age 16; he went on to establish himself as the club's starting goalkeeper and won the Belgian Pro League . In 2011, Courtois signed for Chelsea in a transfer worth a reported £8 million (€9 million), but then joined Atlético Madrid on loan. At Atlético, Courtois won a La Liga title, the Copa del Rey , the Europa League , and reached the UEFA Champions League final . He returned to Chelsea in 2014 and won two Premier League titles and the EFL Cup . In 2018, Courtois signed for Real Madrid in a deal worth a reported £35 million (€38.8 million), becoming La Liga's most expensive goalkeeper, and where he has gone on to win three La Liga and two UEFA Champions League titles.
 
 ### English Achievements
-- With Genk: Belgian Pro League
-- With Atlético Madrid: La Liga
-- With Chelsea: Premier League
-- With Real Madrid: La Liga
-- With Belgium: FIFA World Cup third place
-- Individual: Belgian Professional Goalkeeper of the Year
-- With Atlético Madrid: Copa del Rey
-- With Atlético Madrid: UEFA Europa League
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 0
@@ -51,10 +44,10 @@ Courtois began his career with Genk and made his senior debut in 2009, at age 16
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2009–2011 | Genk | 41 | 0 |
-| 2011–2018 | Chelsea | 126 | 0 |
-| 2011–2014 | Atlético Madrid | 111 | 0 |
-| 2018– | Real Madrid | 232 | 0 |
+| 2008–2010 | Genk | 45 | 0 |
+| 2011–2013 | Atlético Madrid (loan) | 154 | 0 |
+| 2014–2017 | Chelsea | 154 | 0 |
+| 2018–2025 | Real Madrid | 333 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -73,15 +66,30 @@ Courtois began his career with Genk and made his senior debut in 2009, at age 16
 تخرج كورتوا من خلال الفئات السنية لنادي جينك ، وعمره 18 عامًا، ولعب دورًا رئيسيًا في فوز الفريق البلجيكي بالدوري. في يوليو 2011 انضم إلى تشيلسي مقابل 8 ملايين جنيه إسترليني، وتمت إعارته على الفور إلى أتلتيكو مدريد . وخلال ثلاثة مواسم هناك، فاز معهم بالدوري الأوروبي في عام 2012 وكأس ملك إسبانيا 2013 ولقب الدوري الاسباني في عام 2014 . كما فاز بجائزة زامورا كأفضل حارس مرمى في الدوري الاسباني، عن أدائه في آخر موسمين. عاد كورتوا إلى تشيلسي في يوليو 2014، وفي أول موسم له ساعدهم بالفوز بكأس رابطة الأندية الإنجليزية المحترفة ولقب الدوري الإنجليزي الممتاز . في عام 2018، وقع ريال مدريد مع كورتوا مقابل 35 مليون جنيه إسترليني، ليصبح أغلى حارس مرمى في الدوري الإسباني، متجاوزًا الرقم القياسي الذي كان يحمله يان أوبلاك . حصل على لقب الدوري الإسباني للمرة الثانية وجائزة زامورا الثالثة في عام 2020.
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي جينك: الدوري البلجيكي الممتاز (1)
+- مع النادي أتلتيكو مدريد: الدوري الإسباني (1)
+- مع النادي تشيلسي: الدوري الإنجليزي الممتاز (2)
+- مع النادي ريال مدريد: الدوري الإسباني (3)
+- مع المنتخب بلجيكا: كأس العالم المركز الثالث
+- الفردية: جائزة أفضل حارس مرمى بلجيكي
+- مع النادي أتلتيكو مدريد: كأس ملك إسبانيا (1)
+- مع النادي أتلتيكو مدريد: الدوري الأوروبي (1)
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 0
+- Senior national team goals total: 0
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008–2010 | جينك | 45 | 0 |
+| 2011–2013 | أتلتيكو مدريد (إعارة) | 154 | 0 |
+| 2014–2017 | تشيلسي | 154 | 0 |
+| 2018–2020 | ريال مدريد | 121 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009–2010 | بلجيكا تحت 18 | 4 | 0 |
+| 2011– | بلجيكا | 102 | 0 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q189535
-- Generated At (UTC): 2026-07-13T08:53:46+00:00
+- Generated At (UTC): 2026-07-13T12:10:23+00:00
 - English Name: Roberto Ayala
 - Arabic Name: روبرتو أيالا
 - Birth Year: 1973
@@ -34,14 +34,7 @@ Roberto Fabián Ayala ( [roˈβeɾto faˈβjan aˈʝala] ; born 14 April 1973), 
 Regarded as one of the best defenders of his generation, he stood out for his leadership and ability in the air throughout his career in spite of his small stature as a centre back. [ 4 ] Ayala captained Argentina in a record 63 matches. [ 5 ] He played in three FIFA World Cups and made a total of 115 international appearances.
 
 ### English Achievements
-- With River Plate: Argentine Primera División
-- With Napoli: Coppa Italia runner-up
-- With Milan: Serie A
-- With Valencia: La Liga
-- With Argentina: Olympic Gold Medal
-- Individual: South American Team of the Year
-- With Argentina: FIFA World Cup
-- With Valencia: UEFA Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 19
@@ -51,14 +44,14 @@ Regarded as one of the best defenders of his generation, he stood out for his le
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1991–1993 | Ferro Carril Oeste | 73 | 1 |
-| 1993–1995 | River Plate | 41 | 0 |
-| 1995–1998 | Napoli | 87 | 1 |
-| 1998–2000 | Milan | 24 | 0 |
-| 2000–2007 | Valencia | 187 | 9 |
-| 2007–2010 | Real Zaragoza | 74 | 4 |
-| 2010–2011 | Racing Club | 15 | 0 |
-| Total | Total | 501 | 15 |
+| 1991–1993 | Ferro Carril Oeste | 76 | 1 |
+| 1993–1994 | River Plate | 53 | 1 |
+| 1995–1997 | Napoli | 96 | 1 |
+| 1998–2000 | Milan | 35 | 0 |
+| 2000–2006 | Valencia | 253 | 12 |
+| 2006 | Villarreal | 0 | 0 |
+| 2007–2009 | Zaragoza | 81 | 4 |
+| 2009 | Racing | 15 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -83,12 +76,23 @@ Regarded as one of the best defenders of his generation, he stood out for his le
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 30
+- Senior national team goals total: 7
+- Senior career goals total: 37
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1991–1993 | فيرو كاريل أويستي | 73 | 1 |
+| 1993–1995 | ريفر بليت | 41 | 0 |
+| 1995–1998 | نابولي | 87 | 1 |
+| 1998–2000 | إيه سي ميلان | 24 | 0 |
+| 2000–2007 | فالنسيا | 187 | 9 |
+| 2007–2010 | ريال سرقسطة | 74 | 4 |
+| 2010–2011 | راسينغ | 15 | 0 |
+| - | مجموع | 501 | 15 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1994–2007 | الأرجنتين | 116 | 7 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q352508
-- Generated At (UTC): 2026-07-13T08:57:03+00:00
+- Generated At (UTC): 2026-07-13T12:13:29+00:00
 - English Name: Vincent Briant
 - Arabic Name: فيسينت بريان
 - Birth Year: 1986
@@ -64,12 +64,19 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 0
+- Senior national team goals total: 0
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005–2006 | نانت | 12 | 0 |
+| 2006–2008 | نانت | 9 | 0 |
+| 2008–2011 | سيدان | 15 | 0 |
+| - | مجموع | 36 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2010–2011 | بريتاني | 3 | 0 |

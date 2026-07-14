@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1928
-- Generated At (UTC): 2026-07-13T08:52:45+00:00
+- Generated At (UTC): 2026-07-13T12:09:20+00:00
 - English Name: Hatem Ben Arfa
 - Arabic Name: حاتم بن عرفة
 - Birth Year: 1987
@@ -34,14 +34,7 @@ Hatem Ben Arfa ( Arabic : حاتم بن عرفة , French pronunciation: [atɛm 
 Ben Arfa's career started in the Île-de-France region , where he trained at Boulogne-Billancourt and Versailles . In 1999, he was selected to attend the Clairefontaine academy. He spent three years there before leaving for Lyon , where he won four Ligue 1 titles. In his early career at Lyon, he played as a centre forward but moved into a striker role during the 2007–08 season . In the summer of 2008, Ben Arfa signed with rivals Marseille for €11 million in a move that required the intervention of the Ligue de Football Professionnel . With Marseille, he won the 2009–10 league title, his fifth overall, as well as the Coupe de la Ligue in 2010 . After two years at Marseille, Ben Arfa joined English club Newcastle United on loan for the 2010–11 season. The deal was made permanent later in the season. [ 6 ]
 
 ### English Achievements
-- With Lyon: Ligue 1
-- With Marseille: Ligue 1
-- With Paris Saint-Germain: Coupe de France
-- With Rennes: Coupe de France
-- Individual: UNFP Ligue 1 Young Player of the Year
-- With Lyon: Coupe de France
-- With Lyon: Trophée des Champions
-- With Marseille: Coupe de la Ligue
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 74
@@ -51,18 +44,17 @@ Ben Arfa's career started in the Île-de-France region , where he trained at Bou
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2004–2008 | Lyon | 64 | 7 |
-| 2008–2011 | Marseille | 63 | 9 |
-| 2010–2011 | Newcastle United | 4 | 1 |
-| 2011–2015 | Newcastle United | 72 | 12 |
-| 2014–2015 | Hull City | 8 | 0 |
-| 2015–2016 | Nice | 34 | 17 |
-| 2016–2018 | Paris Saint-Germain | 23 | 0 |
-| 2018–2019 | Rennes | 26 | 7 |
-| 2020 | Valladolid | 5 | 0 |
-| 2020–2021 | Bordeaux | 24 | 2 |
-| 2022 | Lille | 7 | 0 |
-| Total | Total | 330 | 55 |
+| 2004–2007 | Lyon | 92 | 12 |
+| 2008–2010 | Marseille | 91 | 15 |
+| 2010 | Newcastle United (loan) | 4 | 1 |
+| 2011–2013 | Newcastle United | 86 | 14 |
+| 2014 | Hull City (loan) | 9 | 0 |
+| 2015 | Nice | 37 | 18 |
+| 2016–2017 | Paris Saint-Germain | 32 | 4 |
+| 2018 | Rennes | 41 | 9 |
+| 2019 | Real Valladolid | 5 | 0 |
+| 2020 | Bordeaux | 25 | 2 |
+| 2021 | Lille | 9 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -88,12 +80,31 @@ Ben Arfa's career started in the Île-de-France region , where he trained at Bou
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 55
+- Senior national team goals total: 2
+- Senior career goals total: 57
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004–2008 | أولمبيك ليون | 64 | 7 |
+| 2008–2011 | أولمبيك مرسيليا | 63 | 9 |
+| 2010–2011 | نيوكاسل يونايتد | 4 | 1 |
+| 2011–2015 | نيوكاسل يونايتد | 72 | 12 |
+| 2014–2015 | هال سيتي | 8 | 0 |
+| 2015–2016 | نيس | 34 | 17 |
+| 2016–2018 | باريس سان جيرمان | 23 | 0 |
+| 2018–2020 | ستاد رين | 26 | 7 |
+| 2020 | ريال بلد الوليد | 5 | 0 |
+| 2020–2021 | جيروندان بوردو | 24 | 2 |
+| 2022 | ليل | 7 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2003 | فرنسا تحت 16 | 10 | 7 |
+| 2003–2004 | فرنسا تحت 17 | 17 | 11 |
+| 2005 | فرنسا تحت 18 | 4 | 0 |
+| 2005–2006 | فرنسا تحت 19 | 6 | 1 |
+| 2007 | فرنسا تحت 21 | 4 | 0 |
+| 2007–2015 | فرنسا | 15 | 2 |

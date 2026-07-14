@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q309762
-- Generated At (UTC): 2026-07-13T08:54:40+00:00
+- Generated At (UTC): 2026-07-13T12:11:08+00:00
 - English Name: Luca Antonini
 - Arabic Name: لوكا أنتونيني
 - Birth Year: 1982
@@ -32,13 +32,12 @@
 Luca Antonini ( Italian pronunciation: [ˈluːka antoˈniːni] ; born 4 August 1982) is an Italian former professional footballer who played as a defender . He is best known for his five seasons with AC Milan , for which he played from 2008 until 2013. During that time, he made 111 appearances for the club in all competitions, scored one goal, and won the 2010–11 Serie A as the team's starting left back .
 
 ### English Achievements
-- With AC Milan: Serie A
-- With AC Milan: Supercoppa Italiana
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 22
+- Club goals total: 19
 - Senior national team goals total: 0
-- Senior career goals total: 22
+- Senior career goals total: 19
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
@@ -79,12 +78,30 @@ Luca Antonini ( Italian pronunciation: [ˈluːka antoˈniːni] ; born 4 August 1
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 19
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 19
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001–2003 | إيه سي ميلان | 0 | 0 |
+| 2001–2002 | براتو | 26 | 3 |
+| 2002–2003 | ايه سي انكونا [لغات أخرى] | 17 | 1 |
+| 2003–2007 | سامبدوريا | 3 | 0 |
+| 2004–2005 | مودينا | 15 | 1 |
+| 2005 | بيسكارا | 22 | 3 |
+| 2005–2006 | أريتسو | 39 | 3 |
+| 2006–2007 | سيينا | 32 | 3 |
+| 2007–2008 | إمبولي | 32 | 0 |
+| 2008–2013 | إيه سي ميلان | 81 | 1 |
+| 2013–2015 | جنوى | 33 | 3 |
+| 2015 | أسكولي | 14 | 1 |
+| 2016 | ليفورنو | 16 | 0 |
+| 2016 | ايه سي براتو | 9 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1999 | إيطاليا تحت 17 | 1 | 0 |
+| 2000–2001 | إيطاليا تحت 18 | 4 | 0 |

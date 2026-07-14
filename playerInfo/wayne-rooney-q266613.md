@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q266613
-- Generated At (UTC): 2026-07-13T08:49:12+00:00
+- Generated At (UTC): 2026-07-13T12:06:33+00:00
 - English Name: Wayne Rooney
 - Arabic Name: واين روني
 - Birth Year: 1985
@@ -36,29 +36,20 @@ Widely considered one of the best players of his generation and one of the great
 Rooney joined the Everton youth team at the age of nine and made his professional debut for the club in 2002 at the age of 16. He spent two seasons at the Merseyside club before moving to Manchester United for £25.6 million in the 2004 summer transfer window , where he won 16 trophies and became one of only two English players, alongside teammate Michael Carrick , to win the Premier League , FA Cup , Champions League, League Cup , UEFA Europa League , and FIFA Club World Cup . [ 7 ] [ 8 ] [ 9 ] He scored 253 goals for United in all competitions, making him the club's top goalscorer of all time ; his 183 Premier League goals for United is the third-most scored by a player in that competition for any single club, behind only Harry Kane (213 goals for Tottenham Hotspur ) and Sergio Agüero (184 goals for Manchester City ). Rooney's 208 Premier League goals make him the competition's third- highest scorer of all time , while he also holds the fourth-highest number of assists with 103. [ 10 ]
 
 ### English Achievements
-- With Manchester United: Premier League
-- Individual: UEFA European Under-17 Championship Golden Player
-- Records: Manchester United all-time top scorer
-- Individual: MLS All-Star Coach
-- With Manchester United: FA Cup
-- With Manchester United: Football League/EFL Cup
-- With Manchester United: FA Community Shield
-- With Manchester United: UEFA Champions League
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 313
+- Club goals total: 288
 - Senior national team goals total: 55
-- Senior career goals total: 368
+- Senior career goals total: 343
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2002–2004 | Everton | 67 | 15 |
-| 2004–2017 | Manchester United | 393 | 183 |
-| 2017–2018 | Everton | 31 | 10 |
-| 2018–2019 | D.C. United | 48 | 23 |
-| 2020–2021 | Derby County | 30 | 6 |
-| Total | Total | 569 | 237 |
+| 2002–2017 | Everton | 117 | 28 |
+| 2004–2016 | Manchester United | 559 | 253 |
+| 2018–2019 | D.C. United | 52 | 25 |
+| 2019–2020 | Derby County | 35 | 7 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -79,15 +70,34 @@ Rooney joined the Everton youth team at the age of nine and made his professiona
 روني هو ثاني الهدَّافين التَّاريخيين لمنتخب إنجلترا بعد هاري كين ، وذلك بعد تسجيلِه برصيد 53 هدفًا. [ 4 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع الجماعية: الدوري الإنجليزي الممتاز (5)
+- الفردية: أفضل لاعب شاب بحسب شبكة BBC في السنة
+- الفردية: أفضل لاعب في بطولة كأس العالم للأندية
+- مع الجماعية: كأس الاتحاد الإنجليزي (1)
+- مع الجماعية: كأس رابطة الأندية الإنجليزية المحترفة (3)
+- مع الجماعية: درع الاتحاد الإنجليزي لكرة القدم (4)
+- مع الجماعية: دوري أبطال أوروبا (1)
+- مع الجماعية: الدوري الأوروبي (1)
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 474
+- Senior national team goals total: 53
+- Senior career goals total: 527
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2004 | إيفرتون | 67 | 15 |
+| 2004–2017 | مانشستر يونايتد | 393 | 183 |
+| 2017–2018 | إيفرتون | 31 | 10 |
+| 2018–2020 | دي سي يونايتد | 48 | 23 |
+| 2020–2021 | ديربي كاونتي | 30 | 6 |
+| - | مجموع | 569 | 237 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000–2001 | إنجلترا تحت 15 | 4 | 2 |
+| 2001–2002 | إنجلترا تحت 17 | 12 | 7 |
+| 2002–2003 | إنجلترا تحت 19 | 1 | 0 |
+| 2003–2018 | إنجلترا | 120 | 53 |

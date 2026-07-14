@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q461581
-- Generated At (UTC): 2026-07-13T08:53:56+00:00
+- Generated At (UTC): 2026-07-13T12:10:29+00:00
 - English Name: Aldo Serena
 - Arabic Name: ألدو سيرينا
 - Birth Year: 1960
@@ -34,14 +34,7 @@ Aldo Serena Cavaliere OMRI ( Italian pronunciation: [ˈaldo seˈreːna] ; born 2
 At international level, Serena played for the Italy national team in the 1986 FIFA World Cup and the 1990 FIFA World Cup , helping the team to a third-place finish in the latter tournament. He works as a pundit for Mediaset . [ 2 ]
 
 ### English Achievements
-- With Juventus: Serie A
-- With Inter: Serie A
-- With Milan: Serie A
-- With Italy: FIFA World Cup
-- Individual: Serie A Top Goal Scorer
-- With Juventus: Intercontinental Cup
-- With Inter: Coppa Italia
-- With Inter: Supercoppa Italiana
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 115
@@ -79,12 +72,25 @@ At international level, Serena played for the Italy national team in the 1986 FI
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 230
+- Senior national team goals total: 5
+- Senior career goals total: 235
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1977–1978 | [الإنجليزية] | 29 | 9 |
+| 1978–1985 | إنتر ميلان | 51 | 11 |
+| 1979–1980 | كومو | 18 | 2 |
+| 1980–1981 | باري | 35 | 10 |
+| 1982–1983 | إيه سي ميلان | 20 | 8 |
+| 1984–1985 | تورينو | 29 | 9 |
+| 1985–1987 | يوفنتوس | 51 | 21 |
+| 1987–1991 | إنتر ميلان | 114 | 45 |
+| 1991–1993 | إيه سي ميلان | 10 | 0 |
+| - | مجموع | 357 | 115 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1984–1990 | إيطاليا | 24 | 5 |

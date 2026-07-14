@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q440437
-- Generated At (UTC): 2026-07-13T08:55:06+00:00
+- Generated At (UTC): 2026-07-13T12:11:34+00:00
 - English Name: Steven Naismith
 - Arabic Name: ستيفن نيسميث
 - Birth Year: 1986
@@ -34,14 +34,7 @@ Steven John Naismith (born 14 September 1986) is a Scottish professional footbal
 Naismith began his career with Kilmarnock in 2004. He spent four years with the Ayrshire side where he won the SFWA Young Player of the Year award in 2006 [ 4 ] and the SPFA Young Player of the Year award the following season. [ 5 ] Naismith joined Rangers in the summer of 2007 for £1.9 million. While with the club he won three consecutive league titles, the Scottish Cup in 2009 and the League Cup twice. He signed for Premier League club Everton in 2012, and then joined Norwich City in 2016. Naismith had two separate loan spells with Heart of Midlothian , and he signed permanently with Hearts after he was released by Norwich in 2019. Naismith won 51 caps for the Scotland national team after making his senior international debut in 2007, and scored ten international goals. He mainly played as a forward during his career, but was also used as a midfielder .
 
 ### English Achievements
-- With Rangers: Scottish Premier League
-- With Hearts: Scottish Championship
-- Individual: SFWA Young Player of the Year
-- With Manager [ edit ]: Scottish Premiership Manager of the Month
-- With Rangers: Scottish Cup
-- With Rangers: Scottish League Cup
-- Individual: SPFA Young Player of the Year
-- Individual: SPL Young Player of the Year
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 130
@@ -51,13 +44,12 @@ Naismith began his career with Kilmarnock in 2004. He spent four years with the 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2003–2007 | Kilmarnock | 102 | 29 |
-| 2007–2012 | Rangers | 98 | 28 |
-| 2012–2016 | Everton | 103 | 18 |
-| 2016–2019 | Norwich City | 44 | 6 |
-| 2018–2019 | Heart of Midlothian | 33 | 14 |
-| 2019–2021 | Heart of Midlothian | 37 | 10 |
-| Total | Total | 417 | 105 |
+| 2003–2007 | Kilmarnock | 115 | 35 |
+| 2007–2011 | Rangers | 140 | 33 |
+| 2012–2015 | Everton | 123 | 25 |
+| 2015–2017 | Norwich City | 48 | 8 |
+| 2017–2018 | Heart of Midlothian (loan) | 43 | 18 |
+| 2019–2020 | Heart of Midlothian | 47 | 11 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -78,12 +70,24 @@ Naismith began his career with Kilmarnock in 2004. He spent four years with the 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 210
+- Senior national team goals total: 11
+- Senior career goals total: 221
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2003–2007 | كيلمارنوك | 102 | 29 |
+| 2007–2012 | رينجرز | 98 | 28 |
+| 2012–2016 | إيفرتون | 103 | 18 |
+| 2016–2019 | نورويتش سيتي | 44 | 6 |
+| 2018–2019 | هارت أوف ميدلوثيان | 33 | 14 |
+| 2019–2021 | هارت أوف ميدلوثيان | 37 | 10 |
+| - | مجموع | 417 | 105 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006–2008 | اسكتلندا تحت 21 | 15 | 5 |
+| 2006–2009 | اسكتلندا الرديف | 3 | 1 |
+| 2007–2019 | اسكتلندا | 51 | 10 |

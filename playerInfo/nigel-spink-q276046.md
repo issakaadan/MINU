@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q276046
-- Generated At (UTC): 2026-07-13T08:55:55+00:00
+- Generated At (UTC): 2026-07-13T12:12:24+00:00
 - English Name: Nigel Spink
 - Arabic Name: نايجل سبينك
 - Birth Year: 1958
@@ -36,10 +36,7 @@ He played as a goalkeeper from 1976 until 2001. He made his name at Aston Villa 
 He also played in the Football League for West Bromwich Albion and Millwall , and at non-league level for Chelmsford City and Forest Green Rovers , the latter he would go on to manage between 2000 and 2002. Spink later worked as a goalkeeping coach for Birmingham City , Wigan Athletic , Sunderland and Bristol City .
 
 ### English Achievements
-- With Aston Villa: Football League Cup
-- Individual: PFA Team of the Year
-- With Aston Villa: European Cup
-- With Aston Villa: European Super Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 0
@@ -74,12 +71,22 @@ He also played in the Football League for West Bromwich Albion and Millwall , an
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 0
+- Senior national team goals total: 0
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1976–1977 | تشيلمسفورد | 10 | 0 |
+| 1977–1996 | أستون فيلا | 361 | 0 |
+| 1996–1997 | وست بروميتش ألبيون | 19 | 0 |
+| 1997–2000 | ميلوول | 44 | 0 |
+| 2000–2001 | فوريست غرين | 14 | 0 |
+| - | مجموع | 448 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1983 | إنجلترا | 1 | 0 |
+| 1991 | منتخب إنجلترا لكرة القدم الرديف | 2 | 0 |

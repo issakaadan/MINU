@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q11948
-- Generated At (UTC): 2026-07-13T08:52:12+00:00
+- Generated At (UTC): 2026-07-13T12:08:51+00:00
 - English Name: Michael Ballack
 - Arabic Name: مايكل بالاك
 - Birth Year: 1976
@@ -34,32 +34,22 @@ Michael Ballack ( German pronunciation: [ˈmɪçaʔeːl ˈbalak] ; born 26 Septe
 Ballack began his career as a youth at enterprise sports community BSG Motor "Fritz Heckert" Karl-Marx-Stadt in 1983. He then joined the youth department of football club FC Karl-Marx-Stadt . [ 5 ] Ballack made his debut for Germany's under-21 side on 26 March 1996. Although the team were relegated in his first season, his performances in the Regionalliga the following season led to a transfer to 1. FC Kaiserslautern in 1997. He won the Bundesliga in his first season at the club, his first major achievement . He became a first team regular in 1998–99 season and also earned his first senior national cap for Germany. He moved to Bayer Leverkusen for €4.1 million in 1999. The 2001–02 season saw him win a slew of runners-up medals: Bayer Leverkusen finished second in the Bundesliga, DFB-Pokal , UEFA Champions League and Germany lost to Brazil in the 2002 World Cup Final .
 
 ### English Achievements
-- With 1. FC Kaiserslautern: Bundesliga
-- With Bayer Leverkusen: DFB-Pokal runner-up
-- With Bayern Munich: Bundesliga
-- With Chelsea: Premier League
-- With Germany: FIFA World Cup runner-up
-- Individual: UEFA Club Midfielder of the Year
-- With Bayer Leverkusen: UEFA Champions League runner-up
-- With Bayern Munich: DFB-Pokal
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 149
+- Club goals total: 144
 - Senior national team goals total: 42
-- Senior career goals total: 191
+- Senior career goals total: 186
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1995–1997 | Chemnitzer FC II | 18 | 5 |
-| 1995–1997 | Chemnitzer FC | 49 | 10 |
-| 1997–1998 | 1. FC Kaiserslautern II | 17 | 8 |
-| 1997–1999 | 1. FC Kaiserslautern | 46 | 4 |
-| 1999–2002 | Bayer Leverkusen | 79 | 27 |
-| 2002–2006 | Bayern Munich | 107 | 44 |
-| 2006–2010 | Chelsea | 105 | 17 |
-| 2010–2012 | Bayer Leverkusen | 35 | 2 |
-| Total | Total | 456 | 117 |
+| 1994–1995 | Chemnitzer FC II | 18 | 5 |
+| 1995–1996 | Chemnitzer FC | 51 | 10 |
+| 1997–1998 | 1. FC Kaiserslautern | 57 | 4 |
+| 1999–2011 | Bayer Leverkusen | 155 | 42 |
+| 2002–2005 | Bayern Munich | 157 | 62 |
+| 2006–2009 | Chelsea | 167 | 26 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -79,12 +69,25 @@ Ballack began his career as a youth at enterprise sports community BSG Motor "Fr
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 234
+- Senior national team goals total: 42
+- Senior career goals total: 276
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1995–1997 | كيمنتزر الثاني | 18 | 5 |
+| 1995–1997 | كيمنتزر | 49 | 10 |
+| 1997–1998 | كايزرسلاوترن الثاني | 17 | 8 |
+| 1997–1999 | كايزرسلاوترن | 46 | 4 |
+| 1999–2002 | باير ليفركوزن | 79 | 27 |
+| 2002–2006 | بايرن ميونخ | 107 | 44 |
+| 2006–2010 | تشيلسي | 105 | 17 |
+| 2010–2012 | باير ليفركوزن | 35 | 2 |
+| - | مجموع | 456 | 117 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1996–1998 | ألمانيا تحت 21 | 19 | 7 |
+| 1999–2010 | ألمانيا | 98 | 42 |

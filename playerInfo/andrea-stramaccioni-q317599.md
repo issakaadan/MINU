@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q317599
-- Generated At (UTC): 2026-07-13T08:54:00+00:00
+- Generated At (UTC): 2026-07-13T12:10:32+00:00
 - English Name: Andrea Stramaccioni
 - Arabic Name: أندريا ستراماتشوني
 - Birth Year: 1976
@@ -34,7 +34,7 @@ Andrea Stramaccioni ( Italian pronunciation: [anˈdrɛːa stramatˈtʃoːni] ; b
 A football coach with experiences as a youth coach of Roma and Inter Milan , he was put in charge of first team duties on 26 March 2012 to replace Claudio Ranieri . He is also a 2010 law graduate. [ 1 ]
 
 ### English Achievements
-- With Inter Milan: NextGen Series
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 0
@@ -61,12 +61,14 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 0
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1994–1995 | بولونيا | 0 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

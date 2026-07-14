@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q309966
-- Generated At (UTC): 2026-07-13T08:52:28+00:00
+- Generated At (UTC): 2026-07-13T12:09:02+00:00
 - English Name: Bernd Leno
 - Arabic Name: بيرند لينو
 - Birth Year: 1992
@@ -32,10 +32,7 @@
 Bernd Leno (born 4 March 1992) is a German professional footballer who plays as a goalkeeper for Premier League club Fulham .
 
 ### English Achievements
-- With Arsenal: FA Community Shield
-- With Germany U17: UEFA European Under-17 Championship
-- With Germany: FIFA Confederations Cup
-- With Arsenal: UEFA Europa League runner-up
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 0
@@ -46,10 +43,9 @@ Bernd Leno (born 4 March 1992) is a German professional footballer who plays as 
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
 | 2009–2011 | VfB Stuttgart II | 57 | 0 |
-| 2011 | Bayer Leverkusen | 16 | 0 |
-| 2012–2018 | Bayer Leverkusen | 217 | 0 |
-| 2018–2022 | Arsenal | 101 | 0 |
-| 2022– | Fulham | 150 | 0 |
+| 2011–2017 | Bayer Leverkusen | 304 | 0 |
+| 2018–2021 | Arsenal | 125 | 0 |
+| 2022–2025 | Fulham | 156 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -72,12 +68,23 @@ Bernd Leno (born 4 March 1992) is a German professional footballer who plays as 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 0
+- Senior national team goals total: 0
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009–2011 | شتوتغارت للرديف | 57 | 0 |
+| 2011–2018 | باير ليفركوزن | 233 | 0 |
+| 2018–2022 | أرسنال | 101 | 0 |
+| 2022– | فولهام | 13 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008–2009 | منتخب ألمانيا لكرة القدم للشباب | 4 | 0 |
+| 2009–2010 | منتخب ألمانيا لكرة القدم للشباب | 5 | 0 |
+| 2010–2011 | منتخب ألمانيا لكرة القدم للشباب | 5 | 0 |
+| 2012–2015 | ألمانيا تحت 21 | 14 | 0 |
+| 2016– | ألمانيا | 9 | 0 |

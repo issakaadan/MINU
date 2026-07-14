@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q334849
-- Generated At (UTC): 2026-07-13T08:57:06+00:00
+- Generated At (UTC): 2026-07-13T12:13:32+00:00
 - English Name: Ümit Kurt
 - Arabic Name: أوميت كورت
 - Birth Year: 1991
@@ -69,12 +69,21 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 13
+- Senior national team goals total: 0
+- Senior career goals total: 13
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2010–2013 | أنقرة غوجو | 35 | 2 |
+| 2013–2016 | سيفاسبور | 77 | 1 |
+| 2016–2018 | تشايكور ريزه سبور | 40 | 1 |
+| 2018–2019 | بولو سبور | 41 | 5 |
+| 2020–2021 | مانيسا | 29 | 2 |
+| 2021– | صقارية سبور [لغات أخرى] | 39 | 2 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2015– | تركيا | 1 | 0 |

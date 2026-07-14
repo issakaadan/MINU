@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q310733
-- Generated At (UTC): 2026-07-13T08:55:03+00:00
+- Generated At (UTC): 2026-07-13T12:11:32+00:00
 - English Name: Simon Davies
 - Arabic Name: سيمون ديفيز
 - Birth Year: 1979
@@ -32,10 +32,7 @@
 Simon Davies (born 23 October 1979) is a Welsh former professional footballer who played as a winger . Davies started his career at Peterborough United before playing for Premier League clubs Tottenham Hotspur , Everton and Fulham , earning a runner-up medal during the 2009–10 UEFA Europa League with Fulham. Davies made more than 350 appearances at senior club level in England, along with earning 58 caps for the Welsh national team . He was most recently the assistant manager of Crawley Town .
 
 ### English Achievements
-- With Tottenham Hotspur: Football League Cup runner-up
-- With Fulham: UEFA Europa League runner-up
-- Individual: Welsh Footballer of the Year
-- Individual: PFA Team of the Year
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 41
@@ -45,11 +42,10 @@ Simon Davies (born 23 October 1979) is a Welsh former professional footballer wh
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1997–2000 | Peterborough United | 65 | 6 |
-| 2000–2005 | Tottenham Hotspur | 121 | 13 |
-| 2005–2007 | Everton | 45 | 1 |
-| 2007–2013 | Fulham | 137 | 13 |
-| Total | Total | 368 | 33 |
+| 1997–2000 | Peterborough United | 75 | 6 |
+| 1999–2004 | Tottenham Hotspur | 147 | 18 |
+| 2005–2006 | Everton | 53 | 1 |
+| 2006–2012 | Fulham | 167 | 17 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -74,12 +70,22 @@ Simon Davies (born 23 October 1979) is a Welsh former professional footballer wh
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 73
+- Senior national team goals total: 6
+- Senior career goals total: 79
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997–2000 | بيتربورو يونايتد | 65 | 6 |
+| 2000–2005 | توتنهام هوتسبير | 121 | 13 |
+| 2005–2007 | إيفرتون | 45 | 1 |
+| 2007–2013 | فولهام | 137 | 13 |
+| - | مجموع | 368 | 40 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1998–2001 | ويلز تحت 21 | 10 | 0 |
+| - | Wales B | 1 | 0 |
+| 2001–2010 | ويلز | 58 | 6 |

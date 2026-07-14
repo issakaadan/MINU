@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q344397
-- Generated At (UTC): 2026-07-13T08:57:02+00:00
+- Generated At (UTC): 2026-07-13T12:13:29+00:00
 - English Name: Tony Stokes
 - Arabic Name: توني ستوكس
 - Birth Year: 1987
@@ -77,12 +77,29 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 281
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 281
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005–2009 | وست هام يونايتد | 0 | 0 |
+| 2006 | روشدين ودايموندز | 19 | 0 |
+| 2006 | برايتون أند هوف ألبيون | 6 | 0 |
+| 2007–2008 | ستيفيناغ بوروه | 3 | 1 |
+| 2009 | أويبست | 13 | 0 |
+| 2009–2010 | أويبست | 11 | 0 |
+| 2010–2015 | كونكورد رينجرز | 124 | 78 |
+| 2013 | كانفي آيلاند | 4 | 3 |
+| 2015–2016 | كانفي آيلاند | 28 | 5 |
+| 2016 | [الإنجليزية] | 2 | 0 |
+| 2016–2017 | كونكورد رينجرز | 16 | 4 |
+| 2017–2018 | باورز آند بيتسي | 25 | 8 |
+| 2018–2019 | برينتوود تاون | 64 | 21 |
+| 2019–2020 | غرايز أتلاتيك [لغات أخرى] | 7 | 6 |
+| 2021–2022 | [الإنجليزية] | 28 | 14 |
+| - | مجموع | 358 | 141 |
 
 ### Arabic National Team Stats
 _No rows found._

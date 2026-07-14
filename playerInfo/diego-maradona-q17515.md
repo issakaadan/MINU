@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q17515
-- Generated At (UTC): 2026-07-13T08:47:35+00:00
+- Generated At (UTC): 2026-07-13T12:05:25+00:00
 - English Name: Diego Maradona
 - Arabic Name: دييغو مارادونا
 - Birth Year: 1960
@@ -36,14 +36,7 @@ An advanced playmaker who operated in the classic number 10 position , Maradona'
 Maradona was the first player to set the world record transfer fee twice: in 1982 when he transferred to Barcelona for £5 million, and in 1984 when he moved to Napoli for a fee of £6.9 million. [ 5 ] He played for Argentinos Juniors , Boca Juniors , Barcelona, Napoli, Sevilla and Newell's Old Boys during his club career, and is most famous for his time at Napoli where he won numerous accolades and led the club to their first Serie A title win and their second three years later. [ 6 ] Maradona also had a troubled off-field life and his time with Napoli ended after he was banned for taking cocaine. [ 7 ]
 
 ### English Achievements
-- With Boca Juniors: Argentine Primera División
-- With Barcelona: Copa del Rey
-- With Napoli: Serie A
-- With Argentina: FIFA World Cup
-- Individual: Argentine Primera División top scorers
-- With Barcelona: Copa de la Liga
-- With Napoli: Coppa Italia
-- With Napoli: Supercoppa Italiana
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 311
@@ -53,14 +46,12 @@ Maradona was the first player to set the world record transfer fee twice: in 198
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1976–1981 | Argentinos Juniors | 166 | 116 |
-| 1981–1982 | Boca Juniors | 40 | 28 |
-| 1982–1984 | Barcelona | 36 | 22 |
-| 1984–1991 | Napoli | 188 | 81 |
-| 1992–1993 | Sevilla | 26 | 5 |
-| 1993–1994 | Newell's Old Boys | 5 | 0 |
-| 1995–1997 | Boca Juniors | 30 | 7 |
-| Total | Total | 491 | 259 |
+| 1976–1980 | Argentinos Juniors | 166 | 116 |
+| 1981–1997 | Boca Juniors | 111 | 63 |
+| 1982–1983 | Barcelona | 58 | 38 |
+| 1984–1990 | Napoli | 259 | 115 |
+| 1992 | Sevilla | 30 | 7 |
+| 1993 | Newell's Old Boys | 5 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -79,15 +70,32 @@ Maradona was the first player to set the world record transfer fee twice: in 198
 لعب كصانع ألعاب متقدم في المركز الكلاسيكي لصاحب الرقم 10، وهو أول لاعب في تاريخ كرة القدم يحطم الرقم القياسي العالمي لرسوم الانتقال مرتين، الأولى عندما انتقل إلى برشلونة مقابل رسوم انتقال قياسية آنذاك بلغت 5 ملايين جنيه إسترليني، والثاني عندما انتقل إلى نابولي مقابل رسوم انتقال قياسية أخرى بلغت 6.9 مليون جنيه إسترليني. [ 17 ] لعب مع أرجنتينوس جونيورز وبوكا جونيورز وبرشلونة ونابولي وإشبيلية ونيولز أولد بويز خلال مسيرته مع الأندية، واشتهر بفترته في نابولي وبرشلونة حيث حصل على العديد من الألقاب.
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي بوكا جونيورز: دوري الدرجة الأولى الأرجنتيني
+- مع النادي برشلونة: كأس ملك إسبانيا
+- مع النادي نابولي: الدوري الإيطالي
+- مع المنتخب الأرجنتين للشباب: كأس العالم تحت 20 سنة
+- مع المنتخب الأرجنتين: كأس العالم
+- الفردية: هداف الدوري الأرجنتيني
+- مع النادي برشلونة: كأس الدوري الإسباني
+- مع النادي برشلونة: كأس السوبر الإسباني
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 312
+- Senior national team goals total: 34
+- Senior career goals total: 346
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1976–1980 | أرجنتينوس جونيورز | 166 | 116 |
+| 1981–1997 | بوكا جونيورز | 111 | 63 |
+| 1982–1983 | برشلونة | 58 | 38 |
+| 1984–1990 | نابولي | 259 | 115 |
+| 1992 | إشبيلية | 29 | 8 |
+| 1993 | نيولز أولد بويز | 5 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1977–1979 | الأرجنتين تحت 20 | 15 | 8 |
+| 1977–1994 | الأرجنتين | 91 | 34 |

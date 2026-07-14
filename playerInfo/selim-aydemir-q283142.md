@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q283142
-- Generated At (UTC): 2026-07-13T08:56:49+00:00
+- Generated At (UTC): 2026-07-13T12:13:26+00:00
 - English Name: Selim Aydemir
 - Arabic Name: سليم أيدمير
 - Birth Year: 1990
@@ -70,12 +70,25 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 46
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 46
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008–2009 | [الإنجليزية] | 5 | 3 |
+| 2008–2009 | آينتراخت براونشفايغ | 4 | 0 |
+| 2009–2011 | هالشر | 47 | 7 |
+| 2011–2012 | كيمنتزر | 32 | 3 |
+| 2012–2014 | آلن | 5 | 0 |
+| 2014–2017 | Hallescher FC | 60 | 7 |
+| 2017–2018 | بي بي أرضروم سبور | 3 | 0 |
+| 2019 | سيليك زينيكا | 0 | 0 |
+| 2019 | [الإنجليزية] | 18 | 2 |
+| 2020 | مينمين سبور | 5 | 1 |
+| 2021 | Rot-Weiß Erfurt | 0 | 0 |
+| - | مجموع | 179 | 23 |
 
 ### Arabic National Team Stats
 _No rows found._

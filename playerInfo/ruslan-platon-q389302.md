@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q389302
-- Generated At (UTC): 2026-07-13T08:56:45+00:00
+- Generated At (UTC): 2026-07-13T12:13:22+00:00
 - English Name: Ruslan Platon
 - Arabic Name: رسلان بلاتون
 - Birth Year: 1982
@@ -72,12 +72,21 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 49
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 49
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000–2001 | نادي بوكوفينا تشيرنوفتسي | 39 | 3 |
+| 2001–2007 | كارباتي لفيف | 94 | 10 |
+| 2007–2009 | [الإنجليزية] | 30 | 3 |
+| 2008 | هوفيرلا أوجهورود [الإنجليزية] | 11 | 2 |
+| 2009–2012 | تافريا سيمفروبول | 47 | 8 |
+| 2012–2013 | نادي بوكوفينا تشيرنوفتسي | 18 | 13 |
+| 2013–2015 | ميتالوره زابورجيا | 39 | 8 |
+| 2016– | [الإنجليزية] | 11 | 2 |
 
 ### Arabic National Team Stats
 _No rows found._

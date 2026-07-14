@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q665400
-- Generated At (UTC): 2026-07-13T08:56:03+00:00
+- Generated At (UTC): 2026-07-13T12:12:32+00:00
 - English Name: Simon Colosimo
 - Arabic Name: سيمون كولوسيمو
 - Birth Year: 1979
@@ -34,14 +34,7 @@ Simon Colosimo (born 8 January 1979) is an Australian former professional soccer
 He spent two years playing in Europe with spells in the Premier League with Manchester City and in the Belgian First Division for Royal Antwerp . Aside a spells with Pahang FA in 2004 and Sivasspor in 2007, the rest of his career was spent in his native Australia notably in the A-League with South Melbourne , Perth Glory , Parramatta Power and Sydney FC . He also played for Carlton SC , Melbourne Heart , Dempo , Goulburn Valley Suns , Werribee City , Dandenong Thunder , Whittlesea Ranges , Bulleen Lions . He was capped 26 times by Australia , scoring three goals.
 
 ### English Achievements
-- With Perth Glory: NSL Championship
-- With Pahang FA: Malaysia Super League
-- With Sydney FC: A-League Premiership
-- With Australia: OFC Nations Cup
-- With Australia U-20: OFC U-19 Men's Championship
-- Individual [ edit ]: Joe Marston Medal
-- With Sydney FC: A-League Championship
-- Individual [ edit ]: Perth Glory Most Glorious Player Award
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 37
@@ -89,12 +82,35 @@ He spent two years playing in Europe with spells in the Premier League with Manc
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 74
+- Senior national team goals total: 3
+- Senior career goals total: 77
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997–2000 | [الإنجليزية] | 50 | 10 |
+| 2000–2001 | جنوب ملبورن | 18 | 2 |
+| 2001–2002 | مانشستر سيتي | 6 | 0 |
+| 2002 | رويال أنتويرب | 0 | 0 |
+| 2002–2003 | برث غلوري | 14 | 0 |
+| 2003–2004 | باراماتا باور [الإنجليزية] | 23 | 1 |
+| 2004 | نادي بهانغ [الإنجليزية] | 20 | 6 |
+| 2005–2008 | برث غلوري | 50 | 2 |
+| 2007 | سيفاسبور | 14 | 1 |
+| 2008–2010 | سيدني إف سي | 34 | 0 |
+| 2010–2013 | ملبورن سيتي | 63 | 1 |
+| 2013–2014 | ديمبو | 19 | 0 |
+| 2014 | [الإنجليزية] | 11 | 1 |
+| 2015 | [الإنجليزية] | 18 | 1 |
+| 2016–2017 | [الإنجليزية] | 48 | 10 |
+| 2018 | [الإنجليزية] | 14 | 2 |
+| 2018 | [الإنجليزية] | 13 | 0 |
+| - | مجموع | 415 | 37 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1996–1999 | أستراليا تحت 20 | 16 | 5 |
+| 1997–2000 | أستراليا تحت 23 | 14 | 0 |
+| 1998–2010 | أستراليا | 26 | 3 |

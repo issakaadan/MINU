@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q380690
-- Generated At (UTC): 2026-07-13T08:52:16+00:00
+- Generated At (UTC): 2026-07-13T12:08:53+00:00
 - English Name: Akira Kaji
 - Arabic Name: أكيرا كاجي
 - Birth Year: 1980
@@ -32,13 +32,7 @@
 Akira Kaji ( 加地 亮 , Kaji Akira ; born 13 January 1980) is a Japanese former professional footballer who played as a defender . He played for the Japan national team from 2003 until 2008.
 
 ### English Achievements
-- AFC Champions League – 2008
-- With Japan: AFC Asian Cup – 2004
-- Individual: J.League Best XI – 2006
-- Emperor's Cup – 2008 , 2009
-- J.League Cup – 2004 , 2007
-- Japanese Super Cup – 2007
-- With Japan: FIFA World Youth Championship – 1999 (Runner-up)
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 11
@@ -48,13 +42,11 @@ Akira Kaji ( 加地 亮 , Kaji Akira ; born 13 January 1980) is a Japanese forme
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1998–1999 | Cerezo Osaka | 24 | 0 |
-| 2000–2001 | Oita Trinita | 75 | 3 |
-| 2002–2005 | FC Tokyo | 89 | 1 |
-| 2006–2014 | Gamba Osaka | 225 | 2 |
-| 2014 | Chivas USA | 15 | 0 |
-| 2015–2017 | Fagiano Okayama | 86 | 1 |
-| Total | Total | 514 | 7 |
+| 1998–1999 | Cerezo Osaka | 26 | 1 |
+| 2000–2001 | Oita Trinita | 84 | 3 |
+| 2002–2005 | FC Tokyo | 110 | 1 |
+| 2006–2014 | Gamba Osaka | 298 | 5 |
+| 2015–2017 | Fagiano Okayama | 87 | 1 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -74,12 +66,23 @@ Akira Kaji ( 加地 亮 , Kaji Akira ; born 13 January 1980) is a Japanese forme
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 14
+- Senior national team goals total: 2
+- Senior career goals total: 16
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1998–1999 | سيريزو أوساكا | 24 | 0 |
+| 2000–2001 | أويتا ترينيتا | 75 | 3 |
+| 2002–2005 | طوكيو | 89 | 1 |
+| 2006–2014 | غامبا أوساكا | 225 | 2 |
+| 2014 | شيفاز يو إس أي | 15 | 0 |
+| 2015–2017 | فاغيانو أوكاياما | 86 | 1 |
+| - | مجموع | 514 | 7 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1998–1999 | اليابان تحت 20 | 8 | 1 |
+| 2003–2008 | اليابان | 64 | 2 |

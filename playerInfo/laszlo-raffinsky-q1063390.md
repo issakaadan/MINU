@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1063390
-- Generated At (UTC): 2026-07-13T08:55:52+00:00
+- Generated At (UTC): 2026-07-13T12:12:20+00:00
 - English Name: László Raffinsky
 - Arabic Name: لازلو رافينسكي
 - Birth Year: 1905
@@ -32,10 +32,7 @@
 László Raffinsky ( Romanian : Ladislau Rafinski ; 23 April 1905 – 31 July 1981) was a Romanian football player of Hungarian ethnicity who was a member of the Romanian team that participated at the 1930 FIFA World Cup in Uruguay and the 1938 edition of the same competition held in France . He holds the record of most goals scored in a Romanian first league match, having netted ten goals for Juventus București against Dacia Unirea Brăila in the 1929–30 season.
 
 ### English Achievements
-- With Juventus București: Divizia A
-- With Ripensia Timișoara: Divizia A
-- With Rapid București: Cupa României
-- With Romania: Balkan Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 50
@@ -70,12 +67,21 @@ László Raffinsky ( Romanian : Ladislau Rafinski ; 23 April 1905 – 31 July 19
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 246
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 246
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1924–1925 | Unirea Timișoara | 11 | 0 |
+| 1925–1927 | [الإنجليزية] | 36 | 5 |
+| 1927–1929 | تشينزول تيميشوارا | 40 | 27 |
+| 1929–1931 | بترولول بلويشتي | 57 | 26 |
+| 1931–1933 | ريبنسيا تيميشوارا | 45 | 18 |
+| 1933–1935 | زبرويوفكا برنو | 38 | 6 |
+| 1935–1940 | رابيد بوخارست | 103 | 41 |
+| - | مجموع | 330 | 123 |
 
 ### Arabic National Team Stats
 _No rows found._

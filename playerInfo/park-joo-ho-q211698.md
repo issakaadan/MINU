@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q211698
-- Generated At (UTC): 2026-07-13T08:54:51+00:00
+- Generated At (UTC): 2026-07-13T12:11:20+00:00
 - English Name: Park Joo-ho
 - Arabic Name: باك جو هو
 - Birth Year: 1987
@@ -32,14 +32,7 @@
 Park Joo-ho ( Korean : 박주호 ; Korean pronunciation: [pak̚.t͈ɕu.ɦo] or [pak̚] [tɕu.ɦo] ; born 16 January 1987) is a South Korean former football player who usually played defender . A versatile player, he primarily played left-back but also in the midfield as a defensive or wide midfielder .
 
 ### English Achievements
-- With Kashima Antlers: J1 League
-- With Júbilo Iwata: J.League Cup
-- With Basel: Swiss Super League
-- With Borussia Dortmund: DFB-Pokal
-- With Ulsan Hyundai: AFC Champions League
-- With South Korea: AFC Asian Cup runner-up
-- Individual: K League All-Star
-- With Basel: Swiss Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 6
@@ -49,16 +42,15 @@ Park Joo-ho ( Korean : 박주호 ; Korean pronunciation: [pak̚.t͈ɕu.ɦo] or [
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2008 | Mito HollyHock | 24 | 0 |
-| 2009 | Kashima Antlers | 19 | 0 |
-| 2010–2011 | Júbilo Iwata | 34 | 2 |
-| 2011–2013 | FC Basel | 47 | 1 |
-| 2013–2015 | Mainz 05 | 44 | 1 |
-| 2015–2017 | Borussia Dortmund | 7 | 0 |
-| 2017 | Borussia Dortmund II | 6 | 0 |
-| 2018–2020 | Ulsan Hyundai | 52 | 0 |
+| 2008 | Mito HollyHock | 26 | 0 |
+| 2009 | Kashima Antlers | 28 | 0 |
+| 2010–2011 | Júbilo Iwata | 39 | 3 |
+| 2011–2012 | Basel | 77 | 1 |
+| 2013–2015 | Mainz 05 | 50 | 1 |
+| 2015–2016 | Borussia Dortmund | 11 | 1 |
+| 2016–2017 | Borussia Dortmund II | 6 | 0 |
+| 2018–2020 | Ulsan Hyundai | 74 | 0 |
 | 2021–2023 | Suwon FC | 75 | 0 |
-| Total | Total | 308 | 4 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -79,12 +71,22 @@ Park Joo-ho ( Korean : 박주호 ; Korean pronunciation: [pak̚.t͈ɕu.ɦo] or [
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 4
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 4
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008 | ميتو هوليهوك | 24 | 0 |
+| 2009 | كاشيما أنتلرز | 19 | 0 |
+| 2010–2011 | جوبيلو إيواتا | 34 | 2 |
+| 2011–2013 | بازل | 47 | 1 |
+| 2013–2015 | ماينتس 05 | 44 | 1 |
+| 2015–2017 | بوروسيا دورتموند | 7 | 0 |
+| 2017 | بوروسيا دورتموند ب | 6 | 0 |
+| 2018–2020 | أولسان هيونداي | 52 | 0 |
+| 2021– | سوون | 61 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

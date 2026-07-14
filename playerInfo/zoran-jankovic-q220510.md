@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q220510
-- Generated At (UTC): 2026-07-13T08:56:08+00:00
+- Generated At (UTC): 2026-07-13T12:12:36+00:00
 - English Name: Zoran Janković
 - Arabic Name: زوران يانكوفيتش
 - Birth Year: 1974
@@ -57,12 +57,24 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 252
+- Senior national team goals total: 2
+- Senior career goals total: 254
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1996–1998 | [الإنجليزية] | 43 | 22 |
+| 1998–2000 | فويفودينا | 44 | 16 |
+| 2000–2002 | ليتكس لوفتش | 42 | 26 |
+| 2002–2007 | داليان شيده | 113 | 50 |
+| 2004 | ليتكس لوفتش | 13 | 2 |
+| 2007–2008 | ليتكس لوفتش | 9 | 1 |
+| 2008–2009 | أثنيكس أشنة [الإنجليزية] | 6 | 1 |
+| 2009–2011 | [الإنجليزية] | 34 | 8 |
+| - | مجموع | 304 | 126 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2007 | بلغاريا | 30 | 2 |

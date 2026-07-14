@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q354907
-- Generated At (UTC): 2026-07-13T08:56:39+00:00
+- Generated At (UTC): 2026-07-13T12:13:15+00:00
 - English Name: Marco Schneuwly
 - Arabic Name: ماركو شنويلي
 - Birth Year: 1985
@@ -34,7 +34,7 @@ Marco Schneuwly (born 27 March 1985) is a Swiss footballer who plays as a strike
 He is a former youth international and was in the Swiss U-17 squad that won the 2002 U-17 European Championships . [ 3 ]
 
 ### English Achievements
-- UEFA U-17 European Champion
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 116
@@ -71,12 +71,24 @@ He is a former youth international and was in the Swiss U-17 squad that won the 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 116
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 116
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001–2002 | فرايبورغ | 3 | 0 |
+| 2004–2012 | يانغ بويز | 119 | 19 |
+| 2006 | سيون | 14 | 4 |
+| 2006–2007 | كرينز | 32 | 9 |
+| 2012–2014 | ثون | 79 | 29 |
+| 2014–2017 | لوزيرن | 105 | 47 |
+| 2017–2018 | سيون | 32 | 7 |
+| 2018– | آراو | 11 | 1 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004–2007 | سويسرا تحت 20 | 5 | 0 |
+| 2005–2007 | سويسرا تحت 21 | 2 | 0 |

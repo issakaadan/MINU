@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q298305
-- Generated At (UTC): 2026-07-13T08:52:49+00:00
+- Generated At (UTC): 2026-07-13T12:09:24+00:00
 - English Name: Jorge Valdano
 - Arabic Name: خورخي فالدانو
 - Birth Year: 1955
@@ -36,14 +36,7 @@ With the Argentina national team , Valdano took part at the 1975 Copa América a
 Although he initially played for Newell's Old Boys , Alavés and Real Zaragoza , his most successful period at club level was at Real Madrid, where he won La Liga twice, the Copa de la Liga and two UEFA Cups . As a manager, he coached Spanish sides Tenerife , Real Madrid and Valencia . Considered a benchmark for the way he addressed various football clubs, Valdano participated in 2013 at the World Leadership Forum and in the World Business Forum in Mexico City , where he associated the world of sports and business behind it, where he listed the 11 powers of leadership, based on his last book.
 
 ### English Achievements
-- With Newell's Old Boys: Argentine Primera División
-- With Real Madrid: La Liga
-- With Argentina Youth: Toulon Tournament
-- With Argentina: FIFA World Cup
-- Awards: Copa del Rey Top Scorer
-- With Real Madrid: Copa de la Liga
-- With Real Madrid: UEFA Cup
-- Awards: La Liga Foreign Player of the Year
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 163
@@ -53,11 +46,10 @@ Although he initially played for Newell's Old Boys , Alavés and Real Zaragoza ,
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1973–1975 | Newell's Old Boys | 46 | 11 |
-| 1975–1979 | Alavés | 105 | 20 |
-| 1979–1984 | Real Zaragoza | 143 | 46 |
-| 1984–1987 | Real Madrid | 85 | 40 |
-| Total | Total | 379 | 117 |
+| 1973–1975 | Newell's Old Boys | 50 | 14 |
+| 1975–1978 | Alavés | 121 | 22 |
+| 1979–1983 | Real Zaragoza | 172 | 71 |
+| 1984–1986 | Real Madrid | 120 | 56 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -80,12 +72,20 @@ Although he initially played for Newell's Old Boys , Alavés and Real Zaragoza ,
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 234
+- Senior national team goals total: 7
+- Senior career goals total: 241
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1973–1975 | نيولز أولد بويز | 46 | 11 |
+| 1975–1979 | ديبورتيفو ألافيس | 105 | 20 |
+| 1979–1984 | ريال سرقسطة | 143 | 46 |
+| 1984–1987 | ريال مدريد | 85 | 40 |
+| - | مجموع | 379 | 117 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1975–1990 | الأرجنتين | 23 | 7 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q279950
-- Generated At (UTC): 2026-07-13T08:55:58+00:00
+- Generated At (UTC): 2026-07-13T12:12:27+00:00
 - English Name: Rauf Aliyev
 - Arabic Name: رؤوف علييف
 - Birth Year: 1989
@@ -32,10 +32,7 @@
 Rauf Sahraman oğlu Aliyev ( Azerbaijani : Rauf Səhraman oğlu Əliyev , born 12 February 1989) is an Azerbaijani former international footballer who played as a striker . He made his national debut in an away friendly match against Jordan on 25 February 2010. [ 2 ]
 
 ### English Achievements
-- With Club [ edit ]: Azerbaijan Cup
-- Individual [ edit ]: Azerbaijani Footballer of the Year
-- Individual [ edit ]: APL Best Forward
-- Individual [ edit ]: Azerbaijan Premier League Top Scorer (1)
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 73
@@ -45,17 +42,14 @@ Rauf Sahraman oğlu Aliyev ( Azerbaijani : Rauf Səhraman oğlu Əliyev , born 1
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2006–2013 | Qarabağ | 131 | 23 |
-| 2013–2014 | Baku | 38 | 11 |
-| 2014–2015 | Khazar Lankaran | 12 | 3 |
-| 2015 | Neftçi | 11 | 0 |
-| 2015–2017 | Inter Baku | 36 | 12 |
-| 2017 | Kukësi | 13 | 3 |
-| 2018–2019 | Gabala | 23 | 4 |
-| 2019 | Neftçi | 9 | 1 |
-| 2020–2022 | Sabail | 41 | 4 |
-| 2022–2023 | Kapaz | 4 | 0 |
-| Total | Total | 318 | 61 |
+| 2006–2012 | Qarabağ | 157 | 29 |
+| 2012–2013 | Baku | 42 | 11 |
+| 2014 | Khazar Lankaran | 12 | 3 |
+| 2014–2019 | Neftçi | 28 | 2 |
+| 2015–2017 | Inter Baku | 51 | 17 |
+| 2017 | Kukësi | 17 | 4 |
+| 2018 | Gabala | 30 | 4 |
+| 2019 | Sabail | 5 | 3 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -77,12 +71,28 @@ Rauf Sahraman oğlu Aliyev ( Azerbaijani : Rauf Səhraman oğlu Əliyev , born 1
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 61
+- Senior national team goals total: 7
+- Senior career goals total: 68
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006–2013 | قره باغ | 131 | 23 |
+| 2013–2014 | باكو | 38 | 11 |
+| 2014–2015 | خزر لنكران | 12 | 3 |
+| 2015 | نيفتشي باكو | 11 | 0 |
+| 2015–2017 | كشله | 36 | 12 |
+| 2017 | كوكسي | 13 | 3 |
+| 2018–2019 | قبله | 23 | 4 |
+| 2019 | نيفتشي باكو | 9 | 1 |
+| 2020–2022 | سابيل | 41 | 4 |
+| 2022- | كاباز | 4 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005 | أذربيجان تحت 17 | 2 | 0 |
+| 2007–2008 | أذربيجان تحت 19 | 6 | 0 |
+| 2009 | أذربيجان تحت 21 | 2 | 0 |
+| 2010– | أذربيجان | 46 | 7 |

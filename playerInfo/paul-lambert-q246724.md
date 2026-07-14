@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q246724
-- Generated At (UTC): 2026-07-13T08:54:56+00:00
+- Generated At (UTC): 2026-07-13T12:11:24+00:00
 - English Name: Paul Lambert
 - Arabic Name: بول لامبيرت
 - Birth Year: 1969
@@ -36,14 +36,7 @@ Lambert played as a midfielder and won the Scottish Cup in 1987 with St Mirren a
 Lambert had success managing Wycombe Wanderers . After a short spell managing Colchester United , he guided Norwich City into the English Premier League with successive promotions in 2009–10 and 2010–11. After keeping Norwich in the Premier League in 2011–12, he managed Aston Villa for three seasons. Lambert was appointed Blackburn Rovers manager in November 2015, before leaving the club in May 2016. Lambert became head coach of Wolverhampton Wanderers in November 2016 but was dismissed at the end of the season. [ 3 ]
 
 ### English Achievements
-- With St Mirren: Scottish Cup
-- With Borussia Dortmund: UEFA Champions League
-- With Celtic: Scottish Premier Division / Scottish Premier League
-- Individual: Motherwell Player of the Year
-- With Norwich City: Football League One
-- Individual: Football League One Manager of the Month
-- With Celtic: Scottish Cup
-- With Celtic: Scottish League Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 41
@@ -53,12 +46,11 @@ Lambert had success managing Wycombe Wanderers . After a short spell managing Co
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1986–1993 | St Mirren | 227 | 14 |
-| 1993–1996 | Motherwell | 103 | 6 |
-| 1996–1997 | Borussia Dortmund | 44 | 1 |
-| 1997–2005 | Celtic | 193 | 14 |
-| 2005–2006 | Livingston | 7 | 0 |
-| Total | Total | 574 | 35 |
+| 1985–1993 | St Mirren | 231 | 14 |
+| 1993–1995 | Motherwell | 108 | 6 |
+| 1996–1997 | Borussia Dortmund | 64 | 2 |
+| 1997–2004 | Celtic | 273 | 19 |
+| 2005 | Livingston | 10 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -80,12 +72,24 @@ Lambert had success managing Wycombe Wanderers . After a short spell managing Co
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 70
+- Senior national team goals total: 1
+- Senior career goals total: 71
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1986–1993 | سانت ميرين | 227 | 14 |
+| 1993–1996 | نادي مذرويل | 103 | 6 |
+| 1996–1997 | بوروسيا دورتموند | 44 | 1 |
+| 1997–2005 | سلتيك | 193 | 14 |
+| 2005–2006 | ليفينغستون | 7 | 0 |
+| - | مجموع | 574 | 35 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1990 | رابطة كرة القدم الاسكتلندية الحادية عشر [لغات أخرى] | 1 | 0 |
+| 1991–1992 | اسكتلندا تحت 21 | 5 | 2 |
+| 1995–1996 | منتخب اسكتلندا لكرة القدم الرديف [ 3 ] | 2 | 0 |
+| 1995–2003 | اسكتلندا | 40 | 1 |

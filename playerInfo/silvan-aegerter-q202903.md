@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q202903
-- Generated At (UTC): 2026-07-13T08:56:49+00:00
+- Generated At (UTC): 2026-07-13T12:13:26+00:00
 - English Name: Silvan Aegerter
 - Arabic Name: سيلفان اجيرتر
 - Birth Year: 1980
@@ -63,12 +63,18 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 24
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 24
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001–2007 | ثون | 154 | 10 |
+| 2007–2012 | زيورخ | 129 | 12 |
+| 2012–2014 | لوغانو | 32 | 1 |
+| 2014 | [الإنجليزية] | 8 | 0 |
+| 2014–2017 | [الإنجليزية] | 52 | 1 |
 
 ### Arabic National Team Stats
 _No rows found._

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1036480
-- Generated At (UTC): 2026-07-13T08:55:20+00:00
+- Generated At (UTC): 2026-07-13T12:11:49+00:00
 - English Name: Carl-Erik Holmberg
 - Arabic Name: كارل إريك هولمبيرغ
 - Birth Year: 1906
@@ -64,11 +64,13 @@ _No honours section found._
 
 ### Arabic Career Totals
 - Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior national team goals total: 8
+- Senior career goals total: 8
 
 ### Arabic Club Career Stats
 _No rows found._
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1926–1932 | السويد | 14 | 8 |

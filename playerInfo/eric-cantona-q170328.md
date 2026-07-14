@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q170328
-- Generated At (UTC): 2026-07-13T08:52:05+00:00
+- Generated At (UTC): 2026-07-13T12:08:44+00:00
 - English Name: Eric Cantona
 - Arabic Name: إيريك كانتونا
 - Birth Year: 1966
@@ -34,14 +34,7 @@ Eric Daniel Pierre Cantona ( French : Éric ; [ 4 ] pronounced [e.ʁik dan.jɛl 
 Cantona played for Auxerre , Martigues , Marseille , Bordeaux , Montpellier , Nîmes and Leeds United , before ending his career at Manchester United , with whom he won four Premier League titles in five years, including two League and FA Cup Doubles . He wore the iconic number 7 shirt at Manchester United and was known for turning up his collar. He is affectionately nicknamed "King Eric" by Manchester United fans. Cantona won league championships in England and France in seven of his last eight full seasons as a professional, and at least one trophy in eight of his last nine. At international level, he played for the France national team and scored 20 goals in 45 matches. He appeared at UEFA Euro 1992 and, in preparation for Euro 96 , was appointed captain in 1994.
 
 ### English Achievements
-- With Auxerre: Cup of the Alps
-- With Marseille: Division 1
-- With Montpellier: Coupe de France
-- With Leeds United: Football League First Division
-- With Manchester United: Premier League
-- With France: Kirin Cup
-- With France Beach: Euro Beach Soccer League
-- Individual: Division 1 Rookie of the Year
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 165
@@ -51,16 +44,14 @@ Cantona played for Auxerre , Martigues , Marseille , Bordeaux , Montpellier , N�
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1983–1988 | Auxerre | 82 | 23 |
-| 1985–1986 | Martigues | 15 | 4 |
-| 1988–1991 | Marseille | 40 | 13 |
-| 1989 | Bordeaux | 11 | 6 |
-| 1989–1990 | Montpellier | 33 | 10 |
-| 1991–1992 | Nîmes | 16 | 2 |
-| 1992 | Leeds United | 11 | 3 |
-| 1992 | Leeds United | 17 | 6 |
-| 1992–1997 | Manchester United | 143 | 64 |
-| Total | Total | 368 | 131 |
+| 1983–1987 | Auxerre | 94 | 29 |
+| 1985 | Martigues (loan) | 15 | 4 |
+| 1988–1990 | Marseille | 43 | 14 |
+| 1988 | Bordeaux (loan) | 12 | 6 |
+| 1989 | Montpellier (loan) | 39 | 14 |
+| 1991 | Nîmes | 16 | 2 |
+| 1991–1992 | Leeds United | 35 | 14 |
+| 1992–1996 | Manchester United | 185 | 82 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -79,12 +70,21 @@ Cantona played for Auxerre , Martigues , Marseille , Bordeaux , Montpellier , N�
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 131
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 131
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1983–1988 | أوكسير | 82 | 23 |
+| 1985–1986 | مارتيغ إعارة | 15 | 4 |
+| 1988–1991 | باريس سان جيرمان | 40 | 13 |
+| 1989–1989 | جيروندان بوردو إعارة | 11 | 6 |
+| 1989–1990 | مونبلييه إعارة | 33 | 10 |
+| 1991–1991 | نيم أولمبيك | 17 | 2 |
+| 1992–1997 | مانشستر يونايتد | 143 | 64 |
+| 1992–1992 | ليدز يونايتد | 28 | 9 |
 
 ### Arabic National Team Stats
 _No rows found._

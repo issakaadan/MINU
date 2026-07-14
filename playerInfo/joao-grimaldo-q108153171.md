@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q108153171
-- Generated At (UTC): 2026-07-13T08:51:46+00:00
+- Generated At (UTC): 2026-07-13T12:08:29+00:00
 - English Name: Joao Grimaldo
 - Arabic Name: جواو جريمالدو
 - Birth Year: 2003
@@ -42,10 +42,10 @@ _No honours section found._
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2020–2024 | Sporting Cristal | 89 | 14 |
-| 2024–2026 | Partizan | 5 | 0 |
-| 2025 | Riga | 27 | 4 |
-| 2026– | Sparta Prague | 11 | 1 |
+| 2020–2024 | Sporting Cristal | 103 | 15 |
+| 2024 | Partizan | 10 | 0 |
+| 2025 | Riga (loan) | 36 | 5 |
+| 2025 | Sparta Prague | 7 | 1 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -66,12 +66,16 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 5
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 5
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2024–2026 | بارتيزان | 5 | 0 |
+| 2025–2025 | ريغا إعارة | 27 | 4 |
+| 2026– | سبارتا براغ | 4 | 1 |
 
 ### Arabic National Team Stats
 _No rows found._

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q316573
-- Generated At (UTC): 2026-07-13T08:54:51+00:00
+- Generated At (UTC): 2026-07-13T12:11:20+00:00
 - English Name: Paolo De Ceglie
 - Arabic Name: باولو دي تشيليي
 - Birth Year: 1986
@@ -34,31 +34,22 @@ Paolo De Ceglie ( Italian pronunciation: [ˈpaːolo de ˈtʃɛʎʎe] ; born 17 S
 He spent most of his career with Italian club Juventus , where he won three Serie A titles, among other trophies, but also had loan spells with other Italian teams, as well as a stint with French side Marseille . In his prime, he was known for his pace, and was considered one of the fastest players in Serie A in 2010. [ 1 ]
 
 ### English Achievements
-- With Juventus Primavera: Campionato Nazionale Primavera
-- With Juventus: Serie A
-- With Italy U21: UEFA European Under-21 Championship bronze
-- With Juventus Primavera: Super Coppa Primavera
-- With Juventus Primavera: Torneo di Viareggio
-- With Juventus: Serie B
-- With Juventus: Supercoppa Italiana
-- With Juventus: Coppa Italia
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 10
-- Senior national team goals total: Unavailable
+- Senior national team goals total: 0
 - Senior career goals total: 10
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2006–2017 | Juventus | 100 | 2 |
-| 2007–2008 | Siena | 29 | 2 |
-| 2013–2014 | Genoa | 12 | 1 |
-| 2014–2015 | Parma | 11 | 3 |
-| 2015–2016 | Marseille | 7 | 0 |
-| 2018 | Servette | 11 | 2 |
-| 2020 | Miami Beach | 1 | 0 |
-| Total | Total | 171 | 10 |
+| 2007 | Siena (loan) | 29 | 2 |
+| 2006–2016 | Juventus | 124 | 2 |
+| 2013 | Genoa (loan) | 12 | 1 |
+| 2014 | Parma (loan) | 12 | 3 |
+| 2015 | Marseille (loan) | 12 | 0 |
+| 2017 | Servette | 13 | 2 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -78,12 +69,20 @@ He spent most of his career with Italian club Juventus , where he won three Seri
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 10
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 10
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006–2017 | يوفنتوس | 100 | 2 |
+| 2007–2008 | سيينا | 29 | 2 |
+| 2013–2014 | جنوى | 12 | 1 |
+| 2014–2015 | بارما | 11 | 3 |
+| 2015–2016 | أولمبيك مارسيليا | 7 | 0 |
+| 2018 | سيرفيت | 11 | 2 |
+| 2020 | Miami Beach CF | 1 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

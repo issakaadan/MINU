@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q204163
-- Generated At (UTC): 2026-07-13T08:56:48+00:00
+- Generated At (UTC): 2026-07-13T12:13:24+00:00
 - English Name: Sebastian Hofmann
 - Arabic Name: سيباستيان هوفمان
 - Birth Year: 1983
@@ -35,9 +35,9 @@ Sebastian Hofmann (born 12 September 1983) is a former professional footballer w
 _No honours section found._
 
 ### English Career Totals
-- Club goals total: 29
+- Club goals total: 8
 - Senior national team goals total: Unavailable
-- Senior career goals total: 29
+- Senior career goals total: 8
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
@@ -63,12 +63,20 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 31
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 31
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2003–2006 | نادي هوفنهايم ب [الإنجليزية] | 35 | 3 |
+| 2003–2006 | هوفنهايم | 17 | 4 |
+| 2006–2010 | شتوتغارت للرديف | 71 | 18 |
+| 2010–2011 | إنغولشتات 04 | 14 | 3 |
+| 2011–2013 | يان ريغينسبورغ | 11 | 1 |
+| 2013–2015 | نادي نوتنغن [الإنجليزية] | 53 | 5 |
+| 2015– | GSV Maichingen | 0 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

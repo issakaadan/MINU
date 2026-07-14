@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q670545
-- Generated At (UTC): 2026-07-13T08:55:42+00:00
+- Generated At (UTC): 2026-07-13T12:12:10+00:00
 - English Name: Jacky Munaron
 - Arabic Name: جاكي مونارون
 - Birth Year: 1956
@@ -36,14 +36,7 @@ As a young player, Munaron started as the keeper of the youth team of FC Dinant,
 Over there, he was only a substitute player, as Jan Ruiter , the Dutch keeper of Anderlecht, was the first choice of the trainer. Also later, when Anderlecht bought Nico de Bree , another Dutch player of RWDM, Munaron was a substitute player.
 
 ### English Achievements
-- With Player [ edit ]: Belgian First Division
-- With RFC Liège [ edit ]: Belgian Cup
-- With Standard de Liège [ edit ]: Belgian Cup
-- With Goalkeeper coach [ edit ]: Kampioen van België – Champion de Belgique – Belgian Champion 2000, 2001, 2004, 2006, 2007 (RSC Anderlecht)
-- With Player [ edit ]: Belgian Cup
-- With Player [ edit ]: Belgian Supercup
-- With Player [ edit ]: European Cup Winners' Cup
-- With Player [ edit ]: European Super Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 0
@@ -78,12 +71,20 @@ Over there, he was only a substitute player, as Jan Ruiter , the Dutch keeper of
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 0
+- Senior national team goals total: 0
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1973–1974 | F.C. Dinant | 0 | 0 |
+| 1974–1989 | رويال أندرلخت | 293 | 0 |
+| 1989–1992 | لييج | 27 | 0 |
+| 1992–1994 | ستاندارد لييج | 5 | 0 |
+| - | مجموع | 325 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1982–1986 | بلجيكا | 8 | 0 |

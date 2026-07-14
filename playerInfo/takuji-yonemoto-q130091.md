@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q130091
-- Generated At (UTC): 2026-07-13T08:53:46+00:00
+- Generated At (UTC): 2026-07-13T12:10:23+00:00
 - English Name: Takuji Yonemoto
 - Arabic Name: تاكوجي يونيموتو
 - Birth Year: 1990
@@ -32,10 +32,7 @@
 Takuji Yonemoto ( 米本 拓司 , Yonemoto Takuji ; born 3 December 1990) is a Japanese footballer who plays as defensive midfielder for J1 League club Kyoto Sanga . [ 1 ] [ 2 ]
 
 ### English Achievements
-- J2 League
-- J.League Cup MVP
-- J.League Cup
-- J. League Cup New Hero Award
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 10
@@ -45,12 +42,9 @@ Takuji Yonemoto ( 米本 拓司 , Yonemoto Takuji ; born 3 December 1990) is a J
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2009–2018 | FC Tokyo | 215 | 5 |
-| 2017 | FC Tokyo U-23 | 13 | 0 |
-| 2019–2025 | Nagoya Grampus | 122 | 1 |
-| 2022 | Shonan Bellmare | 27 | 0 |
-| 2024–2025 | Kyoto Sanga | 11 | 0 |
-| 2025– | Kyoto Sanga | 17 | 2 |
+| 2009–2018 | FC Tokyo | 284 | 9 |
+| 2019–2021 | Nagoya Grampus | 98 | 1 |
+| 2022 | Shonan Bellmare (loan) | 34 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -70,12 +64,16 @@ Takuji Yonemoto ( 米本 拓司 , Yonemoto Takuji ; born 3 December 1990) is a J
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 6
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 6
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009–2018 | طوكيو | 215 | 5 |
+| 2017 | [الإنجليزية] | 13 | 0 |
+| 2019– | ناغويا غرامبوس | 83 | 1 |
 
 ### Arabic National Team Stats
 _No rows found._

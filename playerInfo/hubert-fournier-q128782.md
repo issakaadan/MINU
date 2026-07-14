@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q128782
-- Generated At (UTC): 2026-07-13T08:55:40+00:00
+- Generated At (UTC): 2026-07-13T12:12:09+00:00
 - English Name: Hubert Fournier
 - Arabic Name: هوبيرت فورنير
 - Birth Year: 1967
@@ -32,7 +32,7 @@
 Hubert Fournier ( French pronunciation: [ybɛʁ fuʁnje] ; born 3 September 1967) is a French football manager and former player who most recently managed Lyon . He formerly managed Reims between 2010 and 2014, Gueugnon in 2008 and was an assistant coach at Stade de Reims from 2009 to 2010. [ 2 ]
 
 ### English Achievements
-- Individual: Onze d'Or Coach of the Year
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 5
@@ -64,12 +64,19 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 5
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 5
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1989–1993 | كاين | 97 | 2 |
+| 1993–1996 | غانغون | 118 | 1 |
+| 1996–1998 | بوروسيا مونشنغلادباخ | 36 | 0 |
+| 1998–2000 | أولمبيك ليون | 58 | 0 |
+| 2000–2002 | غانغون | 63 | 1 |
+| 2002–2004 | روان | 58 | 1 |
 
 ### Arabic National Team Stats
 _No rows found._

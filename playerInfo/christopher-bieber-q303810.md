@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q303810
-- Generated At (UTC): 2026-07-13T08:56:17+00:00
+- Generated At (UTC): 2026-07-13T12:12:45+00:00
 - English Name: Christopher Bieber
 - Arabic Name: كريستوفر بايبر
 - Birth Year: 1989
@@ -37,9 +37,9 @@ Bieber made his debut for Karlsruher SC on 5 February 2010, in a 2–1 away defe
 _No honours section found._
 
 ### English Career Totals
-- Club goals total: 94
+- Club goals total: 90
 - Senior national team goals total: Unavailable
-- Senior career goals total: 94
+- Senior career goals total: 90
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |

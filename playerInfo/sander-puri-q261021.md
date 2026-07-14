@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q261021
-- Generated At (UTC): 2026-07-13T08:56:02+00:00
+- Generated At (UTC): 2026-07-13T12:12:30+00:00
 - English Name: Sander Puri
 - Arabic Name: ساندر بوري
 - Birth Year: 1988
@@ -32,36 +32,30 @@
 Sander Puri (born 7 May 1988) is an Estonian former professional footballer who played as a midfielder . He played for the Estonia national team .
 
 ### English Achievements
-- With FCI Levadia Tallinn: Meistriliiga
-- With Waterford: League of Ireland First Division
-- Individual: Estonian Silverball
-- With FCI Levadia Tallinn: Estonian Cup
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 96
+- Club goals total: 59
 - Senior national team goals total: 4
-- Senior career goals total: 100
+- Senior career goals total: 63
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
 | 2004 | Tartu SK 10 | 18 | 12 |
-| 2005–2009 | Levadia | 73 | 24 |
 | 2005–2009 | Levadia U21 | 66 | 27 |
-| 2007 | Tulevik | 14 | 4 |
-| 2010–2012 | Larissa | 21 | 1 |
-| 2011 | Korona Kielce | 8 | 1 |
-| 2011–2012 | Pápa | 12 | 0 |
-| 2012 | KuPS | 19 | 2 |
-| 2013 | St Mirren | 3 | 0 |
-| 2013–2014 | York City | 8 | 0 |
-| 2015 | Sligo Rovers | 27 | 4 |
-| 2016 | Karviná | 9 | 2 |
-| 2016 | Nõmme Kalju | 13 | 2 |
-| 2017–2018 | Waterford | 35 | 5 |
-| 2019–2020 | Nõmme Kalju | 48 | 9 |
-| 2021 | TJK Legion | 25 | 2 |
-| 2022–2023 | Tartu Tammeka | 56 | 1 |
+| 2005–2009 | Levadia | 87 | 25 |
+| 2007 | Tulevik (loan) | 14 | 4 |
+| 2009–2010 | Larissa | 23 | 1 |
+| 2010 | Korona Kielce (loan) | 8 | 1 |
+| 2011 | Pápa (loan) | 14 | 1 |
+| 2012 | KuPS | 28 | 4 |
+| 2012 | St Mirren | 3 | 0 |
+| 2013 | York City | 11 | 0 |
+| 2015 | Sligo Rovers | 30 | 5 |
+| 2015 | Karviná | 9 | 2 |
+| 2016 | Nõmme Kalju | 14 | 2 |
+| 2017–2018 | Waterford | 17 | 2 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -81,12 +75,31 @@ Sander Puri (born 7 May 1988) is an Estonian former professional footballer who 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 95
+- Senior national team goals total: 4
+- Senior career goals total: 99
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004 | [الإنجليزية] | 18 | 12 |
+| 2005–2009 | ليفاديا تالين | 73 | 24 |
+| 2005–2009 | [الإنجليزية] | 66 | 27 |
+| 2007 | [الإنجليزية] | 14 | 4 |
+| 2010–2012 | لاريسا | 21 | 1 |
+| 2011 | كورونا كييلتسى | 8 | 1 |
+| 2011–2012 | [الإنجليزية] | 12 | 0 |
+| 2012 | كووبيون بالوسيورا | 19 | 2 |
+| 2013 | سانت ميرين | 3 | 0 |
+| 2013–2014 | يورك سيتي | 8 | 0 |
+| 2015 | سليغو روفرز | 27 | 4 |
+| 2016 | [الإنجليزية] | 9 | 2 |
+| 2016 | نوم كاليو | 13 | 2 |
+| 2017–2018 | ووترفورد يونايتد | 35 | 5 |
+| 2019–2020 | نوم كاليو | 48 | 9 |
+| 2021 | [الإنجليزية] | 25 | 2 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008– | إستونيا | 92 | 4 |

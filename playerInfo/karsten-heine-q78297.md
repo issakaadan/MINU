@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q78297
-- Generated At (UTC): 2026-07-13T08:56:33+00:00
+- Generated At (UTC): 2026-07-13T12:13:08+00:00
 - English Name: Karsten Heine
 - Arabic Name: كارستن هايني
 - Birth Year: 1955

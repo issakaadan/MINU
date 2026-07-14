@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q315689
-- Generated At (UTC): 2026-07-13T08:54:00+00:00
+- Generated At (UTC): 2026-07-13T12:10:32+00:00
 - English Name: Andrés Scotti
 - Arabic Name: أندريس سكوتي
 - Birth Year: 1975
@@ -32,10 +32,7 @@
 Andrés Scotti Ponce de León (born 14 December 1975) is a Uruguayan former professional footballer who played as centre-back and rarely as left-back . Between 2006 and 2013, he made 40 appearances and scored one goal for the Uruguay national team .
 
 ### English Achievements
-- With Necaxa: FIFA Club World Cup
-- With Nacional: Uruguayan Primera División
-- With Uruguay: Copa América
-- With Uruguay: FIFA World Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 48
@@ -75,12 +72,25 @@ Andrés Scotti Ponce de León (born 14 December 1975) is a Uruguayan former prof
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 96
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 96
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997 | مونتيفيديو واندررز | 12 | 1 |
+| 1998–1999 | هواتشيباتو | 52 | 6 |
+| 2000 | نيكاكسا | 34 | 4 |
+| 2000 | بويبلا | 17 | 0 |
+| 2001 | مونتيفيديو واندررز | 38 | 3 |
+| 2002 | ناسيونال مونتيفيديو | 33 | 5 |
+| 2003–2006 | روبين قازان | 108 | 12 |
+| 2007–2009 | أرجنتينوس جونيورز | 78 | 3 |
+| 2010–2011 | كولو-كولو | 47 | 7 |
+| 2012–2014 | ناسيونال مونتيفيديو | 46 | 6 |
+| 2014–2015 | ديفينسور سبورتينغ | 23 | 1 |
+| - | مجموع | 488 | 48 |
 
 ### Arabic National Team Stats
 _No rows found._

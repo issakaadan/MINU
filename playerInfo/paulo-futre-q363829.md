@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q363829
-- Generated At (UTC): 2026-07-13T08:53:08+00:00
+- Generated At (UTC): 2026-07-13T12:09:45+00:00
 - English Name: Paulo Futre
 - Arabic Name: باولو فوتري
 - Birth Year: 1966
@@ -36,14 +36,7 @@ He started his career with Sporting CP , then moved to Porto – winning the 198
 A Portuguese international from the age of 17, Futre earned over 40 caps for his country, representing it at the 1986 World Cup .
 
 ### English Achievements
-- With Porto: Primeira Liga
-- With Atlético Madrid: Copa del Rey
-- With Benfica: Taça de Portugal
-- With AC Milan: Serie A
-- Individual: Portuguese Footballer of the Year
-- With Porto: Supertaça Cândido de Oliveira
-- With Porto: European Cup
-- Individual: Ballon d'Or runner-up
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 103
@@ -53,17 +46,15 @@ A Portuguese international from the age of 17, Futre earned over 40 caps for his
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1983–1984 | Sporting CP | 21 | 3 |
-| 1984–1987 | Porto | 81 | 23 |
-| 1987–1993 | Atlético Madrid | 163 | 38 |
-| 1993 | Benfica | 11 | 3 |
+| 1983 | Sporting CP | 29 | 3 |
+| 1984–1986 | Porto | 118 | 33 |
+| 1987–1997 | Atlético Madrid | 215 | 52 |
+| 1992 | Benfica | 13 | 5 |
 | 1993 | Marseille | 8 | 2 |
-| 1993–1995 | Reggiana | 13 | 5 |
-| 1995–1996 | AC Milan | 1 | 0 |
-| 1996–1997 | West Ham United | 9 | 0 |
-| 1997–1998 | Atlético Madrid | 10 | 0 |
-| 1998 | Yokohama Flügels | 13 | 3 |
-| Total | Total | 330 | 77 |
+| 1993–1994 | Reggiana | 14 | 5 |
+| 1995 | AC Milan | 1 | 0 |
+| 1996 | West Ham United | 9 | 0 |
+| 1998 | Yokohama Flügels | 16 | 3 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -85,12 +76,29 @@ A Portuguese international from the age of 17, Futre earned over 40 caps for his
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 154
+- Senior national team goals total: 6
+- Senior career goals total: 160
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1983–1984 | سبورتينغ لشبونة | 21 | 3 |
+| 1984–1987 | بورتو | 81 | 23 |
+| 1987–1993 | أتلتيكو مدريد | 163 | 38 |
+| 1993 | بنفيكا | 11 | 3 |
+| 1993 | أولمبيك مارسيليا | 8 | 2 |
+| 1993–1995 | ريجيانا 1919 | 13 | 5 |
+| 1995–1996 | إيه سي ميلان | 1 | 0 |
+| 1996–1997 | وست هام يونايتد | 9 | 0 |
+| 1997–1998 | أتلتيكو مدريد | 10 | 0 |
+| 1998 | يوكوهاما فلوغلس | 13 | 3 |
+| - | مجموع | 330 | 77 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1981–1983 | البرتغال تحت 16 | 19 | 6 |
+| 1981–1984 | البرتغال تحت 18 | 24 | 3 |
+| 1983 | البرتغال تحت 21 | 2 | 0 |
+| 1983–1995 | البرتغال | 41 | 6 |

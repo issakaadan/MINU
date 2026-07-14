@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q860301
-- Generated At (UTC): 2026-07-13T08:56:17+00:00
+- Generated At (UTC): 2026-07-13T12:12:45+00:00
 - English Name: Charlie Thomson
 - Arabic Name: تشارلي تومسون
 - Birth Year: 1930
@@ -32,8 +32,7 @@
 Charles Richard Thomson (2 March 1930 – 6 January 2009), also known as Chick Thomson , was a Scottish football goalkeeper . After playing for Clyde he won the 1954–55 Football League with Chelsea and the 1959 FA Cup Final with Nottingham Forest .
 
 ### English Achievements
-- With Chelsea: Football League First Division
-- With Nottingham Forest: FA Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 0
@@ -62,12 +61,16 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 0
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1949–1952 | كلايد | 19 | 0 |
+| 1952–1957 | تشيلسي | 46 | 0 |
+| 1957–1961 | نوتينغهام فورست | 121 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

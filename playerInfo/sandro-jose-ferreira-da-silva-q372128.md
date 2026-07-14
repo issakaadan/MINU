@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q372128
-- Generated At (UTC): 2026-07-13T08:56:48+00:00
+- Generated At (UTC): 2026-07-13T12:13:24+00:00
 - English Name: Sandro Jose Ferreira da Silva
 - Arabic Name: ساندرو خوسيه فيريرا دا سيلفا
 - Birth Year: 1986
@@ -67,12 +67,22 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 17
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 17
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2003 | نادي بينفايل | 7 | 1 |
+| 2004 | فيتوريا | 6 | 1 |
+| 2006–2007 | فاسكو دا غاما | 1 | 1 |
+| 2008–2010 | [الإنجليزية] | 46 | 8 |
+| 2011–2013 | [الإنجليزية] | 53 | 3 |
+| 2013–2014 | رييد | 28 | 3 |
+| 2015 | سانت بولتن | 1 | 0 |
+| 2016 | Annabichler SV | 12 | 0 |
+| 2016– | نادي كلاغنفورت | 1 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

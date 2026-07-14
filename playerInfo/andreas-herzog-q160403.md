@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q160403
-- Generated At (UTC): 2026-07-13T08:54:00+00:00
+- Generated At (UTC): 2026-07-13T12:10:32+00:00
 - English Name: Andreas Herzog
 - Arabic Name: أندي هرتسوغ
 - Birth Year: 1968
@@ -32,13 +32,7 @@
 Andreas " Andi " Herzog (born 10 September 1968) is an Austrian former footballer and manager who most recently was the assistant manager of South Korea . [ 1 ] As a player, he played as an attacking midfielder , most notably for Werder Bremen . A full international between 1988 and 2003, he won 103 caps and scored 26 goals for the Austria national team . He represented his country at the 1990 and 1998 FIFA World Cups .
 
 ### English Achievements
-- Austrian Football Bundesliga
-- Bundesliga
-- UEFA Cup
-- Austrian Footballer of the Year
-- DFB-Pokal
-- DFL-Supercup
-- kicker Bundesliga Team of the Season
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 116
@@ -48,14 +42,11 @@ Andreas " Andi " Herzog (born 10 September 1968) is an Austrian former footballe
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1986–1992 | Rapid Wien | 133 | 33 |
-| 1988 | First Vienna | 7 | 3 |
-| 1992–1995 | Werder Bremen | 94 | 26 |
-| 1995–1996 | Bayern Munich | 28 | 2 |
-| 1996–2001 | Werder Bremen | 142 | 32 |
-| 2002–2003 | Rapid Wien | 41 | 4 |
-| 2004 | Los Angeles Galaxy | 27 | 4 |
-| Total | Total | 472 | 104 |
+| 1986–2002 | Rapid Wien | 188 | 37 |
+| 1987 | First Vienna | 3 | 17 |
+| 1992–2001 | Werder Bremen | 304 | 68 |
+| 1995 | Bayern Munich | 4 | 17 |
+| 2004 | Los Angeles Galaxy | 4 | 17 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |

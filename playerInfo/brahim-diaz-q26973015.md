@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q26973015
-- Generated At (UTC): 2026-07-13T08:52:29+00:00
+- Generated At (UTC): 2026-07-13T12:09:05+00:00
 - English Name: Brahim Díaz
 - Arabic Name: إبراهيم دياز
 - Birth Year: 1999
@@ -36,14 +36,7 @@ Brahim began his club career at his hometown club Málaga , before moving to Man
 Born in Spain, Brahim initially represented Spain at junior level, before making his senior debut against Lithuania in 2021 where he also scored. Following this Brahim decided to change his representative nationality to Morocco. He received his first call-up for Morocco in 2024, and was part of the team that subsequently won the 2025 Africa Cup of Nations . At the 2026 FIFA World Cup , he became Africa's all-time leading player with assists in FIFA World Cup history. [ 4 ]
 
 ### English Achievements
-- With Manchester City: Premier League
-- With Real Madrid: La Liga
-- With AC Milan: Serie A
-- With Morocco: Africa Cup of Nations
-- Individual: Serie A Goal of the Month
-- Records: First Moroccan to score four goals in four consecutive matches in an Africa Cup of Nations
-- With Manchester City: FA Community Shield
-- With Real Madrid: Supercopa de España
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 42
@@ -53,9 +46,9 @@ Born in Spain, Brahim initially represented Spain at junior level, before making
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2016–2019 | Manchester City | 5 | 0 |
-| 2019– | Real Madrid | 107 | 14 |
-| 2020–2023 | AC Milan | 91 | 13 |
+| 2016–2018 | Manchester City | 15 | 2 |
+| 2018–2025 | Real Madrid | 163 | 22 |
+| 2020–2022 | AC Milan (loan) | 124 | 18 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -75,15 +68,32 @@ Born in Spain, Brahim initially represented Spain at junior level, before making
 إبراهيم عبد القادر دياز ( الإسبانية : Brahim Díaz ) ( تلفظ بالإسبانية : /bɾaˈin ˈdi.aθ/ ؛ المعروف باسم إبراهيم دياز أو إبراهيم فقط، (مواليد 3 أغسطس 1999 ) هو لاعب كرة قدم مغربي يلعب كلاعب خط وسط هجومي لنادي ريال مدريد في الدوري الإسباني ومنتخب المغرب . [ 6 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع مانشستر سيتي: الدوري الإنجليزي الممتاز
+- مع ريال مدريد: الدوري الإسباني
+- مع ميلان: الدوري الإيطالي
+- فردية: هدف الشهر في الدوري الإيطالي
+- مع مانشستر سيتي: كأس رابطة الأندية الإنجليزية المحترفة
+- مع مانشستر سيتي: درع المجتمع الإنجليزي
+- مع ريال مدريد: كأس السوبر الإسباني
+- مع ريال مدريد: دوري أبطال أوروبا
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 32
+- Senior national team goals total: 12
+- Senior career goals total: 44
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2016–2018 | مانشستر سيتي | 15 | 2 |
+| 2018–2023 | ريال مدريد | 63 | 12 |
+| 2020–2022 | ميلان (إعارة) | 126 | 18 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2016 | إسبانيا تحت 17 | 10 | 3 |
+| 2016–2018 | إسبانيا تحت 19 | 10 | 1 |
+| 2017–2021 | إسبانيا تحت 21 | 8 | 2 |
+| 2021 | إسبانيا | 1 | 1 |
+| 2024– | المغرب | 18 | 11 |

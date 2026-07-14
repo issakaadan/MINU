@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q300778
-- Generated At (UTC): 2026-07-13T08:53:56+00:00
+- Generated At (UTC): 2026-07-13T12:10:28+00:00
 - English Name: Aad de Mos
 - Arabic Name: آياد دي موس
 - Birth Year: 1947
@@ -34,14 +34,7 @@ Adriaan " Aad " de Mos (born 27 March 1947) is a Dutch retired professional foot
 He has managed teams in his home country, Belgium, Germany, Spain, Japan, Saudi Arabia and Greece, as well managing the United Arab Emirates national team . De Mos's biggest success was winning the 1987–88 European Cup Winners' Cup as manager of Belgian club Mechelen .
 
 ### English Achievements
-- With Ajax [ 7 ]: Eredivisie
-- With Mechelen [ 8 ]: Belgian First Division
-- With Anderlecht [ 9 ]: Belgian First Division
-- Individual [ edit ]: Belgian professional Manager of the Year
-- With Ajax [ 7 ]: KNVB Cup
-- With Mechelen [ 8 ]: Belgian Cup
-- With Mechelen [ 8 ]: Belgian Second Division
-- With Mechelen [ 8 ]: European Cup Winners Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: Unavailable

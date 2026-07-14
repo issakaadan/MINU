@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1343910
-- Generated At (UTC): 2026-07-13T08:56:23+00:00
+- Generated At (UTC): 2026-07-13T12:12:49+00:00
 - English Name: Enrico Valentini
 - Arabic Name: انريكو فالينتيني
 - Birth Year: 1989
@@ -35,17 +35,17 @@ Enrico Valentini (born 20 February 1989) is a German professional football coach
 _No honours section found._
 
 ### English Career Totals
-- Club goals total: 24
+- Club goals total: 13
 - Senior national team goals total: Unavailable
-- Senior career goals total: 24
+- Senior career goals total: 13
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2008–2010 | 1. FC Nürnberg II | 57 | 8 |
-| 2010–2014 | VfR Aalen | 97 | 9 |
-| 2014–2017 | Karlsruher SC | 80 | 2 |
-| 2017–2025 | 1. FC Nürnberg | 167 | 5 |
+| 2008–2009 | 1. FC Nürnberg II | 57 | 8 |
+| 2010–2013 | VfR Aalen | 100 | 10 |
+| 2014–2016 | Karlsruher SC | 85 | 2 |
+| 2017–2020 | 1. FC Nürnberg | 91 | 1 |
 
 ### English National Team Stats
 _No rows found._
@@ -62,12 +62,17 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 23
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 23
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008–2010 | [الإنجليزية] | 57 | 8 |
+| 2010–2014 | آلن | 97 | 9 |
+| 2014–2017 | كارلسروه | 80 | 2 |
+| 2017– | نورنبرغ | 127 | 4 |
 
 ### Arabic National Team Stats
 _No rows found._

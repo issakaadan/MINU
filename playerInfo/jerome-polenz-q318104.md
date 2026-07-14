@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q318104
-- Generated At (UTC): 2026-07-13T08:56:33+00:00
+- Generated At (UTC): 2026-07-13T12:13:07+00:00
 - English Name: Jérome Polenz
 - Arabic Name: جيروم بولينز
 - Birth Year: 1986
@@ -32,27 +32,23 @@
 Jérome Polenz (born 7 November 1986) is a German retired professional footballer who mostly played as a defender .
 
 ### English Achievements
-- With Western Sydney Wanderers: A-League Premiership
-- Individual: A-League PFA Team of the Season
-- With Western Sydney Wanderers: A-League Championship Runners-up
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 17
+- Club goals total: 2
 - Senior national team goals total: Unavailable
-- Senior career goals total: 17
+- Senior career goals total: 2
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2004–2007 | Werder Bremen II | 64 | 15 |
-| 2006–2007 | Werder Bremen | 3 | 0 |
-| 2007–2008 | Alemannia Aachen II | 1 | 0 |
-| 2007–2010 | Alemannia Aachen | 51 | 0 |
-| 2010–2012 | Union Berlin | 14 | 0 |
-| 2012–2014 | Western Sydney Wanderers | 47 | 2 |
+| 2004–2006 | Werder Bremen II | 64 | 15 |
+| 2005–2006 | Werder Bremen | 3 | 0 |
+| 2007–2009 | Alemannia Aachen | 54 | 0 |
+| 2010–2011 | Union Berlin | 15 | 0 |
+| 2012–2013 | Western Sydney Wanderers | 50 | 2 |
 | 2014 | Sarpsborg 08 | 2 | 0 |
-| 2015–2016 | Brisbane Roar | 12 | 0 |
-| Total | Total | 194 | 17 |
+| 2014–2015 | Brisbane Roar | 12 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -69,15 +65,27 @@ Jérome Polenz (born 7 November 1986) is a German retired professional footballe
 جيروم بولينز (من مواليد 7 نوفمبر 1986) هو لاعب كرة قدم ألماني محترف متقاعد لعب كمدافع .
 
 ### Arabic Achievements
-_No honours section found._
+- مع ويسترن سيدني واندررز: الدوري الممتاز
+- مع فردي: فريق الموسم في الدوري الأسترالي
+- مع ويسترن سيدني واندررز: وصيف بطل الدوري الأسترالي
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 17
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 17
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004–2007 | فيردر بريمن | 64 | 15 |
+| 2007–2008 | ألمانيا آخن | 1 | 0 |
+| 2010–2012 | يونيون برلين | 14 | 0 |
+| 2012–2014 | وسترن سيدني واندررز | 47 | 2 |
+| 2014–2014 | ساربسبورغ 08 | 2 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004–2004 | ألمانيا تحت 18 سنة | 2 | 0 |
+| 2004–2005 | ألمانيا تحت 19 سنة | 3 | 0 |
+| 2005–2005 | ألمانيا تحت 20 سنة | 1 | 0 |

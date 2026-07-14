@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q325459
-- Generated At (UTC): 2026-07-13T08:56:49+00:00
+- Generated At (UTC): 2026-07-13T12:13:25+00:00
 - English Name: Sebastián Miranda
 - Arabic Name: سباستيان ميراندا
 - Birth Year: 1980
@@ -32,7 +32,7 @@
 Sebastián Miguel Miranda Córdova (born 26 August 1980) is a Chilean football manager and former player who played as a defender . He currently works in the technical staff of the Chile national youth teams. [ 1 ]
 
 ### English Achievements
-- With Unión Española: Primera División de Chile
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 8
@@ -65,12 +65,20 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 8
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 8
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1999–2006 | يونيون إسبانيولا | 117 | 5 |
+| 2005–2006 | ريد بل سالزبورغ | 4 | 0 |
+| 2006–2007 | أونيفرسيداد كاتوليكا | 38 | 1 |
+| 2008–2010 | يونيون إسبانيولا | 88 | 0 |
+| 2011–2012 | كولومبوس كرو | 68 | 1 |
+| 2013 | إيفرتون دي فينا ديل مار | 14 | 1 |
+| 2013–2014 | يونيون إسبانيولا | 19 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

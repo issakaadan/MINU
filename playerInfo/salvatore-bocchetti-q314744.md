@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q314744
-- Generated At (UTC): 2026-07-13T08:55:01+00:00
+- Generated At (UTC): 2026-07-13T12:11:30+00:00
 - English Name: Salvatore Bocchetti
 - Arabic Name: سالفاتوري بوكيتي
 - Birth Year: 1986
@@ -32,11 +32,7 @@
 Salvatore Bocchetti ( Italian pronunciation: [salvaˈtoːre bokˈketti] ; born 30 November 1986) is an Italian professional football coach and former player who is the head coach of Serie C Group C club Atalanta Under-23 . He played as a centre-back as a player.
 
 ### English Achievements
-- With Rubin Kazan: Russian Cup
-- With Spartak Moscow: Russian Premier League
-- Individual: 2009 UEFA European under-21 Championship Team of the Tournament
-- With Rubin Kazan: Russian Super Cup
-- With Spartak Moscow: Russian Super Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 24
@@ -46,17 +42,15 @@ Salvatore Bocchetti ( Italian pronunciation: [salvaˈtoːre bokˈketti] ; born 3
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2005–2007 | Ascoli | 2 | 0 |
-| 2005–2006 | Lanciano | 21 | 1 |
-| 2007 | Frosinone | 17 | 2 |
-| 2007–2008 | Frosinone | 38 | 2 |
-| 2008–2010 | Genoa | 60 | 1 |
-| 2010–2013 | Rubin Kazan | 52 | 9 |
-| 2013–2019 | Spartak Moscow | 95 | 5 |
-| 2015 | AC Milan | 9 | 0 |
-| 2019–2021 | Hellas Verona | 5 | 0 |
-| 2020–2021 | Pescara | 18 | 2 |
-| Total | Total | 317 | 22 |
+| 2004–2006 | Ascoli | 2 | 0 |
+| 2005 | Virtus Lanciano (loan) | 21 | 1 |
+| 2006–2007 | Frosinone (loan) | 55 | 4 |
+| 2008–2009 | Genoa | 69 | 1 |
+| 2010–2012 | Rubin Kazan | 81 | 11 |
+| 2012–2018 | Spartak Moscow | 115 | 5 |
+| 2014 | A.C. Milan (loan) | 9 | 0 |
+| 2019 | Hellas Verona | 5 | 0 |
+| 2020 | Pescara (loan) | 19 | 2 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -78,12 +72,29 @@ Salvatore Bocchetti ( Italian pronunciation: [salvaˈtoːre bokˈketti] ; born 3
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 44
+- Senior national team goals total: 0
+- Senior career goals total: 44
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004–2007 | أسكولي | 2 | 0 |
+| 2005–2006 | لانشانو كالتشيو 1920 [لغات أخرى] | 21 | 1 |
+| 2007 | فروسينوني | 17 | 2 |
+| 2007–2008 | فروسينوني | 38 | 2 |
+| 2008–2010 | جنوى | 60 | 1 |
+| 2010–2013 | روبين قازان | 52 | 9 |
+| 2013–2019 | سبارتاك موسكو | 95 | 5 |
+| 2015 | إيه سي ميلان | 9 | 0 |
+| 2019–2021 | هيلاس فيرونا | 5 | 0 |
+| 2020–2021 | بيسكارا | 18 | 2 |
+| - | مجموع | 317 | 22 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2007 | إيطاليا تحت 20 | 1 | 0 |
+| 2008–2009 | إيطاليا تحت 21 | 10 | 0 |
+| 2008 | إيطاليا في الألعاب الأولمبية الصيفية 2008 [لغات أخرى] | 9 | 0 |
+| 2009–2010 | إيطاليا | 5 | 0 |

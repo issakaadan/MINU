@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q135461
-- Generated At (UTC): 2026-07-13T08:56:48+00:00
+- Generated At (UTC): 2026-07-13T12:13:24+00:00
 - English Name: Ryan Stevenson
 - Arabic Name: ريان ستيفنسون
 - Birth Year: 1984
@@ -39,30 +39,23 @@ After retiring from professional football, Stevenson transitioned into junior an
 _No honours section found._
 
 ### English Career Totals
-- Club goals total: 105
+- Club goals total: 80
 - Senior national team goals total: Unavailable
-- Senior career goals total: 105
+- Senior career goals total: 80
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2002–2007 | St Johnstone | 74 | 5 |
-| 2006 | Ayr United | 9 | 2 |
-| 2007–2010 | Ayr United | 99 | 28 |
-| 2010–2012 | Heart of Midlothian | 61 | 9 |
-| 2012 | Ipswich Town | 11 | 1 |
-| 2012–2014 | Heart of Midlothian | 55 | 12 |
-| 2014–2016 | Partick Thistle | 39 | 6 |
-| 2015 | Ayr United | 3 | 0 |
-| 2016 | Ayr United | 15 | 6 |
-| 2016 | Dumbarton | 17 | 3 |
-| 2017 | Raith Rovers | 9 | 1 |
-| 2017 | Troon | 1 | 0 |
-| 2017 | Annan Athletic | 3 | 0 |
-| 2018–2019 | Troon | 50 | 26 |
-| 2020 | Stranraer | 8 | 2 |
-| 2020–2021 | Troon | 9 | 2 |
-| 2021–2022 | Albion Rovers | 14 | 2 |
+| 2002–2006 | St Johnstone | 92 | 7 |
+| 2006 | Ayr United (loan) | 10 | 2 |
+| 2006–2015 | Ayr United | 151 | 41 |
+| 2009–2013 | Heart of Midlothian | 129 | 26 |
+| 2011–2012 | Ipswich Town | 13 | 1 |
+| 2014–2015 | Partick Thistle | 46 | 8 |
+| 2016 | Dumbarton | 24 | 4 |
+| 2016 | Raith Rovers | 9 | 1 |
+| 2017 | Annan Athletic | 8 | 0 |
+| 2019 | Stranraer | 8 | 0 |
 
 ### English National Team Stats
 _No rows found._

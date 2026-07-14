@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1350603
-- Generated At (UTC): 2026-07-13T08:56:23+00:00
+- Generated At (UTC): 2026-07-13T12:12:50+00:00
 - English Name: Ergin Keleş
 - Arabic Name: إرجين كلش
 - Birth Year: 1987
@@ -85,12 +85,39 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 76
+- Senior national team goals total: 15
+- Senior career goals total: 91
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2009 | طرابزون سبور | 26 | 1 |
+| 2005–2006 | [الإنجليزية] | 15 | 2 |
+| 2006–2007 | صقارية سبور [الإنجليزية] | 19 | 2 |
+| 2009–2011 | مانيساسبور | 31 | 5 |
+| 2011–2012 | أنقرة غوجو | 14 | 4 |
+| 2012 | كارديمير كارابوك سبور | 6 | 0 |
+| 2012–2013 | مرسين إيدمانيوردو | 11 | 0 |
+| 2013 | جوزتيبي | 14 | 6 |
+| 2013–2015 | أضنة سبور | 42 | 13 |
+| 2015 | غازي عنتاب بي.بي.كي | 19 | 3 |
+| 2015–2016 | أضنة سبور | 23 | 10 |
+| 2016–2018 | سيفاسبور | 34 | 5 |
+| 2018 | كارديمير كارابوك سبور | 14 | 1 |
+| 2019 | غيرسون سبور | 8 | 0 |
+| 2019–2020 | بلدية آكهيسار سبور | 22 | 3 |
+| 2020 | آلتاي إزمير | 2 | 0 |
+| 2020–2021 | أضنة سبور | 24 | 5 |
+| 2021–2022 | [الإنجليزية] | 29 | 13 |
+| 2022– | Kastamonuspor 1966 | 10 | 3 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002 | Turkey U16 | 10 | 6 |
+| 2003–2004 | تركيا تحت 17 | 27 | 13 |
+| 2003–2005 | فريق تركيا الوطني لكرة القدم للشباب | 9 | 9 |
+| 2004–2006 | تركيا تحت 19 | 12 | 2 |
+| 2005 | تركيا تحت 20 | 4 | 0 |
+| 2006–2007 | تركيا تحت 21 | 6 | 3 |

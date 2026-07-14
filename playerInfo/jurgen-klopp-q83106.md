@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q83106
-- Generated At (UTC): 2026-07-13T08:51:27+00:00
+- Generated At (UTC): 2026-07-13T12:08:13+00:00
 - English Name: Jürgen Klopp
 - Arabic Name: يورغن كلوب
 - Birth Year: 1967
@@ -36,14 +36,7 @@ Klopp spent most of his playing career at Mainz 05 . He was initially deployed a
 Klopp was appointed manager of Liverpool in 2015. He guided the club to UEFA Champions League finals in 2018 and 2022 , and won the trophy in 2019 to secure his first – and Liverpool's sixth – title in the competition. Klopp's side finished second in the 2018–19 Premier League , registering 97 points; the then third-highest total in the history of the English top division, and the most by a team without winning the title. The following season, Klopp won the UEFA Super Cup and Liverpool's first FIFA Club World Cup , before delivering Liverpool's first Premier League title, amassing a club record 99 points and breaking a number of top-flight records. These achievements won him back-to-back FIFA Coach of the Year awards in 2019 and 2020. Klopp won a cup double of the EFL Cup and FA Cup in 2022 . He won another EFL Cup in 2024 , departing that same year.
 
 ### English Achievements
-- With Mainz 05: 2. Bundesliga third-place promotion
-- With Borussia Dortmund: Bundesliga
-- With Liverpool: Premier League
-- Individual: German Football Manager of the Year
-- With Borussia Dortmund: DFB-Pokal
-- With Borussia Dortmund: DFL-Supercup
-- With Borussia Dortmund: UEFA Champions League runner-up
-- With Liverpool: FA Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 56
@@ -53,9 +46,8 @@ Klopp was appointed manager of Liverpool in 2015. He guided the club to UEFA Cha
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1989–1990 | Rot-Weiss Frankfurt | 0 | 0 |
-| 1990–2001 | Mainz 05 | 325 | 52 |
-| Total | Total | 325 | 52 |
+| 1989 | Rot-Weiss Frankfurt | 6 | 0 |
+| 1990–2000 | Mainz 05 | 340 | 56 |
 
 ### English National Team Stats
 _No rows found._
@@ -73,15 +65,25 @@ _No rows found._
 أصبح كلوب بعد ذلك مدير فني لنادي بوروسيا دورتموند ، حيث قادهم إلى الفوز بلقب الدوري الألماني في موسم 2010–11 . في الموسم التالي، قاد كلوب دورتموند إلى أول فوز بالثنائية له على الإطلاق حيث سجل رقم قياسي من النقاط في موسم واحد [ note 1 ] وسجل رقم قياسي في عدد الانتصارات في الفوز الدوري الألماني2011–12 ، وكذلك الفوز بلقب كأس ألمانيا 2011–12 . في عام 2013، قاد دورتموند إلى نهائي دوري أبطال أوروبا ، حيث خسر 2–1 أمام بايرن ميونخ . غادر دورتموند في عام 2015 كأفضل مدرب له قضى فترة تدريبية هناك، بعد أن فاز بما مجموعه خمس ألقاب مع النادي.
 
 ### Arabic Achievements
-_No honours section found._
+- مع كمدرب ماينس 05: بوندسليغا 2 الصعود
+- مع كمدرب بروسيا دورتموند: الدوري الألماني
+- مع كمدرب ليفربول: الدوري الإنجليزي الممتاز
+- الفردية: مدرب العام في ألمانيا
+- الفردية: جائزة التلفزيون الألماني
+- مع كمدرب بروسيا دورتموند: كأس ألمانيا
+- مع كمدرب بروسيا دورتموند: كأس السوبر الألماني
+- مع كمدرب بروسيا دورتموند: دوري أبطال أوروبا الوصيف
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 56
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 56
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1989 | روت–فايس فرانكفورت | 1 | 0 |
+| 1990–2000 | ماينتس 05 | 345 | 56 |
 
 ### Arabic National Team Stats
 _No rows found._

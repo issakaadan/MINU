@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q17507
-- Generated At (UTC): 2026-07-13T08:50:02+00:00
+- Generated At (UTC): 2026-07-13T12:07:11+00:00
 - English Name: Gerard Piqué
 - Arabic Name: جيرارد بيكيه
 - Birth Year: 1987
@@ -36,14 +36,7 @@ Initially a talented student athlete at Barcelona 's La Masia academy, Piqué be
 Piqué also represented Spain 102 times, making his debut on 11 February 2009. He played an integral role on the Spanish teams that won the 2010 FIFA World Cup and UEFA Euro 2012 . He retired from the national team after the 2018 FIFA World Cup .
 
 ### English Achievements
-- With Manchester United: Premier League
-- With Barcelona: La Liga
-- With Spain: FIFA World Cup
-- Individual: La Liga Breakthrough Player of the Year
-- With Decorations: Gold Medal of the Royal Order of Sporting Merit
-- With Manchester United: Football League Cup
-- With Manchester United: FA Community Shield
-- With Manchester United: UEFA Champions League
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 57
@@ -53,10 +46,9 @@ Piqué also represented Spain 102 times, making his debut on 11 February 2009. H
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2004–2008 | Manchester United | 12 | 0 |
-| 2006–2007 | Zaragoza | 22 | 2 |
-| 2008–2022 | Barcelona | 397 | 29 |
-| Total | Total | 431 | 31 |
+| 2004–2007 | Manchester United | 23 | 2 |
+| 2006 | Real Zaragoza (loan) | 28 | 3 |
+| 2008–2022 | Barcelona | 616 | 52 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -82,15 +74,34 @@ Piqué also represented Spain 102 times, making his debut on 11 February 2009. H
 مثَّل بيكيه منتخب إسبانيا في 102 مباراة، وكانت مشاركته الأولى في 11 فبراير 2009. وأدَّى دورًا محوريًا في صفوف المنتخب الإسباني الذي فاز بكأس العالم 2010 و ببطولة أمم أوروبا 2012 . واعتزل اللعب الدولي بعد كأس العالم 2018 .
 
 ### Arabic Achievements
-_No honours section found._
+- مع مانشستر يونايتد: الدوري الإنجليزي الممتاز
+- مع برشلونة: الدوري الإسباني
+- مع منتخب إسبانيا: كأس العالم لكرة القدم
+- الفردية: جائزة الدوري الإسباني لأفضل لاعب صاعد في الدوري هذا العام
+- الفردية الأوسمة: الميدالية الذهبية لنيشان الاستحقاق الرياضي الملكي
+- مع مانشستر يونايتد: كأس رابطة الأندية الإنجليزية المحترفة
+- مع مانشستر يونايتد: درع المجتمع الإنجليزي
+- مع مانشستر يونايتد: دوري أبطال أوروبا
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 57
+- Senior national team goals total: 5
+- Senior career goals total: 62
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004–2007 | مانشستر يونايتد | 23 | 2 |
+| 2006 | ريال سرقسطة (إعارة) | 28 | 3 |
+| 2008–2022 | برشلونة | 616 | 52 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2003 | إسبانيا تحت 16 | 7 | 2 |
+| 2004 | إسبانيا تحت 17 | 8 | 3 |
+| 2006 | إسبانيا تحت 19 | 8 | 3 |
+| 2007 | إسبانيا تحت 20 | 5 | 1 |
+| 2006–2008 | إسبانيا تحت 21 | 12 | 1 |
+| 2009–2018 | إسبانيا | 102 | 5 |
+| 2008–2019 | كتالونيا | 10 | 0 |

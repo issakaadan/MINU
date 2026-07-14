@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q467206
-- Generated At (UTC): 2026-07-13T08:53:28+00:00
+- Generated At (UTC): 2026-07-13T12:10:04+00:00
 - English Name: Yōichi Doi
 - Arabic Name: يويتشي دوي
 - Birth Year: 1973
@@ -32,8 +32,7 @@
 Yoichi Doi ( 土肥 洋一 , Doi Yōichi ; born 25 July 1973) is a Japanese former professional footballer who played as a goalkeeper . He played for Japan national team . He is the current goalkeeper coach of J2 League club Yokohama FC . [ 2 ]
 
 ### English Achievements
-- With Japan: AFC Asian Cup
-- Individual: J1 League Best Eleven
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 0
@@ -43,10 +42,9 @@ Yoichi Doi ( 土肥 洋一 , Doi Yōichi ; born 25 July 1973) is a Japanese form
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1992–1999 | Kashiwa Reysol | 92 | 0 |
-| 2000–2007 | FC Tokyo | 230 | 0 |
-| 2008–2012 | Tokyo Verdy | 131 | 0 |
-| Total | Total | 453 | 0 |
+| 1992–1999 | Kashiwa Reysol | 124 | 0 |
+| 2000–2007 | FC Tokyo | 264 | 0 |
+| 2008–2012 | Tokyo Verdy | 137 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -65,12 +63,17 @@ Yoichi Doi ( 土肥 洋一 , Doi Yōichi ; born 25 July 1973) is a Japanese form
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 0
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1992–1999 | كاشيوا ريسول | 92 | 0 |
+| 2000–2007 | طوكيو | 230 | 0 |
+| 2008–2012 | طوكيو فيردي | 131 | 0 |
+| - | مجموع | 453 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

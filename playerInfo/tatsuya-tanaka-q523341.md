@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q523341
-- Generated At (UTC): 2026-07-13T08:53:18+00:00
+- Generated At (UTC): 2026-07-13T12:09:55+00:00
 - English Name: Tatsuya Tanaka
 - Arabic Name: تاتسويا تاناكا
 - Birth Year: 1982
@@ -32,13 +32,7 @@
 Tatsuya Tanaka ( 田中 達也 , Tanaka Tatsuya ; born 27 November 1982) is a Japanese professional football coach and former player who played as a forward .
 
 ### English Achievements
-- With Urawa Red Diamonds: J1 League
-- Individual: J.League Cup MVP
-- With Urawa Red Diamonds: Emperor's Cup
-- With Urawa Red Diamonds: J.League Cup
-- With Urawa Red Diamonds: AFC Champions League
-- With Urawa Red Diamonds: Japanese Super Cup
-- Individual: J.League Cup New Hero Award
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 100
@@ -48,9 +42,8 @@ Tatsuya Tanaka ( 田中 達也 , Tanaka Tatsuya ; born 27 November 1982) is a Ja
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2001–2012 | Urawa Red Diamonds | 233 | 56 |
-| 2013–2021 | Albirex Niigata | 156 | 13 |
-| Total | Total | 389 | 69 |
+| 2001–2012 | Urawa Red Diamonds | 299 | 78 |
+| 2013–2021 | Albirex Niigata | 188 | 22 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -70,12 +63,19 @@ Tatsuya Tanaka ( 田中 達也 , Tanaka Tatsuya ; born 27 November 1982) is a Ja
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 137
+- Senior national team goals total: 3
+- Senior career goals total: 140
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001–2012 | أوراوا رد دايموندز | 233 | 56 |
+| 2013–2021 | آلبيركس نيغاتا | 156 | 13 |
+| - | مجموع | 364 | 68 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004 | اليابان تحت 23 | 3 | 0 |
+| 2005–2009 | اليابان | 16 | 3 |

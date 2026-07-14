@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q516985
-- Generated At (UTC): 2026-07-13T08:55:17+00:00
+- Generated At (UTC): 2026-07-13T12:11:45+00:00
 - English Name: Antoine Sibierski
 - Arabic Name: أنطوان سيبيريسكي
 - Birth Year: 1974
@@ -32,28 +32,24 @@
 Antoine Sibierski (born 5 August 1974) is a French former professional footballer who played as a midfielder . He started his career at hometown club Lille , going on to play for Auxerre , Nantes , with whom he won the Coupe de France twice, and Lens . He then moved to England and played for Manchester City , Newcastle United , with whom he won the UEFA Intertoto Cup , Wigan Athletic , and Norwich City . At international level, he made three appearances for France at the 1996 Summer Olympics . He is currently Sporting Director of Troyes .
 
 ### English Achievements
-- With Nantes: Coupe de France
-- With Newcastle United: UEFA Intertoto Cup
-- Individual: Goal of the season for Wigan Athletic
-- With Nantes: Trophée des Champions
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 112
-- Senior national team goals total: 0
-- Senior career goals total: 112
+- Senior national team goals total: 1
+- Senior career goals total: 113
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1992–1996 | Lille | 97 | 17 |
-| 1996–1998 | Auxerre | 41 | 8 |
-| 1998–2000 | Nantes | 50 | 17 |
-| 2000–2003 | Lens | 89 | 23 |
-| 2003–2006 | Manchester City | 92 | 11 |
-| 2006–2007 | Newcastle United | 26 | 3 |
-| 2007–2009 | Wigan Athletic | 32 | 4 |
-| 2008 | Norwich City | 15 | 2 |
-| Total | Total | 442 | 85 |
+| 1992–1995 | Lille | 104 | 18 |
+| 1996–1997 | Auxerre | 61 | 11 |
+| 1998–1999 | Nantes | 67 | 27 |
+| 2000–2002 | Lens | 108 | 26 |
+| 2003–2005 | Manchester City | 107 | 15 |
+| 2006 | Newcastle United | 39 | 8 |
+| 2007–2008 | Wigan Athletic | 34 | 5 |
+| 2008 | Norwich City | 16 | 2 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -73,12 +69,24 @@ Antoine Sibierski (born 5 August 1974) is a French former professional footballe
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 214
+- Senior national team goals total: 1
+- Senior career goals total: 215
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1992–1996 | ليل | 89 | 17 |
+| 1996–1998 | أوكسير | 58 | 8 |
+| 1998–2000 | نانت | 68 | 27 |
+| 2000–2003 | لانس | 107 | 25 |
+| 2003–2006 | مانشستر سيتي | 107 | 15 |
+| 2006–2007 | نيوكاسل يونايتد | 39 | 8 |
+| 2007–2009 | ويغان أتلتيك | 35 | 5 |
+| 2008 | نورويتش سيتي | 16 | 2 |
+| - | مجموع | 519 | 107 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1996 | منتخب فرنسا لكرة القدم للشباب [لغات أخرى] | 3 | 1 |

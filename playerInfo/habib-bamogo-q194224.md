@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q194224
-- Generated At (UTC): 2026-07-13T08:55:38+00:00
+- Generated At (UTC): 2026-07-13T12:12:06+00:00
 - English Name: Habib Bamogo
 - Arabic Name: حبيب باموغو
 - Birth Year: 1982
@@ -71,12 +71,25 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 100
+- Senior national team goals total: 1
+- Senior career goals total: 101
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001–2004 | مونبلييه | 111 | 22 |
+| 2004–2007 | أولمبيك مارسيليا | 45 | 8 |
+| 2005–2006 | نانت | 31 | 4 |
+| 2006–2007 | سيلتا فيغو | 15 | 2 |
+| 2007–2011 | نيس | 93 | 10 |
+| 2011–2012 | بانيتوليكوس | 24 | 0 |
+| 2012–2013 | دونكاستر روفرز | 4 | 0 |
+| 2013–2014 | بوتيف بلوفديف | 5 | 0 |
+| 2014–2015 | [الإنجليزية] | 22 | 4 |
+| - | مجموع | 350 | 50 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009–2010 | بوركينا فاسو | 6 | 1 |

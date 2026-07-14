@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q73898
-- Generated At (UTC): 2026-07-13T08:56:50+00:00
+- Generated At (UTC): 2026-07-13T12:13:27+00:00
 - English Name: Simon Lappin
 - Arabic Name: سيمون لابين
 - Birth Year: 1983
@@ -34,10 +34,7 @@ Simon Lappin (born 25 January 1983) is a Scottish former professional footballer
 Lappin began his career with St Mirren before moving to Norwich City in 2007. He had short loan spells at Motherwell and Cardiff City before moving to Cardiff permanently in 2013. He had a loan spell with Sheffield United , before playing for St Johnstone from 2014 to 2016. Lappin played for National League club York City from 2016 to 2017. He was capped 10 times by the Scotland national under-21 team .
 
 ### English Achievements
-- With St Mirren: Scottish First Division
-- With Norwich City: Football League One
-- With St Mirren: Scottish Challenge Cup
-- With Norwich City: Football League Championship runner-up
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 25
@@ -47,17 +44,14 @@ Lappin began his career with St Mirren before moving to Norwich City in 2007. He
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2001–2007 | St Mirren | 152 | 9 |
-| 2007–2013 | Norwich City | 109 | 2 |
-| 2008 | Motherwell | 14 | 2 |
+| 2001–2006 | St Mirren | 179 | 12 |
+| 2006–2012 | Norwich City | 126 | 4 |
+| 2007 | Motherwell (loan) | 15 | 2 |
 | 2012–2013 | Cardiff City | 2 | 0 |
-| 2013–2014 | Cardiff City | 0 | 0 |
-| 2013–2014 | Sheffield United | 9 | 0 |
-| 2014–2016 | St Johnstone | 50 | 3 |
-| 2016–2017 | York City | 7 | 0 |
-| 2017–2018 | King's Lynn Town | 30 | 3 |
-| 2018–2019 | Wroxham | 25 | 5 |
-| Total | Total | 398 | 24 |
+| 2013 | Sheffield United (loan) | 12 | 0 |
+| 2014–2015 | St Johnstone | 58 | 4 |
+| 2016 | York City | 9 | 0 |
+| 2017 | King's Lynn Town | 31 | 3 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -78,12 +72,27 @@ Lappin began his career with St Mirren before moving to Norwich City in 2007. He
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 24
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 24
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001–2007 | سانت ميرين | 152 | 9 |
+| 2007–2013 | نورويتش سيتي | 109 | 2 |
+| 2008 | ماذرويل | 14 | 2 |
+| 2012–2013 | كارديف سيتي | 2 | 0 |
+| 2013–2014 | كارديف سيتي | 0 | 0 |
+| 2013–2014 | شيفيلد يونايتد | 9 | 0 |
+| 2014–2016 | سانت جونستون | 50 | 3 |
+| 2016–2017 | يورك سيتي | 7 | 0 |
+| 2017–2018 | [الإنجليزية] | 30 | 3 |
+| 2018– | [الإنجليزية] | 22 | 5 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001 | اسكتلندا تحت 19 | 4 | 0 |
+| 2002–2003 | اسكتلندا تحت 20 | 2 | 1 |
+| 2004–2005 | اسكتلندا تحت 21 | 10 | 0 |

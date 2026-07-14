@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q838853
-- Generated At (UTC): 2026-07-13T08:55:40+00:00
+- Generated At (UTC): 2026-07-13T12:12:09+00:00
 - English Name: István Juhász
 - Arabic Name: إستفان جوهاز
 - Birth Year: 1945
@@ -65,12 +65,14 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 41
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 41
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1963–1976 | فيرينتسفاروشي | 302 | 41 |
 
 ### Arabic National Team Stats
 _No rows found._

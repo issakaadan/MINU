@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q93832
-- Generated At (UTC): 2026-07-13T08:56:21+00:00
+- Generated At (UTC): 2026-07-13T12:12:48+00:00
 - English Name: Dean Moxey
 - Arabic Name: دين موكسي
 - Birth Year: 1986
@@ -34,27 +34,21 @@ Dean William Moxey (born 14 January 1986) is an English professional footballer 
 Moxey is a versatile player primarily utilized as a left-back. He is also capable of performing in several other positions, including centre-back, left winger, left wing-back, and left-sided striker. He is a product of the Exeter City academy and has previously played for Derby County , Crystal Palace and Bolton Wanderers .
 
 ### English Achievements
-- With Exeter City: Football League Two second-place promotion
-- With Crystal Palace: Football League Championship play-offs
-- With Bolton Wanderers: EFL League One second-place promotion
-- Individual: Torquay United Player of the Season
-- With Exeter City: Football Conference play-offs
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 39
-- Senior national team goals total: 0
+- Senior national team goals total: Unavailable
 - Senior career goals total: 39
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2003–2009 | Exeter City | 176 | 21 |
-| 2009–2011 | Derby County | 52 | 2 |
-| 2011–2014 | Crystal Palace | 91 | 1 |
-| 2014–2017 | Bolton Wanderers | 72 | 1 |
-| 2017–2020 | Exeter City | 96 | 8 |
-| 2020–2025 | Torquay United | 146 | 3 |
-| 2025– | Tiverton Town | 4 | 0 |
+| 2003–2019 | Exeter City | 309 | 32 |
+| 2009–2010 | Derby County | 58 | 2 |
+| 2010–2013 | Crystal Palace | 103 | 1 |
+| 2014–2016 | Bolton Wanderers | 82 | 2 |
+| 2020–2022 | Torquay United | 102 | 2 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -73,12 +67,21 @@ Moxey is a versatile player primarily utilized as a left-back. He is also capabl
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 34
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 34
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2003–2009 | إكزتر سيتي | 176 | 21 |
+| 2009–2011 | ديربي كاونتي | 52 | 2 |
+| 2011–2014 | كريستال بالاس | 91 | 1 |
+| 2014–2017 | بولتون واندررز | 72 | 1 |
+| 2017–2020 | إكزتر سيتي | 96 | 8 |
+| 2020– | توركي يونايتد | 72 | 1 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008 | منتخب إنجلترا لكرة القدم C [الإنجليزية] | 4 | 0 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q22951255
-- Generated At (UTC): 2026-07-13T08:51:31+00:00
+- Generated At (UTC): 2026-07-13T12:08:17+00:00
 - English Name: Marcus Rashford
 - Arabic Name: ماركوس راشفورد
 - Birth Year: 1997
@@ -36,14 +36,7 @@ A product of the Manchester United youth system, Rashford joined the club at the
 Rashford scored on his England debut in May 2016, becoming the youngest English player to score in his first senior international match. He has since appeared at two UEFA European Championships : 2016 , where he was the tournament's youngest player, and 2020 , where he appeared in the final as England finished runners-up to Italy . He was also a member of the England squad at the 2018 , 2022 and 2026 FIFA World Cups .
 
 ### English Achievements
-- With Manchester United: FA Cup
-- With Barcelona: La Liga
-- With England: UEFA European Championship runner-up
-- Individual: Jimmy Murphy Young Player of the Year
-- Orders and special awards: Member of the Order of the British Empire
-- With Manchester United: EFL Cup
-- With Manchester United: FA Community Shield
-- With Manchester United: UEFA Europa League
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 156
@@ -53,9 +46,9 @@ Rashford scored on his England debut in May 2016, becoming the youngest English 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2015– | Manchester United | 287 | 87 |
-| 2025 | Aston Villa | 10 | 2 |
-| 2025–2026 | Barcelona | 32 | 8 |
+| 2015–2024 | Manchester United | 426 | 138 |
+| 2024 | Aston Villa (loan) | 17 | 4 |
+| 2025 | Barcelona (loan) | 49 | 14 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -79,15 +72,30 @@ Rashford scored on his England debut in May 2016, becoming the youngest English 
 وعلى المستوى الدولي سجل راشفورد في أول مباراة له مع إنجلترا في مايو 2016، ليصبح أصغر لاعب إنجليزي يسجل في أول مباراة دولية له.
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي مانشستر يونايتد: كأس الاتحاد الإنجليزي (1)
+- مع النادي برشلونة: الدوري الإسباني (1)
+- مع المنتخب إنجلترا: كأس العالم المركز الرابع
+- الفردية: جائزة جيمي مورفي لأفضل لاعب شاب في السنة
+- الفردية الأوسمة والجوائز الخاصة: رتبة الإمبراطورية البريطانية
+- مع النادي مانشستر يونايتد: كأس رابطة الأندية الإنجليزية المحترفة (2)
+- مع النادي مانشستر يونايتد: درع المجتمع الإنجليزي (1)
+- مع النادي مانشستر يونايتد: الدوري الأوروبي (1)
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 138
+- Senior national team goals total: 18
+- Senior career goals total: 156
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2015–2024 | مانشستر يونايتد | 426 | 138 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2012 | إنجلترا تحت 16 | 2 | 0 |
+| 2014 | إنجلترا تحت 18 | 2 | 0 |
+| 2016 | إنجلترا تحت 20 | 2 | 0 |
+| 2016 | إنجلترا تحت 21 | 1 | 3 |
+| 2016– | إنجلترا | 70 | 18 |

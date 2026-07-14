@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1189443
-- Generated At (UTC): 2026-07-13T08:54:14+00:00
+- Generated At (UTC): 2026-07-13T12:10:46+00:00
 - English Name: Dennis Praet
 - Arabic Name: دنيس برات
 - Birth Year: 1994
@@ -32,12 +32,7 @@
 Dennis Praet (born 14 May 1994) is a Belgian professional footballer who plays as a midfielder .
 
 ### English Achievements
-- With Anderlecht: Belgian Pro League
-- With Leicester City: FA Cup
-- Individual: Best player of AEGON Future Cup
-- With Anderlecht: Belgian Super Cup
-- With Leicester City: EFL Championship
-- Individual: Belgian Golden Shoe
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 38
@@ -47,11 +42,10 @@ Dennis Praet (born 14 May 1994) is a Belgian professional footballer who plays a
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2011–2016 | Anderlecht | 139 | 20 |
-| 2016–2019 | Sampdoria | 98 | 4 |
-| 2019–2024 | Leicester City | 81 | 3 |
-| 2021–2022 | Torino | 23 | 2 |
-| 2024–2026 | Antwerp | 57 | 0 |
+| 2011–2016 | Anderlecht | 182 | 27 |
+| 2016–2018 | Sampdoria | 106 | 4 |
+| 2019–2023 | Leicester City | 107 | 5 |
+| 2021 | Torino (loan) | 24 | 2 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -76,12 +70,25 @@ Dennis Praet (born 14 May 1994) is a Belgian professional footballer who plays a
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 28
+- Senior national team goals total: 3
+- Senior career goals total: 31
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2011–2016 | رويال أندرلخت | 139 | 20 |
+| 2016–2019 | سامبدوريا | 98 | 4 |
+| 2019– | ليستر سيتي | 49 | 2 |
+| 2021–2022 | تورينو | 23 | 2 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009 | منتخب بلجيكا الوطني لكرة القدم للشباب [لغات أخرى] | 3 | 0 |
+| 2009–2010 | منتخب بلجيكا الوطني لكرة القدم للشباب [لغات أخرى] | 10 | 1 |
+| 2010–2011 | بلجيكا تحت 17 | 11 | 2 |
+| 2011 | بلجيكا تحت 18 | 2 | 0 |
+| 2012 | بلجيكا تحت 19 | 7 | 2 |
+| 2012–2016 | بلجيكا تحت 21 | 17 | 2 |
+| 2014– | بلجيكا | 15 | 2 |

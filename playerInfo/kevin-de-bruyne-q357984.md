@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q357984
-- Generated At (UTC): 2026-07-13T08:50:35+00:00
+- Generated At (UTC): 2026-07-13T12:07:36+00:00
 - English Name: Kevin De Bruyne
 - Arabic Name: كيفن دي بروين
 - Birth Year: 1991
@@ -34,14 +34,7 @@ Kevin De Bruyne ( Dutch pronunciation: [ˈkɛvɪn də ˈbrœynə] ; born 28 June
 After spending most of his youth career at Gent , De Bruyne began his professional senior career at Genk , where he was a regular player when they won the 2010–11 Belgian Pro League . In 2012, he joined English club Chelsea , where he was used sparingly and then loaned to Werder Bremen . He signed with VfL Wolfsburg for £18 million in 2014, establishing himself as one of the best players in the Bundesliga and was integral in the club's 2014–15 DFB-Pokal win. In the summer of 2015, De Bruyne joined Manchester City for a then-club record £54 million. Making 422 appearances for the club, he won the UEFA Champions League , six Premier League titles, five League Cups , and two FA Cups . In 2017–18 , he had a significant role in City becoming the only Premier League team to attain 100 points in a single league season. In 2019–20 , De Bruyne equalled the then-record for most assists in a Premier League season and was named Player of the Season , the award he won for the second time in 2021–22 . He was again heavily involved in 2022–23 , as Manchester City sealed the continental treble in their most successful season to date. In June 2025, he joined Napoli on a free transfer.
 
 ### English Achievements
-- With Genk: Belgian Pro League
-- With VfL Wolfsburg: DFB-Pokal
-- With Manchester City: Premier League
-- With Napoli: Supercoppa Italiana
-- With Belgium: FIFA World Cup third place
-- Individual: Bundesliga Young Player of the Year
-- With Genk: Belgian Cup
-- With Genk: Belgian Super Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 160
@@ -51,12 +44,12 @@ After spending most of his youth career at Gent , De Bruyne began his profession
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2008–2012 | Genk | 97 | 16 |
-| 2012–2014 | Chelsea | 3 | 0 |
-| 2012–2013 | Werder Bremen | 33 | 10 |
-| 2014–2015 | VfL Wolfsburg | 52 | 13 |
-| 2015–2025 | Manchester City | 285 | 72 |
-| 2025– | Napoli | 18 | 5 |
+| 2008–2011 | Genk | 113 | 17 |
+| 2012–2013 | Chelsea | 9 | 0 |
+| 2012 | Werder Bremen (loan) | 34 | 10 |
+| 2013–2015 | VfL Wolfsburg | 73 | 20 |
+| 2015–2024 | Manchester City | 422 | 108 |
+| 2025 | Napoli | 21 | 5 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -77,15 +70,34 @@ After spending most of his youth career at Gent , De Bruyne began his profession
 بدأ دي بروين مسيرته في جينك ، وفاز بلقب دوري المحترفين البلجيكي 2010–11. في عام 2012، انضم إلى نادي تشيلسي الإنجليزي، حيث تم إشراكه في المباريات بشكل نادر ثم تمت إعارته إلى فيردر بريمن . وقع مع فولفسبورج مقابل 18 مليون جنيه استرليني في عام 2014، وفي عام 2015 حصل على لقب لاعب العام في ألمانيا . [ 8 ] في وقت لاحق من ذلك العام، انضم إلى مانشستر سيتي مقابل 54 مليون جنيه استرليني. و حقق مع نادي مانشستر سيتي ثلاثة ألقاب في الدوري الإنجليزي الممتاز ، وخمسة ألقاب في كأس رابطة الأندية الإنجليزية المحترفة ولقب وحيد في كأس الاتحاد الإنجليزي ووصل إلى نهائي دوري أبطال أوروبا 2021 . كان له دور مهم في حصول السيتي على 100 نقطة في موسم واحد في 2017–18 ليصبح أول فريق في الدوري الممتاز يصل إلى هذا الرقم. في موسم 2019–20، عادل دي بروين الرقم القياسي لأكبر عدد من التمريرات الحاسمة في موسم واحد من الدوري الإنجليزي وحصل على جائزة أفضل لاعب في الموسم .
 
 ### Arabic Achievements
-_No honours section found._
+- مع جينك: الدوري البلجيكي
+- مع فولفسبورغ: كأس ألمانيا
+- مع مانشستر سيتي: الدوري الإنجليزي الممتاز
+- مع بلجيكا: كأس العالم
+- الفردية: الدوري الألماني أفضل لاعب شاب في العام
+- مع جينك: كأس بلجيكا
+- مع جينك: كأس السوبر البلجيكي
+- مع فولفسبورغ: كأس السوبر الألماني
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 160
+- Senior national team goals total: 38
+- Senior career goals total: 198
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008–2011 | جينك | 113 | 17 |
+| 2012–2013 | تشيلسي | 9 | 0 |
+| 2012 | فيردر بريمن (إعارة) | 34 | 10 |
+| 2013–2015 | فولفسبورغ | 73 | 20 |
+| 2015–2024 | مانشستر سيتي | 422 | 108 |
+| 2025 | نابولي | 21 | 5 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008–2009 | بلجيكا تحت 18 | 7 | 1 |
+| 2009–2010 | بلجيكا تحت 19 | 10 | 1 |
+| 2010–2011 | بلجيكا تحت 21 | 2 | 0 |
+| 2010– | بلجيكا | 122 | 38 |

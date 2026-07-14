@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q663163
-- Generated At (UTC): 2026-07-13T08:55:34+00:00
+- Generated At (UTC): 2026-07-13T12:12:02+00:00
 - English Name: Ewald Lienen
 - Arabic Name: ايوالد لينين
 - Birth Year: 1953
@@ -64,12 +64,18 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 95
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 95
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1974–1977 | أرمينيا بيليفيلد | 93 | 24 |
+| 1977–1981 | بوروسيا مونشنغلادباخ | 118 | 23 |
+| 1981–1983 | أرمينيا بيليفيلد | 60 | 12 |
+| 1983–1987 | بوروسيا مونشنغلادباخ | 126 | 13 |
+| 1987–1992 | دويسبورغ | 154 | 23 |
 
 ### Arabic National Team Stats
 _No rows found._

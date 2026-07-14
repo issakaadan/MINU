@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q155290
-- Generated At (UTC): 2026-07-13T08:52:50+00:00
+- Generated At (UTC): 2026-07-13T12:09:26+00:00
 - English Name: Julio Salinas
 - Arabic Name: خوليو ساليناس
 - Birth Year: 1962
@@ -36,14 +36,7 @@ A centre-forward with skills, he was best remembered for his spell with Barcelon
 Salinas earned 56 caps for Spain, and represented the nation in three World Cups and two European Championships .
 
 ### English Achievements
-- With Athletic Bilbao: La Liga
-- With Barcelona: La Liga
-- With Deportivo: Copa del Rey
-- Individual: Pichichi Trophy
-- With Athletic Bilbao: Copa del Rey
-- With Athletic Bilbao: Supercopa de España
-- With Barcelona: Copa del Rey
-- With Barcelona: Supercopa de España
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 246
@@ -53,15 +46,13 @@ Salinas earned 56 caps for Spain, and represented the nation in three World Cups
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1981–1984 | Bilbao Athletic | 93 | 60 |
-| 1982–1986 | Athletic Bilbao | 68 | 13 |
-| 1986–1988 | Atlético Madrid | 75 | 31 |
-| 1988–1994 | Barcelona | 146 | 60 |
-| 1994–1995 | Deportivo La Coruña | 24 | 12 |
-| 1995–1996 | Sporting Gijón | 54 | 24 |
-| 1997–1998 | Yokohama Marinos | 47 | 34 |
-| 1998–2000 | Alavés | 50 | 12 |
-| Total | Total | 557 | 246 |
+| 1982–1985 | Athletic Bilbao | 103 | 30 |
+| 1986–1987 | Atlético Madrid | 89 | 36 |
+| 1988–1993 | Barcelona | 201 | 84 |
+| 1994 | Deportivo | 32 | 16 |
+| 1995–1996 | Sporting Gijón | 60 | 28 |
+| 1997–1998 | Yokohama Marinos | 57 | 40 |
+| 1998–2000 | Alavés | 52 | 12 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -83,12 +74,25 @@ Salinas earned 56 caps for Spain, and represented the nation in three World Cups
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 432
+- Senior national team goals total: 22
+- Senior career goals total: 454
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1981–1984 | أتلتيك بيلباو ب | 93 | 60 |
+| 1982–1986 | أتلتيك بيلباو | 68 | 13 |
+| 1986–1988 | أتلتيكو مدريد | 75 | 31 |
+| 1988–1994 | برشلونة | 146 | 60 |
+| 1994–1995 | ديبورتيفو لاكورونيا | 24 | 12 |
+| 1995–1996 | ريال سبورتينغ خيخون | 54 | 24 |
+| 1997–1998 | يوكوهاما إف مارينوس | 47 | 34 |
+| 1998–2000 | ديبورتيفو ألافيس | 50 | 12 |
+| - | مجموع | 557 | 246 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1983–1984 | إسبانيا تحت 21 | 7 | 3 |
+| 1986–1996 | إسبانيا | 56 | 22 |

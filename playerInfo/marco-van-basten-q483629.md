@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q483629
-- Generated At (UTC): 2026-07-13T08:50:56+00:00
+- Generated At (UTC): 2026-07-13T12:07:53+00:00
 - English Name: Marco van Basten
 - Arabic Name: ماركو فان باستن
 - Birth Year: 1964
@@ -34,14 +34,7 @@ Marcel " Marco " van Basten [ 2 ] ( Dutch pronunciation: [ˈmɑrkoː vɑm ˈbɑs
 Known for his close ball control, attacking intelligence, impeccable headers, and spectacular strikes and volleys , Van Basten was named FIFA World Player of the Year in 1992 and won the Ballon d'Or three times, in 1988 , 1989 and 1992 . [ 2 ] At club level, he won three Eredivisie titles and the Cup Winners' Cup with Ajax, and four Serie A titles and two European Cups with Milan. With the Netherlands, Van Basten won UEFA Euro 1988 where he earned the Golden Boot , scoring five goals, including a memorable volley in the final against the Soviet Union , [ 2 ] [ 4 ] considered one of the best ever. [ 5 ] [ 6 ]
 
 ### English Achievements
-- With Ajax: Eredivisie
-- With AC Milan: Serie A
-- With Netherlands: UEFA European Championship
-- Individual: Ballon d'Or
-- With Ajax: KNVB Cup
-- With Ajax: European Cup Winners' Cup
-- With AC Milan: Supercoppa Italiana
-- With AC Milan: European Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 283
@@ -51,9 +44,8 @@ Known for his close ball control, attacking intelligence, impeccable headers, an
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1981–1987 | Ajax | 133 | 128 |
-| 1987–1995 | AC Milan | 147 | 90 |
-| Total | Total | 280 | 218 |
+| 1981–1986 | Ajax | 174 | 154 |
+| 1987–1994 | AC Milan | 205 | 129 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -74,15 +66,29 @@ Known for his close ball control, attacking intelligence, impeccable headers, an
 اشتهر فان باستن بالتحكم في الكرة عن قرب، والذكاء الهجومي والرأسيات العظيمة، والتسديدات الهوائية المذهلة، وقد حصل على جائزة أفضل لاعب في العالم لعام 1992 وفاز بجائزة الكرة الذهبية ثلاث مرات، في 1988 ، و1989 ، و1992 . في عام 1998، احتل المرتبة السادسة في استطلاع الفيفا لأفضل لاعب في القرن العشرين على الإنترنت، والعاشر في استطلاع أفضل لاعب أوروبي في القرن التي عقدها الاتحاد الدولي لتاريخ وإحصاءات كرة القدم والثاني عشر في انتخابات الاتحاد الدولي لتاريخ وإحصاءات كرة القدم لأفضل لاعب في القرن. [ 3 ] [ 4 ] كما تم التصويت له في المركز الثامن في استطلاع نظمته المجلة الفرنسية فرانس فوتبول ، مشيره إلى الفائزين السابقين بالكرة الذهبية لاختيار أفضل لاعب في القرن. [ 5 ] في عام 2004، تم اختياره من قبل بيليه في قائمة أفضل 125 لاعب كرة قدم حي . [ 6 ] في عام 2004، أُجري استطلاع لأعظم 100 هولندي في هولندا: احتل فان باستن المرتبة 25، ثاني أعلى لاعب كرة قدم، خلف يوهان كرويف . في عام 2007، صنفت سكاي سبورت فان باستن في المرتبة الأولى في قائمتها للرياضيين العظماء الذين لم تستمر مسيرتهم المهنية. [ 7 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي أياكس: الدوري الهولندي
+- مع النادي ميلان: الدوري الإيطالي
+- مع المنتخب هولندا: كأس الأمم الأوروبية
+- الفردية: جائزة الكرة الذهبية (3)
+- مع النادي أياكس: كأس هولندا
+- مع النادي أياكس: كأس الكؤوس الأوروبية
+- مع النادي ميلان: كأس السوبر الإيطالي
+- مع النادي ميلان: دوري أبطال أوروبا
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 277
+- Senior national team goals total: 24
+- Senior career goals total: 301
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1981–1987 | أياكس | 133 | 128 |
+| 1987–1995 | ميلان | 148 | 91 |
+| - | مجموع | 281 | 219 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1981–1983 | هولندا تحت 21 سنة | 15 | 13 |
+| 1983–1992 | هولندا | 58 | 24 |

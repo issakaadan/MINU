@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q41533
-- Generated At (UTC): 2026-07-13T08:48:52+00:00
+- Generated At (UTC): 2026-07-13T12:06:18+00:00
 - English Name: Frank Lampard
 - Arabic Name: فرانك لامبارد
 - Birth Year: 1978
@@ -36,14 +36,7 @@ A box-to-box midfielder , Lampard began his career in 1995 at West Ham United , 
 At Chelsea, Lampard won three Premier League titles, the UEFA Champions League , the UEFA Europa League , four FA Cups , and two League Cups . In 2005, he was named FWA Footballer of the Year , and finished runner-up for both the Ballon d'Or and FIFA World Player of the Year . After leaving Chelsea, Lampard played for league rivals Manchester City , [ 10 ] [ 11 ] and Major League Soccer club New York City FC before retiring in 2017. He ranked highly on a number of statistics for Premier League players for ten years from 1 December 2000, including most games and most wins. [ 12 ] [ 13 ] [ 9 ] [ 14 ]
 
 ### English Achievements
-- With West Ham United: UEFA Intertoto Cup
-- With Chelsea: Premier League
-- Individual: FWA Footballer of the Year
-- With Chelsea: FA Cup runner-up
-- With Coventry City: EFL Championship
-- Individual: Premier League Manager of the Month
-- Orders [ edit ]: Officer of the Order of the British Empire
-- With Chelsea: FA Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 274
@@ -53,12 +46,11 @@ At Chelsea, Lampard won three Premier League titles, the UEFA Champions League ,
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1995–2001 | West Ham United | 148 | 24 |
-| 1995–1996 | Swansea City | 9 | 1 |
-| 2001–2014 | Chelsea | 429 | 147 |
-| 2014–2015 | Manchester City | 32 | 6 |
-| 2015–2016 | New York City FC | 29 | 15 |
-| Total | Total | 647 | 193 |
+| 1995–2000 | West Ham United | 187 | 39 |
+| 1995 | Swansea City (loan) | 11 | 1 |
+| 2001–2013 | Chelsea | 648 | 211 |
+| 2014 | Manchester City | 38 | 8 |
+| 2015–2016 | New York City FC | 31 | 15 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -76,15 +68,31 @@ At Chelsea, Lampard won three Premier League titles, the UEFA Champions League ,
 فرانك جيمس لامبارد ( الإنجليزية : Frank James Lampard ) (مواليد 20 يونيو 1978) لاعب كرة قدم إنجليزي محترف سابق. [ 5 ] يعتبر من أفضل لاعبي خط الوسط في جيله. [ 6 ] يشغل حالياً منصب المدير الفني لنادي كوفنتري سيتي الذي ينافس في دوري البطولة الإنجليزية .
 
 ### Arabic Achievements
-_No honours section found._
+- مع كلاعب وست هام يونايتد: كأس إنترتوتو (1)
+- مع كلاعب تشيلسي: الدوري الإنجليزي الممتاز (3)
+- مع ألقابه الشخصية: أعلى لاعب خط وسط تسجيلا للأهداف في الدوري الإنجليزي بواقع 176 هدفا. يعد أكثر لاعبين الوسط تسجيلا للأهداف بالعالم.
+- مع الإنجازات: ثاني أفضل لاعب بالعالم في موسم 2005.
+- مع كلاعب تشيلسي: كأس الاتحاد الإنجليزي (4)
+- مع كلاعب تشيلسي: كأس رابطة الأندية الإنجليزية المحترفة (2)
+- مع كلاعب تشيلسي: درع الاتحاد الإنجليزي (2)
+- مع كلاعب تشيلسي: دوري أبطال أوروبا (1)
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 274
+- Senior national team goals total: 29
+- Senior career goals total: 303
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1995–2000 | وست هام يونايتد | 187 | 39 |
+| 2001–2013 | تشيلسي | 648 | 211 |
+| 2014 | مانشستر سيتي | 38 | 8 |
+| 2015–2016 | نيويورك سيتي | 31 | 15 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997–2000 | إنجلترا تحت 21 | 19 | 9 |
+| 1998 | إنجلترا ب | 1 | 0 |
+| 1999–2014 | إنجلترا | 106 | 29 |

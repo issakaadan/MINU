@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q102027
-- Generated At (UTC): 2026-07-13T08:51:50+00:00
+- Generated At (UTC): 2026-07-13T12:08:35+00:00
 - English Name: Fabio Cannavaro
 - Arabic Name: فابيو كانافارو
 - Birth Year: 1973
@@ -36,14 +36,7 @@ A centre-back , he spent the majority of his career in Italy. He started his car
 Cannavaro was part of the Italy team which won consecutive UEFA European Under-21 Championships in 1994 and 1996. After earning his first senior cap in 1997, he helped his national team to the final of UEFA Euro 2000 , being named in the team of the tournament, and became captain in 2002, following Paolo Maldini 's retirement.
 
 ### English Achievements
-- With Parma: Coppa Italia
-- With Juventus: Serie A
-- With Real Madrid: La Liga
-- With Italy U-21: UEFA European Under-21 Championship
-- With Italy: FIFA World Cup
-- Individual: UEFA Under-21 Championship Golden Player
-- With Tianjin Quanjian: China League One
-- With Guangzhou Evergrande: Chinese Super League
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 19
@@ -53,14 +46,12 @@ Cannavaro was part of the Italy team which won consecutive UEFA European Under-2
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1991–1995 | Napoli | 58 | 1 |
-| 1995–2002 | Parma | 212 | 5 |
-| 2002–2004 | Inter Milan | 50 | 2 |
-| 2004–2006 | Juventus | 74 | 6 |
-| 2006–2009 | Real Madrid | 94 | 0 |
-| 2009–2010 | Juventus | 27 | 0 |
-| 2010–2011 | Al Ahli Dubai | 16 | 2 |
-| Total | Total | 531 | 16 |
+| 1992–1994 | Napoli | 68 | 1 |
+| 1995–2001 | Parma | 291 | 5 |
+| 2002–2003 | Inter Milan | 74 | 3 |
+| 2004–2009 | Juventus | 128 | 7 |
+| 2006–2008 | Real Madrid | 118 | 1 |
+| 2010 | Al-Ahli Dubai | 16 | 2 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -81,15 +72,31 @@ Cannavaro was part of the Italy team which won consecutive UEFA European Under-2
 كان كانافارو جزءًا من فريق إيطاليا الذي فاز ببطولة أوروبا تحت 21 عامًا على التوالي في عامي 1994 و1996. وبعد لعبه لأول مباراة دولية في عام 1997، ساعد منتخبه الوطني على الوصول إلى نهائي بطولة أمم أوروبا 2000 ، وتم اختياره ضمن فريق البطولة، وأصبح قائدًا في عام 2002، بعد اعتزال باولو مالديني .
 
 ### Arabic Achievements
-_No honours section found._
+- مع كلاعب بارما: كأس إيطاليا
+- مع كلاعب يوفنتوس: الدوري الإيطالي
+- مع كلاعب ريال مدريد: الدوري الإسباني
+- مع كلاعب إيطاليا تحت 21: بطولة أمم أوروبا تحت 21 سنة
+- مع كلاعب إيطاليا: كأس العالم
+- كلاعب الفردية: أفضل لاعب ذهبي في بطولة أوروبا تحت 21 سنة
+- مع كمدرب تيانجين تيانهاي: الدوري الصيني الدرجة الأولى
+- مع كمدرب غوانجو: دوري السوبر الصيني
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 19
+- Senior national team goals total: 2
+- Senior career goals total: 21
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1995–2001 | بارما | 291 | 5 |
+| 2002–2003 | إنتر ميلان | 74 | 3 |
+| 2004–2009 | يوفنتوس | 128 | 7 |
+| 2006–2008 | ريال مدريد | 118 | 1 |
+| 2010 | شباب الأهلي | 16 | 2 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1993–1996 | إيطاليا تحت 21 سنة | 21 | 0 |
+| 1997–2010 | إيطاليا | 136 | 2 |

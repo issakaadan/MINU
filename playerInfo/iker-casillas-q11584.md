@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q11584
-- Generated At (UTC): 2026-07-13T08:49:16+00:00
+- Generated At (UTC): 2026-07-13T12:06:34+00:00
 - English Name: Iker Casillas
 - Arabic Name: إيكر كاسياس
 - Birth Year: 1981
@@ -34,14 +34,7 @@ Iker Casillas Fernández ( Spanish pronunciation: [ˈikeɾ kaˈsiʎas feɾˈnand
 At club level, Casillas started his career with the Real Madrid youth team , eventually gaining promotion to the main team in 1999, where he became the youngest goalkeeper to play in the final of the Champions League , and to win the title, at 19 years and four days. Casillas became the first choice goalkeeper at Real Madrid, winning two Champions Leagues and La Liga titles in his first three seasons, establishing himself as one of the best goalkeepers in the world. During his highly successful career in Madrid, Casillas won all major club titles, including five La Liga titles, four Supercopa de España titles, two Copa del Rey titles, three UEFA Champions Leagues , two UEFA Super Cups , two Intercontinental Cups and the FIFA Club World Cup . After 25 years with Real Madrid, Casillas joined FC Porto in 2015 on a free transfer, where he won the Primeira Liga and a Supertaça Cândido de Oliveira title. While at Porto, he broke the record for most consecutive seasons played in the UEFA Champions League (20) and amassed the most appearances in the competition (177). He ended his playing career in February 2020, after almost a year on the sidelines following a heart attack he suffered during a training session with Porto in May 2019.
 
 ### English Achievements
-- With Real Madrid C: Tercera División
-- With Real Madrid: La Liga
-- With Porto: Primeira Liga
-- With Spain Youth: UEFA European U-16 Championship
-- With Spain: FIFA World Cup
-- Individual: Bravo Award
-- Records: Second-most appearances in the UEFA Champions League
-- With Real Madrid: Copa del Rey
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 0
@@ -51,11 +44,10 @@ At club level, Casillas started his career with the Real Madrid youth team , eve
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1998–1999 | Real Madrid C | 27 | 0 |
+| 1998 | Real Madrid C | 33 | 0 |
 | 1999–2000 | Real Madrid B | 4 | 0 |
-| 1999–2015 | Real Madrid | 510 | 0 |
-| 2015–2020 | Porto | 116 | 0 |
-| Total | Total | 657 | 0 |
+| 1999–2014 | Real Madrid | 725 | 0 |
+| 2015–2019 | Porto | 156 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -79,15 +71,34 @@ At club level, Casillas started his career with the Real Madrid youth team , eve
 بدأ كاسياس مسيرته مع الفئات السنية لنادي ريال مدريد في عام 1990. بعد حصوله على ترقية إلى الفريق الأول في عام 1999، بقي مع النادي لمدة 16 موسم، بعد ذلك خدم النادي كقائد. خلال الفترة الناجحة للغاية التي قضاها مع ريال مدريد ، فاز بخمسة ألقاب في الدوري الإسباني ولقبين في كأس ملك إسبانيا وأربعة ألقاب في كأس السوبر الإسباني وثلاثة ألقاب في دوري أبطال أوروبا ولقبين في كأس السوبر الأوروبي ولقب كأس الإنتركونتيننتال ولقب كأس العالم للأندية . ومع 725 مباراة شارك فيها كاسياس مع النادي الملكي يُعتبر هو ثاني أكثر لاعب مشاركة مع ريال مدريد عبر التاريخ بعد راؤول . [ 14 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي: الدوري الإسباني الدرجة الثالثة (1)
+- مع النادي: الدوري الإسباني (5)
+- مع النادي: الدوري البرتغالي (2)
+- مع المنتخب: كأس العالم (1)
+- الفردية: جائزة برافو (1)
+- مع أرقام قياسية: أكثر لاعب شارك في دوري أبطال أوروبا
+- مع النادي: كأس ملك إسبانيا (2)
+- مع النادي: كأس السوبر الإسباني (4)
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 0
+- Senior national team goals total: 0
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1999–2000 | ريال مدريد ب | 4 | 0 |
+| 1999–2014 | ريال مدريد | 1450 | 0 |
+| 2015–2019 | بورتو | 312 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1996 | إسبانيا تحت 15 | 1 | 0 |
+| 1996–1998 | إسبانيا تحت 16 | 19 | 0 |
+| 1997–1999 | إسبانيا تحت 17 | 10 | 0 |
+| 1999 | إسبانيا تحت 18 | 4 | 0 |
+| 1999 | إسبانيا تحت 20 | 2 | 0 |
+| 1999–2000 | إسبانيا تحت 21 | 5 | 0 |
+| 2000–2016 | إسبانيا | 167 | 0 |

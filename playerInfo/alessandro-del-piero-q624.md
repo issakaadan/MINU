@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q624
-- Generated At (UTC): 2026-07-13T08:51:18+00:00
+- Generated At (UTC): 2026-07-13T12:08:09+00:00
 - English Name: Alessandro Del Piero
 - Arabic Name: أليساندرو دل بييرو
 - Birth Year: 1974
@@ -34,14 +34,7 @@ Alessandro Del Piero Ufficiale OMRI [ 3 ] [ 4 ] ( Italian pronunciation: [alesˈ
 A prolific goal-scorer, he is currently the second highest all-time Italian top-scorer in all competitions , with 346 goals, behind only Silvio Piola , with 390 goals; he is also the joint ninth highest goalscorer in Serie A history , with 188 goals, alongside Giuseppe Signori and Alberto Gilardino . [ 15 ] [ 16 ] [ 17 ] [ 18 ] [ 19 ] [ 20 ] After beginning his career with Italian club Padova in Serie B in 1991, he moved to Juventus in 1993, where he played for 19 seasons (11 as captain ), and holds the club records for most goals (290) and appearances (705). During his time at the club, he won six Serie A titles, the Coppa Italia , four Supercoppa Italiana titles, the UEFA Champions League , the UEFA Super Cup , the UEFA Intertoto Cup , and the Intercontinental Cup . After leaving the club in 2012, he also spent two seasons with Australian side Sydney FC ; he retired in 2014, after a season with Delhi Dynamos FC in the Indian Super League .
 
 ### English Achievements
-- With Juventus Primavera: Campionato Nazionale Primavera
-- With Juventus: Serie A
-- With Italy: FIFA World Cup
-- Individual: 1996 Intercontinental Cup MVP Award
-- With Juventus Primavera: Torneo di Viareggio
-- With Juventus: Serie B
-- With Juventus: Coppa Italia
-- With Juventus: Supercoppa Italiana
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 316
@@ -51,11 +44,10 @@ A prolific goal-scorer, he is currently the second highest all-time Italian top-
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1991–1993 | Padova | 14 | 1 |
-| 1993–2012 | Juventus | 513 | 208 |
-| 2012–2014 | Sydney FC | 48 | 24 |
+| 1991–1992 | Padova | 14 | 1 |
+| 1993–2011 | Juventus | 705 | 290 |
+| 2012–2013 | Sydney FC | 48 | 24 |
 | 2014 | Delhi Dynamos | 10 | 1 |
-| Total | Total | 585 | 234 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -78,15 +70,33 @@ A prolific goal-scorer, he is currently the second highest all-time Italian top-
 يعتبر من أعظم اللاعبين في إيطاليا على مر العصور [ 10 ] حيث استطاع دل بييرو أن يحرز في جميع البطولات التي لعب فيها، [ 11 ] وهو واحد ضمن قائمة أفضل 125 لاعب كرة قدم حي والتي اُختيرت في احتفالات الفيفا بعيدها المئوي والتي قام باختيارها الأسطورة البرازيلي بيليه ، [ 12 ] أيضا اُختير في أفضل لاعبي كرة القدم الأوروبية بمناسبة اليوبيل الذهبي . [ 13 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع يوفنتوس: الدوري الإيطالي الدرجة الأولى (6)
+- مع يوفنتوس: الدوري الإيطالي الدرجة الثانية (1)
+- مع إيطاليا: كأس العالم (1)
+- مع يوفنتوس: كأس إيطاليا لكرة القدم (1)
+- مع يوفنتوس: كأس السوبر الإيطالي (4)
+- مع يوفنتوس: دوري أبطال أوروبا (1)
+- مع يوفنتوس: كأس السوبر الأوروبي (1)
+- مع يوفنتوس: كأس إنترتوتو (1)
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 468
+- Senior national team goals total: 27
+- Senior career goals total: 495
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1991–1993 | بادوفا | 14 | 1 |
+| 1993–2012 | يوفنتوس | 513 | 208 |
+| 2012–2014 | سيدني | 48 | 24 |
+| 2014 | دلهي ديناموس | 10 | 1 |
+| - | مجموع | 585 | 234 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1991 | إيطاليا تحت 17 سنة | 3 | 1 |
+| 1992–1993 | إيطاليا تحت 18 سنة | 14 | 12 |
+| 1993–1996 | إيطاليا تحت 21 سنة | 12 | 3 |
+| 1995–2008 | إيطاليا | 91 | 27 |

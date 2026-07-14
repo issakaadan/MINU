@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1835
-- Generated At (UTC): 2026-07-13T08:47:52+00:00
+- Generated At (UTC): 2026-07-13T12:05:29+00:00
 - English Name: Zinedine Zidane
 - Arabic Name: زين الدين زيدان
 - Birth Year: 1972
@@ -34,14 +34,7 @@ Zinedine Yazid Zidane [ A ] ( French: [zinedin zidan] ; [ 4 ] born 23 June 1972)
 Zidane started his career at Cannes before establishing himself as one of the best players in the French Ligue 1 at Bordeaux . In 1996, he moved to Italian club Juventus , where he won two Serie A titles and played in consecutive UEFA Champions League finals in 1997 and 1998 . He moved to Real Madrid for a world-record fee at the time of €77.5 million in 2001, which remained a record for the next eight years. In Spain, Zidane won several trophies, including a La Liga title and the Champions League. In the 2002 Champions League final , he scored a left-foot volleyed winner that is considered one of the greatest goals in football history. In 2012 and 2017, respectively, Zidane was named in Real Madrid's and Juventus's greatest XI of all time.
 
 ### English Achievements
-- With Bordeaux: UEFA Intertoto Cup
-- With Juventus: Serie A
-- With Real Madrid: La Liga
-- With France U16: Syrenka Cup
-- With France: FIFA World Cup
-- Individual: French Division 1 Young Player of the Year
-- Individual: La Liga Manager of the Month
-- Orders [ edit ]: Knight of the Legion of Honour
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 125
@@ -51,11 +44,10 @@ Zidane started his career at Cannes before establishing himself as one of the be
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1989–1992 | Cannes | 61 | 6 |
-| 1992–1996 | Bordeaux | 139 | 28 |
-| 1996–2001 | Juventus | 151 | 24 |
-| 2001–2006 | Real Madrid | 155 | 37 |
-| Total | Total | 506 | 95 |
+| 1988–1991 | Cannes | 71 | 6 |
+| 1992–1995 | Bordeaux | 179 | 39 |
+| 1996–2000 | Juventus | 214 | 31 |
+| 2001–2005 | Real Madrid | 230 | 49 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -76,15 +68,33 @@ Zidane started his career at Cannes before establishing himself as one of the be
 بدأ زيدان مسيرته المهنية في نادي كان قبل أن يثبت نفسه كواحد من أفضل اللاعبين في الدوري الفرنسي مع بوردو . في عام 1996، انتقل إلى يوفنتوس حيث فاز معهم بألقاب من بينها لقبان في الدوري الإيطالي . انتقل إلى ريال مدريد مقابل رسوم انتقال قياسية في ذلك الوقت بلغت 77.5 مليون يورو في عام 2001، والذي ظل مسجل باسمه على مدار السنوات الثماني التالية. في إسبانيا ، فاز زيدان بالعديد من الألقاب، بما في ذلك لقب الدوري الإسباني ودوري أبطال أوروبا . في نهائي دوري أبطال أوروبا 2002 ، سجل هدفًا بالقدم اليسرى والذي يُعتبر أحد أعظم الأهداف في تاريخ المسابقة. [ 18 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع لاعبًا بوردو: كأس إنترتوتو
+- مع لاعبًا يوفنتوس: الدوري الإيطالي
+- مع لاعبًا ريال مدريد: الدوري الإسباني 2002–03
+- مع لاعبًا فرنسا: كأس العالم
+- لاعبًا الفردية: أفضل لاعب شاب في دوري الدرجة الأولى الفرنسي
+- مع مدربًا ريال مدريد: الدوري الإسباني
+- مدربًا الفردية: مدرب الشهر في الدوري الإسباني
+- الأوسمة: وسام جوقة الشرف
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 190
+- Senior national team goals total: 31
+- Senior career goals total: 221
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1989–1992 | كان | 61 | 6 |
+| 1992–1996 | بوردو | 139 | 28 |
+| 1996–2001 | يوفنتوس | 151 | 24 |
+| 2001–2006 | ريال مدريد | 155 | 37 |
+| - | مجموع | 506 | 95 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1988–1989 | فرنسا تحت 17 | 4 | 1 |
+| 1989–1990 | فرنسا تحت 18 | 6 | 0 |
+| 1990–1994 | فرنسا تحت 21 | 20 | 3 |
+| 1994–2006 | فرنسا | 108 | 31 |
