@@ -38,6 +38,7 @@ PLAYER_SYNC_FIELDS = (
 
 LEVEL_ONE_MIN_FAME = 80
 LEVEL_TWO_MIN_FAME = 35
+LEVEL_THREE_MIN_FAME = 20
 VALID_POSITION_GROUPS = {"goalkeeper", "defender", "midfielder", "forward"}
 CURRENT_YEAR = datetime.now().year
 
@@ -51,7 +52,9 @@ def _difficulty_from_fame(score: int) -> int:
         return 1
     if score >= LEVEL_TWO_MIN_FAME:
         return 2
-    return 3
+    if score >= LEVEL_THREE_MIN_FAME:
+        return 3
+    return 4
 
 
 def _normalize_string_list(values: list[Any]) -> list[str]:

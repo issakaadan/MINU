@@ -183,7 +183,7 @@ class AdminPlayerWrite(BaseModel):
     name: str = Field(min_length=1, max_length=160)
     name_ar: str = Field(default="", max_length=160)
     image_url: str = Field(min_length=1, max_length=500)
-    difficulty: int = Field(ge=1, le=3)
+    difficulty: int = Field(ge=1, le=4)
     fame_score: int = Field(ge=0, le=10000)
     birth_year: int = Field(ge=1860, le=2100)
     gender_key: str = Field(default="male", max_length=16)
@@ -353,7 +353,7 @@ class AdminAssistantDeleteRead(BaseModel):
 
 
 class StartRoundRequest(BaseModel):
-    difficulty: int = Field(ge=1, le=3)
+    difficulty: int = Field(ge=1, le=4)
     recent_player_ids: list[int] = Field(default_factory=list, max_length=24)
 
 
@@ -461,7 +461,7 @@ class RevealResponse(BaseModel):
 
 
 class MatchCreateRequest(BaseModel):
-    difficulty: int = Field(ge=1, le=3)
+    difficulty: int = Field(ge=1, le=4)
     mode_key: str = Field(min_length=1, max_length=64)
     player_names: list[str] = Field(
         default_factory=lambda: ["اللاعب 1", "اللاعب 2"],

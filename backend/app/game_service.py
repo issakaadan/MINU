@@ -74,13 +74,23 @@ DIFFICULTY_CONFIG = {
     },
     3: {
         "label": "لفل 3",
-        "description": "الأصعب والأقل شهرة بالعالم.",
+        "description": "لاعبون أقل شهرة ويحتاجون معرفة كروية جيدة.",
         "base_points": 62,
         "max_questions_range": (6, 6),
         "guess_limit": 3,
         "image_mode": "clear",
         "prohibited_count": 2,
         "question_penalty": 3,
+    },
+    4: {
+        "label": "لفل 4",
+        "description": "الأصعب: لاعبون محدودو الشهرة عالمياً.",
+        "base_points": 82,
+        "max_questions_range": (6, 6),
+        "guess_limit": 3,
+        "image_mode": "clear",
+        "prohibited_count": 2,
+        "question_penalty": 4,
     },
 }
 

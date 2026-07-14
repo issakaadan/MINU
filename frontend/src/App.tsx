@@ -3351,7 +3351,7 @@ function AdminScreen({
               <input className="input" onChange={(event) => updatePlayerForm("image_url", event.target.value)} placeholder="رابط الصورة" value={playerForm.image_url} />
               <input className="input" onChange={(event) => updatePlayerForm("current_team_ar", event.target.value)} placeholder="النادي بالعربي" value={playerForm.current_team_ar} />
               <input className="input" onChange={(event) => updatePlayerForm("current_team", event.target.value)} placeholder="النادي بالإنجليزي" value={playerForm.current_team} />
-              <input className="input" min={1} max={3} onChange={(event) => updatePlayerForm("difficulty", Number(event.target.value) || 1)} placeholder="اللفل" type="number" value={playerForm.difficulty} />
+              <input className="input" min={1} max={4} onChange={(event) => updatePlayerForm("difficulty", Number(event.target.value) || 1)} placeholder="اللفل" type="number" value={playerForm.difficulty} />
               <input className="input" min={0} onChange={(event) => updatePlayerForm("fame_score", Number(event.target.value) || 0)} placeholder="الشعبية" type="number" value={playerForm.fame_score} />
               <input className="input" min={1860} onChange={(event) => updatePlayerForm("birth_year", Number(event.target.value) || 1900)} placeholder="سنة الميلاد" type="number" value={playerForm.birth_year} />
               <select className="input" onChange={(event) => updatePlayerForm("position_group", event.target.value as AdminPlayerFormState["position_group"])} value={playerForm.position_group}>

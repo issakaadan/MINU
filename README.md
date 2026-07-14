@@ -6,7 +6,7 @@
 
 - Arabic interface with the `Minu / منو` brand
 - 500+ male football players only
-- 3 popularity-based difficulty levels
+- 4 popularity-based difficulty levels
 - Match modes, optional twists, QR player-card flow, and notes
 - Login-protected host experience
 - Public player-card pages that stay mobile-friendly

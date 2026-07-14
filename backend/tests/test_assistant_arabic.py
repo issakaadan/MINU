@@ -16,6 +16,8 @@ from app.core.database import SessionLocal
 from app.models import Player
 from app.schemas import SharedPlayerCardRead
 from app.seed import seed_database
+from app.seed import _difficulty_from_fame
+from app.game_service import DIFFICULTY_CONFIG
 
 
 def build_payload(player: Player) -> SharedPlayerCardRead:
@@ -104,6 +106,17 @@ class AssistantArabicRegressionTests(unittest.TestCase):
         answer = answer_card_question(self.db, self.payload, "What is the capital of France?", "en")
         self.assertIsNone(answer.intent_key)
         self.assertEqual("I can't answer this question.", answer.answer)
+
+
+class PlayerPopularityLevelTests(unittest.TestCase):
+    def test_four_popularity_levels_are_configured(self) -> None:
+        self.assertEqual([1, 2, 3, 4], sorted(DIFFICULTY_CONFIG))
+
+    def test_fame_boundaries_map_to_expected_levels(self) -> None:
+        cases = {220: 1, 80: 1, 79: 2, 35: 2, 34: 3, 20: 3, 19: 4, 0: 4}
+        for fame_score, expected_level in cases.items():
+            with self.subTest(fame_score=fame_score):
+                self.assertEqual(expected_level, _difficulty_from_fame(fame_score))
 
 
 if __name__ == "__main__":

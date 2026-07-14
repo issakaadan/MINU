@@ -182,7 +182,7 @@ def get_admin_overview(request: Request, db: Session = Depends(get_db)) -> Admin
 @router.get("/players", response_model=AdminPlayersPageRead)
 def get_admin_players(
     q: str = Query(default="", max_length=120),
-    difficulty: int | None = Query(default=None, ge=1, le=3),
+    difficulty: int | None = Query(default=None, ge=1, le=4),
     active: bool | None = Query(default=None),
     offset: int = Query(default=0, ge=0),
     limit: int = Query(default=24, ge=1, le=120),

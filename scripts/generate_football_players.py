@@ -32,9 +32,10 @@ DIFFICULTY_BUCKETS = [
     {"difficulty": 4, "min_links": 10, "max_links": 20},
     {"difficulty": 5, "min_links": 3, "max_links": 10},
 ]
-OUTPUT_DIFFICULTY_LEVELS = 3
+OUTPUT_DIFFICULTY_LEVELS = 4
 LEVEL_ONE_MIN_FAME = 80
 LEVEL_TWO_MIN_FAME = 35
+LEVEL_THREE_MIN_FAME = 20
 
 MANUAL_EXCLUSIONS = {
     "Albert Camus",
@@ -103,7 +104,9 @@ def difficulty_from_fame(score: int) -> int:
         return 1
     if score >= LEVEL_TWO_MIN_FAME:
         return 2
-    return 3
+    if score >= LEVEL_THREE_MIN_FAME:
+        return 3
+    return 4
 
 
 def fetch_json(url: str, attempts: int = 5, timeout: int = 90) -> Any:
