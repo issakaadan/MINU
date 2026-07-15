@@ -1556,7 +1556,12 @@ textarea::placeholder {
   width: 100% !important;
   height: 100% !important;
   min-height: 58vh;
-  object-fit: cover;
+  object-fit: contain;
+  background: #000;
+}
+
+.mobile-card-scanner--open #qr-shaded-region {
+  border-color: transparent !important;
 }
 
 .assistant-card strong {

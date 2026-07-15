@@ -4721,18 +4721,7 @@ function PublicCardScreen({ payload }: { payload: string }) {
           { facingMode: "environment" },
           {
             fps: 12,
-            aspectRatio: 1,
             disableFlip: false,
-            videoConstraints: {
-              facingMode: "environment",
-              width: { ideal: 1920 },
-              height: { ideal: 1080 },
-              advanced: [{ focusMode: "continuous" } as MediaTrackConstraintSet],
-            },
-            qrbox: (viewfinderWidth, viewfinderHeight) => {
-              const size = Math.floor(Math.min(viewfinderWidth, viewfinderHeight) * 0.76);
-              return { width: size, height: size };
-            },
           },
           (decodedText) => {
             const nextPayload = extractCardPayload(decodedText);
