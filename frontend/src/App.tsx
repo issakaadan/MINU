@@ -4757,11 +4757,11 @@ function PublicCardScreen({ payload }: { payload: string }) {
         return scanner.start(
           {
             facingMode: { ideal: "environment" },
-            width: { ideal: 1920 },
-            height: { ideal: 1080 },
+            width: { ideal: 1280 },
+            height: { ideal: 720 },
           },
           {
-            fps: 24,
+            fps: 15,
             disableFlip: true,
             qrbox: (viewfinderWidth, viewfinderHeight) => {
               const size = Math.floor(Math.min(viewfinderWidth, viewfinderHeight) * 0.88);

@@ -1506,28 +1506,20 @@ textarea::placeholder {
 }
 
 .mobile-card-scanner--open {
-  position: fixed;
-  inset: 0;
-  z-index: 1000;
-  display: block;
-  width: 100vw;
-  height: 100vh;
-  height: 100dvh;
-  margin: 0;
-  padding: 0;
-  border: 0;
-  border-radius: 0;
+  position: relative;
+  display: grid;
+  width: 100%;
+  margin-top: 1rem;
+  padding: 0.85rem;
+  border: 1px solid var(--line);
+  border-radius: 18px;
   background: #000;
   overflow: hidden;
 }
 
 .mobile-card-scanner--open > .primary-button {
-  position: absolute;
-  z-index: 4;
-  top: max(0.75rem, env(safe-area-inset-top));
-  left: 1rem;
-  right: 1rem;
-  width: auto;
+  position: static;
+  width: 100%;
   min-height: 52px;
 }
 
@@ -1555,22 +1547,20 @@ textarea::placeholder {
 }
 
 .mobile-card-scanner--open #minu-card-scanner {
-  position: absolute;
-  inset: 0;
-  width: 100vw;
+  position: relative;
+  width: 100%;
   max-width: none;
-  height: 100vh;
-  height: 100dvh;
+  height: min(68dvh, 680px);
+  min-height: 360px;
   margin: 0;
-  border-radius: 0;
+  border-radius: 14px;
   background: #000;
 }
 
 .mobile-card-scanner--open #minu-card-scanner__scan_region {
   width: 100% !important;
   height: 100% !important;
-  min-height: 100vh !important;
-  min-height: 100dvh !important;
+  min-height: 360px !important;
   overflow: hidden;
   position: relative;
 }
@@ -1584,8 +1574,7 @@ textarea::placeholder {
   display: block;
   width: 100% !important;
   height: 100% !important;
-  min-height: 100vh !important;
-  min-height: 100dvh !important;
+  min-height: 360px !important;
   object-fit: cover;
   background: #000;
 }
@@ -1597,26 +1586,17 @@ textarea::placeholder {
 .mobile-card-scanner__live-help,
 .mobile-card-scanner__capture,
 .mobile-card-scanner--open > .form-error {
-  position: absolute;
-  z-index: 4;
-  left: 1rem;
-  right: 1rem;
+  position: static;
 }
 
 .mobile-card-scanner__live-help {
-  bottom: calc(max(5.5rem, env(safe-area-inset-bottom) + 5.5rem));
   padding: 0.45rem 0.7rem;
   border-radius: 10px;
   background: rgba(0, 0, 0, 0.62);
   text-align: center;
 }
 
-.mobile-card-scanner__capture {
-  bottom: max(1rem, env(safe-area-inset-bottom));
-}
-
 .mobile-card-scanner--open > .form-error {
-  top: calc(max(0.75rem, env(safe-area-inset-top)) + 4rem);
   padding: 0.6rem;
   border-radius: 10px;
   background: rgba(55, 0, 0, 0.82);
