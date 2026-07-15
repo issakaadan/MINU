@@ -219,16 +219,20 @@ def get_player_share_token(
 
 
 def _enforce_player_card_identity(request: Request, response: Response, card: SharedPlayerCardRead) -> None:
-    identity = auth_manager.read_card_identity_token(request.cookies.get(PLAYER_CARD_IDENTITY_COOKIE, ""))
-    if identity is not None and identity[0] == card.m and identity[1] != card.s:
+    bindings = auth_manager.read_card_identity_token(request.cookies.get(PLAYER_CARD_IDENTITY_COOKIE, "")) or {}
+    assigned_seat = bindings.get(card.m)
+    if assigned_seat is not None and assigned_seat != card.s:
         raise HTTPException(
             status_code=status.HTTP_403_FORBIDDEN,
             detail="هذه البطاقة مخصصة للاعب آخر في هذه المباراة.",
         )
-    if identity is None or identity[0] != card.m:
+    if assigned_seat is None:
+        # Keep prior game bindings so joining a new game cannot unlock an older one.
+        bindings = dict(list(bindings.items())[-19:])
+        bindings[card.m] = card.s
         response.set_cookie(
             PLAYER_CARD_IDENTITY_COOKIE,
-            auth_manager.create_card_identity_token(card.m, card.s),
+            auth_manager.create_card_identity_token(bindings),
             max_age=DEFAULT_MATCH_LINK_HOURS * 3600,
             httponly=True,
             secure=request.url.scheme == "https",

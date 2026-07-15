@@ -145,8 +145,11 @@ class PlayerCardLifetimeTests(unittest.TestCase):
         self.assertLessEqual(token_payload["exp"] - issued_at, 900)
 
     def test_player_card_identity_is_signed_and_bound_to_seat(self) -> None:
-        token = auth_manager.create_card_identity_token("match-123", 2)
-        self.assertEqual(("match-123", 2), auth_manager.read_card_identity_token(token))
+        token = auth_manager.create_card_identity_token({"match-123": 2, "match-456": 4})
+        self.assertEqual(
+            {"match-123": 2, "match-456": 4},
+            auth_manager.read_card_identity_token(token),
+        )
 
         payload, signature = token.split(".", 1)
         replacement = "A" if signature[-1] != "A" else "B"

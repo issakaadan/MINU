@@ -256,11 +256,11 @@ class AuthManager:
 
         return content
 
-    def create_card_identity_token(self, match_id: str, seat: int) -> str:
+    def create_card_identity_token(self, bindings: dict[str, int]) -> str:
         material = self.get_material()
         expires_at = datetime.now(timezone.utc) + timedelta(hours=DEFAULT_MATCH_LINK_HOURS)
         payload_text = json.dumps(
-            {"m": match_id, "s": seat, "exp": int(expires_at.timestamp())},
+            {"b": bindings, "exp": int(expires_at.timestamp())},
             separators=(",", ":"),
         )
         payload_token = _urlsafe_b64encode(payload_text.encode("utf-8"))
@@ -271,7 +271,7 @@ class AuthManager:
         ).digest()
         return f"{payload_token}.{_urlsafe_b64encode(signature)}"
 
-    def read_card_identity_token(self, token: str) -> tuple[str, int] | None:
+    def read_card_identity_token(self, token: str) -> dict[str, int] | None:
         material = self.get_material()
         try:
             payload_token, signature_token = token.split(".", 1)
@@ -286,14 +286,25 @@ class AuthManager:
             return None
         try:
             payload = json.loads(_urlsafe_b64decode(payload_token).decode("utf-8"))
-            match_id = str(payload["m"])
-            seat = int(payload["s"])
             expires_at = int(payload["exp"])
         except (KeyError, TypeError, ValueError, json.JSONDecodeError):
             return None
-        if not match_id or seat < 1 or expires_at < int(datetime.now(timezone.utc).timestamp()):
+        if expires_at < int(datetime.now(timezone.utc).timestamp()):
             return None
-        return match_id, seat
+
+        # Accept the original single-match cookie and migrate it on the next scan.
+        raw_bindings = payload.get("b")
+        if raw_bindings is None and "m" in payload and "s" in payload:
+            raw_bindings = {str(payload["m"]): payload["s"]}
+        if not isinstance(raw_bindings, dict):
+            return None
+        try:
+            bindings = {str(match_id): int(seat) for match_id, seat in raw_bindings.items()}
+        except (TypeError, ValueError):
+            return None
+        if not bindings or any(not match_id or seat < 1 for match_id, seat in bindings.items()):
+            return None
+        return bindings
 
     def create_match_token(self, payload: dict[str, object]) -> str:
         material = self.get_material()
