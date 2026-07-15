@@ -10,7 +10,12 @@ from reportlab.lib import colors
 from sqlalchemy.orm import Session
 
 from app.assistant_service import answer_card_question
-from app.core.auth import auth_manager, require_authenticated_user
+from app.core.auth import (
+    DEFAULT_MATCH_LINK_HOURS,
+    PLAYER_CARD_IDENTITY_COOKIE,
+    auth_manager,
+    require_authenticated_user,
+)
 from app.core.database import get_db
 from app.core.share_link import read_public_share_url, request_public_base_url
 from app.game_service import game_service, player_to_reveal
@@ -213,18 +218,41 @@ def get_player_share_token(
     return PlayerCardTokenRead(token=auth_manager.create_card_token(payload.model_dump()))
 
 
+def _enforce_player_card_identity(request: Request, response: Response, card: SharedPlayerCardRead) -> None:
+    identity = auth_manager.read_card_identity_token(request.cookies.get(PLAYER_CARD_IDENTITY_COOKIE, ""))
+    if identity is not None and identity[0] == card.m and identity[1] != card.s:
+        raise HTTPException(
+            status_code=status.HTTP_403_FORBIDDEN,
+            detail="هذه البطاقة مخصصة للاعب آخر في هذه المباراة.",
+        )
+    if identity is None or identity[0] != card.m:
+        response.set_cookie(
+            PLAYER_CARD_IDENTITY_COOKIE,
+            auth_manager.create_card_identity_token(card.m, card.s),
+            max_age=DEFAULT_MATCH_LINK_HOURS * 3600,
+            httponly=True,
+            secure=request.url.scheme == "https",
+            samesite="strict",
+            path="/",
+        )
+
+
 @public_router.get("/card/{token}", response_model=SharedPlayerCardRead)
-def get_public_player_card(token: str) -> SharedPlayerCardRead:
+def get_public_player_card(token: str, request: Request, response: Response) -> SharedPlayerCardRead:
     payload = auth_manager.read_card_token(token)
     if payload is None:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="البطاقة مو موجودة")
-    return SharedPlayerCardRead.model_validate(payload)
+    card = SharedPlayerCardRead.model_validate(payload)
+    _enforce_player_card_identity(request, response, card)
+    return card
 
 
 @public_router.post("/card/{token}/assistant", response_model=CardAssistantAnswerRead)
 def ask_public_player_card_assistant(
     token: str,
     payload: CardAssistantQuestionRequest,
+    request: Request,
+    response: Response,
     db: Session = Depends(get_db),
 ) -> CardAssistantAnswerRead:
     card_payload = auth_manager.read_card_token(token)
@@ -232,4 +260,5 @@ def ask_public_player_card_assistant(
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Ø§Ù„Ø¨Ø·Ø§Ù‚Ø© Ù…Ùˆ Ù…ÙˆØ¬ÙˆØ¯Ø©")
 
     card = SharedPlayerCardRead.model_validate(card_payload)
+    _enforce_player_card_identity(request, response, card)
     return answer_card_question(db, card, payload.question, payload.language)

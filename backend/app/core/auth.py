@@ -19,6 +19,7 @@ from app.core.runtime import get_runtime_paths
 PASSWORD_HASH_ITERATIONS = 310_000
 DEFAULT_USERNAME = "minu-admin"
 DEFAULT_SESSION_COOKIE = "minu_session"
+PLAYER_CARD_IDENTITY_COOKIE = "minu_card_identity"
 DEFAULT_SESSION_HOURS = 24
 CARD_LINK_TTL_MINUTES = 15
 DEFAULT_MATCH_LINK_HOURS = 24
@@ -254,6 +255,45 @@ class AuthManager:
             return None
 
         return content
+
+    def create_card_identity_token(self, match_id: str, seat: int) -> str:
+        material = self.get_material()
+        expires_at = datetime.now(timezone.utc) + timedelta(hours=DEFAULT_MATCH_LINK_HOURS)
+        payload_text = json.dumps(
+            {"m": match_id, "s": seat, "exp": int(expires_at.timestamp())},
+            separators=(",", ":"),
+        )
+        payload_token = _urlsafe_b64encode(payload_text.encode("utf-8"))
+        signature = hmac.new(
+            material.session_secret.encode("utf-8"),
+            f"card-identity:{payload_token}".encode("utf-8"),
+            hashlib.sha256,
+        ).digest()
+        return f"{payload_token}.{_urlsafe_b64encode(signature)}"
+
+    def read_card_identity_token(self, token: str) -> tuple[str, int] | None:
+        material = self.get_material()
+        try:
+            payload_token, signature_token = token.split(".", 1)
+        except ValueError:
+            return None
+        expected_signature = hmac.new(
+            material.session_secret.encode("utf-8"),
+            f"card-identity:{payload_token}".encode("utf-8"),
+            hashlib.sha256,
+        ).digest()
+        if not hmac.compare_digest(_urlsafe_b64encode(expected_signature), signature_token):
+            return None
+        try:
+            payload = json.loads(_urlsafe_b64decode(payload_token).decode("utf-8"))
+            match_id = str(payload["m"])
+            seat = int(payload["s"])
+            expires_at = int(payload["exp"])
+        except (KeyError, TypeError, ValueError, json.JSONDecodeError):
+            return None
+        if not match_id or seat < 1 or expires_at < int(datetime.now(timezone.utc).timestamp()):
+            return None
+        return match_id, seat
 
     def create_match_token(self, payload: dict[str, object]) -> str:
         material = self.get_material()

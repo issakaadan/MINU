@@ -4696,6 +4696,7 @@ function PublicCardScreen({ payload }: { payload: string }) {
 
     let active = true;
     let scanner: Html5Qrcode | null = null;
+    let validatingScan = false;
     const extractCardPayload = (decodedText: string) => {
       try {
         const scannedUrl = new URL(decodedText, window.location.origin);
@@ -4739,15 +4740,36 @@ function PublicCardScreen({ payload }: { payload: string }) {
               setCardScannerError("هذا الرمز ليس بطاقة لاعب من MINU.");
               return;
             }
-            active = false;
-            navigator.vibrate?.(80);
-            const activeScanner = scanner;
-            if (!activeScanner) {
+            if (validatingScan) {
               return;
             }
-            void activeScanner.stop().finally(() => {
-              activeScanner.clear();
-              window.location.replace(`/card/${nextPayload}`);
+            validatingScan = true;
+            void api.getPublicPlayerCard(nextPayload).then((nextCard) => {
+              if (!active) {
+                return;
+              }
+              if (!cardPayload || nextCard.m !== cardPayload.m || nextCard.s !== cardPayload.s) {
+                setCardScannerError("هذه البطاقة مخصصة للاعب آخر في هذه المباراة.");
+                navigator.vibrate?.([60, 50, 60]);
+                validatingScan = false;
+                return;
+              }
+              active = false;
+              navigator.vibrate?.(80);
+              const activeScanner = scanner;
+              if (!activeScanner) {
+                return;
+              }
+              void activeScanner.stop().finally(() => {
+                activeScanner.clear();
+                window.location.replace(`/card/${nextPayload}`);
+              });
+            }).catch((error: Error) => {
+              if (active) {
+                setCardScannerError(error.message || "تعذر التحقق من البطاقة.");
+                navigator.vibrate?.([60, 50, 60]);
+                validatingScan = false;
+              }
             });
           },
           () => undefined,
@@ -4771,7 +4793,7 @@ function PublicCardScreen({ payload }: { payload: string }) {
         activeScanner.clear();
       }
     };
-  }, [cardScannerOpen]);
+  }, [cardPayload, cardScannerOpen]);
 
   useEffect(() => {
     let active = true;
