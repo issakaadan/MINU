@@ -1544,6 +1544,7 @@ textarea::placeholder {
 }
 
 .mobile-card-scanner--open #minu-card-scanner {
+  display: block;
   width: 100%;
   max-width: none;
   min-height: 0;
@@ -1552,10 +1553,24 @@ textarea::placeholder {
   background: #000;
 }
 
-.mobile-card-scanner--open #minu-card-scanner video {
+.mobile-card-scanner--open #minu-card-scanner__scan_region {
   width: 100% !important;
   height: 100% !important;
-  min-height: 58vh;
+  min-height: 58vh !important;
+  overflow: hidden;
+  position: relative;
+}
+
+.mobile-card-scanner--open #minu-card-scanner__scan_region > div {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.mobile-card-scanner--open #minu-card-scanner video {
+  display: block;
+  width: 100% !important;
+  height: 100% !important;
+  min-height: 58vh !important;
   object-fit: contain;
   background: #000;
 }
