@@ -68,22 +68,19 @@ class AssistantArabicRegressionTests(unittest.TestCase):
 
     def test_arabic_career_goals(self) -> None:
         answer = self.ask("كم هدف سجل في مسيرته؟")
-        self.assertIn("427", answer.answer)
+        self.assertEqual("لا أستطيع الإجابة عن هذا السؤال.", answer.answer)
 
     def test_arabic_team_specific_goals(self) -> None:
         answer = self.ask("كم سجل لبرشلونة؟")
-        self.assertIn("130", answer.answer)
-        self.assertIn("برشلونة", answer.answer)
+        self.assertEqual("لا أستطيع الإجابة عن هذا السؤال.", answer.answer)
 
     def test_arabic_club_history(self) -> None:
         answer = self.ask("وش الفرق اللي مر عليها؟")
-        self.assertIn("برشلونة", answer.answer)
-        self.assertIn("مايوركا", answer.answer)
-        self.assertNotIn("على قيد الحياة", answer.answer)
+        self.assertEqual("لا أستطيع الإجابة عن هذا السؤال.", answer.answer)
 
     def test_arabic_achievements_prompt(self) -> None:
         answer = self.ask("ايش اهم شي حققه؟")
-        self.assertIn("أبرز الإنجازات", answer.answer)
+        self.assertEqual("لا أستطيع الإجابة عن هذا السؤال.", answer.answer)
 
     def test_arabic_team_membership(self) -> None:
         answer = self.ask("هل احترف ببرشلونة؟")
@@ -97,15 +94,28 @@ class AssistantArabicRegressionTests(unittest.TestCase):
         answer = answer_card_question(self.db, self.payload, "Did he play for Barcelona?", "en")
         self.assertEqual("Yes", answer.answer)
 
+    def test_every_answer_obeys_the_three_response_contract(self) -> None:
+        allowed_ar = {"نعم", "لا", "لا أستطيع الإجابة عن هذا السؤال."}
+        questions = [
+            "هل لعب مع برشلونة؟",
+            "هل لعب مع ريال مدريد؟",
+            "كم هدف سجل؟",
+            "ما هي عاصمة فرنسا؟",
+            "",
+        ]
+        for question in questions:
+            with self.subTest(question=question):
+                self.assertIn(self.ask(question).answer, allowed_ar)
+
     def test_arabic_semantic_position_paraphrase(self) -> None:
         answer = self.ask("وش وظيفته بالملعب؟")
         self.assertEqual("position", answer.intent_key)
-        self.assertIn("مهاجم", answer.answer)
+        self.assertEqual("لا أستطيع الإجابة عن هذا السؤال.", answer.answer)
 
     def test_arabic_semantic_club_history_paraphrase(self) -> None:
         answer = self.ask("وين لعب قبل ما يعتزل؟")
         self.assertEqual("club_history", answer.intent_key)
-        self.assertIn("برشلونة", answer.answer)
+        self.assertEqual("لا أستطيع الإجابة عن هذا السؤال.", answer.answer)
 
     def test_unrelated_arabic_question_is_refused(self) -> None:
         answer = self.ask("ما عاصمة فرنسا؟")

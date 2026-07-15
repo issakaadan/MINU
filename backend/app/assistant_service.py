@@ -172,7 +172,7 @@ def answer_card_question(
     normalized_question = _normalize_question(question)
     if not normalized_question:
         return CardAssistantAnswerRead(
-            answer="اكتب سؤالك أولاً." if language == "ar" else "Write your question first.",
+            answer=_answer_not_found(language),
             intent_key=None,
             used_sources=["database"],
             matched_argument=None,
@@ -197,7 +197,7 @@ def answer_card_question(
         rag_answer = _answer_from_rag(profile, payload, question, language)
         if rag_answer:
             return CardAssistantAnswerRead(
-                answer=rag_answer,
+                answer=_answer_not_found(language),
                 intent_key=None,
                 used_sources=sorted(profile.used_sources),
                 matched_argument=None,
@@ -237,14 +237,14 @@ def answer_card_question(
     else:
         answer = _answer_from_profile(profile, payload, match.intent_key, language)
 
-    if match.intent_key in {
+    binary_intents = {
         "active_status",
         "alive_status",
         "played_in_competition",
         "played_for_team",
         "national_retired_before_club_retired",
-    }:
-        answer = _binary_answer_only(answer, language)
+    }
+    answer = _game_answer_only(answer, language) if match.intent_key in binary_intents else _answer_not_found(language)
 
     return CardAssistantAnswerRead(
         answer=answer,
@@ -255,8 +255,10 @@ def answer_card_question(
     )
 
 
-def _binary_answer_only(answer: str, language: Literal["ar", "en"]) -> str:
+def _game_answer_only(answer: str, language: Literal["ar", "en"]) -> str:
     normalized = answer.strip().lower()
+    if answer == _answer_not_found(language):
+        return answer
     if language == "ar":
         if normalized.startswith("نعم"):
             return "نعم"
@@ -267,7 +269,7 @@ def _binary_answer_only(answer: str, language: Literal["ar", "en"]) -> str:
             return "Yes"
         if normalized.startswith("no"):
             return "No"
-    return answer
+    return _answer_not_found(language)
 
 
 def _resolve_player(db: Session, payload: SharedPlayerCardRead) -> Player | None:
