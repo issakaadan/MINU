@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState, type FormEvent } from "react";
+import type { Html5Qrcode } from "html5-qrcode";
 
 import { ApiError, api, getQrCodeUrl } from "./game/api";
 import {
@@ -4641,6 +4642,8 @@ function PublicCardScreen({ payload }: { payload: string }) {
   const [cardPayload, setCardPayload] = useState<SharedPlayerCardPayload | null>(null);
   const [cardError, setCardError] = useState("");
   const [cardReplaced, setCardReplaced] = useState(false);
+  const [cardScannerOpen, setCardScannerOpen] = useState(false);
+  const [cardScannerError, setCardScannerError] = useState("");
   const [cardLanguage, setCardLanguage] = useState<CardLanguage>("ar");
   const [assistantQuestion, setAssistantQuestion] = useState("");
   const [assistantAnswer, setAssistantAnswer] = useState("");
@@ -4685,6 +4688,71 @@ function PublicCardScreen({ payload }: { payload: string }) {
       channel?.close();
     };
   }, [payload]);
+
+  useEffect(() => {
+    if (!cardScannerOpen) {
+      return;
+    }
+
+    let active = true;
+    let scanner: Html5Qrcode | null = null;
+    const extractCardPayload = (decodedText: string) => {
+      try {
+        const scannedUrl = new URL(decodedText, window.location.origin);
+        const match = scannedUrl.pathname.match(/\/(?:minu\/|menu\/)?card\/(.+)$/i);
+        return match?.[1]?.trim() ?? "";
+      } catch {
+        return "";
+      }
+    };
+
+    void import("html5-qrcode")
+      .then(({ Html5Qrcode }) => {
+        if (!active) {
+          return;
+        }
+        scanner = new Html5Qrcode("minu-card-scanner");
+        return scanner.start(
+          { facingMode: "environment" },
+          { fps: 10, qrbox: { width: 250, height: 250 } },
+          (decodedText) => {
+            const nextPayload = extractCardPayload(decodedText);
+            if (!active || !nextPayload) {
+              setCardScannerError("هذا الرمز ليس بطاقة لاعب من MINU.");
+              return;
+            }
+            active = false;
+            const activeScanner = scanner;
+            if (!activeScanner) {
+              return;
+            }
+            void activeScanner.stop().finally(() => {
+              activeScanner.clear();
+              window.location.replace(`/card/${nextPayload}`);
+            });
+          },
+          () => undefined,
+        );
+      })
+      .catch(() => {
+        if (active) {
+          setCardScannerError("تعذر تشغيل الكاميرا. اسمح لـ MINU باستخدام الكاميرا وحاول مرة أخرى.");
+        }
+      });
+
+    return () => {
+      active = false;
+      const activeScanner = scanner;
+      if (!activeScanner) {
+        return;
+      }
+      if (activeScanner.isScanning) {
+        void activeScanner.stop().finally(() => activeScanner.clear());
+      } else {
+        activeScanner.clear();
+      }
+    };
+  }, [cardScannerOpen]);
 
   useEffect(() => {
     let active = true;
@@ -4843,6 +4911,21 @@ function PublicCardScreen({ payload }: { payload: string }) {
         <div className="player-panel__brand">
           <BrandMark compact />
         </div>
+        <section className="mobile-card-scanner" dir="rtl">
+          <button
+            className="primary-button"
+            onClick={() => {
+              setCardScannerError("");
+              setCardScannerOpen((current) => !current);
+            }}
+            type="button"
+          >
+            {cardScannerOpen ? "إغلاق الكاميرا" : "مسح بطاقة الجولة التالية"}
+          </button>
+          <small>بعد أول مسح، استخدم هذا الزر لكل جولة حتى تبقى البطاقات في تبويب واحد.</small>
+          {cardScannerOpen ? <div id="minu-card-scanner" /> : null}
+          {cardScannerError ? <p className="form-error">{cardScannerError}</p> : null}
+        </section>
         <div className="public-card-layout">
           <article className="public-card">
             <div className="public-card__media">
