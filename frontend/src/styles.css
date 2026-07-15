@@ -1505,6 +1505,25 @@ textarea::placeholder {
   background: rgba(255, 255, 255, 0.06);
 }
 
+.mobile-card-scanner--open {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  grid-template-rows: auto auto minmax(0, 1fr) auto;
+  align-content: stretch;
+  margin: 0;
+  padding: max(1rem, env(safe-area-inset-top)) 1rem max(1rem, env(safe-area-inset-bottom));
+  border: 0;
+  border-radius: 0;
+  background: #080611;
+  overflow: auto;
+}
+
+.mobile-card-scanner--open > .primary-button {
+  width: 100%;
+  min-height: 52px;
+}
+
 .public-card-sidebar {
   display: grid;
   align-content: start;
@@ -1522,6 +1541,22 @@ textarea::placeholder {
   margin-inline: auto;
   overflow: hidden;
   border-radius: 16px;
+}
+
+.mobile-card-scanner--open #minu-card-scanner {
+  width: 100%;
+  max-width: none;
+  min-height: 0;
+  height: 100%;
+  border-radius: 20px;
+  background: #000;
+}
+
+.mobile-card-scanner--open #minu-card-scanner video {
+  width: 100% !important;
+  height: 100% !important;
+  min-height: 58vh;
+  object-fit: cover;
 }
 
 .assistant-card strong {

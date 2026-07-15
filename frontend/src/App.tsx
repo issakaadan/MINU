@@ -4713,16 +4713,23 @@ function PublicCardScreen({ payload }: { payload: string }) {
         }
         scanner = new Html5Qrcode("minu-card-scanner", {
           formatsToSupport: [Html5QrcodeSupportedFormats.QR_CODE],
+          experimentalFeatures: { useBarCodeDetectorIfSupported: true },
           verbose: false,
         });
         return scanner.start(
           { facingMode: "environment" },
           {
-            fps: 20,
+            fps: 12,
             aspectRatio: 1,
             disableFlip: false,
+            videoConstraints: {
+              facingMode: "environment",
+              width: { ideal: 1920 },
+              height: { ideal: 1080 },
+              advanced: [{ focusMode: "continuous" } as MediaTrackConstraintSet],
+            },
             qrbox: (viewfinderWidth, viewfinderHeight) => {
-              const size = Math.floor(Math.min(viewfinderWidth, viewfinderHeight) * 0.88);
+              const size = Math.floor(Math.min(viewfinderWidth, viewfinderHeight) * 0.76);
               return { width: size, height: size };
             },
           },
@@ -4733,6 +4740,7 @@ function PublicCardScreen({ payload }: { payload: string }) {
               return;
             }
             active = false;
+            navigator.vibrate?.(80);
             const activeScanner = scanner;
             if (!activeScanner) {
               return;
@@ -5051,7 +5059,10 @@ function PublicCardScreen({ payload }: { payload: string }) {
             </article>
           </div>
         </div>
-        <section className="mobile-card-scanner" dir="rtl">
+        <section
+          className={`mobile-card-scanner ${cardScannerOpen ? "mobile-card-scanner--open" : ""}`}
+          dir="rtl"
+        >
           <button
             className="primary-button"
             onClick={() => {
