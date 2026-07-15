@@ -23,6 +23,7 @@ from app.game_service import DIFFICULTY_CONFIG
 from app.player_popularity import difficulty_from_popularity, nationality_popularity_level
 from app.core.auth import CARD_LINK_TTL_MINUTES, _urlsafe_b64decode, auth_manager
 from app.match_service import MatchService
+from app.api.routes.game import _read_shared_card
 
 
 def build_payload(player: Player) -> SharedPlayerCardRead:
@@ -154,6 +155,22 @@ class PlayerCardLifetimeTests(unittest.TestCase):
         payload, signature = token.split(".", 1)
         replacement = "A" if signature[-1] != "A" else "B"
         self.assertIsNone(auth_manager.read_card_identity_token(f"{payload}.{signature[:-1]}{replacement}"))
+
+    def test_compact_player_card_reconstructs_from_catalog(self) -> None:
+        db = SessionLocal()
+        try:
+            seed_database(db)
+            player = db.scalar(select(Player).where(Player.name == "Samuel Eto'o"))
+            self.assertIsNotNone(player)
+            token = auth_manager.create_card_token(
+                {"m": "match-123", "r": 2, "s": 1, "pn": "A", "on": "B", "mk": "test", "pid": player.id}
+            )
+            card = _read_shared_card(db, token)
+            self.assertIsNotNone(card)
+            self.assertEqual("Samuel Eto'o", card.n)
+            self.assertEqual(1, card.s)
+        finally:
+            db.close()
 
 
 class MatchPlayerUniquenessTests(unittest.TestCase):

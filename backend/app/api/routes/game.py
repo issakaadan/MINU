@@ -21,6 +21,7 @@ from app.core.share_link import read_public_share_url, request_public_base_url
 from app.game_service import game_service, player_to_reveal
 from app import match_service_patch  # noqa: F401
 from app.match_service import match_service
+from app.models import Player
 from app.schemas import (
     AskQuestionRequest,
     AskQuestionResponse,
@@ -70,6 +71,42 @@ def _build_shared_card_payload(secret: PlayerSecretRead) -> SharedPlayerCardRead
         cta=secret.player.current_team_ar,
         wd=secret.player.wikidata_id,
     )
+
+
+def _read_shared_card(db: Session, token: str) -> SharedPlayerCardRead | None:
+    payload = auth_manager.read_card_token(token)
+    if payload is None:
+        return None
+    if "pid" not in payload:
+        return SharedPlayerCardRead.model_validate(payload)
+
+    try:
+        player = db.get(Player, int(payload["pid"]))
+        if player is None:
+            return None
+        primary_country = player.countries[0] if player.countries else ""
+        primary_country_ar = player.countries_ar[0] if player.countries_ar else primary_country
+        return SharedPlayerCardRead(
+            m=str(payload["m"]),
+            r=int(payload["r"]),
+            s=int(payload["s"]),
+            pn=str(payload["pn"]),
+            on=str(payload["on"]),
+            mk=str(payload["mk"]),
+            n=player.name,
+            na=player.name_ar,
+            i=player.image_url,
+            c=primary_country_ar,
+            ce=primary_country,
+            p=player.position_group,
+            y=player.birth_year,
+            a=1 if player.is_active else 0,
+            ct=player.current_team,
+            cta=player.current_team_ar,
+            wd=player.wikidata_id,
+        )
+    except (KeyError, TypeError, ValueError):
+        return None
 
 
 @router.get("/overview", response_model=GameOverview)
@@ -214,8 +251,16 @@ def get_player_share_token(
 ) -> PlayerCardTokenRead:
     match_state = match_service.get_match(match_id, _match_token_from_request(request))
     secret = match_service.read_secret(db, match_state, seat)
-    payload = _build_shared_card_payload(secret)
-    return PlayerCardTokenRead(token=auth_manager.create_card_token(payload.model_dump()))
+    compact_payload = {
+        "m": secret.match_id,
+        "r": secret.round.round_number,
+        "s": secret.seat,
+        "pn": secret.player_name,
+        "on": secret.opponent_name,
+        "mk": secret.mode_key,
+        "pid": secret.player.id,
+    }
+    return PlayerCardTokenRead(token=auth_manager.create_card_token(compact_payload))
 
 
 def _enforce_player_card_identity(request: Request, response: Response, card: SharedPlayerCardRead) -> None:
@@ -242,11 +287,15 @@ def _enforce_player_card_identity(request: Request, response: Response, card: Sh
 
 
 @public_router.get("/card/{token}", response_model=SharedPlayerCardRead)
-def get_public_player_card(token: str, request: Request, response: Response) -> SharedPlayerCardRead:
-    payload = auth_manager.read_card_token(token)
-    if payload is None:
+def get_public_player_card(
+    token: str,
+    request: Request,
+    response: Response,
+    db: Session = Depends(get_db),
+) -> SharedPlayerCardRead:
+    card = _read_shared_card(db, token)
+    if card is None:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="البطاقة مو موجودة")
-    card = SharedPlayerCardRead.model_validate(payload)
     _enforce_player_card_identity(request, response, card)
     return card
 
@@ -259,10 +308,8 @@ def ask_public_player_card_assistant(
     response: Response,
     db: Session = Depends(get_db),
 ) -> CardAssistantAnswerRead:
-    card_payload = auth_manager.read_card_token(token)
-    if card_payload is None:
+    card = _read_shared_card(db, token)
+    if card is None:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Ø§Ù„Ø¨Ø·Ø§Ù‚Ø© Ù…Ùˆ Ù…ÙˆØ¬ÙˆØ¯Ø©")
-
-    card = SharedPlayerCardRead.model_validate(card_payload)
     _enforce_player_card_identity(request, response, card)
     return answer_card_question(db, card, payload.question, payload.language)
