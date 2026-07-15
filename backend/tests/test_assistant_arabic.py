@@ -87,11 +87,15 @@ class AssistantArabicRegressionTests(unittest.TestCase):
 
     def test_arabic_team_membership(self) -> None:
         answer = self.ask("هل احترف ببرشلونة؟")
-        self.assertTrue(answer.answer.startswith("نعم"))
+        self.assertEqual("نعم", answer.answer)
 
     def test_arabic_competition_membership(self) -> None:
         answer = self.ask("هل مر على الدوري الإسباني؟")
-        self.assertTrue(answer.answer.startswith("نعم"))
+        self.assertEqual("نعم", answer.answer)
+
+    def test_english_yes_no_answer_is_one_word(self) -> None:
+        answer = answer_card_question(self.db, self.payload, "Did he play for Barcelona?", "en")
+        self.assertEqual("Yes", answer.answer)
 
     def test_arabic_semantic_position_paraphrase(self) -> None:
         answer = self.ask("وش وظيفته بالملعب؟")

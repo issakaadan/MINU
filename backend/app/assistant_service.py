@@ -237,6 +237,15 @@ def answer_card_question(
     else:
         answer = _answer_from_profile(profile, payload, match.intent_key, language)
 
+    if match.intent_key in {
+        "active_status",
+        "alive_status",
+        "played_in_competition",
+        "played_for_team",
+        "national_retired_before_club_retired",
+    }:
+        answer = _binary_answer_only(answer, language)
+
     return CardAssistantAnswerRead(
         answer=answer,
         intent_key=match.intent_key,
@@ -244,6 +253,21 @@ def answer_card_question(
         matched_argument=matched_argument,
         trace=profile.trace,
     )
+
+
+def _binary_answer_only(answer: str, language: Literal["ar", "en"]) -> str:
+    normalized = answer.strip().lower()
+    if language == "ar":
+        if normalized.startswith("نعم"):
+            return "نعم"
+        if normalized.startswith("لا"):
+            return "لا"
+    else:
+        if normalized.startswith("yes"):
+            return "Yes"
+        if normalized.startswith("no"):
+            return "No"
+    return answer
 
 
 def _resolve_player(db: Session, payload: SharedPlayerCardRead) -> Player | None:
