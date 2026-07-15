@@ -6,6 +6,7 @@ import hmac
 import json
 import os
 import secrets
+import zlib
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from functools import lru_cache
@@ -210,7 +211,7 @@ class AuthManager:
             "exp": int(expires_at.timestamp()),
         }
         payload_text = json.dumps(token_payload, separators=(",", ":"), ensure_ascii=False)
-        payload_token = _urlsafe_b64encode(payload_text.encode("utf-8"))
+        payload_token = _urlsafe_b64encode(zlib.compress(payload_text.encode("utf-8"), level=9))
         signature = hmac.new(
             material.session_secret.encode("utf-8"),
             f"card:{payload_token}".encode("utf-8"),
@@ -234,7 +235,13 @@ class AuthManager:
             return None
 
         try:
-            payload = json.loads(_urlsafe_b64decode(payload_token).decode("utf-8"))
+            payload_bytes = _urlsafe_b64decode(payload_token)
+            try:
+                payload_bytes = zlib.decompress(payload_bytes)
+            except zlib.error:
+                # Preserve compatibility with player cards issued before token compression.
+                pass
+            payload = json.loads(payload_bytes.decode("utf-8"))
             content = payload["p"]
             expires_at = int(payload["exp"])
         except (KeyError, TypeError, ValueError, json.JSONDecodeError):

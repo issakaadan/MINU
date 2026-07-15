@@ -3,6 +3,7 @@ from __future__ import annotations
 import sys
 import unittest
 import json
+import zlib
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -138,7 +139,7 @@ class PlayerCardLifetimeTests(unittest.TestCase):
         issued_at = int(datetime.now(timezone.utc).timestamp())
         token = auth_manager.create_card_token({"player": "test"})
         payload_token = token.split(".", 1)[0]
-        token_payload = json.loads(_urlsafe_b64decode(payload_token).decode("utf-8"))
+        token_payload = json.loads(zlib.decompress(_urlsafe_b64decode(payload_token)).decode("utf-8"))
         self.assertEqual(15, CARD_LINK_TTL_MINUTES)
         self.assertGreaterEqual(token_payload["exp"] - issued_at, 899)
         self.assertLessEqual(token_payload["exp"] - issued_at, 900)

@@ -4707,14 +4707,25 @@ function PublicCardScreen({ payload }: { payload: string }) {
     };
 
     void import("html5-qrcode")
-      .then(({ Html5Qrcode }) => {
+      .then(({ Html5Qrcode, Html5QrcodeSupportedFormats }) => {
         if (!active) {
           return;
         }
-        scanner = new Html5Qrcode("minu-card-scanner");
+        scanner = new Html5Qrcode("minu-card-scanner", {
+          formatsToSupport: [Html5QrcodeSupportedFormats.QR_CODE],
+          verbose: false,
+        });
         return scanner.start(
           { facingMode: "environment" },
-          { fps: 10, qrbox: { width: 250, height: 250 } },
+          {
+            fps: 20,
+            aspectRatio: 1,
+            disableFlip: false,
+            qrbox: (viewfinderWidth, viewfinderHeight) => {
+              const size = Math.floor(Math.min(viewfinderWidth, viewfinderHeight) * 0.88);
+              return { width: size, height: size };
+            },
+          },
           (decodedText) => {
             const nextPayload = extractCardPayload(decodedText);
             if (!active || !nextPayload) {
@@ -5049,10 +5060,11 @@ function PublicCardScreen({ payload }: { payload: string }) {
             }}
             type="button"
           >
-            {cardScannerOpen ? "إغلاق الكاميرا" : "مسح بطاقة الجولة التالية"}
+          {cardScannerOpen ? "إغلاق الكاميرا" : "مسح بطاقة الجولة التالية"}
           </button>
           <small>بعد أول مسح، استخدم هذا الزر لكل جولة حتى تبقى البطاقات في تبويب واحد.</small>
           {cardScannerOpen ? <div id="minu-card-scanner" /> : null}
+          {cardScannerOpen ? <small>قرّب رمز QR حتى يملأ المربع وثبّت الجوال للحظة.</small> : null}
           {cardScannerError ? <p className="form-error">{cardScannerError}</p> : null}
         </section>
       </section>
