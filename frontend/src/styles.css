@@ -1498,11 +1498,17 @@ textarea::placeholder {
 .mobile-card-scanner {
   display: grid;
   gap: 0.65rem;
-  margin-bottom: 1rem;
+  margin-top: 1rem;
   padding: 0.85rem;
   border: 1px solid var(--line);
   border-radius: 18px;
   background: rgba(255, 255, 255, 0.06);
+}
+
+.public-card-sidebar {
+  display: grid;
+  align-content: start;
+  gap: 1rem;
 }
 
 .mobile-card-scanner small {

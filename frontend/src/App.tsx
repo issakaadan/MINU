@@ -4911,59 +4911,9 @@ function PublicCardScreen({ payload }: { payload: string }) {
         <div className="player-panel__brand">
           <BrandMark compact />
         </div>
-        <section className="mobile-card-scanner" dir="rtl">
-          <button
-            className="primary-button"
-            onClick={() => {
-              setCardScannerError("");
-              setCardScannerOpen((current) => !current);
-            }}
-            type="button"
-          >
-            {cardScannerOpen ? "إغلاق الكاميرا" : "مسح بطاقة الجولة التالية"}
-          </button>
-          <small>بعد أول مسح، استخدم هذا الزر لكل جولة حتى تبقى البطاقات في تبويب واحد.</small>
-          {cardScannerOpen ? <div id="minu-card-scanner" /> : null}
-          {cardScannerError ? <p className="form-error">{cardScannerError}</p> : null}
-        </section>
         <div className="public-card-layout">
           <article className="public-card">
             <div className="public-card__media">
-              <div className="assistant-card">
-                <strong>{assistantText.title}</strong>
-                <div className="assistant-card__form">
-                  <input
-                    className="input assistant-input"
-                    dir="rtl"
-                    onChange={(event) => setAssistantQuestion(event.target.value)}
-                    onKeyDown={(event) => {
-                      if (event.key === "Enter") {
-                        event.preventDefault();
-                        void handleAskAssistant();
-                      }
-                    }}
-                    placeholder={assistantText.prompt}
-                    value={assistantQuestion}
-                  />
-                  <button
-                    className="secondary-button assistant-button"
-                    disabled={assistantBusy}
-                    onClick={() => {
-                      void handleAskAssistant();
-                    }}
-                    type="button"
-                  >
-                    {assistantText.button}
-                  </button>
-                </div>
-                <p className="assistant-answer">
-                  {assistantBusy
-                    ? true
-                      ? "جاري التحليل..."
-                      : "Thinking..."
-                    : assistantAnswer || assistantPlaceholder || assistantText.answerHint}
-                </p>
-              </div>
               <img
                 alt={displayPlayerName}
                 className="public-card__image"
@@ -5038,23 +4988,73 @@ function PublicCardScreen({ payload }: { payload: string }) {
             </div>
           </article>
 
-          <article className="notes-card">
-            <div className="notes-card__header">
-              <strong>{cardText.notes}</strong>
+          <div className="public-card-sidebar">
+            <div className="assistant-card">
+              <strong>{assistantText.title}</strong>
+              <div className="assistant-card__form">
+                <input
+                  className="input assistant-input"
+                  dir="rtl"
+                  onChange={(event) => setAssistantQuestion(event.target.value)}
+                  onKeyDown={(event) => {
+                    if (event.key === "Enter") {
+                      event.preventDefault();
+                      void handleAskAssistant();
+                    }
+                  }}
+                  placeholder={assistantText.prompt}
+                  value={assistantQuestion}
+                />
+                <button
+                  className="secondary-button assistant-button"
+                  disabled={assistantBusy}
+                  onClick={() => {
+                    void handleAskAssistant();
+                  }}
+                  type="button"
+                >
+                  {assistantText.button}
+                </button>
+              </div>
+              <p className="assistant-answer">
+                {assistantBusy
+                  ? "جاري التحليل..."
+                  : assistantAnswer || assistantPlaceholder || assistantText.answerHint}
+              </p>
             </div>
-            <textarea
-              className="notes-area"
-              dir={cardText.dir}
-              style={{ textAlign: cardText.dir === "rtl" ? "right" : "left" }}
-              onChange={(event) => setNotes(event.target.value)}
-              placeholder={cardText.notesPlaceholder}
-              value={notes}
-            />
-            <a className="primary-button primary-button--link" href={displayWikipediaUrl} rel="noreferrer" target="_blank">
-              {cardText.wiki}
-            </a>
-          </article>
+            <article className="notes-card">
+              <div className="notes-card__header">
+                <strong>{cardText.notes}</strong>
+              </div>
+              <textarea
+                className="notes-area"
+                dir={cardText.dir}
+                style={{ textAlign: cardText.dir === "rtl" ? "right" : "left" }}
+                onChange={(event) => setNotes(event.target.value)}
+                placeholder={cardText.notesPlaceholder}
+                value={notes}
+              />
+              <a className="primary-button primary-button--link" href={displayWikipediaUrl} rel="noreferrer" target="_blank">
+                {cardText.wiki}
+              </a>
+            </article>
+          </div>
         </div>
+        <section className="mobile-card-scanner" dir="rtl">
+          <button
+            className="primary-button"
+            onClick={() => {
+              setCardScannerError("");
+              setCardScannerOpen((current) => !current);
+            }}
+            type="button"
+          >
+            {cardScannerOpen ? "إغلاق الكاميرا" : "مسح بطاقة الجولة التالية"}
+          </button>
+          <small>بعد أول مسح، استخدم هذا الزر لكل جولة حتى تبقى البطاقات في تبويب واحد.</small>
+          {cardScannerOpen ? <div id="minu-card-scanner" /> : null}
+          {cardScannerError ? <p className="form-error">{cardScannerError}</p> : null}
+        </section>
       </section>
     </div>
   );
