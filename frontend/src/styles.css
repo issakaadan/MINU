@@ -1509,19 +1509,30 @@ textarea::placeholder {
   position: fixed;
   inset: 0;
   z-index: 1000;
-  grid-template-rows: auto auto minmax(0, 1fr) auto;
-  align-content: stretch;
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  height: 100dvh;
   margin: 0;
-  padding: max(1rem, env(safe-area-inset-top)) 1rem max(1rem, env(safe-area-inset-bottom));
+  padding: 0;
   border: 0;
   border-radius: 0;
-  background: #080611;
-  overflow: auto;
+  background: #000;
+  overflow: hidden;
 }
 
 .mobile-card-scanner--open > .primary-button {
-  width: 100%;
+  position: absolute;
+  z-index: 4;
+  top: max(0.75rem, env(safe-area-inset-top));
+  left: 1rem;
+  right: 1rem;
+  width: auto;
   min-height: 52px;
+}
+
+.mobile-card-scanner--open .mobile-card-scanner__intro {
+  display: none;
 }
 
 .public-card-sidebar {
@@ -1544,19 +1555,22 @@ textarea::placeholder {
 }
 
 .mobile-card-scanner--open #minu-card-scanner {
-  display: block;
-  width: 100%;
+  position: absolute;
+  inset: 0;
+  width: 100vw;
   max-width: none;
-  min-height: 0;
-  height: 100%;
-  border-radius: 20px;
+  height: 100vh;
+  height: 100dvh;
+  margin: 0;
+  border-radius: 0;
   background: #000;
 }
 
 .mobile-card-scanner--open #minu-card-scanner__scan_region {
   width: 100% !important;
   height: 100% !important;
-  min-height: 58vh !important;
+  min-height: 100vh !important;
+  min-height: 100dvh !important;
   overflow: hidden;
   position: relative;
 }
@@ -1570,13 +1584,42 @@ textarea::placeholder {
   display: block;
   width: 100% !important;
   height: 100% !important;
-  min-height: 58vh !important;
-  object-fit: contain;
+  min-height: 100vh !important;
+  min-height: 100dvh !important;
+  object-fit: cover;
   background: #000;
 }
 
 .mobile-card-scanner--open #qr-shaded-region {
   border-color: transparent !important;
+}
+
+.mobile-card-scanner__live-help,
+.mobile-card-scanner__capture,
+.mobile-card-scanner--open > .form-error {
+  position: absolute;
+  z-index: 4;
+  left: 1rem;
+  right: 1rem;
+}
+
+.mobile-card-scanner__live-help {
+  bottom: calc(max(5.5rem, env(safe-area-inset-bottom) + 5.5rem));
+  padding: 0.45rem 0.7rem;
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.62);
+  text-align: center;
+}
+
+.mobile-card-scanner__capture {
+  bottom: max(1rem, env(safe-area-inset-bottom));
+}
+
+.mobile-card-scanner--open > .form-error {
+  top: calc(max(0.75rem, env(safe-area-inset-top)) + 4rem);
+  padding: 0.6rem;
+  border-radius: 10px;
+  background: rgba(55, 0, 0, 0.82);
 }
 
 .assistant-card strong {

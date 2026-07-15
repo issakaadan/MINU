@@ -4648,6 +4648,7 @@ function PublicCardScreen({ payload }: { payload: string }) {
   const [assistantQuestion, setAssistantQuestion] = useState("");
   const [assistantAnswer, setAssistantAnswer] = useState("");
   const [assistantBusy, setAssistantBusy] = useState(false);
+  const cardCaptureInputRef = useRef<HTMLInputElement>(null);
   const { clubSequence, details, summary } = useWikipediaCard(
     cardPayload?.n ?? null,
     cardPayload?.na ?? null,
@@ -4658,6 +4659,52 @@ function PublicCardScreen({ payload }: { payload: string }) {
     ? `who-is-the-player-note:${cardPayload.m}:${cardPayload.r}:${cardPayload.s}`
     : "";
   const [notes, setNotes] = useState("");
+  const extractCardPayload = (decodedText: string) => {
+    try {
+      const scannedUrl = new URL(decodedText, window.location.origin);
+      const match = scannedUrl.pathname.match(/\/(?:minu\/|menu\/)?card\/(.+)$/i);
+      return match?.[1]?.trim() ?? "";
+    } catch {
+      return "";
+    }
+  };
+
+  const openDecodedCard = async (decodedText: string) => {
+    const nextPayload = extractCardPayload(decodedText);
+    if (!nextPayload) {
+      throw new Error("هذا الرمز ليس بطاقة لاعب من MINU.");
+    }
+    const nextCard = await api.getPublicPlayerCard(nextPayload);
+    if (!cardPayload || nextCard.m !== cardPayload.m || nextCard.s !== cardPayload.s) {
+      throw new Error("هذه البطاقة مخصصة للاعب آخر في هذه المباراة.");
+    }
+    window.location.replace(`/card/${nextPayload}`);
+  };
+
+  const handleCapturedQr = async (file: File | undefined) => {
+    if (!file) {
+      return;
+    }
+    setCardScannerError("");
+    setCardScannerOpen(false);
+    try {
+      const { Html5Qrcode, Html5QrcodeSupportedFormats } = await import("html5-qrcode");
+      const fileScanner = new Html5Qrcode("minu-card-file-scanner", {
+        formatsToSupport: [Html5QrcodeSupportedFormats.QR_CODE],
+        experimentalFeatures: { useBarCodeDetectorIfSupported: true },
+        verbose: false,
+      });
+      const decodedText = await fileScanner.scanFile(file, false);
+      fileScanner.clear();
+      await openDecodedCard(decodedText);
+    } catch (error) {
+      setCardScannerError(error instanceof Error ? error.message : "تعذر قراءة رمز QR من الصورة.");
+    } finally {
+      if (cardCaptureInputRef.current) {
+        cardCaptureInputRef.current.value = "";
+      }
+    }
+  };
 
   useEffect(() => {
     const activeCardKey = "minu-active-player-card";
@@ -4697,16 +4744,6 @@ function PublicCardScreen({ payload }: { payload: string }) {
     let active = true;
     let scanner: Html5Qrcode | null = null;
     let validatingScan = false;
-    const extractCardPayload = (decodedText: string) => {
-      try {
-        const scannedUrl = new URL(decodedText, window.location.origin);
-        const match = scannedUrl.pathname.match(/\/(?:minu\/|menu\/)?card\/(.+)$/i);
-        return match?.[1]?.trim() ?? "";
-      } catch {
-        return "";
-      }
-    };
-
     void import("html5-qrcode")
       .then(({ Html5Qrcode, Html5QrcodeSupportedFormats }) => {
         if (!active) {
@@ -5084,10 +5121,28 @@ function PublicCardScreen({ payload }: { payload: string }) {
           >
           {cardScannerOpen ? "إغلاق الكاميرا" : "مسح بطاقة الجولة التالية"}
           </button>
-          <small>بعد أول مسح، استخدم هذا الزر لكل جولة حتى تبقى البطاقات في تبويب واحد.</small>
+          <small className="mobile-card-scanner__intro">بعد أول مسح، استخدم هذا الزر لكل جولة حتى تبقى البطاقات في تبويب واحد.</small>
           {cardScannerOpen ? <div id="minu-card-scanner" /> : null}
-          {cardScannerOpen ? <small>قرّب رمز QR حتى يملأ المربع وثبّت الجوال للحظة.</small> : null}
+          {cardScannerOpen ? <small className="mobile-card-scanner__live-help">وجّه الكاميرا إلى رمز QR.</small> : null}
+          {cardScannerOpen ? (
+            <button
+              className="secondary-button mobile-card-scanner__capture"
+              onClick={() => cardCaptureInputRef.current?.click()}
+              type="button"
+            >
+              التقاط صورة للرمز
+            </button>
+          ) : null}
           {cardScannerError ? <p className="form-error">{cardScannerError}</p> : null}
+          <input
+            ref={cardCaptureInputRef}
+            accept="image/*"
+            capture="environment"
+            hidden
+            onChange={(event) => void handleCapturedQr(event.target.files?.[0])}
+            type="file"
+          />
+          <div id="minu-card-file-scanner" hidden />
         </section>
       </section>
     </div>
