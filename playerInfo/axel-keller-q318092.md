@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q318092
-- Generated At (UTC): 2026-07-13T08:56:14+00:00
+- Generated At (UTC): 2026-07-13T12:12:42+00:00
 - English Name: Axel Keller
 - Arabic Name: أكسل كيلر
 - Birth Year: 1977
@@ -67,12 +67,22 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 1
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 1
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1998–2000 | كارل زايس يينا | 57 | 0 |
+| 2000–2001 | [الإنجليزية] | 25 | 0 |
+| 2001–2002 | 1. شفاينفورت 05 [الإنجليزية] | 0 | 0 |
+| 2002–2004 | اينتراخت ترير 05 [الإنجليزية] | 45 | 0 |
+| 2004–2006 | هانزا روستوك | 0 | 0 |
+| 2006–2008 | إرتسغيبيرغه آوه | 36 | 0 |
+| 2008–2011 | دينامو درسدن | 96 | 0 |
+| 2011–2014 | [الإنجليزية] | 50 | 0 |
+| 2014– | VfL Pirna-Copitz | 34 | 1 |
 
 ### Arabic National Team Stats
 _No rows found._

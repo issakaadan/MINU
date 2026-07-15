@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q198706
-- Generated At (UTC): 2026-07-13T08:55:52+00:00
+- Generated At (UTC): 2026-07-13T12:12:21+00:00
 - English Name: Mamadou Bagayoko
 - Arabic Name: مامادو باكايوكو
 - Birth Year: 1989
@@ -72,12 +72,25 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 3
+- Senior national team goals total: 0
+- Senior career goals total: 3
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008 | أفريكا سبورتس | 0 | 0 |
+| 2008–2015 | سلوفان براتيسلافا | 124 | 3 |
+| 2009 | بيترزالكا | 7 | 0 |
+| 2015–2017 | سينت ترويدن | 51 | 0 |
+| 2017–2018 | آود هيفرلي لوفين | 13 | 0 |
+| 2018 | كيه في ميخيلين | 6 | 0 |
+| 2018–2020 | كيه في ميخيلين | 15 | 0 |
+| 2019 | النجم الأحمر | 13 | 0 |
+| 2021–2022 | يونيفرسيتاتيا كرايوفا | 1 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008 | ساحل العاج | 4 | 0 |
+| 2015– | ساحل العاج | 16 | 0 |

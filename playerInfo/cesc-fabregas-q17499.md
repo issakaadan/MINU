@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q17499
-- Generated At (UTC): 2026-07-13T08:51:20+00:00
+- Generated At (UTC): 2026-07-13T12:08:11+00:00
 - English Name: Cesc Fàbregas
 - Arabic Name: سيسك فابريغاس
 - Birth Year: 1987
@@ -36,14 +36,7 @@ Fàbregas came through La Masia , Barcelona 's youth academy, leaving at 16 when
 After a protracted transfer saga, Fàbregas left London in August 2011 to return to Barcelona in a deal worth up to £35 million. During his three-year spell at the Camp Nou , Fàbregas played alongside Xavi and Andrés Iniesta and won a La Liga title, the Copa del Rey , the FIFA Club World Cup , the UEFA Super Cup , and two Spanish Super Cups . He returned to London in June 2014 to Arsenal's cross-town rivals Chelsea for a fee of £30 million. In four-and-a-half years at the club, he won the Premier League twice, and the League Cup , FA Cup, and UEFA Europa League once each. He left for free to Ligue 1 club Monaco in January 2019 and retired in 2023, after one year in the Italian Serie B with Como.
 
 ### English Achievements
-- With Arsenal: FA Cup
-- With Barcelona: La Liga
-- With Chelsea: Premier League
-- With Monaco: Coupe de France runner-up
-- With Spain: FIFA World Cup
-- Individual: FIFA U-17 World Championship Golden Ball
-- Orders: Prince of Asturias Awards
-- Individual: Serie A Coach of the Month
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 125
@@ -53,13 +46,12 @@ After a protracted transfer saga, Fàbregas left London in August 2011 to return
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2003–2011 | Arsenal | 212 | 35 |
-| 2011–2014 | Barcelona | 96 | 28 |
-| 2014–2019 | Chelsea | 138 | 15 |
-| 2019–2022 | Monaco | 54 | 3 |
-| 2022 | Monaco B | 1 | 0 |
-| 2022–2023 | Como | 17 | 0 |
-| Total | Total | 518 | 81 |
+| 2003–2010 | Arsenal | 303 | 57 |
+| 2011–2013 | Barcelona | 151 | 42 |
+| 2014–2018 | Chelsea | 198 | 22 |
+| 2018–2021 | Monaco | 68 | 4 |
+| 2021 | Monaco B | 1 | 0 |
+| 2022 | Como | 17 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -83,15 +75,34 @@ After a protracted transfer saga, Fàbregas left London in August 2011 to return
 دوليًا، بدأ مشواره الوطني عندما مثل منتخب تحت 17 عامًا في عام 2003 ببطولة كأس العالم للشباب تحت 17 سنة 2003 في فنلندا . ونتيجة لأدائه مع فريقه، اُستدعي إلى المنتخب الأول في عام 2006، وقد لعب في كأس العالم لسنة 2006 وكأس الأمم الأوروبية لسنة 2008 وكأس العالم لسنة 2010 ، وساعد إسبانيا في إحراز آخر بطولتين.
 
 ### Arabic Achievements
-_No honours section found._
+- مع آرسنال البطل: كأس الاتحاد الإنجليزي لكرة القدم (1)
+- مع آرسنال الوصيف: دوري أبطال أوروبا (1)
+- مع برشلونة البطل: كأس السوبر الإسباني
+- مع برشلونة الوصيف: الدوري الإسباني
+- مع تشيلسي: الدوري الإنجليزي
+- مع المنتخب البطل: كأس العالم (1)
+- مع آرسنال البطل: الدرع الإنجليزي الخيري (1)
+- مع آرسنال الوصيف: كأس رابطة الأندية الإنجليزية المحترفة (كارلنغ كاب) (1)
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 125
+- Senior national team goals total: 15
+- Senior career goals total: 140
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2003–2010 | آرسنال | 303 | 57 |
+| 2011–2013 | برشلونة | 151 | 42 |
+| 2011–2018 | تشيلسي | 198 | 22 |
+| 2018–2021 | موناكو | 68 | 4 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2003 | إسبانيا تحت 16 | 8 | 0 |
+| 2003–2004 | إسبانيا تحت 17 | 14 | 7 |
+| 2005 | إسبانيا تحت 20 | 5 | 0 |
+| 2004–2005 | إسبانيا تحت 21 | 12 | 8 |
+| 2006–2016 | إسبانيا | 110 | 15 |
+| 2004–2023 | كتالونيا | 3 | 0 |

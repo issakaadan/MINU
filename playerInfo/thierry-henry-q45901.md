@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q45901
-- Generated At (UTC): 2026-07-13T08:49:05+00:00
+- Generated At (UTC): 2026-07-13T12:06:26+00:00
 - English Name: Thierry Henry
 - Arabic Name: تييري هنري
 - Birth Year: 1977
@@ -36,31 +36,23 @@ Henry is a back-to-back winner of the European Golden Shoe and runner-up for the
 Henry made his professional debut with Monaco in 1994 before signing for Juventus . Limited playing time, and disagreements with the club's hierarchy, led to him signing for Premier League club Arsenal for £11 million in 1999. Under long-time mentor and coach Arsène Wenger , Henry became a prolific striker and Arsenal's all-time leading scorer with 228 goals. Generally viewed as Arsenal's best ever player, [ 7 ] he won the Premier League Golden Boot a record four times, three FA Cups [ 8 ] and two Premier League titles, most notably as a cornerstone of the unbeaten Invincible season , after achieving a historic 24 goals and 20 assists the season prior. Henry spent his final two seasons with Arsenal as captain , leading them to their first UEFA Champions League final .
 
 ### English Achievements
-- With Monaco: Division 1
-- With Arsenal: Premier League
-- With Barcelona: La Liga
-- With New York Red Bulls: Supporters' Shield
-- With France: FIFA World Cup
-- Individual: Ballon d'Or runner-up
-- Orders: Knight of the Legion of Honour
-- With France Olympic: Summer Olympics silver medal
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 366
+- Club goals total: 360
 - Senior national team goals total: 51
-- Senior career goals total: 417
+- Senior career goals total: 411
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1994–1995 | Monaco B | 19 | 6 |
-| 1994–1999 | Monaco | 105 | 20 |
-| 1999 | Juventus | 16 | 3 |
-| 1999–2007 | Arsenal | 254 | 174 |
-| 2007–2010 | Barcelona | 80 | 35 |
-| 2010–2014 | New York Red Bulls | 122 | 51 |
-| 2012 | Arsenal | 4 | 1 |
-| Total | Total | 600 | 290 |
+| 1994 | Monaco B | 19 | 6 |
+| 1994–1998 | Monaco | 141 | 28 |
+| 1998–2000 | Juventus | 20 | 3 |
+| 1999–2006 | Arsenal | 370 | 226 |
+| 2007–2009 | Barcelona | 121 | 49 |
+| 2010–2014 | New York Red Bulls | 135 | 52 |
+| 2011 | Arsenal (loan) | 7 | 2 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -77,15 +69,34 @@ Henry made his professional debut with Monaco in 1994 before signing for Juventu
 تييري هنري ( الفرنسية : Thierry Henry )، (مواليد أغسطس 1977 ) ويلقب بتيتي أو الغزال الأسمر . هو لاعب كرة قدم فرنسي معتزل، كان يلعب في خط الهجوم مع أرسنال الإنجليزي ونادي برشلونة الإسباني وفي نادي نيويورك ريد بولز الأمريكي والمنتخب الفرنسي . وهو الآن يعمل مدرب لمنتخب فرنسا الاولمبي . [ 5 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي موناكو: الدوري الفرنسي الدرجة الأولى (1)
+- مع النادي أرسنال: الدوري الإنجليزي الممتاز (2)
+- مع النادي برشلونة: الدوري الإسباني (2)
+- مع النادي نيويورك ريد بولز: درع الجماهير (1)
+- مع المنتخب الفرنسي: كأس العالم لكرة القدم (1)
+- الفردية: جائزة الكرة الذهبية – الوصيف
+- مع النادي أرسنال: كأس الاتحاد الإنجليزي (2)
+- مع النادي أرسنال: درع الاتحاد الإنجليزي (2)
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 582
+- Senior national team goals total: 51
+- Senior career goals total: 633
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1994–1995 | موناكو | 19 | 6 |
+| 1994–1999 | موناكو | 105 | 20 |
+| 1999 | يوفنتوس | 16 | 3 |
+| 1999–2007 | أرسنال | 254 | 174 |
+| 2007–2010 | برشلونة | 80 | 35 |
+| 2010–2014 | نيويورك ريد بولز | 122 | 51 |
+| 2012 | أرسنال | 4 | 3 |
+| - | مجموع | 600 | 290 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997 | فرنسا تحت 20 | 5 | 3 |
+| 1997–2010 | فرنسا | 123 | 51 |

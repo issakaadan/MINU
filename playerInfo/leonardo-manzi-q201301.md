@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q201301
-- Generated At (UTC): 2026-07-13T08:56:35+00:00
+- Generated At (UTC): 2026-07-13T12:13:10+00:00
 - English Name: Leonardo Manzi
 - Arabic Name: ليوناردو مانجي
 - Birth Year: 1969
@@ -61,12 +61,16 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 20
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 20
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1989–1996 | سانت باولي | 112 | 16 |
+| 1996–1997 | هانوفر 96 | 8 | 2 |
+| 2006–2008 | [الإنجليزية] | 32 | 2 |
 
 ### Arabic National Team Stats
 _No rows found._

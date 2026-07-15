@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q317803
-- Generated At (UTC): 2026-07-13T08:54:45+00:00
+- Generated At (UTC): 2026-07-13T12:11:15+00:00
 - English Name: Matt Le Tissier
 - Arabic Name: ماتيو لو تيسيي
 - Birth Year: 1968
@@ -36,14 +36,7 @@ Regarded as a creative attacking midfielder with exceptional technical skills, [
 Following his retirement as a player, Le Tissier became a football pundit, and worked as a panellist on the Sky Sports show Soccer Saturday until August 2020. In his retirement, he has made several posts on social media, concerning COVID-19 and the 2022 Russo-Ukrainian war , which were met with criticism. [ 6 ]
 
 ### English Achievements
-- With Southampton: Full Members' Cup runner-up
-- With Eastleigh: Wessex Football League
-- Individual: PFA Young Player of the Year
-- Individual: Southampton Player of the Season
-- Individual: Most assists in the Premier League
-- Individual: PFA Team of the Year
-- Individual: BBC Goal of the Season
-- Individual: English Football Hall of Fame
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 209
@@ -53,9 +46,8 @@ Following his retirement as a player, Le Tissier became a football pundit, and w
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1986–2002 | Southampton | 443 | 161 |
-| 2013 | Guernsey | 1 | 0 |
-| Total | Total | 444 | 161 |
+| 1986–2001 | Southampton | 540 | 209 |
+| 2012 | Guernsey | 1 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -76,12 +68,21 @@ Following his retirement as a player, Le Tissier became a football pundit, and w
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 328
+- Senior national team goals total: 3
+- Senior career goals total: 331
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1986–2002 | ساوثهامبتون | 443 | 161 |
+| 2002–2003 | نادي إيستلي [الإنجليزية] | 17 | 3 |
+| 2013 | [الإنجليزية] | 1 | 0 |
+| - | مجموع | 461 | 164 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1988–1990 | إنجلترا تحت 21 | 21 | 3 |
+| 1990–1998 | منتخب إنجلترا لكرة القدم الرديف | 6 | 3 |
+| 1994–1997 | إنجلترا | 8 | 0 |

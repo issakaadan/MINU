@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q314405
-- Generated At (UTC): 2026-07-13T08:54:45+00:00
+- Generated At (UTC): 2026-07-13T12:11:15+00:00
 - English Name: Martin Keown
 - Arabic Name: مارتن كيون
 - Birth Year: 1966
@@ -36,11 +36,7 @@ Keown also played for Brighton & Hove Albion , Aston Villa , Everton , Leicester
 He is now a part-time scout and coach for Arsenal, as well as a pundit for the BBC and BT Sport . He came out of retirement in 2012 and briefly played for Combined Counties League Premier Division side Wembley in their FA Cup fixtures.
 
 ### English Achievements
-- With Arsenal: Premier League
-- Individual: Arsenal Player of the Season
-- With Arsenal: FA Cup
-- With Arsenal: FA Community Shield
-- With Arsenal: European Cup Winners' Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 14
@@ -50,15 +46,12 @@ He is now a part-time scout and coach for Arsenal, as well as a pundit for the B
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1984–1986 | Arsenal | 22 | 0 |
-| 1985 | Brighton & Hove Albion | 23 | 1 |
-| 1986–1989 | Aston Villa | 112 | 3 |
-| 1989–1993 | Everton | 96 | 0 |
-| 1993–2004 | Arsenal | 310 | 4 |
-| 2004–2005 | Leicester City | 17 | 0 |
-| 2005 | Reading | 5 | 0 |
-| 2012 | Wembley | 0 | 0 |
-| Total | Total | 585 | 8 |
+| 1983–2003 | Arsenal | 449 | 8 |
+| 1984–1985 | Brighton & Hove Albion (loan) | 27 | 3 |
+| 1986–1988 | Aston Villa | 132 | 3 |
+| 1989–1992 | Everton | 126 | 0 |
+| 2004 | Leicester City | 18 | 0 |
+| 2004 | Reading | 5 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -81,12 +74,22 @@ He is now a part-time scout and coach for Arsenal, as well as a pundit for the B
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 16
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 16
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1984–1986 | أرسنال | 22 | 0 |
+| 1985 | برايتون أند هوف ألبيون | 23 | 1 |
+| 1986–1989 | أستون فيلا | 112 | 3 |
+| 1989–1993 | إيفرتون | 96 | 0 |
+| 1993–2004 | أرسنال | 310 | 4 |
+| 2004–2005 | ليستر سيتي | 17 | 0 |
+| 2005 | ريدنغ | 5 | 0 |
+| 2012 | [الإنجليزية] | 0 | 0 |
+| - | مجموع | 585 | 8 |
 
 ### Arabic National Team Stats
 _No rows found._

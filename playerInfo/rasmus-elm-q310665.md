@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q310665
-- Generated At (UTC): 2026-07-13T08:54:57+00:00
+- Generated At (UTC): 2026-07-13T12:11:25+00:00
 - English Name: Rasmus Elm
 - Arabic Name: راسموس إيلم
 - Birth Year: 1988
@@ -32,13 +32,7 @@
 Rasmus Christoffer Elm (born 17 March 1988) is a Swedish former professional footballer who played as a midfielder . He is currently the assistant coach of Kalmar FF . During his career, he played for Kalmar FF in Sweden, for AZ in the Netherlands and the Russian side CSKA Moscow . Elm earned 39 caps for Sweden between 2009 and 2013 and competed at UEFA Euro 2012 . He is the younger brother of Viktor and David Elm .
 
 ### English Achievements
-- With Kalmar FF: Allsvenskan
-- With Kalmar FF: Russian Premier League
-- Individual: Stor Grabb
-- With Kalmar FF: Svenska Cupen
-- With Kalmar FF: Svenska Supercupen
-- With Kalmar FF: Russian Cup
-- With Kalmar FF: Russian Super Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 52
@@ -48,11 +42,9 @@ Rasmus Christoffer Elm (born 17 March 1988) is a Swedish former professional foo
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2005–2009 | Kalmar FF | 96 | 19 |
-| 2009–2012 | AZ | 83 | 18 |
-| 2012–2015 | CSKA Moscow | 47 | 5 |
-| 2015–2019 | Kalmar FF | 72 | 2 |
-| Total | Total | 298 | 44 |
+| 2005–2019 | Kalmar FF | 188 | 25 |
+| 2009–2011 | AZ Alkmaar | 113 | 22 |
+| 2012–2013 | CSKA Moscow | 60 | 5 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -74,12 +66,23 @@ Rasmus Christoffer Elm (born 17 March 1988) is a Swedish former professional foo
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 88
+- Senior national team goals total: 4
+- Senior career goals total: 92
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005–2009 | كالمار | 96 | 19 |
+| 2009–2012 | إي زد ألكمار | 83 | 18 |
+| 2012–2015 | سيسكا موسكو | 47 | 5 |
+| 2015–2019 | كالمار | 72 | 2 |
+| - | مجموع | 298 | 44 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2003–2005 | السويد تحت 17 | 15 | 0 |
+| 2005–2007 | السويد تحت 19 | 19 | 5 |
+| 2007–2010 | السويد تحت 21 | 18 | 0 |
+| 2009–2013 | السويد | 39 | 4 |

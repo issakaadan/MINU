@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q2428438
-- Generated At (UTC): 2026-07-13T08:52:53+00:00
+- Generated At (UTC): 2026-07-13T12:09:28+00:00
 - English Name: Kenta Hasegawa
 - Arabic Name: كينتا هاسيغاوا
 - Birth Year: 1965
@@ -32,17 +32,12 @@
 Kenta Hasegawa ( 長谷川 健太 , Hasegawa Kenta ; born September 25, 1965) is a Japanese professional football manager and former player who is the manager of J1 League club of Nagoya Grampus .
 
 ### English Achievements
-- With As a coach [ edit ]: J.League Division 1
-- With As a coach [ edit ]: J.League Cup
-- With As a coach [ edit ]: J.League Manager of the Year
-- With As a coach [ edit ]: J.League Division 2
-- With As a coach [ edit ]: Emperor's Cup
-- With As a coach [ edit ]: Japanese Super Cup
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 73
+- Club goals total: 55
 - Senior national team goals total: 4
-- Senior career goals total: 77
+- Senior career goals total: 59
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
@@ -68,12 +63,16 @@ Kenta Hasegawa ( 長谷川 健太 , Hasegawa Kenta ; born September 25, 1965) is
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 108
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 108
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1988–1991 | يوكوهاما إف مارينوس | 33 | 9 |
+| 1992–1999 | شيميزو إس-بولس | 207 | 45 |
+| - | مجموع | 240 | 54 |
 
 ### Arabic National Team Stats
 _No rows found._

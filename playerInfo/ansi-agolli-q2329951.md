@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q2329951
-- Generated At (UTC): 2026-07-13T08:54:01+00:00
+- Generated At (UTC): 2026-07-13T12:10:33+00:00
 - English Name: Ansi Agolli
 - Arabic Name: أنسي أغولي
 - Birth Year: 1982
@@ -36,33 +36,25 @@ He began his club career with Tirana , where he won multiple domestic titles, in
 At international level, he earned 73 caps and scored two goals for the Albania national team , serving as team captain in his last years.
 
 ### English Achievements
-- Kategoria Superiore
-- Azerbaijan Premier League
-- Individual: Qarabağ Player of the Season
-- Albanian Cup
-- Albanian Supercup
-- Azerbaijan Cup
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 30
+- Club goals total: 26
 - Senior national team goals total: 3
-- Senior career goals total: 33
+- Senior career goals total: 29
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2000–2005 | Tirana | 64 | 5 |
-| 2003 | Apolonia Fier | 12 | 1 |
-| 2005–2006 | Neuchâtel Xamax | 29 | 3 |
-| 2006–2007 | Luzern | 8 | 0 |
-| 2007–2009 | VPS | 33 | 1 |
-| 2008–2009 | Tirana | 29 | 5 |
-| 2009–2011 | Kryvbas Kryvyi Rih | 13 | 0 |
-| 2010–2011 | Qarabağ | 48 | 1 |
-| 2012–2019 | Qarabağ | 176 | 2 |
-| 2019 | New York Cosmos B | 9 | 0 |
+| 2000–2008 | Tirana | 109 | 14 |
+| 2002 | Apolonia Fier (loan) | 12 | 1 |
+| 2005 | Neuchâtel Xamax | 32 | 4 |
+| 2006 | Luzern | 8 | 0 |
+| 2007–2008 | VPS | 33 | 1 |
+| 2009 | Kryvbas Kryvyi Rih | 13 | 0 |
+| 2010–2018 | Qarabağ | 317 | 4 |
+| 2019 | New York Cosmos B | 23 | 3 |
 | 2020 | New York Cosmos | 7 | 2 |
-| Total | Total | 431 | 20 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -82,12 +74,28 @@ At international level, he earned 73 caps and scored two goals for the Albania n
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 36
+- Senior national team goals total: 3
+- Senior career goals total: 39
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000–2005 | تيرانا | 64 | 5 |
+| 2003 | [الإنجليزية] | 12 | 1 |
+| 2005–2006 | نوشاتل زاماكس | 29 | 3 |
+| 2006–2007 | لوزيرن | 8 | 0 |
+| 2007–2009 | فآسا | 33 | 1 |
+| 2008–2009 | تيرانا | 29 | 5 |
+| 2009–2012 | كريفباس كريفي ريه [الإنجليزية] | 13 | 0 |
+| 2010–2011 | قره باغ | 48 | 1 |
+| 2012–2019 | قره باغ | 176 | 2 |
+| 2019 | [الإنجليزية] | 9 | 0 |
+| 2020 | [الإنجليزية] | 3 | 0 |
+| - | مجموع | 424 | 18 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2003 | ألبانيا تحت 21 | 6 | 0 |
+| 2005–2018 | ألبانيا | 73 | 3 |

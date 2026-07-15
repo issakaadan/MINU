@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q143879
-- Generated At (UTC): 2026-07-13T08:55:22+00:00
+- Generated At (UTC): 2026-07-13T12:11:51+00:00
 - English Name: Chris Philipps
 - Arabic Name: كريس فيليبس
 - Birth Year: 1994
@@ -32,13 +32,12 @@
 Chris Philipps (born 8 March 1994) is a Luxembourgish professional footballer who plays for Wiltz 71 as a midfielder .
 
 ### English Achievements
-- With Legia Warsaw: Ekstraklasa
-- With Legia Warsaw: Polish Cup
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 18
+- Club goals total: 17
 - Senior national team goals total: 0
-- Senior career goals total: 18
+- Senior career goals total: 17
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
@@ -68,12 +67,22 @@ Chris Philipps (born 8 March 1994) is a Luxembourgish professional footballer wh
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 7
+- Senior national team goals total: 0
+- Senior career goals total: 7
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2012–2017 | ميتز | 43 | 1 |
+| 2013–2018 | ميتز | 37 | 0 |
+| 2015–2016 | بروسيا مونستر | 25 | 0 |
+| 2018–2020 | ليغيا وارسو | 17 | 0 |
+| 2018–2019 | [الإنجليزية] | 17 | 0 |
+| 2020 | لوميل يونايتد | 2 | 0 |
+| 2021– | [الإنجليزية] | 45 | 6 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2012– | لوكسمبورغ | 55 | 0 |

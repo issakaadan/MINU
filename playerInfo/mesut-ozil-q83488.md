@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q83488
-- Generated At (UTC): 2026-07-13T08:48:53+00:00
+- Generated At (UTC): 2026-07-13T12:06:18+00:00
 - English Name: Mesut Özil
 - Arabic Name: مسعود أوزيل
 - Birth Year: 1988
@@ -34,14 +34,7 @@ Mesut Özil ( German pronunciation: [ˈmeːzut ˈøːzil] , Turkish: [meˈsut œ
 Born and raised in Gelsenkirchen , Özil began his senior club career playing for hometown club Schalke 04 , before signing with Werder Bremen in 2008, aged 19. After winning the DFB-Pokal in his first season , his individual performances led to a move to Real Madrid in 2010. [ 6 ] There, he helped the club win a La Liga title, and ranked first in league assists for three straight seasons. [ 7 ] In 2013, Özil signed for Arsenal in a transfer worth up to £42.5 million (€50 million), becoming the most expensive German player ever at the time. It was also a club-record transfer fee for Arsenal until 2017. [ 8 ] In England, he won four FA Cups and helped end Arsenal's nine-year trophy drought , while recording the third most assists ever (19) in a Premier League season . In 2021, Özil joined Fenerbahçe on a free transfer ; after his contract with the club was terminated in 2022, he signed with İstanbul Başakşehir, before retiring in 2023.
 
 ### English Achievements
-- With Werder Bremen: DFB-Pokal
-- With Real Madrid: La Liga
-- With Arsenal: FA Cup
-- With Germany: FIFA World Cup
-- Individual: kicker Bundesliga Team of the Season
-- With Werder Bremen: UEFA Cup runner-up
-- With Real Madrid: Copa del Rey
-- With Real Madrid: Supercopa de España
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 98
@@ -52,13 +45,12 @@ Born and raised in Gelsenkirchen , Özil began his senior club career playing fo
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
 | 2005 | Schalke 04 II | 1 | 0 |
-| 2006–2008 | Schalke 04 | 30 | 0 |
-| 2008–2010 | Werder Bremen | 71 | 13 |
-| 2010–2013 | Real Madrid | 105 | 19 |
-| 2013–2021 | Arsenal | 184 | 33 |
-| 2021–2022 | Fenerbahçe | 32 | 8 |
-| 2022–2023 | İstanbul Başakşehir | 4 | 0 |
-| Total | Total | 427 | 73 |
+| 2006–2007 | Schalke 04 | 39 | 1 |
+| 2007–2010 | Werder Bremen | 108 | 17 |
+| 2010–2013 | Real Madrid | 159 | 27 |
+| 2013–2020 | Arsenal | 254 | 44 |
+| 2020–2021 | Fenerbahçe | 37 | 9 |
+| 2022 | İstanbul Başakşehir | 7 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -80,15 +72,31 @@ Born and raised in Gelsenkirchen , Özil began his senior club career playing fo
 بدأ مسعود أوزيل مشاركاته الدولية مع منتخب ألمانيا 19 وسجل 4 أهداف من 11 مباراة، وانتقل إلى منتخب ألمانيا 21 سنة 2009 وحصل معه على بطولة بطولة أوروبا تحت 21 سنة بعد تسجيله لأحد أهدافه الأربعة في مرمى منتخب إنجلترا . بدأ مسيرته مع منتخب ألمانيا الأول تحضيرا لنهائيات كأس العالم 2010 والتي برز واكتسب الاهتمام الدولي خلالها بعد وصوله مع المنتخب لنصف نهائي البطولة، ورُشّح لنيل جائزة أفضل لاعب في البطولة بعد أدائه الرائع.
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي فيردر بريمن: كأس ألمانيا (1)
+- مع النادي ريال مدريد: الدوري الإسباني (1)
+- مع النادي أرسنال: كأس الاتحاد الإنجليزي (4)
+- مع المنتخب ألمانيا تحت 21 سنة: بطولة أوروبا تحت 21 سنة (1)
+- مع المنتخب ألمانيا: كأس العالم (1)
+- الفردية: الكرة الذهبية ترشح للجائزة
+- مع النادي ريال مدريد: كأس ملك إسبانيا (1)
+- مع النادي ريال مدريد: كأس السوبر الإسباني (1)
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 92
+- Senior national team goals total: 27
+- Senior career goals total: 119
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006–2007 | شالكه | 39 | 1 |
+| 2007–2010 | فيردر بريمن | 108 | 17 |
+| 2010–2013 | ريال مدريد | 159 | 27 |
+| 2013–2019 | أرسنال | 254 | 44 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006–2007 | منتخب ألمانيا لكرة القدم للشباب | 11 | 4 |
+| 2007–2009 | ألمانيا تحت 21 سنة | 16 | 5 |
+| 2009–2018 | ألمانيا | 92 | 23 |

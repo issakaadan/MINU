@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q325825
-- Generated At (UTC): 2026-07-13T08:56:29+00:00
+- Generated At (UTC): 2026-07-13T12:13:04+00:00
 - English Name: Janusz Góra
 - Arabic Name: يانوش غورا
 - Birth Year: 1963
@@ -73,12 +73,24 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 136
+- Senior national team goals total: 0
+- Senior career goals total: 136
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1984–1985 | [الإنجليزية] | 19 | 1 |
+| 1985–1987 | شلوسك فروتسلاو | 47 | 3 |
+| 1987 | [الإنجليزية] | 3 | 0 |
+| 1987–1992 | شلوسك فروتسلاو | 134 | 20 |
+| 1992–1997 | شتوتغارت كيكرز | 110 | 10 |
+| 1997–2001 | إس إس في أولم 1846 | 109 | 20 |
+| 2001–2003 | آوغسبورغ | 47 | 7 |
+| 2003–2006 | إس إس في أولم 1846 | 73 | 7 |
+| - | مجموع | 542 | 68 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1989–1992 | بولندا | 11 | 0 |

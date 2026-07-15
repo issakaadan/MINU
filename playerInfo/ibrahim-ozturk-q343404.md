@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q343404
-- Generated At (UTC): 2026-07-13T08:57:06+00:00
+- Generated At (UTC): 2026-07-13T12:13:33+00:00
 - English Name: İbrahim Öztürk
 - Arabic Name: إبراهيم أوزتورك
 - Birth Year: 1981
@@ -32,11 +32,7 @@
 İbrahim Öztürk (born 21 June 1981) is a Turkish footballer who plays as a central defender for TFF Third League club Talasgücü Belediyespor. [ 1 ] [ 2 ] He started his career at Kayseri Erciyesspor , in his birthplace of Kayseri , played in all professional leagues governed by the Turkish Football Federation and won promotional or direct league titles via playoff. He was with Süper Lig champions Bursaspor in the 2009–10 season .
 
 ### English Achievements
-- With Karamanspor: TFF Third League
-- With Bursaspor: Süper Lig
-- With Sivasspor: TFF First League
-- With Altay: TFF Second League
-- With Altay: TFF First League (Play-offs)
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 29
@@ -70,12 +66,20 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 21
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 21
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2003 | قيصري إيرسيسبور | 24 | 0 |
+| 2003–2005 | Karamanspor | 41 | 3 |
+| 2005–2006 | [الإنجليزية] | 28 | 5 |
+| 2006–2008 | آلتاي إزمير | 49 | 4 |
+| 2008–2015 | بورصة سبور | 131 | 5 |
+| 2015–2017 | سيفاسبور | 65 | 1 |
+| 2017– | آلتاي إزمير | 61 | 3 |
 
 ### Arabic National Team Stats
 _No rows found._

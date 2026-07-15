@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q296180
-- Generated At (UTC): 2026-07-13T08:55:08+00:00
+- Generated At (UTC): 2026-07-13T12:11:37+00:00
 - English Name: Vicente Rodríguez
 - Arabic Name: فيسنتي رودريغيز
 - Birth Year: 1981
@@ -36,11 +36,7 @@ A left winger with outstanding technique, pace and scoring ability, his career, 
 Vicente represented Spain in the first half of the 2000s, and played at Euro 2004 .
 
 ### English Achievements
-- With Valencia: La Liga
-- Individual: Don Balón Award
-- With Valencia: Copa del Rey
-- With Valencia: UEFA Cup
-- With Valencia: UEFA Super Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 66
@@ -50,10 +46,9 @@ Vicente represented Spain in the first half of the 2000s, and played at Euro 200
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1997–2000 | Levante | 60 | 9 |
-| 2000–2011 | Valencia | 243 | 36 |
-| 2011–2013 | Brighton & Hove Albion | 29 | 5 |
-| Total | Total | 332 | 50 |
+| 1997–1999 | Levante | 64 | 9 |
+| 2000–2010 | Valencia | 340 | 52 |
+| 2011–2012 | Brighton & Hove Albion | 32 | 5 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -76,12 +71,23 @@ Vicente represented Spain in the first half of the 2000s, and played at Euro 200
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 100
+- Senior national team goals total: 3
+- Senior career goals total: 103
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997–2000 | ليفانتي | 60 | 9 |
+| 2000–2011 | فالنسيا | 243 | 36 |
+| 2011–2013 | برايتون أند هوف ألبيون | 29 | 5 |
+| - | مجموع | 332 | 50 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997–1998 | إسبانيا تحت 16 | 11 | 1 |
+| 1998–1999 | إسبانيا تحت 17 | 15 | 6 |
+| 1999–2000 | إسبانيا تحت 18 | 7 | 1 |
+| 2000–2001 | إسبانيا تحت 21 | 11 | 1 |
+| 2001–2005 | إسبانيا | 38 | 3 |

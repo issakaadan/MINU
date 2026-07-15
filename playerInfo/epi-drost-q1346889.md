@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1346889
-- Generated At (UTC): 2026-07-13T08:56:23+00:00
+- Generated At (UTC): 2026-07-13T12:12:50+00:00
 - English Name: Epi Drost
 - Arabic Name: إيبي دروست
 - Birth Year: 1945
@@ -66,12 +66,21 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 98
+- Senior national team goals total: 0
+- Senior career goals total: 98
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1962–1965 | نادي فاخينغين [الإنجليزية] | 80 | 41 |
+| 1965–1966 | هيراكليس ألميلو | 19 | 0 |
+| 1966–1980 | تفينتي أنشخيدة | 415 | 8 |
+| 1980–1982 | دوردريخت | 52 | 0 |
+| 1982–1983 | تفينتي أنشخيدة | 8 | 0 |
+| - | مجموع | 574 | 49 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1969–1973 | هولندا | 9 | 0 |

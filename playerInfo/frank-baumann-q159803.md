@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q159803
-- Generated At (UTC): 2026-07-13T08:54:19+00:00
+- Generated At (UTC): 2026-07-13T12:10:50+00:00
 - English Name: Frank Baumann
 - Arabic Name: فرانك باومان
 - Birth Year: 1975
@@ -34,11 +34,7 @@ Frank Baumann (born 29 October 1975) is a German former professional footballer 
 Either a defensive midfielder or a centre-back , he was well known for his tough tackling and defensive positioning. A German international on nearly 30 occasions, he represented his country at one UEFA European Championship and one FIFA World Cup , reaching the 2002 final in the latter tournament. [ 1 ]
 
 ### English Achievements
-- With Werder Bremen: Bundesliga
-- With Germany: FIFA World Cup runner-up
-- With Werder Bremen: DFB-Pokal
-- With Werder Bremen: DFB-Ligapokal
-- With Werder Bremen: UEFA Cup runner-up
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 32
@@ -48,9 +44,8 @@ Either a defensive midfielder or a centre-back , he was well known for his tough
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1994–1999 | 1. FC Nürnberg | 130 | 11 |
-| 1999–2009 | Werder Bremen | 260 | 16 |
-| Total | Total | 390 | 27 |
+| 1994–1998 | 1. FC Nürnberg | 138 | 11 |
+| 1999–2008 | Werder Bremen | 352 | 21 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -70,12 +65,16 @@ Either a defensive midfielder or a centre-back , he was well known for his tough
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 54
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 54
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1994–1999 | نورنبرغ | 130 | 11 |
+| 1999–2009 | فيردر بريمن | 260 | 16 |
+| - | مجموع | 390 | 27 |
 
 ### Arabic National Team Stats
 _No rows found._

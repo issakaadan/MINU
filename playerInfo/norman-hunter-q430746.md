@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q430746
-- Generated At (UTC): 2026-07-13T08:54:51+00:00
+- Generated At (UTC): 2026-07-13T12:11:20+00:00
 - English Name: Norman Hunter
 - Arabic Name: نورمان هنتر
 - Birth Year: 1943
@@ -36,14 +36,7 @@ Hunter played in 28 full internationals for England, scoring twice. He was a mem
 An early victim of COVID-19 when the pandemic began in 2020, Hunter was admitted to hospital on 10 April after testing positive. He died of the disease a week later, aged 76. On 23 April, Leeds United announced that the South Stand at its Elland Road stadium would be renamed the Norman Hunter South Stand in his honour.
 
 ### English Achievements
-- With Leeds United: Football League First Division
-- With England: FIFA World Cup
-- Individual: PFA Players' Player of the Year
-- With Leeds United: Football League Second Division
-- With Leeds United: FA Cup
-- With Leeds United: Football League Cup
-- With Leeds United: FA Charity Shield
-- With Leeds United: Inter-Cities Fairs Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 22
@@ -79,12 +72,20 @@ An early victim of COVID-19 when the pandemic began in 2020, Hunter was admitted
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 44
+- Senior national team goals total: 2
+- Senior career goals total: 46
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1962–1976 | ليدز يونايتد | 540 | 18 |
+| 1976–1979 | بريستول سيتي | 108 | 4 |
+| 1979–1982 | بارنسلي | 31 | 0 |
+| - | مجموع | 679 | 22 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1964–1965 | إنجلترا تحت 21 | 3 | 0 |
+| 1965–1974 | إنجلترا | 28 | 2 |

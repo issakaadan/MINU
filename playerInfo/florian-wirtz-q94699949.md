@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q94699949
-- Generated At (UTC): 2026-07-13T08:52:37+00:00
+- Generated At (UTC): 2026-07-13T12:09:12+00:00
 - English Name: Florian Wirtz
 - Arabic Name: فلوريان فيرتز
 - Birth Year: 2003
@@ -36,14 +36,7 @@ Wirtz rose through the youth system at 1. FC Köln before moving to Bayer Leverk
 Internationally, Wirtz debuted for Germany in September 2021 after representing the country at various youth levels. He later became the youngest ever goalscorer for Germany in the history of the European Championships after he scored a goal against Scotland at UEFA Euro 2024 . He also represented Germany at the 2026 FIFA World Cup .
 
 ### English Achievements
-- With Bayer Leverkusen: Bundesliga
-- With Germany U21: UEFA European Under-21 Championship
-- Individual: UEFA Europa League Young Player of the Season
-- With Bayer Leverkusen: DFB-Pokal
-- With Bayer Leverkusen: DFL-Supercup
-- With Bayer Leverkusen: UEFA Europa League runner-up
-- Individual: UEFA Europa League Team of the Season
-- Individual: German Footballer of the Year
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 64
@@ -53,8 +46,8 @@ Internationally, Wirtz debuted for Germany in September 2021 after representing 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2020–2025 | Bayer Leverkusen | 140 | 35 |
-| 2025– | Liverpool | 33 | 5 |
+| 2019–2024 | Bayer Leverkusen | 197 | 57 |
+| 2025 | Liverpool | 49 | 7 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -74,15 +67,27 @@ Internationally, Wirtz debuted for Germany in September 2021 after representing 
 فلوريان ريتشارد فيرتز ( بالألمانية : Florian Richard Wirtz؛ مواليد 3 مايو 2003) هو لاعب كرة قدم ألماني يلعب كلاعب خط وسط مهاجم مع نادي ليفربول في الدوري الإنجليزي الممتاز [ 3 ] والمنتخب الألماني . [ 4 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع باير ليفركوزن: الدوري الألماني
+- مع باير ليفركوزن ألمانيا تحت 21 سنة: بطولة أمم أوروبا تحت 21 سنة
+- مع باير ليفركوزن: كأس ألمانيا
+- مع باير ليفركوزن: الدوري الأوروبي
+- مع باير ليفركوزن: كأس السوبر الألماني
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 48
+- Senior national team goals total: 7
+- Senior career goals total: 55
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2019–2024 | باير ليفركوزن | 159 | 48 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2018 | ألمانيا تحت 15 | 1 | 0 |
+| 2018–2019 | ألمانيا تحت 16 | 5 | 0 |
+| 2019–2020 | ألمانيا تحت 17 | 4 | 0 |
+| 2020–2021 | ألمانيا تحت 21 | 6 | 2 |
+| 2021– | ألمانيا | 31 | 7 |

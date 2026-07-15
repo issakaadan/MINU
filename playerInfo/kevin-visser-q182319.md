@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q182319
-- Generated At (UTC): 2026-07-13T08:56:34+00:00
+- Generated At (UTC): 2026-07-13T12:13:09+00:00
 - English Name: Kevin Visser
 - Arabic Name: كيفن فيسر
 - Birth Year: 1988
@@ -35,17 +35,16 @@ Kevin Visser (born 19 July 1988) is a Dutch professional footballer who plays as
 _No honours section found._
 
 ### English Career Totals
-- Club goals total: 23
+- Club goals total: 21
 - Senior national team goals total: Unavailable
-- Senior career goals total: 23
+- Senior career goals total: 21
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2010–2013 | ADO Den Haag | 58 | 1 |
-| 2013–2016 | Helmond Sport | 91 | 7 |
-| 2016–2022 | Volendam | 136 | 13 |
-| 2022– | AFC | 19 | 2 |
+| 2010–2012 | ADO Den Haag | 63 | 1 |
+| 2013–2015 | Helmond Sport | 95 | 7 |
+| 2016–2021 | FC Volendam | 130 | 13 |
 
 ### English National Team Stats
 _No rows found._
@@ -62,12 +61,16 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 21
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 21
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2010–2013 | أدو دين هاغ | 58 | 1 |
+| 2013–2016 | هيلموند سبورت | 91 | 7 |
+| 2016–2022 | فولندام | 136 | 13 |
 
 ### Arabic National Team Stats
 _No rows found._

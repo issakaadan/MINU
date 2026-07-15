@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1066702
-- Generated At (UTC): 2026-07-13T08:55:28+00:00
+- Generated At (UTC): 2026-07-13T12:11:56+00:00
 - English Name: Douglas Maradona Campos Dangui
 - Arabic Name: دوغلاس مارادونا كامبوس دانغي
 - Birth Year: 1990
@@ -57,12 +57,23 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 2
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 2
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009 | إهيمه إف سي | 7 | 1 |
+| 2010 | غامبا أوساكا | 7 | 1 |
+| 2011 | [الإنجليزية] | 5 | 0 |
+| 2011–2013 | بورتيمونينسي | 5 | 0 |
+| 2013 | [الإنجليزية] | 4 | 0 |
+| 2013 | غوياس | 0 | 0 |
+| 2014 | نادي ساو فيسنتي | 0 | 0 |
+| 2014 | [الإنجليزية] | 4 | 0 |
+| 2017 | غوياس | 0 | 0 |
+| 2019– | [الإنجليزية] | 0 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

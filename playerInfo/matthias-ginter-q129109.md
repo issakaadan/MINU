@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q129109
-- Generated At (UTC): 2026-07-13T08:53:43+00:00
+- Generated At (UTC): 2026-07-13T12:10:20+00:00
 - English Name: Matthias Ginter
 - Arabic Name: ماتياس غينتر
 - Birth Year: 1994
@@ -32,14 +32,7 @@
 Matthias Lukas Ginter ( German pronunciation: [maˈtiːas ˈɡɪntɐ] ; born 19 January 1994) is a German professional footballer who plays as a centre-back for Bundesliga club SC Freiburg . [ 4 ]
 
 ### English Achievements
-- With Borussia Dortmund: DFB-Pokal
-- With SC Freiburg: UEFA Europa League runner-up
-- With Germany: FIFA World Cup
-- Individual: Fritz Walter Medal U18 Gold
-- With Borussia Dortmund: DFL-Supercup
-- With Germany: FIFA Confederations Cup
-- Individual: Fritz Walter Medal U19 Gold
-- Individual: Germany national team Player of the Year
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 33
@@ -49,10 +42,9 @@ Matthias Lukas Ginter ( German pronunciation: [maˈtiːas ˈɡɪntɐ] ; born 19 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2012–2014 | SC Freiburg | 70 | 2 |
-| 2014–2017 | Borussia Dortmund | 67 | 3 |
-| 2017–2022 | Borussia Mönchengladbach | 154 | 11 |
-| 2022– | SC Freiburg | 121 | 9 |
+| 2011–2025 | SC Freiburg | 248 | 18 |
+| 2014–2016 | Borussia Dortmund | 102 | 4 |
+| 2017–2021 | Borussia Mönchengladbach | 179 | 11 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -75,12 +67,22 @@ Matthias Lukas Ginter ( German pronunciation: [maˈtiːas ˈɡɪntɐ] ; born 19 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 16
+- Senior national team goals total: 3
+- Senior career goals total: 19
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2012–2014 | فرايبورغ | 70 | 2 |
+| 2014–2017 | بوروسيا دورتموند | 67 | 3 |
+| 2017–2022 | بوروسيا مونشنغلادباخ | 154 | 11 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2011–2012 | منتخب ألمانيا لكرة القدم للشباب | 6 | 0 |
+| 2012–2013 | منتخب ألمانيا لكرة القدم للشباب | 5 | 1 |
+| 2013–2017 | ألمانيا تحت 21 | 18 | 1 |
+| 2016 | ألمانيا الأولمبي | 5 | 2 |
+| 2014– | ألمانيا | 47 | 2 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q311947
-- Generated At (UTC): 2026-07-13T08:54:12+00:00
+- Generated At (UTC): 2026-07-13T12:10:44+00:00
 - English Name: Dani Pacheco
 - Arabic Name: دانييل باتشيكو
 - Birth Year: 1991
@@ -32,10 +32,7 @@
 Daniel Pacheco Lobato (born 5 January 1991) is a Spanish professional footballer who plays as a winger or an attacking midfielder for Polish club Wisła Płock . He joined Liverpool in 2007 having previously been in the youth ranks at Barcelona .
 
 ### English Achievements
-- With Betis: Segunda División
-- With Alavés: Segunda División
-- With Wisła Płock: I liga promotion play-offs
-- Individual: UEFA European Under-19 Championship Golden Boot
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 35
@@ -45,20 +42,19 @@ Daniel Pacheco Lobato (born 5 January 1991) is a Spanish professional footballer
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2009–2013 | Liverpool | 5 | 0 |
-| 2011 | Norwich City | 6 | 2 |
-| 2011–2012 | Rayo Vallecano | 11 | 0 |
-| 2013 | Huesca | 19 | 5 |
-| 2013–2014 | Alcorcón | 32 | 5 |
-| 2014–2017 | Betis | 23 | 0 |
-| 2015–2016 | Alavés | 36 | 3 |
-| 2016–2017 | Getafe | 31 | 3 |
-| 2017–2018 | Getafe | 11 | 0 |
-| 2018–2020 | Málaga | 44 | 2 |
-| 2021 | Logroñés | 10 | 0 |
-| 2021–2022 | Aris Limassol | 12 | 0 |
-| 2022–2024 | Górnik Zabrze | 62 | 4 |
-| 2024– | Wisła Płock | 64 | 5 |
+| 2009–2012 | Liverpool | 17 | 0 |
+| 2010 | Norwich City (loan) | 6 | 2 |
+| 2011 | Rayo Vallecano (loan) | 12 | 0 |
+| 2012 | Huesca (loan) | 19 | 5 |
+| 2013 | Alcorcón | 37 | 7 |
+| 2014 | Real Betis | 25 | 0 |
+| 2015 | Alavés (loan) | 38 | 3 |
+| 2016–2017 | Getafe | 46 | 6 |
+| 2018–2019 | Málaga | 46 | 2 |
+| 2020 | Logroñés | 10 | 0 |
+| 2021 | Aris Limassol | 13 | 1 |
+| 2021–2023 | Górnik Zabrze | 67 | 4 |
+| 2024–2025 | Wisła Płock | 66 | 5 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -82,12 +78,33 @@ Daniel Pacheco Lobato (born 5 January 1991) is a Spanish professional footballer
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 20
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 20
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009–2013 | ليفربول | 5 | 0 |
+| 2011 | نورويتش سيتي | 6 | 2 |
+| 2011–2012 | أتلتيكو مدريد | 0 | 0 |
+| 2011–2012 | رايو فايكانو | 11 | 0 |
+| 2013 | هويسكا | 19 | 5 |
+| 2013–2014 | ألكوركون | 32 | 5 |
+| 2014–2017 | ريال بيتيس | 23 | 0 |
+| 2015–2016 | ديبورتيفو ألافيس | 36 | 3 |
+| 2016–2017 | خيتافي | 31 | 3 |
+| 2017–2018 | خيتافي | 11 | 0 |
+| 2018–2020 | مالقا | 44 | 2 |
+| 2021 | يونيون ديبورتيفا لوغرينييس | 10 | 0 |
+| 2021–2022 | أريس ليماسول | 12 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2007 | إسبانيا تحت 16 | 5 | 0 |
+| 2007–2008 | إسبانيا تحت 17 | 5 | 3 |
+| 2009 | إسبانيا تحت 18 | 3 | 1 |
+| 2009–2010 | إسبانيا تحت 19 | 12 | 5 |
+| 2011 | إسبانيا تحت 20 | 6 | 0 |
+| 2011 | إسبانيا تحت 21 | 2 | 0 |

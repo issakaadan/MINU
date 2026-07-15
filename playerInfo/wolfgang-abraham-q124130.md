@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q124130
-- Generated At (UTC): 2026-07-13T08:57:04+00:00
+- Generated At (UTC): 2026-07-13T12:13:31+00:00
 - English Name: Wolfgang Abraham
 - Arabic Name: فولفغانغ إبراهام
 - Birth Year: 1942
@@ -61,12 +61,16 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 66
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 66
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1962–1963 | ماغديبورغ | 7 | 0 |
+| 1965–1966 | [الإنجليزية] | 27 | 9 |
+| 1966–1975 | ماغديبورغ | 215 | 57 |
 
 ### Arabic National Team Stats
 _No rows found._

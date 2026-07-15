@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q323296
-- Generated At (UTC): 2026-07-13T08:56:38+00:00
+- Generated At (UTC): 2026-07-13T12:13:14+00:00
 - English Name: Marcel Eger
 - Arabic Name: مارسيل إيجر
 - Birth Year: 1983
@@ -42,12 +42,11 @@ _No honours section found._
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2001–2003 | 1. FC Nürnberg II | 27 | 2 |
-| 2003–2004 | 1. SC Feucht | 26 | 1 |
-| 2004–2011 | FC St. Pauli | 131 | 8 |
+| 2000–2002 | 1. FC Nürnberg Amateure | 27 | 2 |
+| 2003 | 1. SC Feucht | 26 | 1 |
+| 2004–2010 | FC St. Pauli | 136 | 8 |
 | 2009–2010 | FC St. Pauli II | 10 | 0 |
-| 2011–2012 | Brentford | 16 | 0 |
-| Total | Total | 210 | 11 |
+| 2011 | Brentford | 22 | 0 |
 
 ### English National Team Stats
 _No rows found._
@@ -64,12 +63,19 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 22
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 22
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001–2003 | [الإنجليزية] | 27 | 2 |
+| 2003–2004 | [الإنجليزية] | 26 | 1 |
+| 2004–2011 | سانت باولي | 131 | 8 |
+| 2009–2010 | سانت باولي | 10 | 0 |
+| 2011–2012 | برينتفورد | 16 | 0 |
+| - | مجموع | 210 | 11 |
 
 ### Arabic National Team Stats
 _No rows found._

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q126466
-- Generated At (UTC): 2026-07-13T08:54:28+00:00
+- Generated At (UTC): 2026-07-13T12:10:59+00:00
 - English Name: Jack Colback
 - Arabic Name: جاك كولباك
 - Birth Year: 1989
@@ -36,12 +36,7 @@ Colback began his career at Sunderland's academy , and broke into the team follo
 He played once for the England national under-20 team in 2009, and was called up for the senior squad for the first time in August 2014.
 
 ### English Achievements
-- With Sunderland: Football League Cup runner-up
-- With Newcastle United: EFL Championship
-- With Nottingham Forest: EFL Championship play-offs
-- Individual: Ipswich Town Players' Player of the Year
-- Individual: Ipswich Town Goal of the Season
-- Individual: Nottingham Forest Goal of the Season
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 27
@@ -51,13 +46,12 @@ He played once for the England national under-20 team in 2009, and was called up
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2008–2014 | Sunderland | 115 | 4 |
-| 2009–2011 | Ipswich Town | 50 | 4 |
-| 2014–2020 | Newcastle United | 93 | 5 |
-| 2018–2019 | Nottingham Forest | 54 | 4 |
-| 2020–2023 | Nottingham Forest | 66 | 3 |
-| 2023–2025 | Queens Park Rangers | 53 | 4 |
-| 2026 | Anstey Nomads | 1 | 0 |
+| 2008–2013 | Sunderland | 135 | 5 |
+| 2009–2010 | Ipswich Town (loan) | 55 | 5 |
+| 2014–2019 | Newcastle United | 102 | 5 |
+| 2017–2018 | Nottingham Forest (loan) | 55 | 4 |
+| 2020–2022 | Nottingham Forest | 79 | 4 |
+| 2023–2024 | Queens Park Rangers | 55 | 4 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -76,12 +70,21 @@ He played once for the England national under-20 team in 2009, and was called up
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 17
+- Senior national team goals total: 0
+- Senior career goals total: 17
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008–2014 | سندرلاند | 115 | 4 |
+| 2009–2010 | إيبسويتش تاون | 37 | 4 |
+| 2010–2011 | إيبسويتش تاون | 13 | 0 |
+| 2014–2020 | نيوكاسل يونايتد | 93 | 5 |
+| 2018–2019 | نوتينغهام فورست | 54 | 4 |
+| 2020– | نوتينغهام فورست | 17 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009 | إنجلترا | 1 | 0 |

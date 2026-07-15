@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q44980
-- Generated At (UTC): 2026-07-13T08:48:21+00:00
+- Generated At (UTC): 2026-07-13T12:05:52+00:00
 - English Name: Alex Ferguson
 - Arabic Name: ألكس فيرغسون
 - Birth Year: 1941
@@ -34,30 +34,21 @@ Sir Alexander Chapman Ferguson (born 31 December 1941), also known by the nickna
 Ferguson played as a forward for several Scottish clubs, including Dunfermline Athletic and Rangers , and was a Scottish international, earning four caps. While playing for Dunfermline, he was the top goalscorer in the Scottish league during the 1965–66 season. Towards the end of his playing career, he also worked as a coach, then started his managerial career with East Stirlingshire and St Mirren . Ferguson then enjoyed a highly successful period as manager of Aberdeen , winning three Scottish league championships , four Scottish Cups and both the UEFA Cup Winners' Cup and the UEFA Super Cup in 1983 . He briefly managed Scotland following the death of Jock Stein , taking the team to the 1986 World Cup .
 
 ### English Achievements
-- With St Johnstone: Scottish Division Two
-- With Falkirk: Scottish Division Two
-- Individual: Scottish Division One top scorer
-- With St Mirren: Scottish First Division
-- With Aberdeen: Scottish Premier Division
-- With Manchester United: Premier League
-- Individual: LMA Manager of the Decade
-- Orders and special awards [ edit ]: Officer of the Order of the British Empire (OBE)
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 171
+- Club goals total: 6
 - Senior national team goals total: 5
-- Senior career goals total: 176
+- Senior career goals total: 11
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1957–1960 | Queen's Park | 31 | 15 |
-| 1960–1964 | St Johnstone | 37 | 19 |
-| 1964–1967 | Dunfermline Athletic | 89 | 66 |
-| 1967–1969 | Rangers | 41 | 25 |
-| 1969–1973 | Falkirk | 95 | 37 |
-| 1973–1974 | Ayr United | 24 | 9 |
-| Total | Total | 317 | 171 |
+| 1960 | St Johnstone | 37 | 19 |
+| 1964–1965 | Dunfermline Athletic | 89 | 66 |
+| 1967–1968 | Rangers | 66 | 35 |
+| 1969–1972 | Falkirk | 7 | 5 |
+| 1973 | Ayr United | 28 | 10 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -77,15 +68,33 @@ Ferguson played as a forward for several Scottish clubs, including Dunfermline A
 لعب فيرغسون كمهاجم لعدة أندية إسكتلندية، من بينها دونفرملين أثلتيك و رينجرز . وأثناء لعبه مع دونفرملين، كان الهداف الأعلى في الدوري الإسكتلندي خلال موسم 1965–1966. وفي أواخر مسيرته كلاعب، بدأ العمل كمدرب، ثم بدأ مسيرته التدريبية مع ناديي إيست ستيرلينغشاير وسانت ميرين. بعدها حقق فترة نجاح كبيرة مع نادي أبردين ، حيث فاز بثلاث بطولات دوري إسكتلندي، وأربعة كؤوس إسكتلندية، بالإضافة إلى كأس الكؤوس الأوروبية و كأس السوبر الأوروبي عام 1983. كما تولّى تدريب المنتخب الإسكتلندي لفترة قصيرة بعد وفاة جوك ستاين، وقاد الفريق إلى كأس العالم 1986. [ 10 ]
 
 ### Arabic Achievements
-_No honours section found._
+- وسام ضابط الإمبراطورية البريطانية (OBE)
+- رتبة الإمبراطورية البريطانية (CBE)
+- فارس حدث (Kt.)
+- حرية مدينة أبردين
+- حرية مدينة غلاسكو
+- حرية مدينة مانشستر
+- حرية بلدة ترافورد
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 342
+- Senior national team goals total: 5
+- Senior career goals total: 347
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1957–1960 | نادي كوينز بارك | 31 | 15 |
+| 1960–1964 | سانت جونستون | 37 | 19 |
+| 1964–1967 | دونفرملين أثلتيك | 89 | 66 |
+| 1967–1969 | رينجرز | 41 | 25 |
+| 1969–1973 | فالكيرك | 95 | 37 |
+| 1973–1974 | آير يونايتد | 24 | 9 |
+| - | مجموع | 317 | 171 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1960 | منتخب اسكتلندا الوطني لكرة القدم للهواة [الإنجليزية] [ 3 ] | 1 | 1 |
+| 1967 | إسكتلندا [ 1 ] | 4 | 3 |
+| 1967 | رابطة كرة القدم الإسكتلندية الحادية عشر [لغات أخرى] [ 2 ] | 2 | 1 |

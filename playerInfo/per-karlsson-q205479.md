@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q205479
-- Generated At (UTC): 2026-07-13T08:55:57+00:00
+- Generated At (UTC): 2026-07-13T12:12:25+00:00
 - English Name: Per Karlsson
 - Arabic Name: بير كارلسون
 - Birth Year: 1986
@@ -32,12 +32,7 @@
 Per Jonas Karlsson (born 2 January 1986) is a Swedish former professional footballer who played as a defender . Making his senior debut for AIK in 2003, he made a club record 455 appearances for the club and helped the team win the 2009 and 2018 Allsvenskan titles. He won two caps for the Sweden national team between 2010 and 2015.
 
 ### English Achievements
-- With AIK: Allsvenskan
-- Individual: Allsvenskan Defender of the Year
-- Records [ edit ]: Most appearances for AIK
-- With AIK: Svenska Cupen
-- With AIK: Svenska Supercupen
-- Records [ edit ]: Most Allsvenskan appearances for AIK
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 5
@@ -47,10 +42,9 @@ Per Jonas Karlsson (born 2 January 1986) is a Swedish former professional footba
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2003–2022 | AIK | 349 | 2 |
-| 2006 | Väsby United | 0 | 0 |
-| 2007 | Åtvidabergs FF | 27 | 1 |
-| Total | Total | 376 | 3 |
+| 2003–2022 | AIK | 428 | 4 |
+| 2006 | Väsby United (loan) | 0 | 0 |
+| 2007 | Åtvidabergs FF (loan) | 27 | 1 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -72,12 +66,22 @@ Per Jonas Karlsson (born 2 January 1986) is a Swedish former professional footba
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 6
+- Senior national team goals total: 0
+- Senior career goals total: 6
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2003–2022 | أيك سولنا | 349 | 2 |
+| 2006 | إسكلستونا | 0 | 0 |
+| 2007 | أتفدابيرجس | 27 | 1 |
+| - | مجموع | 376 | 3 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001–2003 | السويد تحت 17 | 8 | 0 |
+| 2004–2005 | السويد تحت 19 | 13 | 0 |
+| 2007–2009 | السويد تحت 21 | 15 | 0 |
+| 2010–2015 | السويد | 2 | 0 |

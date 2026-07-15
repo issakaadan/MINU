@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q2318901
-- Generated At (UTC): 2026-07-13T08:54:47+00:00
+- Generated At (UTC): 2026-07-13T12:11:17+00:00
 - English Name: Milan Galić
 - Arabic Name: ميلان غاليتش
 - Birth Year: 1938
@@ -36,14 +36,7 @@ During his active career, Galić played for four clubs, namely Proleter Zrenjani
 After finishing his playing career, Galić was employed at the Football Association of Yugoslavia .
 
 ### English Achievements
-- With Partizan: Yugoslav First League
-- With Standard Liège: Belgian First Division
-- With Yugoslavia: Olympic Games
-- Individual [ edit ]: Olympic Games Top Scorer
-- With Partizan: Yugoslav Cup runner-up
-- With Partizan: European Cup runner-up
-- With Standard Liège: Belgian Cup
-- With Yugoslavia: European Nations' Cup runner-up
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 137
@@ -53,10 +46,9 @@ After finishing his playing career, Galić was employed at the Football Associat
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1958–1966 | Partizan | 148 | 74 |
-| 1966–1970 | Standard Liège | 84 | 33 |
-| 1970–1973 | Reims | 55 | 18 |
-| Total | Total | 287 | 125 |
+| 1958–1965 | Partizan | 162 | 81 |
+| 1966–1969 | Standard Liège | 100 | 38 |
+| 1970–1972 | Reims | 55 | 18 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -79,12 +71,19 @@ After finishing his playing career, Galić was employed at the Football Associat
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 250
+- Senior national team goals total: 37
+- Senior career goals total: 287
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1958–1966 | بارتيزان | 148 | 74 |
+| 1966–1970 | ستاندارد لييج | 84 | 33 |
+| 1970–1973 | ستاد ريمس | 55 | 18 |
+| - | مجموع | 287 | 125 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1959–1965 | يوغوسلافيا | 51 | 37 |

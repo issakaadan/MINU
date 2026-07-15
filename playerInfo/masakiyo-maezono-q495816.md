@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q495816
-- Generated At (UTC): 2026-07-13T08:52:59+00:00
+- Generated At (UTC): 2026-07-13T12:09:41+00:00
 - English Name: Masakiyo Maezono
 - Arabic Name: ماساكييو مايزونو
 - Birth Year: 1973
@@ -35,9 +35,9 @@ Masakiyo Maezono ( 前園 真聖 , Maezono Masakiyo ; born 29 October 1973) is a
 _No honours section found._
 
 ### English Career Totals
-- Club goals total: 58
+- Club goals total: 47
 - Senior national team goals total: 6
-- Senior career goals total: 64
+- Senior career goals total: 53
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
@@ -71,12 +71,24 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 93
+- Senior national team goals total: 4
+- Senior career goals total: 97
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1992–1996 | يوكوهاما فلوغلس | 128 | 25 |
+| 1997–2002 | طوكيو فيردي | 63 | 9 |
+| 1998 | سانتوس | 5 | 1 |
+| 1999 | غوياس | 0 | 0 |
+| 2000 | شونان بلمار | 38 | 11 |
+| 2003 | سول | 16 | 0 |
+| 2004 | إنتشون يونايتد | 4 | 0 |
+| - | مجموع | 263 | 47 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1995–1996 | اليابان تحت 23 | 3 | 2 |
+| 1994–1997 | اليابان | 19 | 4 |

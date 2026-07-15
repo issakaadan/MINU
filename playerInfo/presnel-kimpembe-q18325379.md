@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q18325379
-- Generated At (UTC): 2026-07-13T08:53:09+00:00
+- Generated At (UTC): 2026-07-13T12:09:46+00:00
 - English Name: Presnel Kimpembe
 - Arabic Name: بريسنيل كيمبيمبي
 - Birth Year: 1995
@@ -36,26 +36,19 @@ A product of the Paris Saint-Germain Youth Academy , Kimpembe made his debut for
 A senior international from 2018 to 2022, Kimpembe was a part of the French teams that won the 2018 FIFA World Cup and 2021 UEFA Nations League Finals , and was a prominent starter at UEFA Euro 2020 . He was also included in the 2022 FIFA World Cup , but withdrew injured and was replaced by Axel Disasi .
 
 ### English Achievements
-- With Paris Saint-Germain: Ligue 1
-- With France: FIFA World Cup
-- Individual: UNFP Ligue 1 Team of the Year
-- Orders: Knight of the Legion of Honour
-- With Paris Saint-Germain: Coupe de France
-- With Paris Saint-Germain: Coupe de la Ligue
-- With Paris Saint-Germain: Trophée des Champions
-- With Paris Saint-Germain: UEFA Champions League
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 4
+- Club goals total: 3
 - Senior national team goals total: 0
-- Senior career goals total: 4
+- Senior career goals total: 3
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
 | 2013–2016 | Paris Saint-Germain B | 41 | 1 |
-| 2014–2025 | Paris Saint-Germain | 165 | 1 |
-| 2025–2026 | Qatar SC | 8 | 0 |
+| 2014–2024 | Paris Saint-Germain | 241 | 3 |
+| 2025 | Qatar SC | 9 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -77,12 +70,20 @@ A senior international from 2018 to 2022, Kimpembe was a part of the French team
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 2
+- Senior national team goals total: 0
+- Senior career goals total: 2
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2013–2016 | أكاديمية باريس سان جيرمان | 41 | 1 |
+| 2014– | باريس سان جيرمان | 160 | 1 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2014 | جمهورية الكونغو الديمقراطية تحت 20 | 1 | 0 |
+| 2015 | فرنسا تحت 20 | 7 | 0 |
+| 2015–2016 | فرنسا تحت 21 | 11 | 0 |
+| 2018– | فرنسا | 28 | 0 |

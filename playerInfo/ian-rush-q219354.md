@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q219354
-- Generated At (UTC): 2026-07-13T08:53:41+00:00
+- Generated At (UTC): 2026-07-13T12:10:17+00:00
 - English Name: Ian Rush
 - Arabic Name: إيان راش
 - Birth Year: 1961
@@ -34,14 +34,7 @@ Ian James Rush (born 20 October 1961) is a Welsh former professional footballer 
 Regarded as one of Liverpool's greatest ever players, [ 12 ] [ 13 ] Rush came 3rd among Liverpool players in an official Liverpool fan poll, 100 Players Who Shook The Kop. [ 14 ] He also had short spells with Chester , Juventus , Leeds United , Newcastle United , Sheffield United , Wrexham and Sydney Olympic . Since retiring as a player in 2000, Rush has had a stint as manager of Chester City (2004–05), and has worked as a television football pundit. [ 15 ]
 
 ### English Achievements
-- With Liverpool: Football League First Division
-- Individual: Liverpool Top Goalscorer
-- With Liverpool: FA Cup
-- With Liverpool: Football League Cup
-- With Liverpool: Football League Super Cup
-- With Liverpool: FA Charity Shield
-- With Liverpool: European Cup
-- Individual: PFA Young Player of the Year
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 383
@@ -51,17 +44,14 @@ Regarded as one of Liverpool's greatest ever players, [ 12 ] [ 13 ] Rush came 3r
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1978–1980 | Chester | 34 | 14 |
-| 1980–1986 | Liverpool | 182 | 109 |
-| 1986–1988 | Juventus | 29 | 7 |
-| 1986–1987 | Liverpool | 42 | 30 |
-| 1988–1996 | Liverpool | 245 | 90 |
-| 1996–1997 | Leeds United | 36 | 3 |
-| 1997–1998 | Newcastle United | 10 | 0 |
-| 1998 | Sheffield United | 4 | 0 |
-| 1998–1999 | Wrexham | 17 | 0 |
+| 1978–1979 | Chester | 39 | 18 |
+| 1980–1995 | Liverpool | 660 | 346 |
+| 1987 | Juventus | 40 | 13 |
+| 1996 | Leeds United | 42 | 3 |
+| 1997 | Newcastle United | 14 | 2 |
+| 1997 | Sheffield United | 4 | 0 |
+| 1998 | Wrexham | 27 | 0 |
 | 1999–2000 | Sydney Olympic | 2 | 1 |
-| Total | Total | 601 | 254 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -84,12 +74,26 @@ Regarded as one of Liverpool's greatest ever players, [ 12 ] [ 13 ] Rush came 3r
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 508
+- Senior national team goals total: 28
+- Senior career goals total: 536
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1978–1980 | تشستر سيتي | 34 | 14 |
+| 1980–1986 | ليفربول | 182 | 109 |
+| 1986–1988 | يوفنتوس | 29 | 7 |
+| 1986–1987 | ليفربول | 42 | 30 |
+| 1988–1996 | ليفربول | 245 | 90 |
+| 1996–1997 | ليدز يونايتد | 36 | 3 |
+| 1997–1998 | نيوكاسل يونايتد | 10 | 0 |
+| 1998 | شيفيلد يونايتد | 4 | 0 |
+| 1998–1999 | ريكسهام | 17 | 0 |
+| 1999–2000 | سيدني أوليمبيك | 3 | 1 |
+| - | مجموع | 602 | 254 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1980–1996 | ويلز [ 5 ] | 73 | 28 |

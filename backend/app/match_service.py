@@ -166,13 +166,18 @@ class MatchService:
     def get_match(self, match_id: str, match_token: str | None = None) -> MatchState:
         with self._lock:
             cached = self._matches.get(match_id)
-        if cached is not None:
-            return cached
 
         if match_token:
             restored = self._read_token_match(match_id, match_token)
             if restored is not None:
-                return self._cache_match(restored)
+                # Vercel instances may retain different in-memory snapshots. The
+                # signed token travels with every client response, so reconcile it
+                # before using a warm instance's potentially stale cache.
+                if cached is None or restored.updated_at >= cached.updated_at:
+                    return self._cache_match(restored)
+
+        if cached is not None:
+            return cached
 
         raise HTTPException(status_code=404, detail="المباراة مو موجودة.")
 

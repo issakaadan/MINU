@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q3943155
-- Generated At (UTC): 2026-07-13T08:53:14+00:00
+- Generated At (UTC): 2026-07-13T12:09:51+00:00
 - English Name: Ryōta Ōshima
 - Arabic Name: ريوتا أوشيما
 - Birth Year: 1993
@@ -32,12 +32,7 @@
 Ryota Oshima ( 大島 僚太 , Ōshima Ryōta ; born 23 January 1993) is a Japanese professional footballer who plays as a central midfielder for Kawasaki Frontale .
 
 ### English Achievements
-- With Kawasaki Frontale: J1 League
-- With Japan U23: AFC U-23 Championship
-- Individual: J.League Best XI
-- With Kawasaki Frontale: Emperor's Cup
-- With Kawasaki Frontale: J.League Cup
-- With Kawasaki Frontale: Japanese Super Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 19
@@ -47,8 +42,7 @@ Ryota Oshima ( 大島 僚太 , Ōshima Ryōta ; born 23 January 1993) is a Japan
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2011– | Kawasaki Frontale | 235 | 15 |
-| 2015 | J. League U22 | 1 | 0 |
+| 2011–2022 | Kawasaki Frontale | 310 | 19 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |

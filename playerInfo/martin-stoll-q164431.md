@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q164431
-- Generated At (UTC): 2026-07-13T08:56:40+00:00
+- Generated At (UTC): 2026-07-13T12:13:16+00:00
 - English Name: Martin Stoll
 - Arabic Name: مارتن ستول
 - Birth Year: 1983
@@ -68,12 +68,23 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 16
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 16
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2008 | نادي كارلسروه 2 [الإنجليزية] | 44 | 2 |
+| 2003–2008 | كارلسروه | 111 | 3 |
+| 2009–2010 | آراو | 31 | 2 |
+| 2010–2011 | هانزا روستوك | 13 | 0 |
+| 2011–2012 | دينامو درسدن | 11 | 1 |
+| 2012–2019 | كارلسروه | 49 | 0 |
+| - | مجموع | 259 | 8 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2004 | ألمانيا تحت 20 | 3 | 0 |
+| 2005 | منتخب ألمانيا ب لكرة القدم [لغات أخرى] | 1 | 0 |

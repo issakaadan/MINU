@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q317058
-- Generated At (UTC): 2026-07-13T08:54:42+00:00
+- Generated At (UTC): 2026-07-13T12:11:12+00:00
 - English Name: Maksim Shatskikh
 - Arabic Name: مكسيم_شاتسكيخ
 - Birth Year: 1978
@@ -36,14 +36,7 @@ A prolific striker , he is widely regarded as one of the best Uzbekistani player
 On 28 July 1999, Shatskikh became the first Asian player to score in the UEFA Champions League qualifying rounds and is only the second Uzbekistani player, after Mirjalol Kasymov , to score in UEFA football competitions. [ 2 ] At international level, he played in three AFC Asian Cups for Uzbekistan, helping them to fourth place in 2011 .
 
 ### English Achievements
-- With Dynamo Kyiv: Ukrainian Championship
-- With Uzbekistan: Asian Cup fourth place
-- With Pakhtakor: Uzbekistan Super League
-- Individual: Uzbekistan Footballer of the Year
-- With Dynamo Kyiv: Ukrainian Cup
-- With Dynamo Kyiv: Ukrainian Super Cup
-- With Dynamo Kyiv: Commonwealth of Independent States Cup
-- Individual: Ukrainian Premier League top scorer
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 206
@@ -53,20 +46,16 @@ On 28 July 1999, Shatskikh became the first Asian player to score in the UEFA Ch
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1996 | Sokol Saratov | 12 | 0 |
+| 1996 | Sokol Saratov | 13 | 0 |
 | 1996 | Torpedo Volzhsky | 4 | 0 |
 | 1997 | Lada Togliatti | 22 | 9 |
-| 1998 | SOYUZ-Gazprom Izhevsk | 27 | 9 |
-| 1999 | Baltika Kaliningrad | 19 | 5 |
-| 1999–2009 | Dynamo Kyiv | 215 | 97 |
-| 1999–2004 | Dynamo-2 Kyiv | 21 | 7 |
-| 2001 | Dynamo-3 Kyiv | 2 | 1 |
-| 2009 | Lokomotiv Astana | 15 | 8 |
-| 2010–2013 | Arsenal Kyiv | 83 | 21 |
-| 2013 | Chornomorets Odesa | 6 | 0 |
-| 2013 | Arsenal Kyiv | 12 | 1 |
-| 2014–2015 | Hoverla Uzhhorod | 25 | 5 |
-| Total | Total | 463 | 158 |
+| 1998 | SOYUZ-Gazprom | 27 | 9 |
+| 1999 | Baltika Kaliningrad | 20 | 8 |
+| 1999–2008 | Dynamo Kyiv | 328 | 142 |
+| 2009 | Lokomotiv Astana | 16 | 9 |
+| 2009–2013 | Arsenal Kyiv | 106 | 23 |
+| 2012 | Chornomorets Odesa | 7 | 0 |
+| 2013–2014 | Hoverla Uzhhorod | 28 | 6 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -89,12 +78,27 @@ On 28 July 1999, Shatskikh became the first Asian player to score in the UEFA Ch
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 310
+- Senior national team goals total: 34
+- Senior career goals total: 344
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1996 | سوكول ساراتوف | 12 | 0 |
+| 1996 | توربيدو فولجسكي | 4 | 0 |
+| 1997 | لادا توغلياتي | 22 | 9 |
+| 1998 | سويوز غازبروم إجيفسك | 27 | 9 |
+| 1999 | بالتيكا كالينينغراد | 19 | 5 |
+| 1999–2009 | دينامو كييف | 215 | 97 |
+| 2009 | لوكوموتيف أستانا | 15 | 8 |
+| 2010–2013 | أرسنال كييف | 83 | 21 |
+| 2013 | تشورنومورتس أوديسا | 6 | 0 |
+| 2013 | أرسنال كييف | 12 | 1 |
+| 2014–2015 | هورفيلا أوزهورد | 25 | 5 |
+| - | مجموع | 440 | 155 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1999–2014 | أوزبكستان | 61 | 34 |

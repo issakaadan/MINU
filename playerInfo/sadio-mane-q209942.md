@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q209942
-- Generated At (UTC): 2026-07-13T08:50:35+00:00
+- Generated At (UTC): 2026-07-13T12:07:36+00:00
 - English Name: Sadio Mané
 - Arabic Name: ساديو ماني
 - Birth Year: 1992
@@ -36,30 +36,23 @@ Mané began his professional career with Ligue 2 club Metz at the age of 19, but
 Mané signed for fellow Premier League club Liverpool in 2016, for a reported fee of £34 million, making him the most expensive African player in history at that time. [ 9 ] [ 10 ] Having formed a formidable attacking trio with Mohamed Salah and Roberto Firmino after the departure of prolific midfielder Philippe Coutinho , he helped the side reach back-to-back UEFA Champions League finals in 2018 and 2019 , winning the latter. He also finished as the league's joint-top goalscorer in the 2018–19 season , winning the Premier League Golden Boot . Mané then helped end Liverpool's 30-year league title drought by winning the 2019–20 Premier League . In October 2021, he scored his 100th Premier League goal , becoming the third African to reach the landmark. Mané finished fourth and second in the 2019 and 2022 editions of the Ballon d'Or , respectively; and in The Best FIFA Men's Player he ranked fifth in 2019 and fourth in 2020 .
 
 ### English Achievements
-- With Red Bull Salzburg: Austrian Bundesliga
-- With Liverpool: Premier League
-- With Bayern Munich: Bundesliga
-- With Al-Nassr: Saudi Pro League
-- With Senegal: Africa Cup of Nations
-- Individual: Sócrates Award
-- Orders: Grand Officer of the National Order of the Lion
-- With Red Bull Salzburg: Austrian Cup
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 257
+- Club goals total: 255
 - Senior national team goals total: 55
-- Senior career goals total: 312
+- Senior career goals total: 310
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2011–2012 | Metz B | 12 | 2 |
-| 2011–2012 | Metz | 22 | 2 |
-| 2012–2014 | Red Bull Salzburg | 63 | 31 |
-| 2014–2016 | Southampton | 67 | 21 |
-| 2016–2022 | Liverpool | 196 | 90 |
-| 2022–2023 | Bayern Munich | 25 | 7 |
-| 2023– | Al-Nassr | 89 | 37 |
+| 2011 | Metz B | 12 | 2 |
+| 2011–2012 | Metz | 23 | 2 |
+| 2012–2014 | Red Bull Salzburg | 87 | 45 |
+| 2014–2015 | Southampton | 75 | 25 |
+| 2016–2021 | Liverpool | 269 | 120 |
+| 2022 | Bayern Munich | 38 | 12 |
+| 2023–2025 | Al Nassr | 133 | 51 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -80,15 +73,32 @@ Mané signed for fellow Premier League club Liverpool in 2016, for a reported fe
 وقع مع ليفربول في عام 2016 مقابل رسوم انتقال بلغت 34 مليون جنيه إسترليني. وساعد النادي في الوصول إلى ثلاثة نهائيات في دوري أبطال أوروبا في 2018 و‌ 2019 و‌ 2022 ، وتُوج باللقب في 2019. كما حقق لقب هداف الدوري في موسم 2018–19 . في العام نفسه، احتل المركز الرابع في جائزة الكرة الذهبية والخامس في جائزة أفضل لاعب في العالم من الفيفا . [ 8 ] بعد ذلك، ساعد ماني في إنهاء غياب ليفربول عن لقب الدوري لمدة 30 سنة بالفوز بالدوري الإنجليزي الممتاز لموسم 2019–20 .
 
 ### Arabic Achievements
-_No honours section found._
+- مع رد بول سالزبورغ: الدوري النمساوي الممتاز
+- مع ليفربول: الدوري الإنجليزي الممتاز
+- مع بايرن ميونخ: الدوري الألماني
+- مع السنغال: كأس الأمم الأفريقية
+- مع النصر: كأس العرب للأندية الأبطال
+- الفردية: تشكيلة العام من الاتحاد الأفريقي لكرة القدم
+- مع رد بول سالزبورغ: كأس النمسا
+- مع ليفربول: كأس الاتحاد الإنجليزي
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 212
+- Senior national team goals total: 46
+- Senior career goals total: 258
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2011–2012 | ميتز | 23 | 2 |
+| 2012–2014 | ريد بول سالزبورغ | 87 | 45 |
+| 2014–2015 | ساوثهامبتون | 75 | 25 |
+| 2016–2021 | ليفربول | 269 | 120 |
+| 2022 | بايرن ميونخ | 38 | 12 |
+| 2026 | النصر | 12 | 6 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2012 | السنغال تحت 23 | 4 | 0 |
+| 2012– | السنغال | 113 | 46 |

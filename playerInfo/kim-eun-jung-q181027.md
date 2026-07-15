@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q181027
-- Generated At (UTC): 2026-07-13T08:55:48+00:00
+- Generated At (UTC): 2026-07-13T12:12:16+00:00
 - English Name: Kim Eun-jung
 - Arabic Name: كيم إيون-غونج
 - Birth Year: 1979
@@ -32,14 +32,7 @@
 Kim Eun-jung ( Korean : 김은중 ; born 8 April 1979) is a South Korean football manager and former player who played as a striker . He is currently manager of K League 1 club Suwon FC .
 
 ### English Achievements
-- With Daejeon Citizen: Korean FA Cup
-- With FC Seoul: Korean League Cup
-- With Pohang Steelers: K League 1
-- With South Korea: EAFF Championship
-- Individual: K League All-Star
-- Individual: K League Manager of the Month
-- With Daejeon Citizen: K League 2
-- With Pohang Steelers: Korean FA Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 147
@@ -49,15 +42,13 @@ Kim Eun-jung ( Korean : 김은중 ; born 8 April 1979) is a South Korean footbal
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1997–2003 | Daejeon Citizen | 125 | 29 |
-| 2003 | Vegalta Sendai | 10 | 2 |
-| 2004–2008 | FC Seoul | 90 | 27 |
+| 1997–2014 | Daejeon Citizen | 197 | 52 |
+| 2003 | Vegalta Sendai (loan) | 11 | 2 |
+| 2004–2008 | FC Seoul | 139 | 41 |
 | 2009 | Changsha Ginde | 28 | 7 |
-| 2010–2011 | Jeju United | 57 | 19 |
+| 2010–2011 | Jeju United | 75 | 28 |
 | 2012–2013 | Gangwon FC | 54 | 16 |
-| 2013 | Pohang Steelers | 9 | 1 |
-| 2014 | Daejeon Citizen | 17 | 3 |
-| Total | Total | 390 | 104 |
+| 2013 | Pohang Steelers (loan) | 9 | 1 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -78,12 +69,26 @@ Kim Eun-jung ( Korean : 김은중 ; born 8 April 1979) is a South Korean footbal
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 210
+- Senior national team goals total: 5
+- Senior career goals total: 215
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997–2003 | دايجون هانا سيتزن | 125 | 29 |
+| 2003 | فيغالتا سنداي | 10 | 2 |
+| 2004–2008 | سول | 93 | 28 |
+| 2009 | نادي غوانغجو آر أند إف | 28 | 7 |
+| 2010–2011 | جيجو يونايتد | 60 | 19 |
+| 2012–2013 | غانغوون | 54 | 16 |
+| 2013 | بوهانغ ستيلرز | 9 | 1 |
+| 2014 | دايجون هانا سيتزن | 17 | 3 |
+| - | مجموع | 396 | 105 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997–1999 | كوريا الجنوبية تحت 20 | 11 | 7 |
+| 1999–2002 | كوريا الجنوبية تحت 23 | 9 | 4 |
+| 1998–2004 | كوريا الجنوبية | 15 | 5 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q174614
-- Generated At (UTC): 2026-07-13T08:50:55+00:00
+- Generated At (UTC): 2026-07-13T12:07:48+00:00
 - English Name: Carlo Ancelotti
 - Arabic Name: كارلو أنشيلوتي
 - Birth Year: 1959
@@ -36,27 +36,19 @@ Ancelotti has won the UEFA Champions League five times, a record for a manager ,
 As a player, Ancelotti won two European Cups with AC Milan in 1989 and 1990, making him one of seven people to have won the European Cup/Champions League as both a player and a manager. He played as a midfielder and began his career with Italian club Parma , helping the club get promoted to Serie B in the 1978–79 season. He moved to Roma the following season, where he won a Serie A title and four Coppa Italia titles. He then played for the late 1980s Milan team and won multiple titles, including two Scudetti and two European Cups. At international level, he had 26 appearances and one goal for the Italy national team . He represented Italy at two FIFA World Cups and at the UEFA Euro 1988 , finishing in third place at the 1990 World Cup and being a semi-finalist at the Euro tournament.
 
 ### English Achievements
-- With Roma: Serie A
-- With AC Milan: Serie A
-- With Italy: FIFA World Cup third place
-- Individual: Serie A Team of The Year
-- With Italy: FIFA World Cup
-- With Juventus: UEFA Intertoto Cup
-- With Chelsea: Premier League
-- With Paris Saint-Germain: Ligue 1
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 41
-- Senior national team goals total: 1
-- Senior career goals total: 42
+- Senior national team goals total: 2
+- Senior career goals total: 43
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1976–1979 | Parma | 55 | 13 |
-| 1979–1987 | Roma | 171 | 12 |
-| 1987–1992 | AC Milan | 112 | 10 |
-| Total | Total | 338 | 35 |
+| 1976–1978 | Parma | 55 | 13 |
+| 1979–1986 | Roma | 227 | 17 |
+| 1987–1991 | AC Milan | 160 | 11 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -76,15 +68,29 @@ As a player, Ancelotti won two European Cups with AC Milan in 1989 and 1990, mak
 لعب أنشيلوتي كلاعب خط وسط وبدأ مسيرته المهنية مع نادي بارما الإيطالي، حيث ساعد النادي على الصعود إلى الدوري الإيطالي الدرجة الثانية في عام 1979. انتقل إلى روما في الموسم التالي، حيث فاز بلقب الدوري الإيطالي وأربعة ألقاب في كأس إيطاليا ، وكذلك لعب مع ميلان في أواخر الثمانينيات، والذي فاز معهم بلقب الدوري مرتين وكأس أوروبا مرتين، من بين ألقاب أخرى. على المستوى الدولي، لعب للمنتخب الإيطالي في 26 مناسبة، وسجل هدف وحيد، وظهر في نسختين من نهائيات كأس العالم ، وحصل على المركز الثالث في نسخة 1990 من البطولة، وكذلك بطولة أمم أوروبا 1988 ، حيث ساعد منتخب بلاده للوصول إلى الدور نصف النهائي.
 
 ### Arabic Achievements
-_No honours section found._
+- مع كلاعب روما: ميلان
+- مع كلاعب ميلان: الدوري الإيطالي
+- مع كلاعب إيطاليا: كأس العالم المركز الثالث
+- مع كمدرب يوفنتوس: كأس انترتوتو
+- مع كمدرب ميلان: الدوري الإيطالي
+- مع كمدرب تشيلسي: الدوري الإنجليزي الممتاز
+- مع كمدرب باريس سان جيرمان: الدوري الفرنسي
+- مع كمدرب ريال مدريد: الدوري الاسباني
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 70
+- Senior national team goals total: 1
+- Senior career goals total: 71
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1976–1979 | بارما | 55 | 13 |
+| 1979–1987 | روما | 171 | 12 |
+| 1987–1992 | ميلان | 112 | 10 |
+| - | مجموع | 338 | 35 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1981–1991 | إيطاليا | 26 | 1 |

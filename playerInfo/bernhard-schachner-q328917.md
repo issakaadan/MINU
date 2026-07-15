@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q328917
-- Generated At (UTC): 2026-07-13T08:56:23+00:00
+- Generated At (UTC): 2026-07-13T12:12:43+00:00
 - English Name: Bernhard Schachner
 - Arabic Name: بيرنهارد شاشنر
 - Birth Year: 1986

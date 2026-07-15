@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1912
-- Generated At (UTC): 2026-07-13T08:48:39+00:00
+- Generated At (UTC): 2026-07-13T12:06:09+00:00
 - English Name: Karim Benzema
 - Arabic Name: كريم بنزيما
 - Birth Year: 1987
@@ -34,28 +34,21 @@ Karim Mostafa Benzema (born 19 December 1987) is a French professional footballe
 Born in Lyon to parents of Algerian and Kabyle descent, Benzema began his career with hometown club Lyon in 2005, contributing sporadically to three Ligue 1 title wins. In 2008 , he was named the league's Player of the Year and in the Team of the Year having finished as the league's top goalscorer and winning his fourth league title and first Coupe de France . In 2009, Benzema was the subject of a then-French record football transfer when he joined Real Madrid in a deal worth €35 million. After struggling to establish himself in his debut season, he eventually achieved a consistent goalscoring rate with the club, notably being part of a highly rated trio alongside Cristiano Ronaldo and Gareth Bale – dubbed "BBC" – who were integral to four Champions League wins between 2014 and 2018.
 
 ### English Achievements
-- With Lyon: Ligue 1
-- With Real Madrid: La Liga
-- With Al-Ittihad: Saudi Pro League
-- With Al-Hilal: King's Cup
-- With France: UEFA Nations League
-- Individual: Ballon d'Or
-- With Lyon: Coupe de France
-- With Lyon: Trophée des Champions
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 501
+- Club goals total: 486
 - Senior national team goals total: 37
-- Senior career goals total: 538
+- Senior career goals total: 523
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2004–2006 | Lyon II | 20 | 15 |
-| 2004–2009 | Lyon | 112 | 43 |
-| 2009–2023 | Real Madrid | 439 | 238 |
-| 2023–2026 | Al-Ittihad | 64 | 38 |
-| 2026– | Al-Hilal | 10 | 9 |
+| 2004–2005 | Lyon II | 20 | 15 |
+| 2004–2008 | Lyon | 148 | 66 |
+| 2009–2022 | Real Madrid | 648 | 354 |
+| 2023–2025 | Al-Ittihad | 87 | 57 |
+| 2025 | Al-Hilal | 13 | 9 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -79,15 +72,34 @@ Born in Lyon to parents of Algerian and Kabyle descent, Benzema began his career
 بعد الكفاح من أجل إثبات نفسه في موسم ظهوره الأول، حقق في النهاية معدلًا ثابتًا من الأهداف مع النادي، ولا سيما كونه جزءًا من ثلاثي عالي التصنيف إلى جانب كريستيانو رونالدو وغارث بيل –الذي يطلق عليهم اسم بي بي سي– والذين كانا جزءًا لا يتجزأ من أربعة انتصارات في دوري أبطال أوروبا من عام 2014 إلى عام 2014. 2018. وصل بنزيما في النهاية إلى مكانة بارزة في ريال مدريد وحقق 25 لقبًا، تشمل أربعة ألقاب في الدوري الإسباني، ولقبان في كأس الملك، وخمسة ألقاب في دوري أبطال أوروبا، ويحتل المرتبة الثانية في قائمة الهدافين في تاريخ النادي. بالإضافة إلى كونه أكثر من صنع أهدافًا في تاريخ النادي. [ 13 ] بعد رحيل رونالدو في عام 2018، انتقل بنزيما من مركز 9 الزائف إلى مهاجم وحيد. تم اختياره ضمن فريق الموسم في الدوري الإسباني لمدة أربع سنوات متتالية من 2018 إلى 2022، وفاز بجائزة أفضل لاعب في الدوري الإسباني مرتين وكأس البيتشيتشي للمرة الأولى في عام 2022. أنهى بنزيما صدارة هدافي دوري أبطال أوروبا حيث فاز بلقبه الخامس. في عام 2022، ثم قاد النادي في موسمه الأخير قبل التوقيع مع الاتحاد في العام التالي. أثناء وجوده في ريال مدريد، حصل بنزيما أيضًا على جائزة أفضل لاعب فرنسي في العام ثلاث مرات. [ 14 ] [ 15 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي ليون: الدوري الفرنسي 2004–05 ، 2005–06 ، 2006–07 ، 2007–08
+- مع النادي ريال مدريد: الدوري الإسباني 2011–12 ، 2016–17 ، 2019–20 ، 2021–22
+- مع المنتخب فرنسا تحت 17 سنة: بطولة أمم أوروبا تحت 17 سنة
+- مع المنتخب فرنسا: دوري الأمم الأوروبية
+- الفردية: جائزة الكرة الذهبية 2022
+- الفردية: تشكيلة الموسم للدوري الإسباني من اليويفيا
+- مع النادي ليون: كأس فرنسا
+- مع النادي ليون: كأس الأبطال الفرنسي 2005 ، 2006 ، 2007
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 480
+- Senior national team goals total: 37
+- Senior career goals total: 517
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004–2005 | ليون ب | 20 | 15 |
+| 2004–2008 | ليون | 148 | 66 |
+| 2009–2022 | ريال مدريد | 648 | 354 |
+| 2023–2025 | الاتحاد | 87 | 57 |
+| 2025 | الهلال | 1 | 3 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004 | فرنسا تحت 17 | 4 | 1 |
+| 2004–2005 | فرنسا تحت 18 | 17 | 14 |
+| 2005–2006 | فرنسا تحت 19 | 9 | 5 |
+| 2006 | فرنسا تحت 21 | 5 | 0 |
+| 2007–2022 | فرنسا | 97 | 37 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q261534
-- Generated At (UTC): 2026-07-13T08:51:04+00:00
+- Generated At (UTC): 2026-07-13T12:07:56+00:00
 - English Name: Diego Forlán
 - Arabic Name: دييغو فورلان
 - Birth Year: 1979
@@ -44,17 +44,16 @@ _No honours section found._
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1997–2002 | Independiente | 80 | 37 |
-| 2002–2004 | Manchester United | 63 | 10 |
-| 2004–2007 | Villarreal | 106 | 54 |
-| 2007–2011 | Atlético Madrid | 134 | 74 |
-| 2011–2012 | Inter Milan | 18 | 2 |
-| 2012–2014 | Internacional | 34 | 10 |
-| 2014–2015 | Cerezo Osaka | 42 | 17 |
-| 2015–2016 | Peñarol | 30 | 8 |
-| 2016 | Mumbai City | 11 | 5 |
-| 2018 | Kitchee | 7 | 5 |
-| Total | Total | 525 | 222 |
+| 1998–2001 | Independiente | 91 | 40 |
+| 2001–2004 | Manchester United | 98 | 17 |
+| 2004–2006 | Villarreal | 128 | 59 |
+| 2007–2011 | Atlético Madrid | 198 | 96 |
+| 2011 | Inter Milan | 20 | 2 |
+| 2012–2013 | Internacional | 55 | 22 |
+| 2014–2015 | Cerezo Osaka | 50 | 19 |
+| 2015 | Peñarol | 34 | 8 |
+| 2016 | Mumbai City | 12 | 5 |
+| 2017 | Kitchee | 14 | 6 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -72,15 +71,36 @@ _No honours section found._
 في أول موسم له في عالم كرة القدم الإسبانية سجل فورلان 25 هدفا في الدوري وفاز بجائزة بيتشيشي . بعد موسمين أكثر نجاحا مع فياريال، انتقل فورلان لنادي أتلتيكو مدريد ، حيث أصبح مرة أخرى هدافاً للدوري وأصبح أول لاعبٍ يفوز باللقب مرتين منذ حصول اللاعب رونالدو على الجائزة موسم 1996-1997 و 2003-2004. [ 12 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع مانشستر يونايتد: الدوري الإنجليزي الممتاز (1) 2002-2003
+- مع فياريال: كأس إنترتوتو (1) 2004
+- مع اتليتيكو مدريد: بطولة الدوري الأوروبي (1) 2009-2010
+- مع المنتخب الوطني: كأس العالم جنوب أفريقيا 2010 المركز الرابع...جائزة أفضل لاعب في البطولة...
+- مع مانشستر يونايتد: كأس الاتحاد الإنجليزي لكرة القدم (1) 2003-2004
+- مع مانشستر يونايتد: درع الاتحاد الإنجليزي لكرة القدم (1) 2003
+- مع اتليتيكو مدريد: كأس السوبر الأوروبي (1) 2010
+- مع المنتخب الوطني: كوبا أمريكا 2011 المركز الأول.
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 444
+- Senior national team goals total: 36
+- Senior career goals total: 480
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997–2002 | إنديبندينتي | 80 | 37 |
+| 2002–2004 | مانشستر يونايتد | 63 | 10 |
+| 2004–2007 | فياريال | 106 | 54 |
+| 2007–2011 | أتلتيكو مدريد | 134 | 74 |
+| 2011–2012 | إنتر ميلان | 18 | 2 |
+| 2012–2014 | إنترناسيونال | 34 | 10 |
+| 2014–2015 | سيريزو أوساكا | 42 | 17 |
+| 2015–2016 | بنيارول | 30 | 8 |
+| 2016 | مومباي سيتي | 11 | 5 |
+| 2018 | كيتشي | 7 | 5 |
+| - | مجموع | 525 | 222 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2014 | الأوروغواي | 112 | 36 |

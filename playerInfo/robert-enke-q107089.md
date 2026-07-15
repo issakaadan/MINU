@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q107089
-- Generated At (UTC): 2026-07-13T08:53:12+00:00
+- Generated At (UTC): 2026-07-13T12:09:49+00:00
 - English Name: Robert Enke
 - Arabic Name: روبرت إنكه
 - Birth Year: 1977
@@ -36,11 +36,7 @@ He played for Mönchengladbach , Benfica , and Barcelona , but made most of his 
 He won eight full international caps for the Germany national team between the 1999 Confederations Cup and his death in 2009, and was part of the squad which finished as runners-up in Euro 2008 .
 
 ### English Achievements
-- With Fenerbahçe: Süper Lig
-- With Germany: UEFA European Championship runner-up
-- Individual: kicker ' s Bundesliga Goalkeeper of the Year
-- Individual: VDV 's Bundesliga Team of the Season
-- Individual: NFV 's Footballer of the Year
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 0
@@ -50,14 +46,13 @@ He won eight full international caps for the Germany national team between the 1
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1995–1996 | Carl Zeiss Jena | 3 | 0 |
-| 1996–1999 | Borussia Mönchengladbach | 32 | 0 |
-| 1999–2002 | Benfica | 77 | 0 |
-| 2002–2004 | Barcelona | 3 | 0 |
-| 2003 | Fenerbahçe | 1 | 0 |
-| 2004 | Tenerife | 9 | 0 |
-| 2004–2009 | Hannover 96 | 164 | 0 |
-| Total | Total | 287 | 0 |
+| 1995 | Carl Zeiss Jena | 3 | 0 |
+| 1996–1998 | Borussia Mönchengladbach | 36 | 0 |
+| 1999–2001 | Benfica | 93 | 0 |
+| 2002 | Barcelona | 4 | 0 |
+| 2003 | Fenerbahçe (loan) | 1 | 0 |
+| 2003 | Tenerife (loan) | 9 | 0 |
+| 2004–2009 | Hannover 96 | 180 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -81,12 +76,22 @@ He won eight full international caps for the Germany national team between the 1
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 0
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1995–1996 | كارل زايس يينا | 3 | 0 |
+| 1996–1999 | بوروسيا مونشنغلادباخ | 32 | 0 |
+| 1999–2002 | بنفيكا | 77 | 0 |
+| 2003–2003 | فنار باغجه إعارة | 1 | 0 |
+| 2004–2009 | هانوفر 96 | 164 | 0 |
+| 2004–2004 | تينيريفي إعارة | 9 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997–1999 | ألمانيا تحت 21 سنة | 15 | 0 |
+| 1998–1998 | ألمانيا الأولمبي | 4 | 0 |

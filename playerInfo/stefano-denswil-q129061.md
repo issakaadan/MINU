@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q129061
-- Generated At (UTC): 2026-07-13T08:56:04+00:00
+- Generated At (UTC): 2026-07-13T12:12:32+00:00
 - English Name: Stefano Denswil
 - Arabic Name: ستيفانو دينزفيل
 - Birth Year: 1993
@@ -32,13 +32,7 @@
 Stefano Wilfred Denswil (born 7 May 1993) is a professional footballer who plays as a centre-back for Süper Lig club Kayserispor . Born in the Netherlands, he plays for the Suriname national team .
 
 ### English Achievements
-- With Ajax: Eredivisie
-- With Club Brugge: Belgian Pro League
-- With Trabzonspor: Süper Lig
-- With Ajax: Johan Cruijff Shield
-- With Club Brugge: Belgian Cup
-- With Club Brugge: Belgian Super Cup
-- With Trabzonspor: Turkish Super Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 20
@@ -48,13 +42,13 @@ Stefano Wilfred Denswil (born 7 May 1993) is a professional footballer who plays
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2012–2015 | Ajax | 22 | 1 |
-| 2015–2019 | Club Brugge | 144 | 6 |
-| 2019–2022 | Bologna | 31 | 0 |
-| 2021 | Club Brugge | 12 | 0 |
-| 2021–2022 | Trabzonspor | 28 | 0 |
-| 2022–2025 | Trabzonspor | 82 | 3 |
-| 2025– | Kayserispor | 31 | 1 |
+| 2012–2014 | Ajax | 39 | 3 |
+| 2013–2014 | Jong Ajax | 16 | 2 |
+| 2014–2018 | Club Brugge | 177 | 10 |
+| 2019–2020 | Bologna | 35 | 0 |
+| 2020 | Club Brugge (loan) | 15 | 0 |
+| 2021–2024 | Trabzonspor | 103 | 4 |
+| 2025 | Kayserispor | 28 | 1 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -80,12 +74,25 @@ Stefano Wilfred Denswil (born 7 May 1993) is a professional footballer who plays
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 7
+- Senior national team goals total: 0
+- Senior career goals total: 7
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2012–2015 | أياكس أمستردام | 22 | 1 |
+| 2015–2019 | كلوب بروج | 144 | 6 |
+| 2019–2022 | بولونيا | 31 | 0 |
+| 2021 | كلوب بروج | 12 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2007–2008 | Netherlands U15 | 5 | 0 |
+| 2009 | Netherlands U16 | 2 | 0 |
+| 2009–2010 | هولندا تحت 17 | 11 | 0 |
+| 2010 | Netherlands U18 | 1 | 0 |
+| 2011–2012 | هولندا تحت 19 | 6 | 0 |
+| 2012–2013 | Netherlands U20 | 4 | 1 |
+| 2013 | هولندا تحت 21 | 7 | 0 |

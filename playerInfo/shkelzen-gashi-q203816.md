@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q203816
-- Generated At (UTC): 2026-07-13T08:55:02+00:00
+- Generated At (UTC): 2026-07-13T12:11:31+00:00
 - English Name: Shkëlzen Gashi
 - Arabic Name: شكيلزين غاشي
 - Birth Year: 1988
@@ -32,35 +32,26 @@
 Shkëlzen Taib Gashi (born 15 July 1988) is a retired professional footballer who played as a midfielder and forward . He is best known for his time with Grasshopper Club Zürich and FC Basel . With Grasshopper he won the 2012–13 Swiss Cup and he was Swiss champion in the 2014–15 season with Basel. Born in Switzerland, he represented the Albania national team .
 
 ### English Achievements
-- With Zürich: Swiss Super League
-- With Grasshopper: Swiss Cup
-- With Basel: Swiss Super League
-- Individual: Axpo Super League Footballer of the Year
-- With Basel: Swiss Cup
-- Individual: Footballer of the year
-- Individual: MLS Goal of the Year Award
-- Individual: Swiss Super League Golden Boot
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 124
+- Club goals total: 106
 - Senior national team goals total: 1
-- Senior career goals total: 125
+- Senior career goals total: 107
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2005–2009 | Zürich | 1 | 0 |
-| 2005–2007 | Zürich U21 | 47 | 12 |
-| 2008 | Schaffhausen | 16 | 3 |
-| 2008–2009 | Bellinzona | 30 | 3 |
-| 2010–2011 | Neuchâtel Xamax | 13 | 1 |
-| 2011 | Aarau | 15 | 5 |
-| 2012 | Aarau | 26 | 17 |
-| 2012–2014 | Grasshoppers | 60 | 24 |
-| 2014–2016 | Basel | 41 | 25 |
-| 2016–2019 | Colorado Rapids | 68 | 14 |
-| 2020–2023 | Aarau | 55 | 20 |
-| Total | Total | 372 | 124 |
+| 2005–2007 | FC Zürich U21 | 47 | 12 |
+| 2006–2007 | FC Zürich | 3 | 0 |
+| 2007 | Schaffhausen | 16 | 3 |
+| 2008–2009 | Bellinzona | 39 | 5 |
+| 2009–2010 | Neuchâtel Xamax | 14 | 2 |
+| 2010–2019 | FC Aarau | 44 | 23 |
+| 2012–2013 | Grasshoppers | 72 | 26 |
+| 2012 | Grasshoppers U21 | 1 | 0 |
+| 2014–2015 | Basel | 57 | 32 |
+| 2016–2018 | Colorado Rapids | 73 | 15 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -82,12 +73,29 @@ Shkëlzen Taib Gashi (born 15 July 1988) is a retired professional footballer wh
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 123
+- Senior national team goals total: 1
+- Senior career goals total: 124
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005–2009 | زيورخ | 1 | 0 |
+| 2005–2007 | زيورخ | 47 | 12 |
+| 2008 | شافهاوزن | 16 | 3 |
+| 2008–2009 | بيلينزونا | 30 | 3 |
+| 2010–2011 | نوشاتل زاماكس | 13 | 1 |
+| 2011 | آراو | 15 | 5 |
+| 2012 | آراو | 26 | 17 |
+| 2012–2014 | غراسهوبر زيوريخ | 60 | 24 |
+| 2014–2016 | بازل | 41 | 25 |
+| 2016–2019 | كولورادو رابيدز | 68 | 14 |
+| 2020– | آراو | 50 | 19 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004–2005 | سويسرا تحت 17 | 12 | 1 |
+| 2005–2006 | سويسرا تحت 19 | 5 | 2 |
+| 2006–2009 | سويسرا تحت 21 | 10 | 5 |
+| 2013–2016 | ألبانيا | 17 | 1 |

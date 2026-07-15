@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q168869
-- Generated At (UTC): 2026-07-13T08:55:47+00:00
+- Generated At (UTC): 2026-07-13T12:12:16+00:00
 - English Name: Kelvin Leerdam
 - Arabic Name: كيلفين ليردام
 - Birth Year: 1990
@@ -32,8 +32,7 @@
 Kelvin Leerdam ( Dutch pronunciation: [ˈkɛlvɪn leːrˈdɑm] ; born 24 June 1990) is a Surinamese professional footballer who last played as a right-back for Heracles Almelo and featured regularly for the Suriname national team .
 
 ### English Achievements
-- With Vitesse: KNVB Cup
-- With Seattle Sounders FC: MLS Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 28
@@ -43,12 +42,9 @@ Kelvin Leerdam ( Dutch pronunciation: [ˈkɛlvɪn leːrˈdɑm] ; born 24 June 19
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2008–2013 | Feyenoord | 97 | 5 |
-| 2013–2017 | Vitesse | 89 | 12 |
-| 2017–2020 | Seattle Sounders FC | 92 | 9 |
-| 2021 | Inter Miami CF | 29 | 0 |
-| 2022–2023 | LA Galaxy | 29 | 1 |
-| 2024–2025 | Heracles Almelo | 2 | 0 |
+| 2008–2012 | Feyenoord | 107 | 5 |
+| 2013–2016 | Vitesse | 106 | 13 |
+| 2017–2020 | Seattle Sounders FC | 103 | 10 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -69,12 +65,21 @@ Kelvin Leerdam ( Dutch pronunciation: [ˈkɛlvɪn leːrˈdɑm] ; born 24 June 19
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 26
+- Senior national team goals total: 0
+- Senior career goals total: 26
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008–2013 | فاينورد | 97 | 5 |
+| 2013–2017 | فيتيسه آرنهم | 89 | 12 |
+| 2017–2020 | سياتل ساوندرز | 92 | 9 |
+| 2021 | إنتر ميامي | 29 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009 | هولندا تحت 19 | 3 | 0 |
+| 2010–2013 | هولندا تحت 21 | 19 | 1 |
+| 2021– | سورينام | 7 | 0 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q17163
-- Generated At (UTC): 2026-07-13T08:47:52+00:00
+- Generated At (UTC): 2026-07-13T12:05:35+00:00
 - English Name: Johan Cruyff
 - Arabic Name: يوهان كرويف
 - Birth Year: 1947
@@ -34,14 +34,7 @@ Hendrik Johannes Cruijff (25 April 1947 – 24 March 2016), commonly known as Jo
 In the late 1960s and early 1970s, Dutch football rose from a semi-professional and obscure level to become a powerhouse in the sport. The Netherlands qualified for the 1974 FIFA World Cup , their first appearance in the competition in 36 years . With three goals and three assists, Cruyff led the Netherlands to the final, where they lost to West Germany ; nonetheless, he received the Golden Ball as player of the tournament. After finishing third in UEFA Euro 1976 , Cruyff refused to play in the 1978 FIFA World Cup after a kidnapping attempt targeting him and his family in their Barcelona home led to his retirement from international football.
 
 ### English Achievements
-- With Ajax: Eredivisie
-- With Barcelona: La Liga
-- With Feyenoord: Eredivisie
-- With Netherlands: FIFA World Cup Runner-up
-- With Manager [ edit ]: KNVB Cup
-- With Manager [ edit ]: La Liga
-- With Player: Super Ballon d'Or Second place
-- With Manager: World Soccer Awards Manager of the Year
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 400
@@ -51,14 +44,12 @@ In the late 1960s and early 1970s, Dutch football rose from a semi-professional 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1964–1973 | Ajax | 245 | 193 |
-| 1973–1978 | Barcelona | 143 | 48 |
-| 1979 | Los Angeles Aztecs | 22 | 14 |
-| 1980–1981 | Washington Diplomats | 29 | 12 |
-| 1981 | Levante | 10 | 2 |
-| 1981–1983 | Ajax | 36 | 14 |
-| 1983–1984 | Feyenoord | 33 | 11 |
-| Total | Total | 518 | 294 |
+| 1964–1982 | Ajax | 375 | 273 |
+| 1973–1977 | Barcelona | 227 | 85 |
+| 1979 | Los Angeles Aztecs | 26 | 15 |
+| 1980–1981 | Washington Diplomats | 31 | 12 |
+| 1980 | Levante | 10 | 2 |
+| 1983 | Feyenoord | 44 | 13 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -76,15 +67,33 @@ In the late 1960s and early 1970s, Dutch football rose from a semi-professional 
 توفي في 24 مارس 2016 في مدينه برشلونة بعد معاناة مع سرطان الرئة . [ 3 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي: الدوري الهولندي الممتاز (8)
+- مع النادي: الدوري الإسباني (1)
+- مع النادي: الدوري الهولندي الممتاز (1)
+- مع المنتخب هولندا: كأس العالم الوصيف
+- مع مدربًا: كأس هولندا (2)
+- مع مدربًا: الدوري الإسباني (4)
+- الفردية: لاعب هولندا للعام (3)
+- الفردية: جائزة وورد سوكر لأفضل مدير فني (1)
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 582
+- Senior national team goals total: 33
+- Senior career goals total: 615
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1964–1973 | أياكس | 240 | 190 |
+| 1973–1978 | برشلونة | 143 | 48 |
+| 1978–1979 | لوس أنجلوس أزتكس | 23 | 14 |
+| 1980–1981 | واشنطن ديبلومتس | 30 | 12 |
+| 1981 | ليفانتي | 10 | 2 |
+| 1981–1983 | أياكس | 36 | 14 |
+| 1983–1984 | فاينورد | 33 | 11 |
+| - | مجموع | 514 | 291 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1966–1977 | هولندا | 48 | 33 |

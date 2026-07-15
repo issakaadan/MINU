@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q2537779
-- Generated At (UTC): 2026-07-13T08:53:01+00:00
+- Generated At (UTC): 2026-07-13T12:09:39+00:00
 - English Name: Naoto Otake
 - Arabic Name: ناوتو أوتاكي
 - Birth Year: 1968
@@ -35,9 +35,9 @@ Naoto Otake ( 大嶽 直人 , Ōtake Naoto ; born October 18, 1968) is a former 
 _No honours section found._
 
 ### English Career Totals
-- Club goals total: 6
+- Club goals total: 5
 - Senior national team goals total: 0
-- Senior career goals total: 6
+- Senior career goals total: 5
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
@@ -63,12 +63,16 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 10
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 10
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1991–1997 | يوكوهاما فلوغلس | 188 | 2 |
+| 1998–2001 | كيوتو سانغا | 99 | 3 |
+| - | مجموع | 287 | 5 |
 
 ### Arabic National Team Stats
 _No rows found._

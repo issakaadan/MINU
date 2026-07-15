@@ -138,7 +138,7 @@ export function buildRandomTwistSelection(
   prohibitedCategoryKeys: QuestionCategoryKey[];
 } {
   const answerRuleCount = randomCount(1, difficulty === 1 ? 2 : 3);
-  const blockedCount = randomCount(difficulty === 3 ? 1 : 0, difficulty === 1 ? 1 : 2);
+  const blockedCount = randomCount(difficulty >= 3 ? 1 : 0, difficulty === 1 ? 1 : 2);
   const answerRuleKeys = shuffle(ANSWER_RULE_OPTIONS)
     .slice(0, answerRuleCount)
     .map((entry) => entry.key);

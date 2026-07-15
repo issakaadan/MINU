@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q507433
-- Generated At (UTC): 2026-07-13T08:55:54+00:00
+- Generated At (UTC): 2026-07-13T12:12:23+00:00
 - English Name: Matthias Ostrzolek
 - Arabic Name: ماتياس أوسترازوليك
 - Birth Year: 1990
@@ -35,21 +35,17 @@ Matthias Ostrzolek (born 5 June 1990) is a German professional football coach an
 _No honours section found._
 
 ### English Career Totals
-- Club goals total: 3
+- Club goals total: 1
 - Senior national team goals total: Unavailable
-- Senior career goals total: 3
+- Senior career goals total: 1
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2009–2011 | VfL Bochum II | 17 | 1 |
-| 2010–2011 | VfL Bochum | 33 | 0 |
-| 2012–2014 | FC Augsburg | 70 | 0 |
-| 2014–2017 | Hamburger SV | 81 | 1 |
-| 2017–2020 | Hannover 96 | 53 | 0 |
-| 2021–2022 | Admira Wacker | 37 | 0 |
-| 2023 | VfB Hallbergmoos | 8 | 1 |
-| 2023– | TSV Schwaben Augsburg | 96 | 0 |
+| 2009–2010 | VfL Bochum II | 17 | 1 |
+| 2010–2011 | VfL Bochum | 36 | 0 |
+| 2011–2013 | FC Augsburg | 74 | 0 |
+| 2014–2016 | Hamburger SV | 87 | 1 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -69,12 +65,22 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 2
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 2
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009–2011 | [الإنجليزية] | 17 | 1 |
+| 2010–2011 | بوخوم | 33 | 0 |
+| 2012–2014 | آوغسبورغ | 70 | 0 |
+| 2014–2017 | هامبورغ | 81 | 1 |
+| 2017–2020 | هانوفر 96 | 53 | 0 |
+| 2021– | أدميرا فاكر مودلينغ | 37 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2007 | بولندا تحت 17 [ 3 ] [ 4 ] [ 5 ] | 2 | 0 |
+| 2011–2013 | ألمانيا تحت 21 [ 2 ] | 8 | 0 |

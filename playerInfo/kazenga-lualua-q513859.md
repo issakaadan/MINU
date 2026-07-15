@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q513859
-- Generated At (UTC): 2026-07-13T08:55:46+00:00
+- Generated At (UTC): 2026-07-13T12:12:14+00:00
 - English Name: Kazenga LuaLua
 - Arabic Name: كازينغا لوالوا
 - Birth Year: 1990
@@ -32,33 +32,28 @@
 Kazenga LuaLua (born 10 December 1990) is an English– Congolese [ 2 ] professional footballer who plays for Rimal Al-Sahra as a winger .
 
 ### English Achievements
-- With Brighton & Hove Albion: Football League One
-- With Luton Town: EFL League One
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 32
+- Club goals total: 36
 - Senior national team goals total: Unavailable
-- Senior career goals total: 32
+- Senior career goals total: 36
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2007–2011 | Newcastle United | 8 | 0 |
-| 2009 | Doncaster Rovers | 4 | 0 |
-| 2010 | Brighton & Hove Albion | 11 | 0 |
-| 2010 | Brighton & Hove Albion | 11 | 4 |
-| 2011 | Brighton & Hove Albion | 9 | 0 |
-| 2011–2018 | Brighton & Hove Albion | 127 | 13 |
-| 2017 | Queens Park Rangers | 11 | 1 |
-| 2017 | Queens Park Rangers | 8 | 0 |
-| 2018 | Sunderland | 6 | 0 |
-| 2018–2019 | Luton Town | 22 | 2 |
-| 2019–2021 | Luton Town | 52 | 5 |
-| 2021–2022 | Gençlerbirliği | 23 | 1 |
-| 2022–2023 | Levadiakos | 23 | 0 |
-| 2024 | Charlton Athletic | 4 | 0 |
-| 2024–2025 | Hartlepool United | 7 | 0 |
-| 2025– | Rimal Al-Sahra | 6 | 1 |
+| 2007–2011 | Newcastle United | 15 | 0 |
+| 2008 | Doncaster Rovers (loan) | 4 | 0 |
+| 2009–2011 | Brighton & Hove Albion (loan) | 33 | 4 |
+| 2011–2017 | Brighton & Hove Albion | 183 | 22 |
+| 2016 | Brighton & Hove Albion U21 | 2 | 0 |
+| 2016–2017 | Queens Park Rangers (loan) | 19 | 1 |
+| 2017 | Sunderland | 6 | 0 |
+| 2018–2020 | Luton Town | 87 | 8 |
+| 2021 | Gençlerbirliği | 23 | 1 |
+| 2022–2023 | Levadiakos | 27 | 0 |
+| 2023 | Charlton Athletic | 4 | 0 |
+| 2024 | Hartlepool United | 8 | 0 |
 
 ### English National Team Stats
 _No rows found._
@@ -77,12 +72,25 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 26
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 26
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2007–2011 | نيوكاسل يونايتد | 8 | 0 |
+| 2009 | دونكاستر روفرز | 4 | 0 |
+| 2010 | برايتون أند هوف ألبيون | 11 | 0 |
+| 2010 | برايتون أند هوف ألبيون | 11 | 4 |
+| 2011 | برايتون أند هوف ألبيون | 9 | 0 |
+| 2011–2018 | برايتون أند هوف ألبيون | 127 | 13 |
+| 2017 | كوينز بارك رينجرز | 11 | 1 |
+| 2017 | كوينز بارك رينجرز | 8 | 0 |
+| 2018 | سندرلاند | 6 | 0 |
+| 2018–2019 | لوتون تاون | 22 | 2 |
+| 2019–2021 | لوتون تاون | 52 | 5 |
+| 2021–2022 | غنتشلربيرليغي | 23 | 1 |
 
 ### Arabic National Team Stats
 _No rows found._

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q2408770
-- Generated At (UTC): 2026-07-13T08:54:29+00:00
+- Generated At (UTC): 2026-07-13T12:11:00+00:00
 - English Name: Javier Aquino
 - Arabic Name: خافيير أكينو
 - Birth Year: 1990
@@ -36,12 +36,7 @@ Aquino is recognized for his pace, technical ability, and creative passing. A pr
 Aquino has been called up to the Mexico U-23 national team , where he was a part of the squads playing at the 2011 Copa América , the 2011 Pan American Games , and the 2012 Summer Olympics , where Mexico won the gold medal. He made his debut with the senior national team in 2011, and participated in the 2013 and 2017 FIFA Confederations Cup , as well as the 2014 and 2018 FIFA World Cup .
 
 ### English Achievements
-- With UANL: Liga MX
-- With Mexico: CONCACAF Cup
-- Individual: Liga MX Best XI
-- With UANL: Campeón de Campeones
-- With UANL: CONCACAF Champions League
-- With UANL: Campeones Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 39
@@ -76,12 +71,20 @@ Aquino has been called up to the Mexico U-23 national team , where he was a part
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 34
+- Senior national team goals total: 0
+- Senior career goals total: 34
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2010–2013 | كروز آزول | 78 | 7 |
+| 2013–2015 | فياريال | 44 | 1 |
+| 2014–2015 | رايو فايكانو | 24 | 0 |
+| 2015– | تيغريس أونال | 258 | 26 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2011–2012 | المكسيك تحت 23 | 31 | 2 |
+| 2011–2018 | المكسيك | 54 | 0 |

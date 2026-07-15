@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q194107
-- Generated At (UTC): 2026-07-13T08:52:58+00:00
+- Generated At (UTC): 2026-07-13T12:09:33+00:00
 - English Name: Martín Cáceres
 - Arabic Name: مارتن كاسيريس
 - Birth Year: 1987
@@ -36,14 +36,7 @@ After starting out at Defensor Sporting , he was bought by Spanish club Villarre
 An Uruguay international since the age of 20, Cáceres represented the country in four World Cups , three editions of the Copa América and the 2013 Confederations Cup , winning the 2011 Copa América .
 
 ### English Achievements
-- With Barcelona: La Liga
-- With Juventus: Serie A
-- With Southampton: EFL Cup runner-up
-- With Uruguay: Copa América
-- With Barcelona: Copa del Rey
-- With Barcelona: UEFA Champions League
-- With Juventus: Coppa Italia
-- With Juventus: Supercoppa Italiana
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 27
@@ -53,25 +46,20 @@ An Uruguay international since the age of 20, Cáceres represented the country i
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2006–2007 | Defensor | 26 | 4 |
-| 2007–2008 | Villarreal | 0 | 0 |
-| 2007–2008 | Recreativo | 34 | 2 |
-| 2008–2011 | Barcelona | 13 | 0 |
-| 2009–2010 | Juventus | 15 | 1 |
-| 2010–2011 | Sevilla | 25 | 1 |
-| 2011–2012 | Sevilla | 14 | 1 |
-| 2012 | Juventus | 11 | 1 |
-| 2012–2016 | Juventus | 51 | 2 |
-| 2017 | Southampton | 1 | 0 |
-| 2017–2018 | Hellas Verona | 14 | 3 |
-| 2018–2019 | Lazio | 10 | 1 |
-| 2019 | Juventus | 9 | 0 |
-| 2019–2021 | Fiorentina | 56 | 3 |
-| 2021–2022 | Cagliari | 14 | 1 |
-| 2022 | Levante | 10 | 0 |
-| 2022–2024 | LA Galaxy | 36 | 2 |
-| 2025 | Libertad | 2 | 0 |
-| 2026– | Juventud | 4 | 0 |
+| 2005–2006 | Defensor | 26 | 4 |
+| 2007 | Recreativo (loan) | 36 | 3 |
+| 2008 | Barcelona | 23 | 0 |
+| 2009–2015 | Juventus | 110 | 7 |
+| 2010 | Sevilla (loan) | 37 | 1 |
+| 2011 | Sevilla | 18 | 1 |
+| 2011–2018 | Juventus (loan) | 23 | 3 |
+| 2016 | Southampton | 1 | 0 |
+| 2017 | Hellas Verona | 15 | 3 |
+| 2017–2018 | Lazio | 18 | 1 |
+| 2019–2020 | Fiorentina | 61 | 4 |
+| 2021 | Cagliari | 15 | 1 |
+| 2021 | Levante | 10 | 0 |
+| 2022–2024 | LA Galaxy | 42 | 2 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -91,12 +79,32 @@ An Uruguay international since the age of 20, Cáceres represented the country i
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 19
+- Senior national team goals total: 4
+- Senior career goals total: 23
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006–2007 | ديفينسور سبورتينغ | 26 | 4 |
+| 2007–2008 | فياريال | 0 | 0 |
+| 2007–2008 | ريكرياتيفو | 34 | 2 |
+| 2008–2011 | برشلونة | 13 | 0 |
+| 2009–2010 | يوفنتوس | 15 | 1 |
+| 2010–2011 | إشبيلية | 25 | 1 |
+| 2011–2012 | إشبيلية | 14 | 1 |
+| 2012 | يوفنتوس | 11 | 1 |
+| 2012–2016 | يوفنتوس | 51 | 2 |
+| 2017 | ساوثهامبتون | 1 | 0 |
+| 2017–2018 | هيلاس فيرونا | 14 | 3 |
+| 2018–2019 | لاتسيو | 10 | 1 |
+| 2019 | يوفنتوس | 9 | 0 |
+| 2019–2021 | فيورنتينا | 56 | 3 |
+| 2022 | ليفانتي | 10 | 0 |
+| 2022– | لوس أنجلوس غلاكسي | 4 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006–2007 | الأوروغواي تحت 20 | 16 | 1 |
+| 2007– | الأوروغواي | 115 | 4 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q184946
-- Generated At (UTC): 2026-07-13T08:52:47+00:00
+- Generated At (UTC): 2026-07-13T12:09:23+00:00
 - English Name: Joe Cole
 - Arabic Name: جو كول
 - Birth Year: 1981
@@ -34,14 +34,7 @@ Joseph John Cole (born 8 November 1981) is an English football coach and former 
 Cole started his career with West Ham United , where, after breaking into the first team in January 1999, he played more than 120 Premier League games over five seasons. He was one of a number of players who left West Ham in the summer of 2003, after the club had been relegated to the Football League First Division , with Cole signing for Chelsea . He spent seven seasons at Chelsea, playing over 280 games in all competitions and winning seven trophies, including three Premier League titles, two FA Cups and a League Cup . He left Chelsea on a free transfer in July 2010 to join Liverpool , who a year later loaned him to Lille . After a season in France, he returned to Liverpool before re-joining West Ham in January 2013. He signed for Aston Villa in June 2014, then joined Coventry City on loan in October 2015, joining on a permanent deal in January 2016.
 
 ### English Achievements
-- With West Ham United: UEFA Intertoto Cup
-- With Chelsea: Premier League
-- With Aston Villa: FA Cup runner-up
-- Individual: West Ham United Hammer of the Year
-- With Chelsea: FA Cup
-- With Chelsea: Football League Cup
-- With Chelsea: FA Community Shield
-- With Chelsea: UEFA Champions League runner-up
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 94
@@ -51,17 +44,15 @@ Cole started his career with West Ham United , where, after breaking into the fi
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1998–2003 | West Ham United | 126 | 10 |
-| 2003–2010 | Chelsea | 183 | 27 |
-| 2010–2013 | Liverpool | 26 | 3 |
-| 2011–2012 | Lille | 32 | 4 |
-| 2013–2014 | West Ham United | 31 | 5 |
-| 2014–2016 | Aston Villa | 12 | 1 |
-| 2015–2016 | Coventry City | 7 | 1 |
-| 2016 | Coventry City | 15 | 1 |
-| 2016–2018 | Tampa Bay Rowdies | 82 | 20 |
-| 2021 | Belstone | 0 | 0 |
-| Total | Total | 514 | 72 |
+| 1998–2013 | West Ham United | 187 | 18 |
+| 2003–2009 | Chelsea | 282 | 39 |
+| 2010–2012 | Liverpool | 42 | 5 |
+| 2011 | Lille (loan) | 43 | 9 |
+| 2014–2015 | Aston Villa | 16 | 1 |
+| 2015 | Coventry City (loan) | 7 | 1 |
+| 2015 | Coventry City | 22 | 2 |
+| 2016–2018 | Tampa Bay Rowdies | 86 | 20 |
+| 2020 | Belstone | 1 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -87,12 +78,28 @@ Cole started his career with West Ham United , where, after breaking into the fi
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 144
+- Senior national team goals total: 10
+- Senior career goals total: 154
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1998–2003 | وست هام يونايتد | 126 | 10 |
+| 2003–2010 | تشيلسي | 183 | 27 |
+| 2010–2013 | ليفربول | 26 | 3 |
+| 2011–2012 | ليل | 32 | 4 |
+| 2013–2014 | وست هام يونايتد | 31 | 5 |
+| 2014–2016 | أستون فيلا | 12 | 1 |
+| 2015–2016 | كوفنتري سيتي | 7 | 1 |
+| 2016 | كوفنتري سيتي | 15 | 1 |
+| 2016–2018 | [الإنجليزية] | 82 | 20 |
+| - | مجموع | 514 | 72 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997–1998 | إنجلترا تحت 16 | 4 | 0 |
+| 1999 | إنجلترا تحت 18 | 5 | 0 |
+| 2000–2003 | إنجلترا تحت 21 | 8 | 2 |
+| 2001–2010 | إنجلترا | 56 | 10 |

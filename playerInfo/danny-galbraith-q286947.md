@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q286947
-- Generated At (UTC): 2026-07-13T08:56:20+00:00
+- Generated At (UTC): 2026-07-13T12:12:48+00:00
 - English Name: Danny Galbraith
 - Arabic Name: داني قالبرايث
 - Birth Year: 1990
@@ -37,19 +37,17 @@ Galbraith was a youth player with Heart of Midlothian and then signed for Manche
 _No honours section found._
 
 ### English Career Totals
-- Club goals total: 6
+- Club goals total: 5
 - Senior national team goals total: Unavailable
-- Senior career goals total: 6
+- Senior career goals total: 5
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2008–2009 | Manchester United | 0 | 0 |
-| 2009–2013 | Hibernian | 52 | 1 |
-| 2013–2014 | Limerick | 35 | 2 |
-| 2014–2015 | Gillingham | 7 | 0 |
-| 2015–2017 | York City | 28 | 2 |
-| 2018–2019 | Edinburgh City | 5 | 1 |
+| 2009–2012 | Hibernian | 63 | 1 |
+| 2013–2014 | Limerick | 40 | 2 |
+| 2014 | Gillingham | 7 | 0 |
+| 2015–2016 | York City | 30 | 2 |
 
 ### English National Team Stats
 _No rows found._
@@ -66,12 +64,19 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 6
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 6
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008–2009 | مانشستر يونايتد | 0 | 0 |
+| 2009–2013 | هيبرنيان | 52 | 1 |
+| 2013–2014 | يميريك | 35 | 2 |
+| 2014–2015 | غيلينغهام | 7 | 0 |
+| 2015–2017 | يورك سيتي | 28 | 2 |
+| 2018–2019 | [الإنجليزية] | 5 | 1 |
 
 ### Arabic National Team Stats
 _No rows found._

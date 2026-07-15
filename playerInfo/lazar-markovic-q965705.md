@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q965705
-- Generated At (UTC): 2026-07-13T08:54:38+00:00
+- Generated At (UTC): 2026-07-13T12:11:08+00:00
 - English Name: Lazar Marković
 - Arabic Name: لازار ماركوفيتش
 - Birth Year: 1994
@@ -36,14 +36,7 @@ He started his career at Partizan before moving to Benfica in 2013, where he won
 Marković made his full international debut for Serbia in 2012, going on to earn 22 caps for the national team. [ 5 ]
 
 ### English Achievements
-- With Partizan: SuperLiga
-- With Benfica: Primeira Liga
-- Individual: SuperLiga Team of the Year
-- With Benfica: Taça de Portugal
-- With Benfica: Taça da Liga
-- Individual: SJPF Player of the Month
-- Individual: UEFA Europa League Squad of the season
-- Individual: FK Partizan Player of the Year
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 61
@@ -53,19 +46,16 @@ Marković made his full international debut for Serbia in 2012, going on to earn
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2011–2013 | Partizan | 46 | 13 |
-| 2013–2014 | Benfica | 26 | 5 |
-| 2014–2019 | Liverpool | 19 | 2 |
-| 2015–2016 | Fenerbahçe | 14 | 0 |
-| 2016–2017 | Sporting CP | 6 | 1 |
-| 2016–2017 | Hull City | 12 | 2 |
-| 2017–2018 | Anderlecht | 8 | 1 |
-| 2018–2019 | Fulham | 1 | 0 |
-| 2019–2022 | Partizan | 58 | 17 |
-| 2022–2024 | Gaziantep | 49 | 7 |
-| 2023–2024 | Trabzonspor | 8 | 1 |
-| 2024–2025 | Baniyas | 25 | 4 |
-| 2025–2026 | Apollon Limassol | 18 | 1 |
+| 2010–2021 | Partizan | 154 | 35 |
+| 2013 | Benfica | 49 | 7 |
+| 2014–2018 | Liverpool | 34 | 3 |
+| 2015 | Fenerbahçe (loan) | 20 | 2 |
+| 2016 | Sporting CP (loan) | 14 | 2 |
+| 2016 | Hull City (loan) | 14 | 2 |
+| 2017 | Anderlecht (loan) | 8 | 1 |
+| 2018 | Fulham | 1 | 0 |
+| 2022–2023 | Gaziantep | 56 | 9 |
+| 2022 | Trabzonspor (loan) | 9 | 1 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -86,12 +76,27 @@ Marković made his full international debut for Serbia in 2012, going on to earn
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 43
+- Senior national team goals total: 3
+- Senior career goals total: 46
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2011–2013 | بارتيزان | 46 | 13 |
+| 2013–2014 | بنفيكا | 26 | 5 |
+| 2014–2019 | ليفربول | 19 | 2 |
+| 2015–2016 | فنربخشة | 14 | 0 |
+| 2016–2017 | سبورتينغ لشبونة | 6 | 1 |
+| 2017 | هال سيتي | 12 | 2 |
+| 2018 | رويال أندرلخت | 8 | 1 |
+| 2019 | فولهام | 1 | 0 |
+| 2019–2022 | بارتيزان | 58 | 17 |
+| 2022– | غازي عنتاب | 12 | 2 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009–2011 | صربيا تحت 17 [ 4 ] | 8 | 0 |
+| 2011–2016 | صربيا تحت 21 [ 4 ] | 2 | 0 |
+| 2012–2016 | صربيا | 22 | 3 |

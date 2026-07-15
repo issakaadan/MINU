@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q932827
-- Generated At (UTC): 2026-07-13T08:54:18+00:00
+- Generated At (UTC): 2026-07-13T12:10:50+00:00
 - English Name: Fagner
 - Arabic Name: فاجنر كونسيرفا ليموس
 - Birth Year: 1989
@@ -32,14 +32,7 @@
 Fagner Conserva Lemos (born 11 June 1989), simply known as Fagner , is a Brazilian professional footballer who plays as a right-back for Campeonato Brasileiro Série A club Cruzeiro .
 
 ### English Achievements
-- With EC Vitória: Campeonato Baiano
-- With PSV: Eredivisie
-- With Vasco da Gama: Campeonato Brasileiro Série B
-- With Corinthians: Campeonato Brasileiro Série A
-- With Cruzeiro: Campeonato Mineiro
-- With Brazil: Copa América
-- Individual: Campeonato Brasileiro Série A Team of the Year
-- With PSV: Johan Cruyff Shield
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 27
@@ -49,15 +42,12 @@ Fagner Conserva Lemos (born 11 June 1989), simply known as Fagner , is a Brazili
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2006–2007 | Corinthians | 7 | 0 |
-| 2007–2008 | PSV | 3 | 1 |
+| 2006–2024 | Corinthians | 556 | 12 |
 | 2007 | Vitória | 0 | 0 |
-| 2009–2012 | Vasco da Gama | 117 | 14 |
-| 2012–2014 | VfL Wolfsburg | 26 | 0 |
-| 2013 | Vasco da Gama | 26 | 0 |
-| 2014–2026 | Corinthians | 294 | 6 |
-| 2025 | Cruzeiro | 13 | 0 |
-| 2026– | Cruzeiro | 9 | 0 |
+| 2007 | PSV | 3 | 1 |
+| 2009–2012 | Vasco da Gama | 141 | 14 |
+| 2012 | VfL Wolfsburg | 30 | 0 |
+| 2013 | Vasco da Gama (loan) | 29 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -77,12 +67,24 @@ Fagner Conserva Lemos (born 11 June 1989), simply known as Fagner , is a Brazili
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 25
+- Senior national team goals total: 0
+- Senior career goals total: 25
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006–2007 | كورينثيانز | 7 | 0 |
+| 2007–2008 | آيندهوفن | 3 | 1 |
+| 2007 | فيتوريا | 3 | 0 |
+| 2009–2012 | فاسكو دا غاما | 117 | 14 |
+| 2012–2014 | فولفسبورغ | 26 | 0 |
+| 2013 | فاسكو دا غاما | 26 | 0 |
+| 2014 | كورينثيانز | 46 | 2 |
+| 2015– | كورينثيانز | 276 | 8 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2007 | البرازيل تحت 20 | 3 | 0 |
+| 2017–2019 | البرازيل | 10 | 0 |

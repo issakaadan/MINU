@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q771149
-- Generated At (UTC): 2026-07-13T08:56:29+00:00
+- Generated At (UTC): 2026-07-13T12:13:04+00:00
 - English Name: James Wilson
 - Arabic Name: جيمس ويلسون
 - Birth Year: 1989
@@ -32,13 +32,7 @@
 James Steven Wilson (born 26 February 1989) is a Welsh professional footballer who plays as a defender for EFL League Two club Cheltenham Town . He has also represented Wales at international level. Primarily a centre-back , he can also play at right-back .
 
 ### English Achievements
-- With Brentford: Football League Two
-- With Sheffield United: EFL League One
-- With Lincoln City: EFL League Two
-- With Plymouth Argyle: EFL League One
-- Individual: Ipswich Town Player of the Year
-- With Lincoln City: EFL Trophy
-- With Plymouth Argyle: EFL Trophy runner-up
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 14
@@ -48,18 +42,17 @@ James Steven Wilson (born 26 February 1989) is a Welsh professional footballer w
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2008–2014 | Bristol City | 31 | 0 |
-| 2008–2009 | Brentford | 14 | 0 |
-| 2009–2010 | Brentford | 13 | 0 |
-| 2013–2014 | Cheltenham Town | 4 | 0 |
-| 2014–2016 | Oldham Athletic | 100 | 2 |
-| 2016–2018 | Sheffield United | 7 | 1 |
-| 2017–2018 | Walsall | 19 | 1 |
-| 2018–2019 | Lincoln City | 19 | 2 |
-| 2019–2021 | Ipswich Town | 40 | 2 |
-| 2021–2023 | Plymouth Argyle | 83 | 1 |
-| 2023–2025 | Bristol Rovers | 72 | 2 |
-| 2025– | Cheltenham Town | 42 | 0 |
+| 2008–2012 | Bristol City | 35 | 1 |
+| 2008–2009 | Brentford (loan) | 30 | 0 |
+| 2013 | Cheltenham Town (loan) | 4 | 0 |
+| 2013–2015 | Oldham Athletic | 109 | 2 |
+| 2016–2017 | Sheffield United | 10 | 1 |
+| 2017 | Walsall (loan) | 20 | 1 |
+| 2017–2018 | Lincoln City | 26 | 2 |
+| 2019–2020 | Ipswich Town | 49 | 2 |
+| 2021–2022 | Plymouth Argyle | 95 | 1 |
+| 2023–2024 | Bristol Rovers | 80 | 3 |
+| 2025 | Cheltenham Town | 46 | 1 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -80,12 +73,27 @@ James Steven Wilson (born 26 February 1989) is a Welsh professional footballer w
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 8
+- Senior national team goals total: 0
+- Senior career goals total: 8
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008–2014 | بريستول سيتي | 31 | 0 |
+| 2008–2009 | برينتفورد | 14 | 0 |
+| 2009–2010 | برينتفورد | 13 | 0 |
+| 2013–2014 | تشيلتنهام تاون | 4 | 0 |
+| 2014–2016 | أولدهام أثلتيك | 100 | 2 |
+| 2016–2018 | شيفيلد يونايتد | 7 | 1 |
+| 2017–2018 | والسول | 19 | 1 |
+| 2018–2019 | لينكولن سيتي | 19 | 2 |
+| 2019–2021 | إيبسويتش تاون | 40 | 2 |
+| 2021– | بليموث أرجايل | 41 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006–2008 | ويلز تحت 19 | 9 | 0 |
+| 2009 | ويلز تحت 21 | 3 | 1 |
+| 2013 | ويلز | 1 | 0 |

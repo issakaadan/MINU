@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q160363
-- Generated At (UTC): 2026-07-13T08:54:03+00:00
+- Generated At (UTC): 2026-07-13T12:10:35+00:00
 - English Name: Aílton Gonçalves da Silva
 - Arabic Name: أيلتون
 - Birth Year: 1973
@@ -34,45 +34,32 @@ Aílton Gonçalves da Silva (born 19 July 1973), also known as Kugelblitz [ 1 ] 
 After Stéphane Chapuisat and Giovane Élber , Aílton is the third of seven foreign players to have scored more than 100 goals in the Bundesliga , along with Claudio Pizarro , Robert Lewandowski , Vedad Ibišević and Andrej Kramarić .
 
 ### English Achievements
-- With Werder Bremen: Bundesliga
-- With Schalke 04: UEFA Intertoto Cup
-- With Red Star Belgrade: Serbian SuperLiga
-- Individual: Bundesliga top scorer
-- With Werder Bremen: DFB-Pokal
-- With Werder Bremen: DFB-Ligapokal runner-up
-- Individual: Footballer of the Year (Germany)
-- Individual: kicker Bundesliga Team of the Season
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 205
+- Club goals total: 191
 - Senior national team goals total: Unavailable
-- Senior career goals total: 205
+- Senior career goals total: 191
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1993–1994 | Ypiranga | 12 | 2 |
-| 1994–1995 | Internacional | 21 | 4 |
-| 1994–1995 | Mogi Mirim | 28 | 8 |
-| 1995–1996 | Santa Cruz | 21 | 7 |
-| 1996–1997 | Guarani | 43 | 20 |
-| 1997–1998 | UANL | 23 | 5 |
-| 1998–2004 | Werder Bremen | 169 | 88 |
-| 2004–2005 | Schalke 04 | 29 | 14 |
-| 2005–2006 | Beşiktaş | 14 | 5 |
-| 2006 | Hamburger SV | 13 | 3 |
-| 2006–2007 | Red Star Belgrade | 13 | 4 |
-| 2007 | Grasshoppers | 13 | 8 |
-| 2007–2008 | MSV Duisburg | 8 | 1 |
-| 2008–2009 | Metalurh Donetsk | 2 | 1 |
-| 2008–2009 | SCR Altach | 12 | 7 |
+| 1996–1997 | Guarani FC | 43 | 20 |
+| 1998 | Tigres UANL | 16 | 5 |
+| 1998–2003 | Werder Bremen | 214 | 106 |
+| 2004 | Schalke 04 | 44 | 20 |
+| 2005 | Beşiktaş | 18 | 7 |
+| 2005 | Hamburger SV (loan) | 13 | 3 |
+| 2006 | Red Star Belgrade | 13 | 4 |
+| 2006 | Grasshoppers (loan) | 14 | 8 |
+| 2007 | MSV Duisburg | 8 | 1 |
+| 2008 | Metalurh Donetsk | 2 | 1 |
+| 2008 | SCR Altach (loan) | 12 | 7 |
 | 2009 | Campinense | 1 | 1 |
 | 2009 | Chongqing Lifan | 5 | 0 |
-| 2010 | KFC Uerdingen 05 | 13 | 4 |
-| 2010–2011 | FC Oberneuland | 12 | 3 |
-| 2011 | Rio Branco-SP | 4 | 1 |
-| 2012–2013 | Hassia Bingen | 21 | 19 |
-| Total | Total | 476 | 205 |
+| 2009 | KFC Uerdingen 05 | 13 | 4 |
+| 2010 | FC Oberneuland | 13 | 3 |
+| 2011 | Rio Branco | 2 | 1 |
 
 ### English National Team Stats
 _No rows found._
@@ -89,12 +76,34 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 391
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 391
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1993–1994 | يبيرانغا | 12 | 2 |
+| 1994–1995 | إنترناسيونال | 21 | 4 |
+| 1994–1995 | موجي ميريم | 28 | 8 |
+| 1995–1996 | نادي سانتا كروز | 21 | 7 |
+| 1996–1997 | غواراني | 43 | 20 |
+| 1997–1998 | تيغريس أونال | 23 | 5 |
+| 1998–2004 | فيردر بريمن | 169 | 88 |
+| 2004–2005 | شالكه 04 | 29 | 14 |
+| 2005–2006 | بشكتاش | 14 | 5 |
+| 2006 | هامبورغ | 13 | 3 |
+| 2006–2007 | النجم الأحمر بلغراد | 13 | 4 |
+| 2007 | غراسهوبر زيوريخ | 13 | 8 |
+| 2007–2008 | دويسبورغ | 8 | 1 |
+| 2008–2009 | ميتالورغ دونيتسك | 2 | 1 |
+| 2008–2009 | رايندورف آلتاخ | 12 | 7 |
+| 2009 | [الإنجليزية] | 1 | 1 |
+| 2009 | نادي تشونغتشينغ ليانغجيانغ | 5 | 0 |
+| 2010 | أوردينغن 05 | 13 | 4 |
+| 2010–2011 | [الإنجليزية] | 12 | 3 |
+| 2011 | ريو برانكو | 4 | 1 |
+| - | مجموع | 476 | 205 |
 
 ### Arabic National Team Stats
 _No rows found._

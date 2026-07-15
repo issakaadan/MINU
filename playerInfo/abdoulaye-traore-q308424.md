@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q308424
-- Generated At (UTC): 2026-07-13T08:55:12+00:00
+- Generated At (UTC): 2026-07-13T12:11:40+00:00
 - English Name: Abdoulaye Traoré
 - Arabic Name: عبد الله تراوريه
 - Birth Year: 1967
@@ -36,12 +36,7 @@ He made six Primeira Liga appearances for Braga . [ 2 ]
 In 2015, he became an ambassador of The SATUC Cup, a new charitable global football competition for U16 orphans, refugees and disadvantaged children.
 
 ### English Achievements
-- Ligue 1 (Ivory Coast)
-- Africa Cup of Nations
-- Individual: Ligue 1 (Ivory Coast) top scorer
-- Coupe de Côte d'Ivoire
-- CAF Champions League runner-up
-- FIFA Confederations Cup fourth place
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 53
@@ -81,12 +76,24 @@ In 2015, he became an ambassador of The SATUC Cup, a new charitable global footb
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 53
+- Senior national team goals total: 49
+- Senior career goals total: 102
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1983–1984 | ستيلا أبيدجان | 0 | 0 |
+| 1985–1986 | أسيك أبيدجان | 6 | 2 |
+| 1986 | سبورتينغ براغا | 6 | 0 |
+| 1986–1987 | ميتز | 15 | 4 |
+| 1987–1988 | سيت | 19 | 5 |
+| 1988–1989 | تولون | 3 | 0 |
+| 1989–1990 | أفينيون فوت 84 | 11 | 2 |
+| 1990–1995 | أسيك أبيدجان | 84 | 32 |
+| 1995–1997 | العروبة | 21 | 8 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1984–1996 | ساحل العاج [ 2 ] | 90 | 49 |

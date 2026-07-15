@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q59719
-- Generated At (UTC): 2026-07-13T08:52:18+00:00
+- Generated At (UTC): 2026-07-13T12:08:54+00:00
 - English Name: Adam Lallana
 - Arabic Name: آدم لالانا
 - Birth Year: 1988
@@ -36,14 +36,7 @@ Lallana began his youth career with Bournemouth before transferring to Southampt
 After his senior international debut in 2013, Lallana made 34 appearances for England. He scored three goals and represented his country at the 2014 FIFA World Cup and UEFA Euro 2016 .
 
 ### English Achievements
-- With Southampton: Football League Trophy
-- With Liverpool: Premier League
-- Individual: PFA Team of the Year
-- With Southampton: Football League Championship runner-up
-- With Southampton: Football League One runner-up
-- With Liverpool: UEFA Champions League
-- With Liverpool: UEFA Super Cup
-- With Liverpool: FIFA Club World Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 86
@@ -53,12 +46,10 @@ After his senior international debut in 2013, Lallana made 34 appearances for En
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2006–2014 | Southampton | 235 | 48 |
-| 2007 | Bournemouth | 3 | 0 |
-| 2014–2020 | Liverpool | 128 | 18 |
-| 2020–2024 | Brighton & Hove Albion | 95 | 3 |
-| 2024–2025 | Southampton | 14 | 0 |
-| Total | Total | 475 | 69 |
+| 2006–2024 | Southampton | 283 | 60 |
+| 2007 | AFC Bournemouth (loan) | 4 | 0 |
+| 2014–2019 | Liverpool | 178 | 22 |
+| 2020–2023 | Brighton & Hove Albion | 104 | 4 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -80,12 +71,22 @@ After his senior international debut in 2013, Lallana made 34 appearances for En
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 69
+- Senior national team goals total: 3
+- Senior career goals total: 72
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006–2014 | ساوثهامبتون | 235 | 48 |
+| 2007 | بورنموث | 3 | 0 |
+| 2014–2020 | ليفربول | 128 | 18 |
+| 2020– | برايتون أند هوف ألبيون | 70 | 3 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006 | إنجلترا تحت 18 | 2 | 1 |
+| 2006 | إنجلترا تحت 19 | 2 | 0 |
+| 2008 | إنجلترا تحت 21 | 1 | 0 |
+| 2013–2018 | إنجلترا | 34 | 3 |

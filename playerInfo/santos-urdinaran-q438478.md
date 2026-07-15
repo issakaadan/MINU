@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q438478
-- Generated At (UTC): 2026-07-13T08:55:01+00:00
+- Generated At (UTC): 2026-07-13T12:11:30+00:00
 - English Name: Santos Urdinarán
 - Arabic Name: سانتوس أورديناران
 - Birth Year: 1900
@@ -34,11 +34,7 @@ Santos "Vasquito" Urdinarán Barrena (30 March 1900 – 14 July 1979), known as 
 He also played 20 matches and scored 2 goals for the Uruguay national football team . With the national team, he won the 1930 FIFA World Cup (without playing the final), two Olympic titles ( 1924 and 1928 ), [ 3 ] and three Copa Americas (in 1923, 1924 and 1926).
 
 ### English Achievements
-- With Nacional: Primera División (6)
-- With Uruguay: FIFA World Cup
-- With Nacional: Copa Competencia (3)
-- With Uruguay: South American Championship
-- With Uruguay: Summer Olympics
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 58
@@ -69,12 +65,14 @@ He also played 20 matches and scored 2 goals for the Uruguay national football t
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 124
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 124
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1919–1933 | ناسيونال مونتيفيديو | 318 | 124 |
 
 ### Arabic National Team Stats
 _No rows found._

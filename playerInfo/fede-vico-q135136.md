@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q135136
-- Generated At (UTC): 2026-07-13T08:55:32+00:00
+- Generated At (UTC): 2026-07-13T12:12:01+00:00
 - English Name: Fede Vico
 - Arabic Name: فيدي فيكو
 - Birth Year: 1994
@@ -35,9 +35,9 @@ Federico 'Fede' Vico Villegas (born 4 July 1994) is a Spanish professional footb
 _No honours section found._
 
 ### English Career Totals
-- Club goals total: 30
+- Club goals total: 28
 - Senior national team goals total: Unavailable
-- Senior career goals total: 30
+- Senior career goals total: 28
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
@@ -80,12 +80,28 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 23
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 23
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2011–2013 | [الإنجليزية] | 15 | 2 |
+| 2011–2013 | قرطبة | 60 | 8 |
+| 2013–2016 | رويال أندرلخت | 0 | 0 |
+| 2014 | أوستينده | 10 | 1 |
+| 2014–2015 | قرطبة | 20 | 0 |
+| 2016 | ألباسيتي | 13 | 1 |
+| 2016–2018 | لوغو | 58 | 4 |
+| 2018–2019 | ليغانيس | 0 | 0 |
+| 2018–2019 | غرناطة | 39 | 5 |
+| 2019–2021 | غرناطة | 38 | 2 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2010–2011 | إسبانيا تحت 17 | 6 | 2 |
+| 2012 | إسبانيا تحت 18 | 2 | 0 |
+| 2013 | إسبانيا تحت 19 | 8 | 3 |
+| 2012–2013 | إسبانيا تحت 20 | 6 | 0 |

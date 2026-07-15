@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q4457
-- Generated At (UTC): 2026-07-13T08:48:19+00:00
+- Generated At (UTC): 2026-07-13T12:05:49+00:00
 - English Name: Franz Beckenbauer
 - Arabic Name: فرانز بكنباور
 - Birth Year: 1945
@@ -34,14 +34,7 @@ Franz Anton Beckenbauer ( German pronunciation: [fʁants ˈbɛkn̩ˌbaʊɐ] ⓘ 
 Twice named European Footballer of the Year , Beckenbauer appeared 103 times for West Germany , playing in three FIFA World Cups and two European Championships . He is one of ten players to have won the FIFA World Cup , the European Cup , and the Ballon d'Or . [ citation needed ] He is one of three men, along with Brazil's Mário Zagallo and France's Didier Deschamps , to have won the World Cup as a player and as a manager; he lifted the World Cup trophy as captain in 1974, and repeated the feat as a manager in 1990. [ 5 ] He was the first captain to lift the World Cup and European Championship at the international level and the European Cup at the club level. He was named in the World Team of the 20th Century in 1998, the FIFA World Cup Dream Team in 2002, the Ballon d'Or Dream Team in 2020, the IFFHS All-time Men's Dream Team in 2021, and in 2004, was listed in the FIFA 100 of the world's greatest living players. [ 6 ] [ 7 ] In August 2024, the International Sports Press Association [ fr ] (AIPS) voted him as the third best footballer of the past 100 years after Pelé and Diego Maradona . [ 8 ] [ 9 ]
 
 ### English Achievements
-- With Bayern Munich: Regionalliga Süd
-- With New York Cosmos: North American Soccer League
-- With Hamburger SV: Bundesliga
-- With West Germany: FIFA World Cup
-- With Marseille: Ligue 1
-- With Bayern Munich: Bundesliga
-- With Player: Ballon d'Or
-- With Manager: World Soccer Awards Manager of the Year
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 98
@@ -51,11 +44,9 @@ Twice named European Footballer of the Year , Beckenbauer appeared 103 times for
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1964–1977 | Bayern Munich | 427 | 60 |
-| 1977–1980 | New York Cosmos | 80 | 17 |
-| 1980–1982 | Hamburger SV | 28 | 0 |
-| 1983 | New York Cosmos | 25 | 2 |
-| Total | Total | 560 | 79 |
+| 1963–1976 | Bayern Munich | 584 | 75 |
+| 1977–1983 | New York Cosmos | 132 | 23 |
+| 1980–1981 | Hamburger SV | 38 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -77,15 +68,27 @@ Twice named European Footballer of the Year , Beckenbauer appeared 103 times for
 كان أول قائد يرفع كأس العالم وكأس أمم أوروبا على المستوى الدولي، ودوري أبطال أوروبا على مستوى الأندية. اختير ضمن منتخب العالم للقرن العشرين في سنة 1998، وضمن فريق أحلام كأس العالم في سنة 2002، وضمن فريق أحلام الكرة الذهبية في سنة 2020، وضمن فريق أحلام الاتحاد الدولي لتاريخ وإحصاءات كرة القدم في سنة 2021، وفي سنة 2004 اختير ضمن قائمة فيفا 125 لأعظم لاعبي العالم الأحياء. [ 15 ] [ 16 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع لاعب بايرن ميونخ: دوري المنطقة الجنوبية
+- مع لاعب نيويورك كوزموس: دوري أمريكا الشمالية لكرة القدم
+- مع لاعب هامبورغ إس في: الدوري الألماني
+- مع لاعب ألمانيا الغربية: كأس العالم لكرة القدم
+- مع مدير ألمانيا الغربية: كأس العالم لكرة القدم
+- مع مدير مرسيليا: الدوري الفرنسي الدرجة الأولى
+- مع مدير بايرن ميونخ: الدوري الألماني
+- مع فردي لاعب: الكرة الذهبية
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 64
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 64
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1965–1977 | بايرن ميونخ | 439 | 64 |
+| 1980–1982 | هامبورغ | 28 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1964–1964 | ألمانيا تحت 18 سنة | 3 | 3 |

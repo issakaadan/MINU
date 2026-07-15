@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q187159
-- Generated At (UTC): 2026-07-13T08:52:10+00:00
+- Generated At (UTC): 2026-07-13T12:08:48+00:00
 - English Name: Jordi Alba
 - Arabic Name: جوردي ألبا
 - Birth Year: 1989
@@ -36,14 +36,7 @@ Alba started his career at Barcelona , but was released. After joining Cornellà
 After winning 23 caps and scoring one goal at youth level, Alba made his senior debut for Spain in 2011. He was an integral member of the team that won UEFA Euro 2012 , and was also part of the squads at the FIFA World Cup in 2014 , 2018 , and 2022 , and the European Championship in 2016 and 2020 . Alba was the captain of the team that won the 2022–23 UEFA Nations League . In 2023, he announced his international retirement.
 
 ### English Achievements
-- With Barcelona: La Liga
-- With Inter Miami: MLS Cup
-- With Spain: UEFA European Championship
-- Individual: UEFA European Championship Team of the Tournament
-- With Barcelona: Copa del Rey
-- With Barcelona: Supercopa de España
-- With Barcelona: UEFA Champions League
-- With Barcelona: FIFA Club World Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 60
@@ -53,13 +46,12 @@ After winning 23 caps and scoring one goal at youth level, Alba made his senior 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2006–2007 | Cornellà | 15 | 3 |
-| 2007–2009 | Valencia B | 18 | 5 |
-| 2008–2009 | Gimnàstic | 35 | 4 |
-| 2009–2012 | Valencia | 74 | 5 |
-| 2012–2023 | Barcelona | 313 | 17 |
-| 2023–2025 | Inter Miami | 65 | 11 |
-| Total | Total | 520 | 45 |
+| 2006 | Cornellà | 15 | 3 |
+| 2007 | Valencia B | 18 | 5 |
+| 2008 | Gimnàstic (loan) | 36 | 4 |
+| 2009–2011 | Valencia | 128 | 11 |
+| 2012–2022 | Barcelona | 459 | 27 |
+| 2023–2025 | Inter Miami | 103 | 15 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -87,12 +79,25 @@ After winning 23 caps and scoring one goal at youth level, Alba made his senior 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 34
+- Senior national team goals total: 9
+- Senior career goals total: 43
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006–2007 | نادي كورنيا | 15 | 3 |
+| 2008–2009 | خيمناستيك طركونة | 35 | 4 |
+| 2009–2012 | فالنسيا | 74 | 5 |
+| 2012–2023 | برشلونة | 313 | 17 |
+| 2023–2026 | إنتر ميامي | 34 | 5 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006 | إسبانيا تحت 19 | 6 | 1 |
+| 2009 | إسبانيا تحت 20 | 9 | 0 |
+| 2008–2011 | إسبانيا تحت 21 | 4 | 0 |
+| 2012 | إسبانيا تحت 23 | 4 | 0 |
+| 2011–2023 | إسبانيا | 94 | 9 |
+| 2008–2013 | كتلونيا | 5 | 0 |

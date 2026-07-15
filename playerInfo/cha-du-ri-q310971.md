@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q310971
-- Generated At (UTC): 2026-07-13T08:54:10+00:00
+- Generated At (UTC): 2026-07-13T12:10:42+00:00
 - English Name: Cha Du-ri
 - Arabic Name: تشا دو ري
 - Birth Year: 1980
@@ -34,14 +34,7 @@ Cha Du-ri ( Korean : 차두리 ; Korean pronunciation: [tɕʰa.du.ɾi] or [tɕʰ
 Cha also played for one of his father Cha Bum-kun 's clubs, Eintracht Frankfurt . [ 2 ]
 
 ### English Achievements
-- With Eintracht Frankfurt: DFB-Pokal runner-up
-- With Celtic: Scottish Premier League
-- With FC Seoul: Korean FA Cup
-- With South Korea: AFC Asian Cup runner-up
-- Individual: K League All-Star
-- With Celtic: Scottish Cup
-- With Celtic: Scottish League Cup runner-up
-- With FC Seoul: AFC Champions League runner-up
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 22
@@ -51,17 +44,15 @@ Cha also played for one of his father Cha Bum-kun 's clubs, Eintracht Frankfurt 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2002–2004 | Bayer Leverkusen | 0 | 0 |
-| 2002–2003 | Arminia Bielefeld | 22 | 1 |
-| 2003–2004 | Eintracht Frankfurt | 31 | 1 |
-| 2004–2006 | Eintracht Frankfurt | 56 | 11 |
-| 2006–2007 | Mainz 05 | 12 | 0 |
-| 2007–2009 | TuS Koblenz | 61 | 3 |
-| 2009–2010 | SC Freiburg | 23 | 1 |
-| 2010–2012 | Celtic | 31 | 2 |
-| 2012–2013 | Fortuna Düsseldorf | 10 | 0 |
-| 2013–2015 | FC Seoul | 82 | 2 |
-| Total | Total | 328 | 21 |
+| 2002 | Arminia Bielefeld (loan) | 24 | 1 |
+| 2003 | Eintracht Frankfurt (loan) | 33 | 1 |
+| 2004–2005 | Eintracht Frankfurt | 62 | 12 |
+| 2006 | Mainz 05 | 13 | 0 |
+| 2007–2008 | TuS Koblenz | 52 | 3 |
+| 2009 | SC Freiburg | 25 | 1 |
+| 2010–2011 | Celtic | 43 | 2 |
+| 2012 | Fortuna Düsseldorf | 11 | 0 |
+| 2013–2015 | FC Seoul | 114 | 2 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -84,12 +75,26 @@ Cha also played for one of his father Cha Bum-kun 's clubs, Eintracht Frankfurt 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 42
+- Senior national team goals total: 4
+- Senior career goals total: 46
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2004 | باير 04 ليفركوزن | 0 | 0 |
+| 2002–2003 | أرمينيا بيليفيلد | 22 | 1 |
+| 2003–2004 | آينتراخت فرانكفورت | 31 | 1 |
+| 2004–2006 | آينتراخت فرانكفورت | 56 | 11 |
+| 2006–2007 | ماينتس 05 | 12 | 0 |
+| 2007–2009 | كوبلنتس | 61 | 3 |
+| 2009–2010 | فرايبورغ | 23 | 1 |
+| 2010–2012 | سلتيك | 31 | 2 |
+| 2012–2013 | فورتونا دوسلدورف | 10 | 0 |
+| 2013–2015 | سول | 82 | 2 |
+| - | مجموع | 328 | 21 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001–2015 | كوريا الجنوبية | 76 | 4 |

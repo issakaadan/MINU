@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q237159
-- Generated At (UTC): 2026-07-13T08:55:56+00:00
+- Generated At (UTC): 2026-07-13T12:12:25+00:00
 - English Name: Paul Freier
 - Arabic Name: بول فريير
 - Birth Year: 1979
@@ -67,12 +67,22 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 130
+- Senior national team goals total: 1
+- Senior career goals total: 131
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1998–2001 | [الإنجليزية] | 68 | 19 |
+| 1999–2004 | بوخوم | 117 | 16 |
+| 2004–2008 | باير 04 ليفركوزن | 112 | 17 |
+| 2008–2014 | بوخوم | 149 | 18 |
+| 2009–2011 | [الإنجليزية] | 5 | 0 |
+| - | مجموع | 451 | 60 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000–2001 | ألمانيا تحت 21 | 13 | 2 |
+| 2002–2007 | ألمانيا | 19 | 1 |

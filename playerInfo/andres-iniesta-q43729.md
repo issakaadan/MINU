@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q43729
-- Generated At (UTC): 2026-07-13T08:48:51+00:00
+- Generated At (UTC): 2026-07-13T12:06:16+00:00
 - English Name: Andrés Iniesta
 - Arabic Name: أندريس إنييستا
 - Birth Year: 1984
@@ -34,28 +34,20 @@ Andrés Iniesta Luján ( Spanish pronunciation: [anˈdɾes iˈnjesta luˈxan] ; 
 Iniesta started his professional career through La Masia , the Barcelona youth academy, after an early migration from his birthplace, and impressed from an early age. He made his first-team debut aged 18 in 2002. He began playing regularly during the 2004–05 season and remained in the team until 2018. Iniesta's 35 trophies, which include nine La Ligas and four UEFA Champions League titles, make him the most decorated Spanish footballer of all time. [ 7 ] With the initial management guidance by Pep Guardiola and using the tiki-taka football philosophy, Iniesta was part of a widely lauded midfield combination trio with Xavi and Sergio Busquets ; from 2008 to 2015, the trio together were instrumental in Barcelona's on-field successes in seven seasons, winning five La Liga titles, three Copa del Rey titles, three UEFA Champions League titles and the continental treble (all three titles simultaneously) twice, in 2008–09 and 2014–15 . [ 8 ] [ 9 ] [ 10 ] [ 11 ] After 22 years at Barcelona, Iniesta signed for J1 League club Vissel Kobe in 2018. After leaving the club in 2023, he signed for UAE Pro League club Emirates , eventually retiring in October 2024.
 
 ### English Achievements
-- With Barcelona: La Liga
-- With Vissel Kobe: Emperor's Cup
-- With Spain U16: UEFA European Under-16 Championship
-- With Spain: FIFA World Cup
-- Individual: UEFA Euro Team of the Tournament
-- With Decorations: Prince of Asturias Awards
-- With Barcelona: Copa del Rey
-- With Barcelona: Supercopa de España
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 93
+- Club goals total: 88
 - Senior national team goals total: 14
-- Senior career goals total: 107
+- Senior career goals total: 102
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2000–2003 | Barcelona B | 49 | 5 |
-| 2002–2018 | Barcelona | 442 | 35 |
-| 2018–2023 | Vissel Kobe | 114 | 21 |
-| 2023–2024 | Emirates | 20 | 5 |
-| Total | Total | 625 | 66 |
+| 2000–2002 | Barcelona B | 54 | 5 |
+| 2002–2017 | Barcelona | 674 | 57 |
+| 2018–2023 | Vissel Kobe | 134 | 26 |
+| 2023 | Emirates | 23 | 5 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -82,15 +74,34 @@ Iniesta started his professional career through La Masia , the Barcelona youth a
 تمكن إنييستا من إيجاد مكان له في التشكيلة الأساسية للفريق الأول، فبداية مسيرته الكروية بدأت عند التحاقه بأكاديمية لا ماسيا للشباب، مما ساعده على الانضمام للمنتخب الإسباني تحت 16 عامًا، ثم أصبح بذلك من خيارات مدرب الشباب مما جعل الفريق الأول لبرشلونة يفكر فيه من أجل الاستفادة منه في المستقبل.
 
 ### Arabic Achievements
-_No honours section found._
+- مع برشلونة: الدوري الإسباني
+- مع برشلونة: كأس ملك إسبانيا
+- مع برشلونة: كأس السوبر الإسباني
+- مع برشلونة: دوري أبطال أوروبا
+- مع برشلونة: كأس السوبر الأوروبي
+- مع برشلونة: كأس العالم للأندية
+- مع المنتخب الإسباني: كأس العالم (1)
+- الإنجازات الفردية: أفضل فريق في بطولة أمم أوروبا (2)
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 56
+- Senior national team goals total: 13
+- Senior career goals total: 69
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000–2002 | برشلونة ب | 54 | 5 |
+| 2002–2017 | برشلونة | 668 | 56 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000 | إسبانيا تحت 15 سنة | 2 | 0 |
+| 2000–2001 | إسبانيا تحت 16 سنة | 7 | 1 |
+| 2001 | إسبانيا تحت 17 سنة | 4 | 0 |
+| 2001–2002 | إسبانيا تحت 19 سنة | 7 | 1 |
+| 2003 | إسبانيا تحت 20 سنة | 7 | 3 |
+| 2003–2006 | إسبانيا تحت 21 سنة | 18 | 6 |
+| 2004–2005 | كتالونيا | 2 | 0 |
+| 2006–2018 | إسبانيا | 131 | 13 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q215434
-- Generated At (UTC): 2026-07-13T08:54:33+00:00
+- Generated At (UTC): 2026-07-13T12:11:04+00:00
 - English Name: Kagisho Dikgacoi
 - Arabic Name: كاغيشو ديكغاكوي
 - Birth Year: 1984
@@ -44,14 +44,10 @@ _No honours section found._
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2004–2005 | Bloemfontein Young Tigers | 10 | 0 |
-| 2005–2009 | Golden Arrows | 82 | 8 |
-| 2009–2011 | Fulham | 14 | 0 |
-| 2011 | Crystal Palace | 13 | 1 |
-| 2011–2014 | Crystal Palace | 92 | 6 |
-| 2014–2016 | Cardiff City | 25 | 0 |
-| 2016–2017 | Golden Arrows | 10 | 1 |
-| Total | Total | 246 | 16 |
+| 2006–2008 | Golden Arrows | 73 | 8 |
+| 2009–2010 | Fulham | 16 | 0 |
+| 2010–2013 | Crystal Palace | 114 | 8 |
+| 2014–2015 | Cardiff City | 28 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -74,12 +70,23 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 32
+- Senior national team goals total: 2
+- Senior career goals total: 34
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004–2005 | [الإنجليزية] | 10 | 0 |
+| 2005–2009 | لمونتفيل غولدن أروز [الإنجليزية] | 82 | 8 |
+| 2009–2011 | فولهام | 14 | 0 |
+| 2011 | كريستال بالاس | 13 | 1 |
+| 2011–2014 | كريستال بالاس | 92 | 6 |
+| 2014–2016 | كارديف سيتي | 25 | 0 |
+| 2016–2017 | لمونتفيل غولدن أروز [الإنجليزية] | 10 | 1 |
+| - | مجموع | 246 | 16 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2007–2013 | جنوب أفريقيا | 54 | 2 |

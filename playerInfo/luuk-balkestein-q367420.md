@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q367420
-- Generated At (UTC): 2026-07-13T08:56:36+00:00
+- Generated At (UTC): 2026-07-13T12:13:12+00:00
 - English Name: Luuk Balkestein
 - Arabic Name: لوك بالكستاين
 - Birth Year: 1954
@@ -63,12 +63,18 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 7
+- Senior national team goals total: 0
+- Senior career goals total: 7
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1974–1980 | سبارتا روتردام | 201 | 7 |
+| 1980–1982 | فاينورد | 18 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1979–1980 | هولندا تحت 21 | 3 | 1 |
+| 1980 | هولندا | 1 | 0 |

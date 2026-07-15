@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q166310
-- Generated At (UTC): 2026-07-13T08:55:42+00:00
+- Generated At (UTC): 2026-07-13T12:12:10+00:00
 - English Name: Jean-Claude Piumi
 - Arabic Name: جان كلود بيومي
 - Birth Year: 1940
@@ -63,12 +63,18 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 27
+- Senior national team goals total: 1
+- Senior career goals total: 28
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1959–1970 | فالينسيان | 318 | 5 |
+| 1970–1972 | موناكو | 22 | 0 |
+| - | مجموع | 340 | 22 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1962–1967 | فرنسا | 4 | 1 |

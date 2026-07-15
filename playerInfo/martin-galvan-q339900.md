@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q339900
-- Generated At (UTC): 2026-07-13T08:56:40+00:00
+- Generated At (UTC): 2026-07-13T12:13:16+00:00
 - English Name: Martín Galván
 - Arabic Name: مارتين غالفان
 - Birth Year: 1993
@@ -74,12 +74,26 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 28
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 28
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008–2015 | كروز آزول | 3 | 0 |
+| 2011–2012 | [الإنجليزية] | 4 | 2 |
+| 2013 | [الإنجليزية] | 3 | 0 |
+| 2014 | نادي كوريكامينوس [الإنجليزية] | 8 | 2 |
+| 2015 | أتلانتي | 2 | 0 |
+| 2015–2016 | [الإنجليزية] | 31 | 11 |
+| 2016 | [الإنجليزية] | 13 | 5 |
+| 2017 | [الإنجليزية] | 11 | 0 |
+| 2017–2020 | سالامانكا سي إف يو دي إس | 25 | 5 |
+| 2020–2022 | نادي خواريز | 20 | 3 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009–2011 | المكسيك تحت 17 | 6 | 5 |
+| 2012 | المكسيك تحت 20 | 5 | 3 |

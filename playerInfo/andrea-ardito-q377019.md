@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q377019
-- Generated At (UTC): 2026-07-13T08:56:13+00:00
+- Generated At (UTC): 2026-07-13T12:12:40+00:00
 - English Name: Andrea Ardito
 - Arabic Name: أندريه أرديتو
 - Birth Year: 1977
@@ -66,12 +66,21 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 4
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 4
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1994–1999 | سيتا دي بونتيديرا | 78 | 1 |
+| 1995–1996 | ← Camaiore (إعارة) | 17 | 1 |
+| 1999–2002 | كومو | 68 | 1 |
+| 2002 | بولونيا | 0 | 0 |
+| 2002–2005 | سيينا | 47 | 1 |
+| 2005–2007 | تورينو | 61 | 0 |
+| 2007–2009 | ليتشي | 48 | 0 |
+| 2009–2015 | كومو | 133 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

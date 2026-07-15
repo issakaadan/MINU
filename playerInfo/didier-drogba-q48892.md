@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q48892
-- Generated At (UTC): 2026-07-13T08:50:12+00:00
+- Generated At (UTC): 2026-07-13T12:07:17+00:00
 - English Name: Didier Drogba
 - Arabic Name: ديدييه دروغبا
 - Birth Year: 1978
@@ -34,14 +34,7 @@ Didier Yves Drogba Tébily ( French pronunciation: [didje iv dʁɔɡba tebili] ;
 After playing in youth teams, Drogba made his football debut at the age of 21 for Ligue 2 club Le Mans . After finishing the 2002–03 season with 17 goals in 34 appearances for Ligue 1 side Guingamp , he moved to Olympique de Marseille , where he finished as the third highest goalscorer in the 2003–04 season with 19 goals and helped the club reach the 2004 UEFA Cup Final .
 
 ### English Achievements
-- With Marseille: UEFA Cup runner-up
-- With Chelsea: Premier League
-- With Galatasaray: Süper Lig
-- With Phoenix Rising: Western Conference (USL)
-- With Ivory Coast: Africa Cup of Nations runner-up
-- Individual: Africa Cup of Nations Team of the Tournament
-- With Chelsea: FA Cup
-- With Chelsea: Football League Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 303
@@ -51,16 +44,14 @@ After playing in youth teams, Drogba made his football debut at the age of 21 fo
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1998–2002 | Le Mans | 64 | 12 |
-| 2002–2003 | Guingamp | 45 | 20 |
-| 2003–2004 | Marseille | 35 | 19 |
-| 2004–2012 | Chelsea | 226 | 100 |
-| 2012–2013 | Shanghai Shenhua | 11 | 8 |
-| 2013–2014 | Galatasaray | 37 | 15 |
-| 2014–2015 | Chelsea | 28 | 4 |
-| 2015–2016 | Montreal Impact | 33 | 21 |
-| 2017–2018 | Phoenix Rising | 21 | 13 |
-| Total | Total | 500 | 212 |
+| 1998–2001 | Le Mans | 72 | 15 |
+| 2001–2002 | Guingamp | 50 | 24 |
+| 2003 | Marseille | 55 | 32 |
+| 2004–2014 | Chelsea | 381 | 164 |
+| 2012 | Shanghai Shenhua | 11 | 8 |
+| 2012–2013 | Galatasaray | 53 | 20 |
+| 2015–2016 | Montreal Impact | 41 | 23 |
+| 2017–2018 | Phoenix Rising | 26 | 17 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -80,15 +71,35 @@ After playing in youth teams, Drogba made his football debut at the age of 21 fo
 في يوليو 2004، انتقل دروغبا إلى نادي تشيلسي الإنجليزي مقابل 24 مليون جنيه استرليني، مما جعله اللاعب الإيفواري الأكثر تكلفة في التاريخ. في أول موسم له، ساعد النادي اللندني على الفوز بلقب الدوري للمرة الأولى منذ 50 عامًا، وبعدها بعام فاز بلقب الدوري مرة أخرى. في عام 2007 كان ضمن فيفبرو . في مارس 2012، أصبح أول لاعب أفريقي يسجل 100 هدف في الدوري الإنجليزي الممتاز . [ 13 ] بعد شهرين فقط، سجل هدفي تشيلسي في نهائي كأس الاتحاد الإنجليزي 2012 على ليفربول ليصبح أول لاعب (واعتبارا من عام 2017، الوحيد) الذي سجل في أربع نهائيات منفصلة في كأس الاتحاد الإنجليزي . [ 14 ] كما لعب أيضاً في نهائي دوري أبطال أوروبا 2012 ، حيث سجل هدف التعادل في الدقيقة الثامنة والثمانين بالرأس من ركلة ركنية ، كما سجل هدف الفوز في ركلات الترجيح ضد بايرن ميونخ . [ 15 ] بعد قضاء 6 أشهر مع شانغهاي شينهوا في الصين وموسم ونصف مع نادي غلطة سراي التركي حيث سجل هدف الفوز في كأس السوبر التركي 2013 ، عاد دروغبا إلى تشيلسي في يوليو 2014. [ 16 ] مع سجل مهني بتسجيله لـ10 أهداف في 10 نهائيات وفاز 10 ألقاب على مستوى الأندية، تمت الإشارة إلى دروغبا بأنه «لاعب المباريات الكبيرة». [ 17 ] [ 18 ] انضم إلى نادي إمباكت مونتريال في عام 2015، ولعب 41 مباراة على مدار موسمين، وسجل 23 هدف. أصبح دروغبا لاعب – مالك فريق نادي فينيكس رايزينج في دوري كرة القدم المتحدة في عام 2017، وأعتزال بعدها بعام عن عمر يناهز الأربعين. [ 12 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي: الدوري الإنجليزي الممتاز (4)
+- مع النادي: الدوري التركي الممتاز (1)
+- مع فينيكس رايزينج: القسم الغربي (1)
+- الفردية: لاعب الشهر في الدوري الفرنسي (1)
+- مع النادي: كأس الاتحاد الإنجليزي (4)
+- مع النادي: كأس رابطة الأندية الإنجليزية المحترفة (3)
+- مع النادي: درع الاتحاد الإنجليزي (2)
+- مع النادي: دوري أبطال أوروبا (1)
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 423
+- Senior national team goals total: 65
+- Senior career goals total: 488
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1998–2002 | لومان | 64 | 12 |
+| 2002–2003 | غانغون | 45 | 20 |
+| 2003–2004 | أولمبيك مارسيليا | 35 | 19 |
+| 2004–2012 | تشيلسي | 226 | 100 |
+| 2012–2013 | شانغهاي شينهوا | 11 | 8 |
+| 2013–2014 | غلطة سراي | 37 | 15 |
+| 2014–2015 | تشيلسي | 28 | 4 |
+| 2015–2016 | إمباكت مونتريال | 33 | 21 |
+| 2017–2018 | فينيكس رايزينغ | 22 | 14 |
+| - | مجموع | 497 | 210 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2014 | ساحل العاج | 105 | 65 |

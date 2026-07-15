@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1867444
-- Generated At (UTC): 2026-07-13T08:53:19+00:00
+- Generated At (UTC): 2026-07-13T12:09:55+00:00
 - English Name: Teruyoshi Itō
 - Arabic Name: تيرويوشي إيتو
 - Birth Year: 1974
@@ -32,13 +32,7 @@
 Teruyoshi Ito ( 伊東 輝悦 , Itō Teruyoshi ; born 31 August 1974) is a former Japanese professional footballer who played as a midfielder .
 
 ### English Achievements
-- With Shimizu S-Pulse: Emperor's Cup
-- With Japan: FIFA Confederations Cup runner-up
-- Individual: J1 League Best Eleven
-- With Shimizu S-Pulse: J.League Cup
-- With Shimizu S-Pulse: Japanese Super Cup
-- With Shimizu S-Pulse: Asian Cup Winners' Cup
-- Individual: J.League Fair Play Award
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 36
@@ -48,12 +42,11 @@ Teruyoshi Ito ( 伊東 輝悦 , Itō Teruyoshi ; born 31 August 1974) is a forme
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1993–2010 | Shimizu S-Pulse | 483 | 30 |
-| 2011–2013 | Ventforet Kofu | 59 | 0 |
+| 1993–2010 | Shimizu S-Pulse | 611 | 36 |
+| 2011–2013 | Ventforet Kofu | 66 | 0 |
 | 2014–2015 | AC Nagano Parceiro | 11 | 0 |
 | 2016 | Blaublitz Akita | 2 | 0 |
-| 2017–2024 | Azul Claro Numazu | 5 | 0 |
-| Total | Total | 560 | 30 |
+| 2017–2021 | Azul Claro Numazu | 2 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -73,12 +66,18 @@ Teruyoshi Ito ( 伊東 輝悦 , Itō Teruyoshi ; born 31 August 1974) is a forme
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 30
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 30
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1993–2010 | شيميزو إس-بولس | 483 | 30 |
+| 2011–2013 | فنتفوريت كوفو | 59 | 0 |
+| 2014–2015 | [الإنجليزية] | 11 | 0 |
+| 2016 | [الإنجليزية] | 2 | 0 |
+| 2017– | [الإنجليزية] | 1 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

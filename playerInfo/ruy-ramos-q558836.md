@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q558836
-- Generated At (UTC): 2026-07-13T08:53:14+00:00
+- Generated At (UTC): 2026-07-13T12:09:50+00:00
 - English Name: Ruy Ramos
 - Arabic Name: روي راموس
 - Birth Year: 1957
@@ -32,14 +32,7 @@
 Ruy Ramos ( Japanese : ラモス 瑠偉 , Hepburn : Ramosu Rui ; born Ruy Gonçalves Ramos Sobrinho ( Portuguese: [ˈʁuj ɡõˈsawviz ˈʁɐ̃mus suˈbɾĩɲu] ); 9 February 1957) is a former football manager and player . He is currently active as a television personality and tarento , represented by Irving . Born in Brazil, he played for the Japan national team .
 
 ### English Achievements
-- With Club [ edit ]: Asian Club Championship
-- With International [ edit ]: AFC Asian Cup
-- Individual [ edit ]: Japan Soccer League Division 1 top scorer
-- With Club [ edit ]: Japan Soccer League Division 1
-- With Club [ edit ]: JSL Cup
-- With Club [ edit ]: Konica Cup
-- With Club [ edit ]: XEROX Champions Cup
-- With Club [ edit ]: J1 League
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 107
@@ -49,10 +42,9 @@ Ruy Ramos ( Japanese : ラモス 瑠偉 , Hepburn : Ramosu Rui ; born Ruy Gonça
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1977–1996 | Yomiuri FC / Verdy Kawasaki | 302 | 83 |
-| 1996–1997 | Kyoto Purple Sanga | 20 | 0 |
-| 1997–1998 | Verdy Kawasaki | 39 | 0 |
-| Total | Total | 361 | 83 |
+| 1977–1991 | Yomiuri | 276 | 94 |
+| 1992–1998 | Verdy Kawasaki | 147 | 11 |
+| 1996–1997 | Kyoto Purple Sanga | 33 | 2 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -71,12 +63,19 @@ Ruy Ramos ( Japanese : ラモス 瑠偉 , Hepburn : Ramosu Rui ; born Ruy Gonça
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 166
+- Senior national team goals total: 1
+- Senior career goals total: 167
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1977–1996 | يومي يوري / فيردي كاواساكي | 302 | 83 |
+| 1996–1997 | كيوتو سانغا | 20 | 0 |
+| 1997–1998 | فيردي كاواساكي | 39 | 0 |
+| - | مجموع | 361 | 83 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1990–1995 | اليابان | 32 | 1 |

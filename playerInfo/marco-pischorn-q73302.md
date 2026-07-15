@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q73302
-- Generated At (UTC): 2026-07-13T08:56:39+00:00
+- Generated At (UTC): 2026-07-13T12:13:15+00:00
 - English Name: Marco Pischorn
 - Arabic Name: ماركو بيسكورن
 - Birth Year: 1986
@@ -66,12 +66,19 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 70
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 70
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005–2010 | شتوتغارت للرديف | 114 | 8 |
+| 2007–2009 | شتوتغارت | 4 | 0 |
+| 2010–2014 | ساندهاوزن | 99 | 12 |
+| 2014–2016 | بروسيا مونستر | 53 | 3 |
+| 2016–2019 | [الإنجليزية] | 70 | 12 |
+| - | مجموع | 340 | 35 |
 
 ### Arabic National Team Stats
 _No rows found._

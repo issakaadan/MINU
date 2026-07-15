@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q312334
-- Generated At (UTC): 2026-07-13T08:54:29+00:00
+- Generated At (UTC): 2026-07-13T12:10:59+00:00
 - English Name: Jared Borgetti
 - Arabic Name: خاريد بورغيتي
 - Birth Year: 1973
@@ -36,14 +36,7 @@ Borgetti built a reputation as a highly prolific goal scorer, distinguished in p
 On the international stage, Borgetti made over 80 appearances and scored 46 goals, making him the third all-time leading scorer for the national team. He represented Mexico at the FIFA World Cup in 2002 and 2006 .
 
 ### English Achievements
-- With Santos Laguna: Mexican Primera División
-- With Mexico: CONCACAF Gold Cup
-- Individual: Mexican Primera División Golden Ball
-- Records: Santos Laguna All Time Scorer
-- With Santos Laguna: InterLiga
-- With Mexico: Central American and Caribbean Games Silver Medal
-- With Mexico: CONCACAF Pre-Olympic Tournament
-- Individual: Mexican Primera División Invierno Golden Boot
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 299
@@ -53,19 +46,18 @@ On the international stage, Borgetti made over 80 appearances and scored 46 goal
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1993–1996 | Atlas | 61 | 21 |
-| 1996–2004 | Santos Laguna | 295 | 189 |
-| 2004 | Sinaloa | 14 | 8 |
-| 2005 | Pachuca | 15 | 8 |
-| 2005–2006 | Bolton Wanderers | 19 | 2 |
-| 2006 | Al-Ittihad | 15 | 10 |
-| 2007 | Cruz Azul | 26 | 7 |
-| 2008 | Monterrey | 27 | 10 |
-| 2009 | Guadalajara | 7 | 0 |
+| 1993–1995 | Atlas | 64 | 22 |
+| 1996–2003 | Santos Laguna | 319 | 205 |
+| 2004 | Dorados | 14 | 8 |
+| 2004 | Pachuca | 20 | 10 |
+| 2005 | Bolton Wanderers | 32 | 7 |
+| 2006 | Al-Ittihad | 17 | 11 |
+| 2006–2007 | Cruz Azul | 26 | 7 |
+| 2007–2008 | Monterrey | 29 | 10 |
+| 2008 | Guadalajara | 13 | 0 |
 | 2009 | Puebla | 15 | 5 |
-| 2010 | Morelia | 15 | 4 |
+| 2009 | Morelia | 21 | 7 |
 | 2010 | León | 16 | 7 |
-| Total | Total | 525 | 271 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -86,12 +78,28 @@ On the international stage, Borgetti made over 80 appearances and scored 46 goal
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 542
+- Senior national team goals total: 46
+- Senior career goals total: 588
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1994–1996 | أطلس | 61 | 21 |
+| 1996–2004 | سانتوس لاغونا | 295 | 189 |
+| 2004 | دورادوس دي سينالوا | 14 | 8 |
+| 2005 | باتشوكا | 15 | 8 |
+| 2005–2006 | بولتون واندررز | 19 | 2 |
+| 2006 | الاتحاد | 15 | 10 |
+| 2007 | كروز آزول | 26 | 7 |
+| 2008 | مونتيري | 27 | 10 |
+| 2009 | غوادالاخارا | 7 | 0 |
+| 2009 | بويبلا | 15 | 5 |
+| 2010 | نادي موريليا الرياضي | 15 | 4 |
+| 2010 | كلوب ليون | 16 | 7 |
+| - | مجموع | 525 | 271 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997–2008 | المكسيك | 89 | 46 |

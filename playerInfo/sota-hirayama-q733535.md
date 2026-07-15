@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q733535
-- Generated At (UTC): 2026-07-13T08:53:16+00:00
+- Generated At (UTC): 2026-07-13T12:09:53+00:00
 - English Name: Sōta Hirayama
 - Arabic Name: سوتا هيراياما
 - Birth Year: 1985
@@ -42,10 +42,10 @@ _No honours section found._
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2005–2006 | Heracles Almelo | 32 | 8 |
-| 2006–2016 | FC Tokyo | 169 | 33 |
+| 2001–2002 | Kunimi H.S. | 5 | 4 |
+| 2005–2006 | Heracles Almelo | 34 | 8 |
+| 2006–2016 | FC Tokyo | 230 | 56 |
 | 2017 | Vegalta Sendai | 0 | 0 |
-| Total | Total | 201 | 41 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -66,12 +66,17 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 82
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 82
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005–2006 | هيراكليس ألميلو | 32 | 8 |
+| 2006–2016 | طوكيو | 169 | 33 |
+| 2017 | فيغالتا سنداي | 0 | 0 |
+| - | مجموع | 201 | 41 |
 
 ### Arabic National Team Stats
 _No rows found._

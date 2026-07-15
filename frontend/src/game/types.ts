@@ -95,7 +95,7 @@ export type AdminRuntime = {
   secret_file_path: string;
   session_cookie_name: string;
   session_ttl_hours: number;
-  card_link_ttl_hours: number;
+  card_link_ttl_minutes: number;
   database_size_bytes: number;
 };
 

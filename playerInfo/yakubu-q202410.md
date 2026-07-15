@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q202410
-- Generated At (UTC): 2026-07-13T08:53:53+00:00
+- Generated At (UTC): 2026-07-13T12:10:27+00:00
 - English Name: Yakubu
 - Arabic Name: ياكوبو إيغبيني
 - Birth Year: 1982
@@ -34,9 +34,7 @@ Yakubu Ayegbeni Listen ⓘ (born 22 November 1982), known mononymously as Yakubu
 His performances in the 2002–03 UEFA Champions League for Maccabi Haifa earned a loan move to English club Portsmouth which became permanent as they were promoted to the Premier League in 2003. He has since appeared in over 250 Premier League matches for Portsmouth, Middlesbrough , Everton , and Blackburn Rovers , and is the fourth highest African goalscorer in Premier League history with 96 goals. [ 5 ] He is the fourth highest scorer in the history of the Nigeria national football team , and represented them at four African Cup of Nations finals, the 2010 FIFA World Cup and the 2000 Summer Olympics .
 
 ### English Achievements
-- With Maccabi Haifa: Israel Premier League
-- With Portsmouth: Football League First Division
-- With Nigeria: Africa Cup of Nations third-place
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 207
@@ -46,20 +44,17 @@ His performances in the 2002–03 UEFA Champions League for Maccabi Haifa earned
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1999–2003 | Maccabi Haifa | 49 | 38 |
-| 1999–2000 | Hapoel Kfar Saba | 23 | 6 |
-| 2003 | Portsmouth | 14 | 7 |
-| 2003–2005 | Portsmouth | 67 | 28 |
-| 2005–2007 | Middlesbrough | 73 | 25 |
-| 2007–2011 | Everton | 82 | 25 |
-| 2011 | Leicester City | 20 | 11 |
-| 2011–2012 | Blackburn Rovers | 30 | 17 |
-| 2012–2013 | Guangzhou R&F | 43 | 24 |
-| 2014–2015 | Al-Rayyan | 10 | 5 |
-| 2015 | Reading | 7 | 0 |
-| 2015–2016 | Kayserispor | 12 | 0 |
-| 2017 | Coventry City | 3 | 0 |
-| Total | Total | 424 | 170 |
+| 1999–2000 | Hapoel Kfar Saba (loan) | 23 | 6 |
+| 2002–2004 | Portsmouth | 92 | 42 |
+| 2005–2007 | Middlesbrough | 104 | 35 |
+| 2007–2010 | Everton | 107 | 33 |
+| 2010 | Leicester City (loan) | 20 | 11 |
+| 2011 | Blackburn Rovers | 33 | 18 |
+| 2012–2013 | Guangzhou R&F | 45 | 25 |
+| 2013–2014 | Al-Rayyan | 16 | 6 |
+| 2014 | Reading | 11 | 1 |
+| 2015 | Kayserispor | 17 | 3 |
+| 2016 | Coventry City | 3 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -80,12 +75,30 @@ His performances in the 2002–03 UEFA Champions League for Maccabi Haifa earned
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 348
+- Senior national team goals total: 21
+- Senior career goals total: 369
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1998–2003 | مكابي حيفا | 49 | 24 |
+| 1999–2000 | هبوعيل كفار سابا [الإنجليزية] | 23 | 6 |
+| 2003 | بورتسموث | 13 | 7 |
+| 2003–2005 | بورتسموث | 65 | 29 |
+| 2005–2007 | ميدلزبره | 73 | 25 |
+| 2007–2011 | إيفرتون | 82 | 25 |
+| 2011 | ليستر سيتي | 20 | 11 |
+| 2011–2012 | بلاكبيرن روفرز | 30 | 17 |
+| 2012–2013 | غوانغجو آر أند إف | 43 | 24 |
+| 2014–2015 | الريان | 8 | 3 |
+| 2015 | ريدنغ | 7 | 1 |
+| 2015–2016 | كايسري سبور | 12 | 0 |
+| 2017 | كوفنتري سيتي | 3 | 0 |
+| 2018 | Banks O’Dee Juniors | 6 | 4 |
+| - | مجموع | 428 | 172 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000–2012 | نيجيريا | 57 | 21 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q313164
-- Generated At (UTC): 2026-07-13T08:54:22+00:00
+- Generated At (UTC): 2026-07-13T12:10:53+00:00
 - English Name: Guillaume Hoarau
 - Arabic Name: غيوم هوارو
 - Birth Year: 1984
@@ -32,14 +32,7 @@
 Guillaume Hoarau (born 5 March 1984) is a French former professional footballer who played as a forward .
 
 ### English Achievements
-- With Le Havre: Ligue 2
-- With Paris Saint-Germain: Ligue 1
-- With Young Boys: Swiss Super League
-- Individual: Ligue 2 Player of the Year
-- With Paris Saint-Germain: Coupe de France
-- With Young Boys: Swiss Cup
-- Individual: Ligue 2 top scorer
-- Individual: Ligue 2 Team of the Year
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 237
@@ -49,15 +42,13 @@ Guillaume Hoarau (born 5 March 1984) is a French former professional footballer 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2004–2008 | Le Havre | 81 | 33 |
-| 2006–2007 | Gueugnon | 21 | 8 |
-| 2008–2013 | Paris Saint-Germain | 114 | 38 |
-| 2013 | Dalian Aerbin | 20 | 3 |
-| 2014 | Bordeaux | 16 | 3 |
-| 2014–2020 | Young Boys | 141 | 94 |
-| 2020–2022 | Sion | 30 | 9 |
-| 2023–2024 | FC Muri | 6 | 4 |
-| Total | Total | 423 | 188 |
+| 2003–2007 | Le Havre | 88 | 35 |
+| 2006 | Gueugnon (loan) | 22 | 8 |
+| 2008–2012 | Paris Saint-Germain | 161 | 56 |
+| 2013 | Dalian Yifang | 23 | 6 |
+| 2013 | Bordeaux | 17 | 3 |
+| 2014–2019 | Young Boys | 186 | 117 |
+| 2020–2021 | Sion | 34 | 12 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -77,12 +68,23 @@ Guillaume Hoarau (born 5 March 1984) is a French former professional footballer 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 376
+- Senior national team goals total: 0
+- Senior career goals total: 376
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004–2008 | لوهافر | 81 | 33 |
+| 2006–2007 | غويونيون | 21 | 8 |
+| 2008–2013 | باريس سان جيرمان | 114 | 38 |
+| 2013 | داليان ييفانغ | 20 | 3 |
+| 2014 | جيروندان بوردو | 16 | 3 |
+| 2014–2020 | يانغ بويز | 141 | 94 |
+| 2020–2022 | سيون | 30 | 9 |
+| - | مجموع | 423 | 188 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2010–2011 | فرنسا | 5 | 0 |

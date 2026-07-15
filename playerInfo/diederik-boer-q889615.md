@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q889615
-- Generated At (UTC): 2026-07-13T08:55:26+00:00
+- Generated At (UTC): 2026-07-13T12:11:54+00:00
 - English Name: Diederik Boer
 - Arabic Name: ديديريك بوير
 - Birth Year: 1980
@@ -32,10 +32,7 @@
 Diederik Boer (born 24 September 1980) is a Dutch former professional footballer who played as a goalkeeper . He spent most of his career playing for PEC Zwolle in the Eredivisie . [ 1 ] After retirement in 2019, he is now the goalkeeping coach for the PEC Zwolle youth teams. [ citation needed ]
 
 ### English Achievements
-- With PEC Zwolle: Eerste Divisie
-- With Ajax: UEFA Europa League
-- With PEC Zwolle: KNVB Cup
-- With PEC Zwolle: Johan Cruyff Shield
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 0
@@ -65,12 +62,16 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 0
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001–2014 | بي إي سي زفوله | 293 | 0 |
+| 2014–2017 | أياكس أمستردام | 2 | 0 |
+| 2017–2019 | بي إي سي زفوله | 33 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

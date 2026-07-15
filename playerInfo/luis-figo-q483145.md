@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q483145
-- Generated At (UTC): 2026-07-13T08:52:11+00:00
+- Generated At (UTC): 2026-07-13T12:08:50+00:00
 - English Name: Luís Figo
 - Arabic Name: لويس فيغو
 - Birth Year: 1972
@@ -34,14 +34,7 @@ Luís Filipe Madeira Caeiro Figo OIH ( Portuguese pronunciation: [luˈiʃ ˈfiɣ
 Figo won the 2000 Ballon d'Or , 2001 FIFA World Player of the Year , and in 2004 Pelé named him in the FIFA 100 list of the world's greatest living players. [ 4 ] Figo is one of the few football players to have played for both Spanish rival clubs Barcelona and Real Madrid. His transfer from Barcelona to Real Madrid in 2000 set a world record fee of €62 million. [ 5 ] Figo, who was widely regarded as the face of Barcelona along with Rivaldo at that time, had signed a conditional agreement with Florentino Pérez , who at the time was running to become the president of Real Madrid. [ 6 ] In short, the agreement stated that if Pérez became the president of the club, Figo would sign for them. If Figo refused to leave Barcelona, he would have to pay a penalty fee of 5 billion pesetas (around £22 million or $34 million). If Pérez lost the election, Figo would keep 400 million pesetas (around £1.7 million). [ 6 ]
 
 ### English Achievements
-- With Sporting CP: Taça de Portugal
-- With Barcelona: La Liga
-- With Real Madrid: La Liga
-- With Inter Milan: Serie A
-- With Portugal Youth: UEFA European Under-16 Championship
-- With Portugal: UEFA European Championship runner-up
-- Individual: UEFA European Under-21 Championship Golden Player
-- Orders: Officer of the Order of Prince Henry
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 137
@@ -51,11 +44,10 @@ Figo won the 2000 Ballon d'Or , 2001 FIFA World Player of the Year , and in 2004
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1989–1995 | Sporting CP | 129 | 16 |
-| 1995–2000 | Barcelona | 172 | 30 |
-| 2000–2005 | Real Madrid | 164 | 38 |
-| 2005–2009 | Inter Milan | 105 | 9 |
-| Total | Total | 570 | 93 |
+| 1989–1994 | Sporting CP | 158 | 23 |
+| 1995–2000 | Barcelona | 249 | 45 |
+| 2000–2004 | Real Madrid | 245 | 58 |
+| 2005–2008 | Inter Milan | 140 | 11 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -73,15 +65,29 @@ Figo won the 2000 Ballon d'Or , 2001 FIFA World Player of the Year , and in 2004
 فاز فيغو بجائزة الكرة الذهبية لعام 2000 و جائزة أفضل لاعب في العالم من الفيفا لعام 2001 وفي عام 2004 اختاره بيليه ضمن قائمة الفيفا 100 لأعظم لاعبي العالم الأحياء. [ 4 ] فيغو هو أحد لاعبي كرة القدم القلائل الذين لعبوا لكل من الناديين الإسبانيين المتنافسين برشلونة وريال مدريد. حقق انتقاله من برشلونة إلى ريال مدريد في عام 2000 رقمًا قياسيًا عالميًا قدره 62 مليون يورو. [ 5 ] كان فيغو، الذي كان يُنظر إليه على نطاق واسع على أنه وجه برشلونة إلى جانب ريفالدو في ذلك الوقت، قد وقع اتفاقية مشروطة مع فلورنتينو بيريز ، الذي كان يترشح في ذلك الوقت ليصبح رئيسًا لريال مدريد. [ 6 ] باختصار، نصت الاتفاقية على أنه إذا أصبح بيريز رئيسًا للنادي، فسيوقع فيغو معهم. إذاوإذا رفض فيلغو مغادرة برشلونة، فعليه دفع غرامة قدرها 5 مليار بيزيتا (حوالي 22 مليون جنيه إسترليني أو 34 مليون دولار). إذا خسر بيريز الانتخابات، فسوف يحتفظ فيغو بمبلغ 400 مليون بيزيتا (حوالي 1.7 مليون جنيه إسترليني). [ 6 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع سبورتينغ لشبونة: كأس البرتغال
+- مع برشلونة: الدوري الإسباني
+- مع ريال مدريد: الدوري الإسباني
+- مع إنتر ميلان: الدوري الإيطالي
+- مع شباب البرتغال: بطولة أمم أوروبا تحت 17 سنة
+- مع البرتغال: بطولة أمم أوروبا الوصيف
+- الفردية: بطولة أمم أوروبا تحت 21 سنة
+- الأوسمة: ضابط وسام الأمير هنري
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 137
+- Senior national team goals total: 32
+- Senior career goals total: 169
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1989–1994 | سبورتينغ لشبونة | 158 | 23 |
+| 1995–2000 | نادي برشلونة | 249 | 45 |
+| 2000–2004 | ريال مدريد | 245 | 58 |
+| 2005–2008 | إنتر ميلان | 140 | 11 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1991–2006 | البرتغال | 127 | 32 |

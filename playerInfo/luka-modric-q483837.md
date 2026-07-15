@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q483837
-- Generated At (UTC): 2026-07-13T08:48:38+00:00
+- Generated At (UTC): 2026-07-13T12:06:06+00:00
 - English Name: Luka Modrić
 - Arabic Name: لوكا مودريتش
 - Birth Year: 1985
@@ -34,14 +34,7 @@ Luka Modrić ( Croatian pronunciation: [lûːka mǒːdritɕ] ; [ 4 ] [ 5 ] born 
 Modrić began his career with Croatian club Dinamo Zagreb from 2003 to 2008 – intermittently on loan to Zrinjski Mostar and Inter Zaprešić – winning six domestic trophies. He moved to Tottenham Hotspur in 2008, leading them to UEFA Champions League qualification in 2010, the club's first qualification in almost 50 years. Modrić joined Real Madrid for a £30 million transfer fee in 2012. He won the 2013–14 Champions League title and was named in the squad of the season . Modrić was a key member of the team's three consecutive Champions League titles from 2015–16 to 2017–18 , named to the squad of the season each time. In total, he won 28 major trophies with Real Madrid, including six UEFA Champions League titles, four La Liga titles, and two Copa del Rey titles, making him the most decorated footballer in the club's history . [ 8 ] He joined AC Milan in 2025 on a free transfer.
 
 ### English Achievements
-- With Club [ edit ]: Prva HNL
-- With Club [ edit ]: Football League Cup runner-up
-- With Club [ edit ]: La Liga
-- With International [ edit ]: FIFA World Cup Runners-up (1)
-- Individual [ edit ]: Ballon d'Or
-- Individual [ edit ]: Bosnian Premier League Player of the Year
-- Individual [ edit ]: FIFA World Cup Golden Ball
-- Individual [ edit ]: Tottenham Hotspur Player of the Year
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 106
@@ -51,12 +44,12 @@ Modrić began his career with Croatian club Dinamo Zagreb from 2003 to 2008 – 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2003–2008 | Dinamo Zagreb | 94 | 26 |
-| 2003–2004 | Zrinjski Mostar | 25 | 8 |
-| 2004–2005 | Inter Zaprešić | 18 | 4 |
-| 2008–2012 | Tottenham Hotspur | 127 | 13 |
-| 2012–2025 | Real Madrid | 394 | 30 |
-| 2025– | AC Milan | 34 | 2 |
+| 2003–2007 | Dinamo Zagreb | 130 | 32 |
+| 2003 | Zrinjski Mostar (loan) | 25 | 8 |
+| 2004 | Inter Zaprešić (loan) | 18 | 4 |
+| 2008–2011 | Tottenham Hotspur | 160 | 17 |
+| 2012–2024 | Real Madrid | 597 | 43 |
+| 2025 | AC Milan | 37 | 2 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -82,12 +75,26 @@ Modrić began his career with Croatian club Dinamo Zagreb from 2003 to 2008 – 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 106
+- Senior national team goals total: 29
+- Senior career goals total: 135
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2003–2007 | دينامو زغرب | 130 | 32 |
+| 2003 | زرينيسكي موستار (إعارة) | 25 | 8 |
+| 2004 | إنتر زابرشيتش (إعارة) | 18 | 4 |
+| 2008–2011 | توتنهام هوتسبير | 160 | 17 |
+| 2012–2024 | ريال مدريد | 597 | 43 |
+| 2025 | ميلان | 37 | 2 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001 | كرواتيا تحت 15 | 2 | 0 |
+| 2001 | كرواتيا تحت 17 | 2 | 0 |
+| 2003 | كرواتيا تحت 18 | 7 | 0 |
+| 2003–2004 | كرواتيا تحت 19 | 11 | 1 |
+| 2004–2005 | كرواتيا تحت 21 | 15 | 2 |
+| 2006– | كرواتيا | 202 | 29 |

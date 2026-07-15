@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q483027
-- Generated At (UTC): 2026-07-13T08:52:05+00:00
+- Generated At (UTC): 2026-07-13T12:08:44+00:00
 - English Name: Paolo Maldini
 - Arabic Name: باولو مالديني
 - Birth Year: 1968
@@ -34,14 +34,7 @@ Paolo Cesare Maldini ( Italian pronunciation: [ˈpaːolo malˈdiːni] ; [ 6 ] bo
 Maldini was a one-club man , spending all 25 seasons of his playing career in Serie A with Milan and retiring at the age of 41 in 2009. He won 26 trophies with Milan: the European Cup/UEFA Champions League five times, seven Serie A titles , one Coppa Italia , five Supercoppa Italiana titles, five European/UEFA Super Cups , two Intercontinental Cups , and one FIFA Club World Cup . Maldini won the Best Defender award at the UEFA Club Football Awards at the age of 39, as well as the Serie A Defender of the Year Award in 2004. Following his retirement, Milan retired his number 3 shirt. [ 10 ]
 
 ### English Achievements
-- With AC Milan: Serie A
-- With Italy: FIFA World Cup runner-up
-- Individual: Serie A Team of The Year
-- Records: Most appearances in all competitions (Milan)
-- With AC Milan: Coppa Italia
-- With AC Milan: Supercoppa Italiana
-- With AC Milan: European Cup/UEFA Champions League
-- With AC Milan: European/UEFA Super Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 33
@@ -51,7 +44,7 @@ Maldini was a one-club man , spending all 25 seasons of his playing career in Se
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1984–2009 | AC Milan | 647 | 29 |
+| 1984–2008 | AC Milan | 902 | 33 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -70,15 +63,27 @@ Maldini was a one-club man , spending all 25 seasons of his playing career in Se
 قضى مالديني كل مواسمه الـ 25 خلال مسيرته في الدوري الإيطالي مع ميلان، قبل أن يعتزل في سن 41 عام 2009. فاز بـ 25 كأس مع ميلان: دوري أبطال أوروبا خمس مرات، وسبعة ألقاب في الدوري الإيطالي ، وواحد كأس إيطاليا ، وخمسة ألقاب كأس السوبر الإيطالي ، وخمسة ألقاب في كأس السوبر الأوروبي ، ولقبين كأس الإنتركونتيننتال ، ولقب كأس العالم للأندية . فاز مالديني بجائزة أفضل مدافع في حفل توزيع جوائز الاتحاد الأوروبي لكرة القدم عن عمر يناهز 39 عامًا، وكذلك جائزة مدافع العام في الدوري الإيطالي لعام 2004. بعد اعتزاله بعد موسم 2008–09 ، علّق ميلان قميصه رقم 3 حيث لا يلبسه لاعب بعده. [ 16 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي ميلان: الدوري الإيطالي
+- مع المنتخب إيطاليا: كأس العالم الوصيف
+- الفردية: بطولة أمم أوروبا فريق البطولة
+- مع الأرقام القياسية: أكثر من شارك في جميع المسابقات (ميلان)
+- مع النادي ميلان: كأس إيطاليا
+- مع النادي ميلان: كأس السوبر الإيطالي
+- مع النادي ميلان: كأس أوروبا\دوري أبطال أوروبا
+- مع النادي ميلان: كأس السوبر الأوروبي
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 34
+- Senior national team goals total: 7
+- Senior career goals total: 41
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1984–2008 | ميلان | 902 | 33 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1986–1988 | إيطاليا تحت 21 | 12 | 5 |
+| 1988–2002 | إيطاليا | 126 | 7 |

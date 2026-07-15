@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q516528
-- Generated At (UTC): 2026-07-13T08:56:00+00:00
+- Generated At (UTC): 2026-07-13T12:12:27+00:00
 - English Name: Roberto Baronio
 - Arabic Name: روبيرتو بارونيو
 - Birth Year: 1977
@@ -34,16 +34,12 @@ Roberto Baronio ( Italian pronunciation: [roˈbɛrto baˈrɔːnjo] ; born 11 Dec
 He played in the position of deep-lying playmaker , [ 1 ] where excelled due to his technical ability, vision, passing, and physical attributes, despite his lack of pace; [ 2 ] he also possessed an accurate shot from distance and he was an accurate set-piece taker. Despite his talent, he failed to live up to his potential later in his career. [ 3 ]
 
 ### English Achievements
-- With Vicenza: Supercoppa Italiana runner-up
-- With Lazio: Supercoppa Italiana
-- With Fiorentina: Supercoppa Italiana runner-up
-- Individual: Serie A Young Footballer of the Year
-- With Lazio: UEFA Cup Winners' Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 9
-- Senior national team goals total: 0
-- Senior career goals total: 9
+- Senior national team goals total: 1
+- Senior career goals total: 10
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
@@ -86,12 +82,25 @@ He played in the position of deep-lying playmaker , [ 1 ] where excelled due to 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 10
+- Senior national team goals total: 0
+- Senior career goals total: 10
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1994–1996 | بريشيا | 33 | 1 |
+| 1996–2010 | لاتسيو | 80 | 0 |
+| 1997–1998 | فيتشينزا | 13 | 0 |
+| 1999–2000 | ريجينا | 31 | 3 |
+| 2001–2002 | فيورنتينا | 21 | 1 |
+| 2002–2003 | بيروجيا | 11 | 0 |
+| 2003–2005 | كييفو فيرونا | 50 | 1 |
+| 2006 | أودينيزي | 10 | 0 |
+| 2008–2009 | بريشيا | 29 | 3 |
+| 2010–2011 | [الإنجليزية] | 17 | 1 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005 | إيطاليا | 1 | 0 |

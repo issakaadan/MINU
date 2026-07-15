@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q926833
-- Generated At (UTC): 2026-07-13T08:52:29+00:00
+- Generated At (UTC): 2026-07-13T12:09:05+00:00
 - English Name: Daigo Nishi
 - Arabic Name: دايغو نيشي
 - Birth Year: 1987
@@ -32,14 +32,7 @@
 Daigo Nishi ( 西 大伍 , Nishi Daigo ; born 28 August 1987 in Sapporo , Hokkaido ) is a Japanese professional footballer who plays as a right back for J3 League club Iwate Grulla Morioka ,. [ 2 ] [ 3 ]
 
 ### English Achievements
-- With Kashima Antlers: J1 League
-- With Vissel Kobe: Emperor's Cup
-- Individual: J.League Best XI
-- With Kashima Antlers: J. League Cup
-- With Kashima Antlers: Emperor's Cup
-- With Kashima Antlers: Japanese Super Cup
-- With Kashima Antlers: Suruga Bank Championship
-- With Kashima Antlers: AFC Champions League
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 28

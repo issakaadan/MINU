@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q343383
-- Generated At (UTC): 2026-07-13T08:57:06+00:00
+- Generated At (UTC): 2026-07-13T12:13:33+00:00
 - English Name: İbrahim Yılmaz
 - Arabic Name: إبراهيم يلماز
 - Birth Year: 1994
@@ -35,23 +35,20 @@
 _No honours section found._
 
 ### English Career Totals
-- Club goals total: 108
+- Club goals total: 96
 - Senior national team goals total: 3
-- Senior career goals total: 111
+- Senior career goals total: 99
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2010–2015 | İstanbul B.B. | 27 | 6 |
-| 2012–2013 | Darıca Gençlerbirliği | 32 | 20 |
-| 2014–2015 | Altınordu | 6 | 0 |
-| 2015 | Şanlıurfaspor | 6 | 1 |
-| 2015–2016 | Darıca Gençlerbirliği | 32 | 12 |
-| 2016–2023 | İstanbulspor | 199 | 50 |
-| 2023 | Eyüpspor | 10 | 0 |
-| 2024 | 24 Erzincanspor | 15 | 4 |
-| 2024–2025 | 68 Aksarayspor | 32 | 13 |
-| 2025– | Aliağa FK | 9 | 2 |
+| 2010–2013 | İstanbul BB | 32 | 7 |
+| 2012 | Darıca Gençlerbirliği (loan) | 36 | 21 |
+| 2014 | Altınordu (loan) | 10 | 0 |
+| 2014 | Şanlıurfaspor (loan) | 6 | 1 |
+| 2015 | Darıca Gençlerbirliği | 32 | 12 |
+| 2016–2023 | İstanbulspor | 215 | 55 |
+| 2022 | Eyüpspor (loan) | 10 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -75,12 +72,26 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 70
+- Senior national team goals total: 3
+- Senior career goals total: 73
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2010–2015 | إسطنبول باشاكشهر | 27 | 6 |
+| 2012–2013 | [الإنجليزية] | 32 | 20 |
+| 2014–2015 | ألتينوردو | 6 | 0 |
+| 2015 | شانلي أورفا سبور | 6 | 1 |
+| 2015–2016 | [الإنجليزية] | 32 | 12 |
+| 2016– | إسطنبول سبور | 117 | 31 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009 | Turkey U15 | 4 | 0 |
+| 2009–2010 | Turkey U16 | 13 | 3 |
+| 2010–2011 | تركيا تحت 17 | 12 | 5 |
+| 2011–2012 | Turkey U18 | 4 | 0 |
+| 2011–2013 | تركيا تحت 19 | 11 | 4 |
+| 2012–2014 | تركيا تحت 20 | 15 | 4 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q172720
-- Generated At (UTC): 2026-07-13T08:51:37+00:00
+- Generated At (UTC): 2026-07-13T12:08:21+00:00
 - English Name: Daniel Alves
 - Arabic Name: داني ألفيس
 - Birth Year: 1983
@@ -36,14 +36,7 @@ Starting his career at Bahia in 2001, Alves went on to have a successful six-yea
 In 2016, Juventus signed Alves on a free transfer . [ 4 ] He won the 2016–17 Serie A title and 2016–17 Coppa Italia in his only season with the side, also reaching the Champions League Final . [ 5 ] In 2017, Alves joined French side Paris Saint-Germain on a free transfer, winning a domestic treble in his first season, followed by another league title the following season. [ 6 ] In 2019, he returned to his home country, joining São Paulo , and winning the 2021 Campeonato Paulista with them. He returned to Barcelona in 2021 for one season, and joined Mexican club UNAM in 2022. UNAM terminated his contract in 2023 after he was charged with sexual assault .
 
 ### English Achievements
-- With Bahia: Copa do Nordeste
-- With Sevilla: Copa del Rey
-- With Barcelona: La Liga
-- With Juventus: Serie A
-- With Paris Saint-Germain: Ligue 1
-- With São Paulo: Campeonato Paulista
-- With Brazil Olympic: Summer Olympics
-- With Brazil: Copa América
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 67
@@ -53,15 +46,13 @@ In 2016, Juventus signed Alves on a free transfer . [ 4 ] He won the 2016–17 S
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2001–2003 | Bahia | 25 | 2 |
-| 2003–2008 | Sevilla | 175 | 11 |
-| 2008–2016 | Barcelona | 247 | 14 |
-| 2016–2017 | Juventus | 19 | 2 |
-| 2017–2019 | Paris Saint-Germain | 48 | 2 |
-| 2019–2021 | São Paulo | 76 | 8 |
-| 2021–2022 | Barcelona | 14 | 1 |
-| 2022–2023 | UNAM | 13 | 0 |
-| Total | Total | 617 | 40 |
+| 2001–2002 | Bahia | 37 | 5 |
+| 2002–2007 | Sevilla | 250 | 16 |
+| 2008–2021 | Barcelona | 408 | 22 |
+| 2016 | Juventus | 33 | 6 |
+| 2017–2018 | Paris Saint-Germain | 73 | 8 |
+| 2019–2021 | São Paulo | 95 | 10 |
+| 2022 | UNAM | 13 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -81,15 +72,32 @@ In 2016, Juventus signed Alves on a free transfer . [ 4 ] He won the 2016–17 S
 انضم لبرشلونة بمبلغ 32.5 مليون يورو ليصبح المدافع الأغلى في التاريخ في ذلك الوقت . [ 4 ] وفاز ألفيس بثلاثية في أول موسم له مع النادي الإسباني وكذلك بكأس السوبر الأوروبية وكأس السوبر وكأس العالم للأندية ، وصولا إلى تحقيق السداسية التاريخية. وساعد النادي لينتزع كأس السوبر الإسبانية مرة أخرى، واثنين من ألقاب الدوري، ودوري أبطال أوروبا في السنوات التي تلت ذلك. ويمتلك ألفيس جواز سفر أسباني منذ عام 2005. [ 5 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي باهيا: كامبيناتو دو نورديستي (2)
+- مع النادي إشبيلية: الدوري الأوروبي (2)
+- مع النادي برشلونة: الدوري الإسباني (6)
+- مع النادي يوفنتوس: الدوري الإيطالي (1)
+- مع النادي باريس سان جيرمان: كأس الأبطال الفرنسي (1)
+- مع المنتخب: كأس العالم تحت 20 سنة لكرة القدم (1)
+- الفردية: أفضل لاعب في كأس الاتحاد الأوروبي (مرة)
+- مع النادي باهيا: كامبيناتو بايانو (1)
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 52
+- Senior national team goals total: 8
+- Senior career goals total: 60
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001–2002 | باهيا | 31 | 4 |
+| 2002–2007 | إشبيلية | 250 | 16 |
+| 2008–2015 | برشلونة | 391 | 21 |
+| 2016 | يوفنتوس | 33 | 6 |
+| 2017 | باريس سان جيرمان | 35 | 5 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2003 | البرازيل تحت 20 سنة | 17 | 0 |
+| 2021 | البرازيل الأولمبي | 7 | 0 |
+| 2006–2022 | البرازيل | 126 | 8 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q508835
-- Generated At (UTC): 2026-07-13T08:56:02+00:00
+- Generated At (UTC): 2026-07-13T12:12:29+00:00
 - English Name: Sekou Oliseh
 - Arabic Name: سيكو أوليسيه
 - Birth Year: 1990
@@ -69,12 +69,22 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 12
+- Senior national team goals total: 2
+- Senior career goals total: 14
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008–2009 | ميتييلاند | 5 | 0 |
+| 2009 | سيسكا موسكو | 5 | 1 |
+| 2010–2015 | سيسكا موسكو | 65 | 3 |
+| 2013–2014 | باوك | 23 | 4 |
+| 2014–2015 | كوبان كراسنودار | 12 | 4 |
+| 2016 | داليان ييفانغ | 10 | 0 |
+| 2020– | مؤسسة سفينة ليبيريا للتسجيل | 2 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2010–2014 | ليبيريا [ 1 ] | 17 | 2 |

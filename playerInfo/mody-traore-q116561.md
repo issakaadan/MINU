@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q116561
-- Generated At (UTC): 2026-07-13T08:56:42+00:00
+- Generated At (UTC): 2026-07-13T12:13:18+00:00
 - English Name: Mody Traoré
 - Arabic Name: مودي تراوري
 - Birth Year: 1980
@@ -62,12 +62,17 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 2
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 2
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000–2014 | فالينسيان | 98 | 0 |
+| 2010 | أجاكسيو | 13 | 1 |
+| 2010–2011 | لوهافر | 23 | 0 |
+| - | مجموع | 134 | 1 |
 
 ### Arabic National Team Stats
 _No rows found._

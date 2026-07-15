@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q10524
-- Generated At (UTC): 2026-07-13T08:51:13+00:00
+- Generated At (UTC): 2026-07-13T12:08:03+00:00
 - English Name: Ryan Giggs
 - Arabic Name: ريان غيغز
 - Birth Year: 1973
@@ -34,14 +34,7 @@ Ryan Joseph Giggs OBE ( né Wilson ; born 29 November 1973 [ 3 ] ) is a Welsh fo
 The son of rugby union and Wales international rugby league footballer Danny Wilson , Giggs was born in Cardiff but moved to Manchester at the age of six when his father joined Swinton RLFC . Predominantly a left midfielder , he began his career with Manchester City , but joined Manchester United on his 14th birthday in 1987. He made his professional debut for the club in 1991 and spent the next 23 years in the first team. He retired from playing with the end of the 2013–14 season, holding the club record for competitive appearances – 963 . Towards the end of the 2013–14 season , he became the club's interim player-manager following the sacking of David Moyes . He was assistant manager under Moyes' permanent replacement, Louis van Gaal . Giggs left United in July 2016, following the appointment of José Mourinho . [ 8 ] During his time at United he won 13 Premier League titles – more than any other player in history , four FA Cups , three League Cups , two UEFA Champions League titles, a FIFA Club World Cup , an Intercontinental Cup , a UEFA Super Cup and nine FA Community Shields . Manchester United and Liverpool are the only clubs in English football history to have won more league championships than Giggs. [ 9 ]
 
 ### English Achievements
-- With Manchester United: Premier League
-- Individual: Bravo Award
-- Records: Has won a record 13 top division English league titles as a player, and only Manchester United player to have winner's medals from all 13 Premier League title wins.
-- With State and civic honours: OBE for services to football
-- With Manchester United: FA Cup
-- With Manchester United: Football League Cup
-- With Manchester United: FA Community Shield
-- With Manchester United: UEFA Champions League
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 168
@@ -51,7 +44,7 @@ The son of rugby union and Wales international rugby league footballer Danny Wil
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1990–2014 | Manchester United | 672 | 114 |
+| 1990–2013 | Manchester United | 963 | 168 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -74,15 +67,29 @@ The son of rugby union and Wales international rugby league footballer Danny Wil
 ولد غيغز في كارديف لوالده داني ويلسون ، لاعب كرة القدم الدولي في منتخب ويلز وممارس رياضتي الرغبي بنوعيه (اتحاد الرغبي ودوري الرغبي). انتقل غيغز إلى مدينة مانشستر وهو في السادسة من عمره بعد انضمام والده إلى نادي سوينتون. بدأ مسيرته الكروية في صفوف ناشئي مانشستر سيتي ، قبل أن ينضم إلى مانشستر يونايتد في يوم عيد ميلاده الرابع عشر عام 1987. خاض أولى مبارياته الرسمية مع الفريق الأول عام 1991، واستمر ضمن صفوفه لمدة 23 عام. اعتزل اللعب بنهاية موسم 2013–2014، وهو يحمل الرقم القياسي في عدد المباريات الرسمية مع مانشستر يونايتد (963 مباراة).
 
 ### Arabic Achievements
-_No honours section found._
+- مع مع مانشستر يونايتد: الدوري الإنجليزي الممتاز (13 مرة)
+- الجوائز الفردية: جائزة براڤو
+- مع الأرقام القياسية: أكثر لاعب فوز بالدوري الإنجليزي الممتاز مع فريق واحد (13 لقبًا)
+- الأوسمة المدنية والدولية: رتبة الإمبراطورية البريطانية OBE لخدماته في كرة القدم
+- مع مع مانشستر يونايتد: كأس الاتحاد الإنجليزي (4 مرات)
+- مع مع مانشستر يونايتد: كأس الرابطة الإنجليزية (4 مرات)
+- مع مع مانشستر يونايتد: درع الاتحاد الإنجليزي (9 مرات)
+- مع مع مانشستر يونايتد: دوري أبطال أوروبا (2)
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 114
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 114
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1990–2014 | مانشستر يونايتد | 672 | 114 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1989–1989 | إنجلترا تحت 16 سنة | 1 | 0 |
+| 1989–1991 | ويلز تحت 19 سنة | 3 | 0 |
+| 1991–1991 | ويلز تحت 21 سنة | 1 | 0 |
+| 2012–2012 | بريطانيا العظمى تحت 23 سنة | 4 | 1 |

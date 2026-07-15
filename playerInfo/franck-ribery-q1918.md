@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1918
-- Generated At (UTC): 2026-07-13T08:50:36+00:00
+- Generated At (UTC): 2026-07-13T12:07:38+00:00
 - English Name: Franck Ribéry
 - Arabic Name: فرانك ريبيري
 - Birth Year: 1983
@@ -34,14 +34,7 @@ Franck Henry Pierre Ribéry ( French pronunciation: [fʁɑ̃k ʁibeʁi] ; born 7
 Ribéry's career began in 1989 as a youth player for local hometown club FC Conti Boulogne. He left the club after seven years to join professional outfit Lille , but departed the club after three years after having difficulties adjusting. In 1999, Ribéry joined US Boulogne , where he played for two years. After spending two more years in the amateur divisions with two clubs ( Alès and Brest ), Ribéry earned a move to Ligue 1 club Metz in 2004. After six months with the club, Ribéry moved to Turkey in January 2005 to join Galatasaray , where he won the Turkish Cup . After six months at Galatasaray, he departed the club in controversial fashion in order to return to France to join Marseille . Ribéry spent two seasons at the club, helping OM reach the final of the Coupe de France in back-to-back seasons.
 
 ### English Achievements
-- With Galatasaray: Turkish Cup
-- With Marseille: UEFA Intertoto Cup
-- With Bayern Munich: Bundesliga
-- With France: FIFA World Cup runner-up
-- Individual: UNFP Ligue 1 Player of the Month
-- With Bayern Munich: DFB-Pokal
-- With Bayern Munich: DFB-Ligapokal
-- With Bayern Munich: DFL-Supercup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 161
@@ -51,16 +44,15 @@ Ribéry's career began in 1989 as a youth player for local hometown club FC Cont
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2000–2002 | Boulogne | 28 | 6 |
-| 2002–2003 | Alès | 19 | 1 |
-| 2003–2004 | Brest | 35 | 3 |
-| 2004–2005 | Metz | 20 | 2 |
-| 2005 | Galatasaray | 14 | 0 |
-| 2005–2007 | Marseille | 60 | 11 |
-| 2007–2019 | Bayern Munich | 273 | 86 |
-| 2019–2021 | Fiorentina | 50 | 5 |
-| 2021–2022 | Salernitana | 24 | 0 |
-| Total | Total | 523 | 114 |
+| 2000–2001 | Boulogne | 29 | 6 |
+| 2002 | Alès | 1 | 19 |
+| 2003 | Brest | 4 | 23 |
+| 2004 | Metz | 2 | 298 |
+| 2004 | Galatasaray | 1 | 298 |
+| 2005–2006 | Marseille | 90 | 18 |
+| 2007–2018 | Bayern Munich | 425 | 124 |
+| 2019–2020 | Fiorentina | 51 | 5 |
+| 2021–2022 | Salernitana | 25 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -77,15 +69,32 @@ Ribéry's career began in 1989 as a youth player for local hometown club FC Cont
 فرنك هنري بيير ريبيري [ 4 ] ( الفرنسية : Franck Ribéry )؛ (مواليد 7 أبريل 1983 )، هو لاعب كرة قدم فرنسي سابق كان يلعب في مركز الجناح الأيسر . [ 5 ] [ 6 ] [ 7 ] يتميز ريبيري بكونه لاعب مهاري وسريع قادر علي الاختراق وصانع ألعاب متميز في تمريراته كما يتميز بمهارة مراوغة المنافس والتحكم العالي بالكرة، لفت الانظار بشدة عام 2006 واعتُبِر وريث أسطورة الكرة الفرنسية زين الدين زيدان والذي قال عنه «جوهرة الكرة الفرنسية».
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي غلطة سراي: كأس تركيا (1)
+- مع النادي مارسيليا: كأس إنترتوتو (1)
+- مع النادي بايرن ميونخ: الدوري الألماني (9)
+- مع المنتخب فرنسا: كأس العالم الوصيف
+- الفردية: جائزة أفضل لاعب في أوروبا (1)
+- مع النادي بايرن ميونخ: كأس ألمانيا (6)
+- مع النادي بايرن ميونخ: كأس الدوري الألماني (1)
+- مع النادي بايرن ميونخ: كأس السوبر الألماني (4)
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 149
+- Senior national team goals total: 16
+- Senior career goals total: 165
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000–2001 | بولون | 29 | 6 |
+| 2002 | أليس | 1 | 5 |
+| 2003 | بريست | 37 | 4 |
+| 2004 | ميتز | 2 | 35 |
+| 2004 | غلطة سراي | 90 | 18 |
+| 2007–2017 | بايرن ميونخ | 381 | 117 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004–2006 | فرنسا تحت 21 | 13 | 2 |
+| 2006–2014 | فرنسا | 81 | 16 |

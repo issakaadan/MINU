@@ -3,7 +3,7 @@
 Bilingual Wikipedia/Wikidata markdown corpus for the MINU player catalog.
 
 ## Summary
-- Generated At (UTC): 2026-07-13T08:57:07+00:00
+- Generated At (UTC): 2026-07-13T12:13:33+00:00
 - Source Dataset: `backend/data/players.seed.json`
 - Output Directory: `playerInfo`
 - Player Files: 506

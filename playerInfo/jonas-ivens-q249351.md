@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q249351
-- Generated At (UTC): 2026-07-13T08:56:30+00:00
+- Generated At (UTC): 2026-07-13T12:13:04+00:00
 - English Name: Jonas Ivens
 - Arabic Name: جوناس إيفنز
 - Birth Year: 1984
@@ -69,12 +69,22 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 22
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 22
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2003–2004 | بيفيرين | 4 | 0 |
+| 2004–2006 | [الإنجليزية] | 62 | 4 |
+| 2006–2010 | كيه في ميخيلين | 118 | 14 |
+| 2010–2014 | غرونينغن | 54 | 2 |
+| 2013 | فاسلاند بيفيرين | 14 | 0 |
+| 2013–2014 | آر كي سي فالفيك | 10 | 0 |
+| 2014–2015 | نيكي فولوس [الإنجليزية] | 14 | 1 |
+| 2015–2016 | سيركل بروج | 4 | 0 |
+| 2016 | [الإنجليزية] | 12 | 1 |
 
 ### Arabic National Team Stats
 _No rows found._

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q529207
-- Generated At (UTC): 2026-07-13T08:48:09+00:00
+- Generated At (UTC): 2026-07-13T12:05:42+00:00
 - English Name: Ronaldo
 - Arabic Name: رونالدو
 - Birth Year: 1976
@@ -34,14 +34,7 @@ Ronaldo Luís Nazário de Lima ( Brazilian Portuguese: [ʁoˈnawdu luˈiz‿naˈ
 Ronaldo started his career at Cruzeiro and moved to PSV in 1994. He joined Barcelona in 1996 for a then world record transfer fee and at 20 years old, he was named the 1996 FIFA World Player of the Year , making him the youngest recipient of the award. In 1997, Inter Milan broke the world record fee to sign Ronaldo, making him the first player since Diego Maradona to break the world transfer record twice. At 21, he received the 1997 Ballon d'Or and remains the youngest recipient of the award. By the age of 23, Ronaldo had scored over 200 goals for club and country. However, after a series of knee injuries and recuperation, he was inactive for almost three years. Ronaldo joined Real Madrid in 2002 and won the 2002–03 La Liga title. He had spells at AC Milan and Corinthians before retiring in 2011, having suffered further injuries.
 
 ### English Achievements
-- With Cruzeiro: Campeonato Mineiro
-- With PSV Eindhoven: KNVB Cup
-- With Barcelona: Copa del Rey
-- With Inter Milan: UEFA Cup
-- With Real Madrid: La Liga
-- With Corinthians: Campeonato Paulista
-- With Brazil: FIFA World Cup
-- Individual: Supercopa Libertadores top scorer
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 352
@@ -51,14 +44,13 @@ Ronaldo started his career at Cruzeiro and moved to PSV in 1994. He joined Barce
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1993–1994 | Cruzeiro | 34 | 34 |
-| 1994–1996 | PSV | 46 | 42 |
-| 1996–1997 | Barcelona | 37 | 34 |
-| 1997–2002 | Inter Milan | 68 | 49 |
-| 2002–2007 | Real Madrid | 127 | 83 |
-| 2007–2008 | AC Milan | 20 | 9 |
-| 2009–2011 | Corinthians | 52 | 29 |
-| Total | Total | 384 | 280 |
+| 1993–1994 | Cruzeiro | 47 | 44 |
+| 1994–1995 | PSV | 57 | 54 |
+| 1996 | Barcelona | 49 | 47 |
+| 1997–2001 | Inter Milan | 99 | 59 |
+| 2002–2006 | Real Madrid | 177 | 104 |
+| 2006–2007 | AC Milan | 20 | 9 |
+| 2009–2011 | Corinthians | 69 | 35 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -78,15 +70,33 @@ Ronaldo started his career at Cruzeiro and moved to PSV in 1994. He joined Barce
 بدأ رونالدو مسيرته الكروية من بوابة نادي كروزيرو في البرازيل عام 1993 الذي لعب له لموسمين، انتقل بعدها إلى القارة الأوروبية ؛ أين لعب مُعظم مسيرته الكروية بين عامي 1994 و2008، تنقّل خلالها بين كبريات الدوريات والأندية في القارة، بداية من نادي أيندهوفن الهولندي في الفترة ما بين 1994–1996، ثم في الدوري الإسباني في فترتين مُتفرقتين لعب خلالهما لقُطبي إسبانيا برشلونة بين عامي 1996–1997، وريال مدريد بين عامي 2002–2007، مروراً بفترتين متفرقتين أيضا مع قُطبي مدينة ميلانو الإيطالية، بدءً من الإنتر بين 1997–2002، ثمّ الميلان الذي لعب له بين عامي 2007 و2008، حينما قرّر الرجوع لبلاده البرازيل من بوابة نادي كورينثيانز الذي قضى معه آخر سنتين في مسيرته الكروية.
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي كروزيرو: بطولة مينيرو (1)
+- مع النادي آيندهوفن: كأس هولندا (1)
+- مع النادي برشلونة: كأس ملك إسبانيا (1)
+- مع النادي إنتر ميلان: كأس الاتحاد الأوروبي (1)
+- مع النادي ريال مدريد: الدوري الإسباني (2)
+- مع النادي كورينثيانز: بطولة باوليستا (1)
+- مع المنتخب البرازيل: كأس العالم (2)
+- الفردية: أفضل لاعب في العالم حسب (تصنيف الفيفا ) ثلاثة مرات في أعوام 1996 (أصغر لاعب)، 1997 و2002 .
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 352
+- Senior national team goals total: 62
+- Senior career goals total: 414
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1993–1994 | كروزيرو | 47 | 44 |
+| 1994–1995 | آيندهوفن | 57 | 54 |
+| 1997–2001 | إنتر ميلان | 99 | 59 |
+| 2002–2006 | ريال مدريد | 177 | 104 |
+| 2006–2007 | ميلان | 20 | 9 |
+| 2009–2011 | كورينثيانز | 69 | 35 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1993 | البرازيل تحت 17 | 7 | 5 |
+| 1996 | البرازيل تحت 23 | 8 | 6 |
+| 1994–2011 | البرازيل | 98 | 62 |

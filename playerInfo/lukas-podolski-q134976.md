@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q134976
-- Generated At (UTC): 2026-07-13T08:50:11+00:00
+- Generated At (UTC): 2026-07-13T12:07:16+00:00
 - English Name: Lukas Podolski
 - Arabic Name: لوكاس بودولسكي
 - Birth Year: 1985
@@ -34,14 +34,7 @@ Lukas Josef Podolski ( German: [ˈluːkas poˈdɔlskiː] ; born Łukasz Józef P
 Podolski joined 1. FC Köln in 1995 where he made it into the first team in 2003 resulting in 81 appearances for the club before moving to Bayern Munich . With Bayern, Podolski won the Bundesliga and DFB-Pokal double in 2008. Podolski returned to 1. FC Köln in 2009. He later signed for Premier League club Arsenal in 2012, with whom he won the FA Cup in 2014 . He then moved on loan to Serie A club Inter Milan in January 2015, before signing six months later for Galatasaray where he also won the Turkish Cup of 2016 . [ 7 ] In 2017, he moved to Vissel Kobe in Japan, spending three seasons there before moving back to Turkey to play for Antalyaspor . In 2021, he moved to Górnik Zabrze in Poland and in May 2026, they won the Polish Cup , his first with the club. [ 8 ] Later that month, he became Górnik's majority owner and announced his retirement from professional football. [ 9 ] [ 10 ]
 
 ### English Achievements
-- With 1. FC Köln: 2. Bundesliga
-- With Bayern Munich: Bundesliga
-- With Arsenal: FA Cup
-- With Galatasaray: Turkish Cup
-- With Vissel Kobe: Emperor's Cup
-- With Górnik Zabrze: Polish Cup
-- With Germany: FIFA World Cup
-- Individual: 2.Bundesliga Top scorer
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 227
@@ -51,18 +44,16 @@ Podolski joined 1. FC Köln in 1995 where he made it into the first team in 2003
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2003–2004 | 1. FC Köln II | 2 | 0 |
-| 2003–2006 | 1. FC Köln | 81 | 46 |
-| 2006–2009 | Bayern Munich | 71 | 15 |
-| 2007–2008 | Bayern Munich II | 2 | 0 |
-| 2009–2012 | 1. FC Köln | 88 | 33 |
-| 2012–2015 | Arsenal | 60 | 19 |
-| 2015 | Inter Milan | 17 | 1 |
-| 2015–2017 | Galatasaray | 56 | 20 |
-| 2017–2020 | Vissel Kobe | 52 | 15 |
-| 2020–2021 | Antalyaspor | 40 | 6 |
-| 2021–2026 | Górnik Zabrze | 125 | 23 |
-| Total | Total | 594 | 178 |
+| 2002–2003 | 1. FC Köln II | 2 | 0 |
+| 2003–2011 | 1. FC Köln | 181 | 86 |
+| 2006–2008 | Bayern Munich | 106 | 26 |
+| 2007 | Bayern Munich II | 2 | 0 |
+| 2012–2014 | Arsenal | 82 | 31 |
+| 2014 | Inter Milan (loan) | 18 | 1 |
+| 2015–2016 | Galatasaray | 75 | 34 |
+| 2017–2019 | Vissel Kobe | 60 | 17 |
+| 2019–2020 | Antalyaspor | 47 | 7 |
+| 2021–2025 | Górnik Zabrze | 135 | 25 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -89,12 +80,30 @@ Podolski joined 1. FC Köln in 1995 where he made it into the first team in 2003
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 176
+- Senior national team goals total: 49
+- Senior career goals total: 225
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2003–2004 | إف سي كولن 2 | 2 | 0 |
+| 2003–2006 | إف سي كولن | 81 | 46 |
+| 2006–2009 | بايرن ميونخ | 71 | 15 |
+| 2007–2008 | بايرن ميونخ 2 | 2 | 0 |
+| 2009–2012 | إف سي كولن | 88 | 33 |
+| 2012–2015 | أرسنال | 60 | 19 |
+| 2015 | إنتر ميلان | 17 | 1 |
+| 2015–2017 | غلطة سراي | 56 | 20 |
+| 2017–2020 | فيسيل كوبه | 52 | 15 |
+| 2020–2021 | أنطاليا سبور | 40 | 6 |
+| 2021– | غورنيك زابجه | 97 | 21 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001–2002 | ألمانيا تحت 17 | 6 | 2 |
+| 2002–2003 | ألمانيا تحت 18 | 7 | 4 |
+| 2003 | ألمانيا تحت 19 | 3 | 6 |
+| 2004 | ألمانيا تحت 21 | 5 | 0 |
+| 2004–2017 | ألمانيا | 130 | 49 |

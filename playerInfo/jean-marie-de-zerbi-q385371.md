@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q385371
-- Generated At (UTC): 2026-07-13T08:56:30+00:00
+- Generated At (UTC): 2026-07-13T12:13:04+00:00
 - English Name: Jean-Marie De Zerbi
 - Arabic Name: جان ماري دي زيربي
 - Birth Year: 1959
@@ -64,12 +64,15 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 9
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 9
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1977–1983 | باستيا | 89 | 9 |
+| 1983–1984 | تور | 10 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

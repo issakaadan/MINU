@@ -6,6 +6,7 @@ import hmac
 import json
 import os
 import secrets
+import zlib
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from functools import lru_cache
@@ -18,8 +19,9 @@ from app.core.runtime import get_runtime_paths
 PASSWORD_HASH_ITERATIONS = 310_000
 DEFAULT_USERNAME = "minu-admin"
 DEFAULT_SESSION_COOKIE = "minu_session"
+PLAYER_CARD_IDENTITY_COOKIE = "minu_card_identity"
 DEFAULT_SESSION_HOURS = 24
-DEFAULT_CARD_LINK_HOURS = 168
+CARD_LINK_TTL_MINUTES = 15
 DEFAULT_MATCH_LINK_HOURS = 24
 
 
@@ -204,19 +206,13 @@ class AuthManager:
 
     def create_card_token(self, payload: dict[str, object]) -> str:
         material = self.get_material()
-        card_hours_raw = os.getenv("MINU_CARD_LINK_HOURS", "").strip()
-        try:
-            card_hours = max(1, int(card_hours_raw)) if card_hours_raw else DEFAULT_CARD_LINK_HOURS
-        except ValueError:
-            card_hours = DEFAULT_CARD_LINK_HOURS
-
-        expires_at = datetime.now(timezone.utc) + timedelta(hours=card_hours)
+        expires_at = datetime.now(timezone.utc) + timedelta(minutes=CARD_LINK_TTL_MINUTES)
         token_payload = {
             "p": payload,
             "exp": int(expires_at.timestamp()),
         }
         payload_text = json.dumps(token_payload, separators=(",", ":"), ensure_ascii=False)
-        payload_token = _urlsafe_b64encode(payload_text.encode("utf-8"))
+        payload_token = _urlsafe_b64encode(zlib.compress(payload_text.encode("utf-8"), level=9))
         signature = hmac.new(
             material.session_secret.encode("utf-8"),
             f"card:{payload_token}".encode("utf-8"),
@@ -240,7 +236,13 @@ class AuthManager:
             return None
 
         try:
-            payload = json.loads(_urlsafe_b64decode(payload_token).decode("utf-8"))
+            payload_bytes = _urlsafe_b64decode(payload_token)
+            try:
+                payload_bytes = zlib.decompress(payload_bytes)
+            except zlib.error:
+                # Preserve compatibility with player cards issued before token compression.
+                pass
+            payload = json.loads(payload_bytes.decode("utf-8"))
             content = payload["p"]
             expires_at = int(payload["exp"])
         except (KeyError, TypeError, ValueError, json.JSONDecodeError):
@@ -253,6 +255,56 @@ class AuthManager:
             return None
 
         return content
+
+    def create_card_identity_token(self, bindings: dict[str, int]) -> str:
+        material = self.get_material()
+        expires_at = datetime.now(timezone.utc) + timedelta(hours=DEFAULT_MATCH_LINK_HOURS)
+        payload_text = json.dumps(
+            {"b": bindings, "exp": int(expires_at.timestamp())},
+            separators=(",", ":"),
+        )
+        payload_token = _urlsafe_b64encode(payload_text.encode("utf-8"))
+        signature = hmac.new(
+            material.session_secret.encode("utf-8"),
+            f"card-identity:{payload_token}".encode("utf-8"),
+            hashlib.sha256,
+        ).digest()
+        return f"{payload_token}.{_urlsafe_b64encode(signature)}"
+
+    def read_card_identity_token(self, token: str) -> dict[str, int] | None:
+        material = self.get_material()
+        try:
+            payload_token, signature_token = token.split(".", 1)
+        except ValueError:
+            return None
+        expected_signature = hmac.new(
+            material.session_secret.encode("utf-8"),
+            f"card-identity:{payload_token}".encode("utf-8"),
+            hashlib.sha256,
+        ).digest()
+        if not hmac.compare_digest(_urlsafe_b64encode(expected_signature), signature_token):
+            return None
+        try:
+            payload = json.loads(_urlsafe_b64decode(payload_token).decode("utf-8"))
+            expires_at = int(payload["exp"])
+        except (KeyError, TypeError, ValueError, json.JSONDecodeError):
+            return None
+        if expires_at < int(datetime.now(timezone.utc).timestamp()):
+            return None
+
+        # Accept the original single-match cookie and migrate it on the next scan.
+        raw_bindings = payload.get("b")
+        if raw_bindings is None and "m" in payload and "s" in payload:
+            raw_bindings = {str(payload["m"]): payload["s"]}
+        if not isinstance(raw_bindings, dict):
+            return None
+        try:
+            bindings = {str(match_id): int(seat) for match_id, seat in raw_bindings.items()}
+        except (TypeError, ValueError):
+            return None
+        if not bindings or any(not match_id or seat < 1 for match_id, seat in bindings.items()):
+            return None
+        return bindings
 
     def create_match_token(self, payload: dict[str, object]) -> str:
         material = self.get_material()

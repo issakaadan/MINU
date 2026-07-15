@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q510516
-- Generated At (UTC): 2026-07-13T08:56:00+00:00
+- Generated At (UTC): 2026-07-13T12:12:30+00:00
 - English Name: Sadok Sassi
 - Arabic Name: الصادق ساسي
 - Birth Year: 1945
@@ -36,10 +36,7 @@ He played both matches for the Tunisia national team at the 1963 African Cup of 
 In a sixteen-years career, Sassi earned an impressive five league titles, eight cups, including three for Tunisia and the Maghreb. In 1972, he was goalkeeper for the African team at the mini-World Cup, hosted by Brazil. [ 2 ] As a one-club man , he has 335 appearances in the first Tunisian league, 66 in the Tunisian Cup, and 14 in international competitions. With a total of 415 official matches for Club Africain, Sadok Sassi is the club's record player. Due to his outstanding performances, Attouga is referred to by the club as the eternal number one. [ 5 ]
 
 ### English Achievements
-- Tunisian Championship
-- Tunisian Cup
-- North African Champions Cup
-- North Africain Cup Winners Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 0
@@ -68,12 +65,14 @@ In a sixteen-years career, Sassi earned an impressive five league titles, eight 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 0
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1962–1979 | النادي الإفريقي | 417 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

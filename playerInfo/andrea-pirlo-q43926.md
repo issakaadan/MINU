@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q43926
-- Generated At (UTC): 2026-07-13T08:51:35+00:00
+- Generated At (UTC): 2026-07-13T12:08:21+00:00
 - English Name: Andrea Pirlo
 - Arabic Name: أندريا بيرلو
 - Birth Year: 1979
@@ -34,31 +34,23 @@ Andrea Pirlo Ufficiale OMRI [ 3 ] [ 4 ] ( Italian pronunciation: [anˈdrɛːa ˈ
 Pirlo began his club career in 1995 as an attacking midfielder with his hometown club Brescia , winning the Serie B in 1997. He signed for Serie A club Inter Milan a year later, but limited game time and loans away from the club saw him transfer to cross-city rivals AC Milan in 2001. There, Pirlo matured into a world-class player in a deep-lying playmaker role, winning two Serie A titles, two Champions Leagues, two UEFA Super Cups , a FIFA Club World Cup , a Coppa Italia , and a Supercoppa Italiana . [ 7 ] He departed for Juventus in 2011, where he won four consecutive Serie A titles, two Supercoppa Italiana titles, and another Coppa Italia. In 2015, Pirlo joined Major League Soccer (MLS) club New York City FC , where he played for two years before retiring in 2017.
 
 ### English Achievements
-- With Brescia: Serie B
-- With AC Milan: Serie A
-- With Juventus: Serie A
-- With Italy Olympic Team: Olympic Bronze Medal
-- With Italy: FIFA World Cup
-- Individual: UEFA European Under-21 Championship Golden Player
-- With Juventus: Coppa Italia
-- With AC Milan: Coppa Italia
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 73
-- Senior national team goals total: 15
-- Senior career goals total: 88
+- Senior national team goals total: 16
+- Senior career goals total: 89
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1995–1998 | Brescia | 47 | 6 |
-| 1998–2001 | Inter Milan | 22 | 0 |
-| 1999–2000 | Reggina | 28 | 6 |
-| 2001 | Brescia | 10 | 0 |
-| 2001–2011 | AC Milan | 284 | 32 |
-| 2011–2015 | Juventus | 119 | 16 |
-| 2015–2017 | New York City FC | 60 | 1 |
-| Total | Total | 570 | 61 |
+| 1994–1997 | Brescia | 49 | 6 |
+| 1998–2000 | Inter Milan | 40 | 0 |
+| 1999–2000 | Reggina ( loan ) | 30 | 6 |
+| 2000 | Brescia (loan) | 10 | 0 |
+| 2001–2010 | AC Milan | 401 | 41 |
+| 2011–2014 | Juventus | 164 | 19 |
+| 2015–2017 | New York City FC | 62 | 1 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -82,15 +74,36 @@ Pirlo began his club career in 1995 as an attacking midfielder with his hometown
 يلقب بريشيا المسرع (إشارة إلى مدينته الأصلية مقاطعة بريشا ) والمهندس المعماري والأستاذ أو موزار، باعتباره من أعظم المواهب التي عرفتها إيطاليا . ففي الاتحاد الدولي لتاريخ وإحصاءات كرة القدم (IFFHS) احتل المرتبة 3,4,2,3 لأفضل صانع اللعب من السنة، على التوالي في 2006 ، 2007 ، 2012 ، 2013 وقد شمل من بين 50 مرشحين لجائزة الكرة الذهبية، التاسع 2006 الخامس 2007 السابع 2012 والعاشر 2013 ، بلغ 116 مباراة مع الأزوري (المنتخب الإيطالي) وسجل 13 هدفا، ولعب لبريشيا، والإنتر وريجينا قبل أن ينتقل إلى ميلان حيث عرف الـتألق وفاز بكأس إيطاليا ودوري أبطال أوروبا والدوري الإيطالي، وبعد عشر سنوات مع الروسونيري ذهب إلى يوفنتوس بصفقة مجانية، لعدم تمديد عقده مع ميلان، حيث تحصل على أربعة ألقاب في الدوري وبطولتي كأس السوبر الإيطالية وكأس إيطاليا مرة واحدة.
 
 ### Arabic Achievements
-_No honours section found._
+- مع الأندية ميلان: الدوري الإيطالي (2)
+- مع الأندية يوفنتوس: الدوري الإيطالي (4)
+- مع المنتخب إيطاليا: كأس العالم (1)
+- مع المنتخب إيطاليا للشباب: بطولة أوروبا تحت 21 سنة (1)
+- الفردية: أفضل هدف في بطولة أوروبا تحت 21 سنة 2000 في سلوفاكيا
+- الفردية: أفضل لاعب في الدور النهائي
+- مع الأندية ميلان: كأس إيطاليا (1)
+- مع الأندية ميلان: كأس السوبر الإيطالي (1)
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 120
+- Senior national team goals total: 13
+- Senior career goals total: 133
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1994–2001 | بريشيا إيطاليا | 59 | 6 |
+| 1997–2001 | إنتر ميلان إيطاليا | 40 | 0 |
+| 1999–2000 | ريجينا إيطاليا | 30 | 6 |
+| 2001–2011 | إيه سي ميلان إيطاليا | 401 | 41 |
+| 2011–2014 | يوفنتوس إيطاليا | 661 | 67 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1994 | إيطاليا تحت 15 | 3 | 0 |
+| 1995 | إيطاليا تحت 16 | 6 | 2 |
+| 1995 | إيطاليا تحت 17 | 4 | 0 |
+| 1995–1997 | إيطاليا تحت 18 | 18 | 7 |
+| 1998–2002 | إيطاليا تحت 21 | 37 | 15 |
+| 2000–2004 | إيطاليا تحت 21 | 9 | 1 |
+| 2002–2015 | إيطاليا | 116 | 13 |

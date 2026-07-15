@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q280010
-- Generated At (UTC): 2026-07-13T08:56:32+00:00
+- Generated At (UTC): 2026-07-13T12:13:06+00:00
 - English Name: José Luis Trejo
 - Arabic Name: خوسيه لويس تريجو
 - Birth Year: 1951

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q311768
-- Generated At (UTC): 2026-07-13T08:54:23+00:00
+- Generated At (UTC): 2026-07-13T12:10:55+00:00
 - English Name: Helmut Duckadam
 - Arabic Name: هيلموت دوكادام
 - Birth Year: 1959
@@ -34,12 +34,7 @@ Helmut Duckadam ( Romanian pronunciation: [ˈhelmut dukaˈdam] , sometimes spell
 Duckadam was dubbed "the Hero of Seville " due to his performance in the 1986 European Cup final , won by his club Steaua București , where he saved all four penalties against Barcelona in the penalty shootout , for the first time in football history. He represented four other teams in a 12-year senior career.
 
 ### English Achievements
-- With UTA Arad: Divizia B
-- With Steaua București: Divizia A
-- Individual: Romanian Footballer of the Year
-- With Steaua București: Cupa României
-- With Steaua București: European Cup
-- Individual: Ballon d'Or
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 0
@@ -72,12 +67,17 @@ Duckadam was dubbed "the Hero of Seville " due to his performance in the 1986 Eu
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 0
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1978–1982 | يو تي أي أراد | 53 | 0 |
+| 1982–1986 | ستيوا بوخارست | 80 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1981–1981 | رومانيا تحت 21 سنة | 4 | 0 |

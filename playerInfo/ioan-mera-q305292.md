@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q305292
-- Generated At (UTC): 2026-07-13T08:56:28+00:00
+- Generated At (UTC): 2026-07-13T12:13:02+00:00
 - English Name: Ioan Mera
 - Arabic Name: ايوان ميرا
 - Birth Year: 1987
@@ -32,7 +32,7 @@
 Ioan Mera (born 5 January 1987) is a Romanian former professional footballer who played as a centre-back .
 
 ### English Achievements
-- With Politehnica Timișoara: Liga II
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 37
@@ -75,12 +75,29 @@ Ioan Mera (born 5 January 1987) is a Romanian former professional footballer who
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 64
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 64
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005–2012 | بولتيهنيكا تيميسوارا | 42 | 5 |
+| 2006–2007 | [الإنجليزية] | 23 | 0 |
+| 2005–2006 | طمشوار 1933 [الإنجليزية] | 11 | 2 |
+| 2007–2008 | أوتيلول ريشيتا | 16 | 0 |
+| 2008 | [الإنجليزية] | 15 | 1 |
+| 2009 | غلوريا بوزاو [الإنجليزية] | 15 | 3 |
+| 2011 | أونيريا أورزيتشيني | 12 | 0 |
+| 2012–2013 | [الإنجليزية] | 3 | 0 |
+| 2013–2014 | [الإنجليزية] | 8 | 1 |
+| 2014 | بولي تيميشوارا [لغات أخرى] | 13 | 0 |
+| 2014–2015 | رابيد بوخارست | 10 | 0 |
+| 2015–2017 | طراز | 55 | 4 |
+| 2017–2022 | بوليتنيكا تيميشوارا | 138 | 16 |
+| - | مجموع | 361 | 32 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2007–2008 | رومانيا تحت 21 | 6 | 0 |

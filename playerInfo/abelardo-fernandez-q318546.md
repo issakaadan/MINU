@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q318546
-- Generated At (UTC): 2026-07-13T08:53:56+00:00
+- Generated At (UTC): 2026-07-13T12:10:30+00:00
 - English Name: Abelardo Fernández
 - Arabic Name: ابيلاردو فرنانديز
 - Birth Year: 1970
@@ -36,13 +36,7 @@ A player with good heading and marking ability, he was also known for a distinct
 Having won more than 50 caps for Spain in one full decade, Abelardo represented the nation in two World Cups and as many European Championships .
 
 ### English Achievements
-- With Barcelona: La Liga
-- With Candás: Copa Federación de España (Asturias tournament)
-- With Tuilla: Copa Federación de España (Asturias tournament)
-- With Barcelona: Copa del Rey
-- With Barcelona: Supercopa de España
-- With Barcelona: UEFA Cup Winners' Cup
-- With Barcelona: UEFA Super Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 26
@@ -79,12 +73,18 @@ Having won more than 50 caps for Spain in one full decade, Abelardo represented 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 50
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 50
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1989 | سبورتينغ خيخون ب | 4 | 2 |
+| 1989–1994 | ريال سبورتينغ خيخون | 179 | 13 |
+| 1994–2002 | برشلونة | 178 | 11 |
+| 2002–2003 | ديبورتيفو ألافيس | 28 | 0 |
+| - | مجموع | 389 | 26 |
 
 ### Arabic National Team Stats
 _No rows found._

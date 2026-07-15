@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q26517
-- Generated At (UTC): 2026-07-13T08:48:23+00:00
+- Generated At (UTC): 2026-07-13T12:05:56+00:00
 - English Name: Luis Suárez
 - Arabic Name: لويس سواريز
 - Birth Year: 1987
@@ -34,32 +34,24 @@ Luis Alberto Suárez Díaz ( Spanish pronunciation: [ˈlwis ˈswaɾes] ; born 24
 Suárez began his senior club career at Uruguayan club Nacional in 2005. He signed with Groningen the following year before transferring to Ajax in 2007. There, he won the Eredivisie title and KNVB Cup . In 2011, Suárez signed with Premier League club Liverpool , and won the League Cup in his first full season. In 2013–14, his final season with the club, he equalled the goalscoring record of 31 goals for a 38-game Premier League season, with Liverpool finishing just two points behind Manchester City in the title race. That summer, Barcelona signed Suárez for a fee of £65 million (€82.3 million adjusted for inflation), making him one of the most expensive players .
 
 ### English Achievements
-- With Nacional: Uruguayan Primera División
-- With Ajax: Eredivisie
-- With Liverpool: Football League Cup
-- With Barcelona: La Liga
-- With Atlético Madrid: La Liga
-- With Grêmio: Campeonato Gaúcho
-- With Inter Miami: MLS Cup
-- With Uruguay: Copa América
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 537
-- Senior national team goals total: 69
-- Senior career goals total: 606
+- Senior national team goals total: 72
+- Senior career goals total: 609
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2005–2006 | Nacional | 27 | 10 |
-| 2006–2007 | Groningen | 29 | 10 |
-| 2007–2011 | Ajax | 110 | 81 |
-| 2011–2014 | Liverpool | 110 | 69 |
-| 2014–2020 | Barcelona | 191 | 147 |
-| 2020–2022 | Atlético Madrid | 67 | 32 |
-| 2022–2023 | Nacional | 14 | 8 |
-| 2023–2024 | Grêmio | 45 | 24 |
-| 2024– | Inter Miami | 66 | 36 |
+| 2005–2022 | Nacional | 51 | 20 |
+| 2006 | Groningen | 37 | 15 |
+| 2007–2010 | Ajax | 159 | 111 |
+| 2010–2013 | Liverpool | 133 | 82 |
+| 2014–2019 | Barcelona | 283 | 198 |
+| 2020–2021 | Atlético Madrid | 83 | 34 |
+| 2023 | Grêmio | 54 | 29 |
+| 2024–2026 | Inter Miami | 99 | 48 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -79,15 +71,33 @@ Suárez began his senior club career at Uruguayan club Nacional in 2005. He sign
 في يوليو 2014 ، انتقل سواريز من ليفربول إلى برشلونة مقابل 82.3 مليون يورو. [ 8 ] جرى الانتقال بعد فوزه بالحذاء الذهبي الأوروبي في الموسم السابق مع ليفربول . [ 9 ] في أكتوبر 2015 ، سجل اللاعب الهدف 300 في مسيرته الاحترافية. [ 10 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع ناسيونال: دوري الأوروغواي
+- مع أياكس: الدوري الهولندي
+- مع ليفربول: كأس رابطة الأندية الإنجليزية المحترفة
+- مع برشلونة: الدوري الإسباني
+- مع أتلتيكو مدريد: الدوري الإسباني
+- مع غريميو: كأس السوبر البرازيلي
+- مع إنتر ميامي: درع المشجعين
+- مع الأوروغواي: كوبا أمريكا
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 439
+- Senior national team goals total: 69
+- Senior career goals total: 508
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005 | ناسيونال | 34 | 12 |
+| 2006 | غرونيننغن | 37 | 15 |
+| 2007–2010 | أياكس | 159 | 111 |
+| 2010–2013 | ليفربول | 133 | 82 |
+| 2014–2019 | برشلونة | 283 | 198 |
+| 2020 | أتلتيكو مدريد | 38 | 21 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006–2007 | الأوروغواي تحت 20 | 4 | 2 |
+| 2012 | الأوروغواي تحت 23 | 4 | 3 |
+| 2007–2024 | الأوروغواي | 143 | 69 |

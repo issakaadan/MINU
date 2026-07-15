@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q188793
-- Generated At (UTC): 2026-07-13T08:52:46+00:00
+- Generated At (UTC): 2026-07-13T12:09:21+00:00
 - English Name: Joan Capdevila
 - Arabic Name: خوان كابديفيلا
 - Birth Year: 1978
@@ -36,35 +36,26 @@ Over 15 seasons in La Liga , he amassed totals of 410 matches and 36 goals, main
 Capdevila won 60 caps for Spain , and was part of the squads which won Euro 2008 and the 2010 World Cup .
 
 ### English Achievements
-- With Deportivo: Copa del Rey
-- With Benfica: Taça da Liga
-- With Santa Coloma: Primera Divisió
-- With Spain: FIFA World Cup
-- Individual: FIFA Confederations Cup FIFA.com Users' Top 11
-- Orders: Gold Medal of the Royal Order of Sports Merit
-- With Deportivo: Supercopa de España
-- With Spain: UEFA European Championship
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 53
+- Club goals total: 49
 - Senior national team goals total: 4
-- Senior career goals total: 57
+- Senior career goals total: 53
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1995–1996 | Tàrrega | 33 | 3 |
-| 1997–1998 | Espanyol B | 45 | 4 |
-| 1998–1999 | Espanyol | 29 | 4 |
-| 1999–2000 | Atlético Madrid | 31 | 2 |
-| 2000–2007 | Deportivo La Coruña | 179 | 15 |
-| 2007–2011 | Villarreal | 140 | 15 |
-| 2011–2012 | Benfica | 5 | 0 |
-| 2012–2014 | Espanyol | 31 | 0 |
+| 1995 | Tàrrega | 33 | 3 |
+| 1996–1998 | Espanyol B | 45 | 4 |
+| 1998–2013 | Espanyol | 75 | 4 |
+| 1999–2000 | Atlético Madrid | 40 | 3 |
+| 2000–2006 | Deportivo | 247 | 18 |
+| 2007–2010 | Villarreal | 184 | 19 |
+| 2011 | Benfica | 11 | 0 |
 | 2014 | NorthEast United | 12 | 0 |
-| 2015 | Lierse | 4 | 0 |
-| 2016–2017 | Santa Coloma | 2 | 2 |
-| Total | Total | 511 | 45 |
+| 2014 | Lierse | 4 | 0 |
+| 2016–2017 | Santa Coloma | 6 | 2 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -90,12 +81,28 @@ Capdevila won 60 caps for Spain , and was part of the squads which won Euro 2008
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 140
+- Senior national team goals total: 4
+- Senior career goals total: 144
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1995 | تـارـيـغا | 33 | 3 |
+| 1996–1998 | إسبانيا ب | 90 | 8 |
+| 1998–2013 | إسبانويول | 112 | 4 |
+| 1999–2000 | أتليتيكو مدريد | 40 | 3 |
+| 2000–2006 | ديبورتيفو | 494 | 36 |
+| 2007–2010 | فيلاريل | 368 | 37 |
+| 2011 | بنفيكا | 11 | 0 |
+| 2014 | شمال شرق يونايتد | 12 | 0 |
+| 2014 | ليرس | 4 | 0 |
+| 2016–2017 | سانتا كولوما | 669 | 57 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1998–2000 | إسبانيا تحت 21 | 13 | 0 |
+| 2000 | إسبانيا تحت 23 | 4 | 0 |
+| 2002–2011 | إسبانيا | 60 | 4 |
+| 2002–2013 | كاتالونيا | 10 | 0 |

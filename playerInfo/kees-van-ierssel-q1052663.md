@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1052663
-- Generated At (UTC): 2026-07-13T08:55:46+00:00
+- Generated At (UTC): 2026-07-13T12:12:15+00:00
 - English Name: Kees van Ierssel
 - Arabic Name: كيز فان إيرسيل
 - Birth Year: 1945
@@ -34,9 +34,7 @@ Cornelius Claudius Henricus " Kees " van Ierssel ( Dutch pronunciation: [kɔrˈn
 During his club career he played for FC Twente from 1969 to 1979. [ 2 ] He earned six caps for the Netherlands national team , [ 3 ] and was part of the squad that finished as runners-up in the 1974 FIFA World Cup .
 
 ### English Achievements
-- With FC Twente: Eredivisie runner-up
-- With Netherlands: FIFA World Cup runner-up
-- With FC Twente: KNVB Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 58
@@ -68,12 +66,16 @@ During his club career he played for FC Twente from 1969 to 1979. [ 2 ] He earne
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 14
+- Senior national team goals total: 0
+- Senior career goals total: 14
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1969–1979 | تفينتي أنشخيدة | 290 | 14 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1973–1974 | هولندا | 6 | 0 |

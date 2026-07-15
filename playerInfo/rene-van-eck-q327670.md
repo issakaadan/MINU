@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q327670
-- Generated At (UTC): 2026-07-13T08:56:46+00:00
+- Generated At (UTC): 2026-07-13T12:13:21+00:00
 - English Name: René van Eck
 - Arabic Name: رينيه فان إيك
 - Birth Year: 1966
@@ -65,12 +65,20 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 16
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 16
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1983–1986 | إكسلسيور | 50 | 0 |
+| 1986–1990 | دين بوستش | 127 | 1 |
+| 1990–1998 | لوزيرن | 240 | 6 |
+| 1998–2000 | نورنبرغ | 38 | 0 |
+| 2000–2001 | فينترتور | 21 | 1 |
+| 2001–2002 | كرينز | 31 | 0 |
+| - | مجموع | 507 | 8 |
 
 ### Arabic National Team Stats
 _No rows found._

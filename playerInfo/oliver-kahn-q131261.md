@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q131261
-- Generated At (UTC): 2026-07-13T08:52:00+00:00
+- Generated At (UTC): 2026-07-13T12:08:40+00:00
 - English Name: Oliver Kahn
 - Arabic Name: أوليفر كان
 - Birth Year: 1969
@@ -34,14 +34,7 @@ Oliver Rolf Kahn ( German: [ˈɔlivɐ ˈkaːn] ; born 15 June 1969) [ 3 ] is a G
 Kahn is one of the most successful German players in recent history, having won eight Bundesliga titles , six DFB-Pokals , the UEFA Cup in 1996, the UEFA Champions League and the Intercontinental Cup , both achieved in 2001. Regarded as one of the greatest goalkeepers of all time, [ 3 ] [ 6 ] [ 7 ] [ 8 ] his individual contributions have earned him a record four consecutive UEFA Best European Goalkeeper awards, as well as three IFFHS World's Best Goalkeeper awards, and two German Footballer of the Year trophies. At the 2002 FIFA World Cup , Kahn became the only goalkeeper in the tournament's history to win the Golden Ball . Kahn placed fifth in both the IFFHS Best Goalkeeper of the 21st Century and Best Goalkeeper of the Past 25 Years elections. [ 9 ] [ 10 ]
 
 ### English Achievements
-- With Karlsruher SC II: Oberliga Baden-Württemberg
-- With Bayern Munich: Bundesliga
-- With Germany: UEFA European Championship
-- Individual: Best Bundesliga Keeper
-- With Karlsruher SC II: Verbandsliga Nordbaden
-- With Bayern Munich: DFB-Pokal
-- With Bayern Munich: DFB-Ligapokal
-- With Bayern Munich: UEFA Champions League
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 0
@@ -51,10 +44,8 @@ Kahn is one of the most successful German players in recent history, having won 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1987–1990 | Karlsruher SC II | 73 | 0 |
-| 1987–1994 | Karlsruher SC | 128 | 0 |
-| 1994–2008 | Bayern Munich | 429 | 0 |
-| Total | Total | 630 | 0 |
+| 1987–1993 | Karlsruher SC | 148 | 0 |
+| 1994–2007 | Bayern Munich | 632 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -75,12 +66,19 @@ Kahn is one of the most successful German players in recent history, having won 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 0
+- Senior national team goals total: 0
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1987–1990 | كارلسروه II | 73 | 0 |
+| 1990–1994 | كارلسروه | 128 | 0 |
+| 1994–2008 | بايرن ميونخ | 429 | 0 |
+| - | مجموع | 630 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1995–2006 | ألمانيا | 86 | 0 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q325756
-- Generated At (UTC): 2026-07-13T08:57:01+00:00
+- Generated At (UTC): 2026-07-13T12:13:27+00:00
 - English Name: Thomas Mandl
 - Arabic Name: توماس ماندل
 - Birth Year: 1979
@@ -32,9 +32,7 @@
 Thomas Mandl (born 7 February 1979 in Eisenstadt ) is an Austrian football goalkeeper , who currently plays for First Vienna in the Austrian Football First League .
 
 ### English Achievements
-- Austrian Football Bundesliga (1)
-- Austrian Cup (1)
-- Swiss Super League (1)
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 0
@@ -70,12 +68,23 @@ Thomas Mandl (born 7 February 1979 in Eisenstadt ) is an Austrian football goalk
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 0
+- Senior national team goals total: 0
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1998–2004 | أوستريا فيينا | 65 | 0 |
+| 2004 | شتورم غراتس | 16 | 0 |
+| 2004–2005 | بازل | 1 | 0 |
+| 2005–2006 | أدميرا فاكر مودلينغ | 35 | 0 |
+| 2006–2007 | FC Nuorese [لغات أخرى] | 1 | 0 |
+| 2007–2008 | سوادورف [الإنجليزية] | 33 | 0 |
+| 2008–2010 | أدميرا فاكر مودلينغ | 57 | 0 |
+| 2010–2012 | لاسك لينتس | 70 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2004 | النمسا | 13 | 0 |

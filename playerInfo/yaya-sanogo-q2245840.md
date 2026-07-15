@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q2245840
-- Generated At (UTC): 2026-07-13T08:55:09+00:00
+- Generated At (UTC): 2026-07-13T12:11:37+00:00
 - English Name: Yaya Sanogo
 - Arabic Name: يايا سانوغو
 - Birth Year: 1993
@@ -36,30 +36,26 @@ A promising youth player, he came up at local Parisian club CO Les Ulis before m
 He is a former French youth international , and was a member of the side that won the 2013 FIFA U-20 World Cup .
 
 ### English Achievements
-- With Arsenal: FA Cup
-- With France U20: FIFA U-20 World Cup
-- With Arsenal: FA Community Shield
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 54
+- Club goals total: 38
 - Senior national team goals total: 18
-- Senior career goals total: 72
+- Senior career goals total: 56
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
 | 2009–2012 | Auxerre B | 31 | 15 |
-| 2010–2013 | Auxerre | 21 | 11 |
-| 2013–2017 | Arsenal | 11 | 0 |
-| 2015 | Crystal Palace | 10 | 0 |
-| 2015–2016 | Ajax | 3 | 0 |
-| 2015 | Jong Ajax | 3 | 0 |
-| 2016 | Charlton Athletic | 8 | 3 |
-| 2017–2020 | Toulouse | 63 | 12 |
-| 2021 | Huddersfield Town | 9 | 0 |
-| 2023–2024 | Urartu | 15 | 6 |
-| 2024 | Qingdao Red Lions | 19 | 6 |
-| 2025 | Amazonas | 0 | 0 |
+| 2009–2012 | Auxerre | 24 | 11 |
+| 2013–2016 | Arsenal | 20 | 1 |
+| 2014 | Crystal Palace (loan) | 11 | 1 |
+| 2015 | Ajax (loan) | 6 | 0 |
+| 2015 | Jong Ajax (loan) | 3 | 0 |
+| 2015 | Charlton Athletic (loan) | 8 | 3 |
+| 2017–2019 | Toulouse | 72 | 16 |
+| 2020 | Huddersfield Town | 9 | 0 |
+| 2022–2023 | Urartu | 17 | 6 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -82,12 +78,28 @@ He is a former French youth international , and was a member of the side that wo
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 41
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 41
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009–2012 | أوكسير | 31 | 15 |
+| 2010–2013 | أوكسير | 21 | 11 |
+| 2013–2017 | أرسنال | 11 | 0 |
+| 2015 | كريستال بالاس | 10 | 0 |
+| 2015–2016 | أياكس أمستردام | 3 | 0 |
+| 2015 | شباب أياكس | 3 | 0 |
+| 2016 | تشارلتون أثلتيك | 8 | 3 |
+| 2017–2020 | تولوز | 63 | 12 |
+| 2021 | هدرسفيلد تاون | 9 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008–2009 | فرنسا تحت 16 | 18 | 18 |
+| 2009–2010 | فرنسا تحت 17 | 16 | 9 |
+| 2010–2011 | فرنسا تحت 19 | 9 | 2 |
+| 2013 | فرنسا تحت 20 | 10 | 5 |
+| 2011–2014 | فرنسا تحت 21 | 8 | 5 |

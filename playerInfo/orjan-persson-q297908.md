@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q297908
-- Generated At (UTC): 2026-07-13T08:56:09+00:00
+- Generated At (UTC): 2026-07-13T12:12:38+00:00
 - English Name: Örjan Persson
 - Arabic Name: أوريان بيرسون
 - Birth Year: 1942
@@ -64,12 +64,19 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 61
+- Senior national team goals total: 7
+- Senior career goals total: 68
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1961–1964 | أورغريته | 81 | 12 |
+| 1964–1967 | دندي يونايتد | 77 | 15 |
+| 1967–1970 | رينجرز | 72 | 22 |
+| 1971–1974 | أورغريته | 87 | 12 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1962–1974 | السويد [ 1 ] | 48 | 7 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q373715
-- Generated At (UTC): 2026-07-13T08:57:02+00:00
+- Generated At (UTC): 2026-07-13T12:13:28+00:00
 - English Name: Tomáš Huber
 - Arabic Name: طوماش هوبر
 - Birth Year: 1985
@@ -65,12 +65,18 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 5
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 5
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2007 | [الإنجليزية] | 12 | 0 |
+| 2007–2011 | يابلونتس | 57 | 3 |
+| 2009 | سبارتا براغ | 8 | 0 |
+| 2011 | روجومبيروك | 12 | 0 |
+| 2012–2014 | نادي داك 1904 دونيسكا ستريدا | 51 | 2 |
 
 ### Arabic National Team Stats
 _No rows found._

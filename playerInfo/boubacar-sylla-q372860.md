@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q372860
-- Generated At (UTC): 2026-07-13T08:56:16+00:00
+- Generated At (UTC): 2026-07-13T12:12:44+00:00
 - English Name: Boubacar Sylla
 - Arabic Name: بوبكر سيلا
 - Birth Year: 1991
@@ -66,12 +66,21 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 0
+- Senior national team goals total: 0
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009–2012 | شاتورو | 19 | 0 |
+| 2010–2012 | شاتورو | 5 | 0 |
+| 2012 | تشيربورغ | 11 | 0 |
+| 2012–2014 | لانس | 35 | 0 |
+| 2014–2015 | لانس | 7 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2011 | Mali U20 | 6 | 0 |
+| 2013– | مالي | 2 | 0 |

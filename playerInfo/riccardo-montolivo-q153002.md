@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q153002
-- Generated At (UTC): 2026-07-13T08:53:11+00:00
+- Generated At (UTC): 2026-07-13T12:09:47+00:00
 - English Name: Riccardo Montolivo
 - Arabic Name: ريكاردو مونتوليفو
 - Birth Year: 1985
@@ -36,24 +36,19 @@ A versatile and creative player, Montolivo began his career with Atalanta in 200
 Montolivo made his debut for the Italy national team in 2007 against South Africa , Since then, he represented the country in two FIFA Confederations Cups ( 2009 and 2013 , winning a bronze medal in the latter edition of the tournament), as well as in the 2010 FIFA World Cup and UEFA Euro 2012 , the latter where he played as a starter in the final . He also participated in the 2008 Summer Olympics . In total, he obtained 66 senior caps for Italy between 2007 and 2017, scoring 2 goals.
 
 ### English Achievements
-- With AC Milan: Supercoppa Italiana
-- With Italy: UEFA European Championship
-- Individual: Serie A Young Footballer of the Year
-- With Italy: FIFA Confederations Cup
-- Individual: Player Career Award in the Globe Soccer Awards
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 36
-- Senior national team goals total: 2
-- Senior career goals total: 38
+- Senior national team goals total: 3
+- Senior career goals total: 39
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2003–2005 | Atalanta | 73 | 7 |
-| 2005–2012 | Fiorentina | 219 | 17 |
-| 2012–2019 | AC Milan | 129 | 8 |
-| Total | Total | 421 | 32 |
+| 2003–2005 | Atalanta | 82 | 7 |
+| 2005–2011 | Fiorentina | 259 | 19 |
+| 2012–2018 | AC Milan | 158 | 10 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -71,15 +66,26 @@ Montolivo made his debut for the Italy national team in 2007 against South Afric
 ريكاردو مونتوليفو ( الإيطالية : Riccardo Montolivo )، لاعب كرة قدم إيطالي سابق. من مواليد 18 يناير 1985 في كارافادجو بمقاطعة بيرغامو . كان يُجيد اللعب في خانة الوسط المحوري ، سبق له أن مثّل المنتخب الإيطالي في العديد من المحافل الدولية، وقد اعتزل كرة القدم عام 2019. [ 2 ] [ 3 ]
 
 ### Arabic Achievements
-_No honours section found._
+- كأس السوبر الإيطالي (1)
+- بطولة أمم أوروبا الوصيف
+- كأس القارات الميدالية البرونزية
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 64
+- Senior national team goals total: 2
+- Senior career goals total: 66
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2003–2005 | أتالانتا | 73 | 7 |
+| 2005–2012 | فيورنتينا | 219 | 17 |
+| 2012–2019 | ميلان | 129 | 8 |
+| - | مجموع | 421 | 32 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004–2007 | إيطاليا تحت 21 سنة | 20 | 3 |
+| 2008 | إيطاليا في الألعاب الأولمبية الصيفية 2008 [لغات أخرى] | 5 | 1 |
+| 2007–2017 | إيطاليا | 66 | 2 |

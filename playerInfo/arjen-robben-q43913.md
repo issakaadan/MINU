@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q43913
-- Generated At (UTC): 2026-07-13T08:49:53+00:00
+- Generated At (UTC): 2026-07-13T12:07:02+00:00
 - English Name: Arjen Robben
 - Arabic Name: آريين روبن
 - Birth Year: 1984
@@ -34,14 +34,7 @@ Arjen Robben ( Dutch pronunciation: [ˈɑrjə(n) ˈrɔbə(n)] ⓘ ; born 23 Janu
 Robben first came to prominence with Groningen , for whom he was player of the year for the 2000–01 Eredivisie season. Two years later he signed for PSV , where he became the Netherlands' Young Player of the Year and won an Eredivisie title. [ 7 ] The following season Robben's signature was pursued by leading clubs, and after protracted transfer negotiations, he joined Chelsea in 2004. Robben's Chelsea debut was delayed through injury, but upon returning to fitness, he helped Chelsea bring home two consecutive Premier League titles, and was the Premier League Player of the Month in November 2004. [ 8 ] [ 9 ] After a third season in England which was punctuated by injury, Robben signed for Real Madrid in a transfer worth €35 million.
 
 ### English Achievements
-- With PSV: Eredivisie
-- With Chelsea: Premier League
-- With Real Madrid: La Liga
-- With Bayern Munich: Bundesliga
-- With Netherlands: FIFA World Cup runner-up
-- Individual: Johan Cruyff Trophy
-- With PSV: Johan Cruyff Shield
-- With Chelsea: FA Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 209
@@ -51,13 +44,11 @@ Robben first came to prominence with Groningen , for whom he was player of the y
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2000–2002 | Groningen | 46 | 8 |
-| 2002–2004 | PSV | 56 | 17 |
-| 2004–2007 | Chelsea | 67 | 15 |
-| 2007–2009 | Real Madrid | 50 | 11 |
-| 2009–2019 | Bayern Munich | 201 | 99 |
-| 2020–2021 | Groningen | 6 | 0 |
-| Total | Total | 426 | 150 |
+| 2000–2020 | Groningen | 59 | 12 |
+| 2002–2003 | PSV | 75 | 21 |
+| 2004–2006 | Chelsea | 106 | 19 |
+| 2007–2008 | Real Madrid | 65 | 13 |
+| 2009–2018 | Bayern Munich | 309 | 144 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -80,15 +71,35 @@ Robben first came to prominence with Groningen , for whom he was player of the y
 بدأ روبن مسيرته الاحترافية عام 2000م وذلك مع نادي غرونينغن ، بعد ذلك بعامين، انضم إلى نادي آيندهوفن ، حيث أصبح أفضل لاعب شاب في هولندا وفاز بلقب الدوري الهولندي الممتاز . [ 8 ] في الموسم التالي كانت الأندية الكبيرة في أوروبا تتبع روبن، وبعد مفاوضات مطولة، انضم إلى تشيلسي في عام 2004. تأخر مشاركة روبن مع تشيلسي لأول مرة بسبب الإصابة، لكن بعد عودة لياقته البدنية، ساعد تشيلسي بالفوز بلقبين متتاليين في الدوري الإنجليزي الممتاز ، وحصل على جائزة أفضل لاعب في الدوري لشهر نوفمبر، 2005 . [ 9 ] [ 10 ] بعد موسم ثالث في إنجلترا تخللته إصابة، انتقل روبن إلى ريال مدريد مقابل 35 مليون يورو.
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي آيندهوفن: الدوري الهولندي
+- مع النادي تشيلسي: الدوري الإنجليزي الممتاز
+- مع النادي ريال مدريد: الدوري الإسباني
+- مع النادي ريال مدريد: الدوري الألماني
+- مع المنتخب هولندا: كأس العالم الوصيف
+- الفردية: جائزة أفضل لاعب هولندي
+- مع النادي آيندهوفن: كأس السوبر الهولندي
+- مع النادي تشيلسي: كأس الاتحاد الإنجليزي
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 210
+- Senior national team goals total: 37
+- Senior career goals total: 247
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000–2001 | غرونينغن | 52 | 12 |
+| 2002–2003 | آيندهوفن | 75 | 22 |
+| 2004–2006 | تشيلسي | 105 | 19 |
+| 2007–2008 | ريال مدريد | 65 | 13 |
+| 2009–2018 | بايرن ميونخ | 309 | 144 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1999 | هولندا تحت 15 | 1 | 0 |
+| 1999–2000 | هولندا تحت 16 | 11 | 4 |
+| 2000 | هولندا تحت 17 | 3 | 1 |
+| 2001–2002 | هولندا تحت 19 | 8 | 2 |
+| 2001–2003 | هولندا تحت 21 | 8 | 1 |
+| 2003–2017 | هولندا | 96 | 37 |

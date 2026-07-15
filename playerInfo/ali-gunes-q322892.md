@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q322892
-- Generated At (UTC): 2026-07-13T08:56:12+00:00
+- Generated At (UTC): 2026-07-13T12:12:40+00:00
 - English Name: Ali Güneş
 - Arabic Name: علي غونيش
 - Birth Year: 1978
@@ -69,12 +69,24 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 40
+- Senior national team goals total: 0
+- Senior career goals total: 40
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997–2000 | فرايبورغ | 58 | 8 |
+| 2000–2004 | فنربخشة | 91 | 5 |
+| 2004–2007 | بشكتاش | 53 | 3 |
+| 2007–2009 | SC Freiburg | 26 | 4 |
+| 2009–2010 | قاسم باشا | 16 | 0 |
+| 2010–2011 | بوجاسبور | 2 | 0 |
+| - | مجموع | 246 | 20 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1998–2000 | تركيا تحت 21 | 9 | 0 |
+| 2002–2003 | منتخب تركيا ب لكرة القدم [الإنجليزية] | 3 | 0 |
+| 2004 | تركيا | 1 | 0 |

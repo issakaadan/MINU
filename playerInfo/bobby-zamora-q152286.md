@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q152286
-- Generated At (UTC): 2026-07-13T08:54:07+00:00
+- Generated At (UTC): 2026-07-13T12:10:39+00:00
 - English Name: Bobby Zamora
 - Arabic Name: بوبي زامورا
 - Birth Year: 1981
@@ -36,14 +36,7 @@ Following a spell at Tottenham Hotspur , Zamora was signed by West Ham United , 
 Zamora also played for the England national under-21 team before gaining his first full cap at senior level almost a decade later.
 
 ### English Achievements
-- With Brighton & Hove Albion: Football League Third Division
-- With West Ham United: Football League Championship play-offs
-- With Fulham: UEFA Europa League runner-up
-- With Queens Park Rangers: Football League Championship play-offs
-- Individual: PFA Fans' Player of the Year
-- With Brighton & Hove Albion: Football League Second Division
-- With West Ham United: FA Cup runner-up
-- Individual: PFA Team of the Year
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 190
@@ -53,16 +46,14 @@ Zamora also played for the England national under-21 team before gaining his fir
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1999–2000 | Bristol Rovers | 4 | 0 |
-| 2000 | Bath City | 5 | 7 |
-| 2000 | Brighton & Hove Albion | 6 | 6 |
-| 2000–2003 | Brighton & Hove Albion | 119 | 70 |
-| 2003–2004 | Tottenham Hotspur | 16 | 0 |
-| 2004–2008 | West Ham United | 130 | 30 |
-| 2008–2012 | Fulham | 91 | 20 |
-| 2012–2015 | Queens Park Rangers | 83 | 12 |
-| 2015–2016 | Brighton & Hove Albion | 26 | 7 |
-| Total | Total | 480 | 152 |
+| 1999–2000 | Bristol Rovers | 6 | 0 |
+| 1999–2000 | Bath City (loan) | 6 | 8 |
+| 1999–2000 | Brighton & Hove Albion (loan) | 6 | 6 |
+| 2000–2015 | Brighton & Hove Albion | 162 | 90 |
+| 2003 | Tottenham Hotspur | 18 | 1 |
+| 2003–2007 | West Ham United | 152 | 40 |
+| 2008–2011 | Fulham | 134 | 37 |
+| 2011–2014 | Queens Park Rangers | 92 | 14 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -84,12 +75,26 @@ Zamora also played for the England national under-21 team before gaining his fir
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 304
+- Senior national team goals total: 0
+- Senior career goals total: 304
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1999–2000 | بريستول روفيرز | 4 | 0 |
+| 2000 | باث سيتي | 5 | 7 |
+| 2000 | برايتون أند هوف ألبيون | 6 | 6 |
+| 2000–2003 | برايتون أند هوف ألبيون | 119 | 70 |
+| 2003–2004 | توتنهام هوتسبير | 16 | 0 |
+| 2004–2008 | وست هام يونايتد | 130 | 30 |
+| 2008–2012 | فولهام | 91 | 20 |
+| 2012–2015 | كوينز بارك رينجرز | 83 | 12 |
+| 2015–2016 | برايتون أند هوف ألبيون | 26 | 7 |
+| - | مجموع | 480 | 152 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2003 | إنجلترا تحت 21 | 6 | 0 |
+| 2010–2011 | إنجلترا | 2 | 0 |

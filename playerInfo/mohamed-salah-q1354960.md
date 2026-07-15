@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1354960
-- Generated At (UTC): 2026-07-13T08:49:14+00:00
+- Generated At (UTC): 2026-07-13T12:06:33+00:00
 - English Name: Mohamed Salah
 - Arabic Name: محمد صلاح
 - Birth Year: 1992
@@ -34,14 +34,7 @@ Mohamed Salah Hamed Mahrous Ghaly [ i ] (born 15 June 1992) is an Egyptian profe
 Salah began his senior career in 2010 at Al-Mokawloon , departing in 2012 to join Basel , where he won two Swiss Super League titles. In 2014, he joined Chelsea for a reported fee of £11 million, but limited gametime led to successive loans to Fiorentina and Roma , who later signed him permanently for €15 million. In the 2016–17 season , Salah was a key figure in Roma's unsuccessful title bid, reaching double figures in both goals and assists. In 2017, Salah moved to Liverpool for £36.9 million, a club record at the time. In his first season , he set the record for most Premier League goals scored (32) in a 38-game season and helped Liverpool to the 2018 Champions League final . Having formed a formidable attacking trio with Roberto Firmino and Sadio Mané , Salah went on to be an integral player in the club's Champions League and Premier League title successes in the following two seasons. He has since also won the FA Cup , EFL Cup , FA Community Shield , UEFA Super Cup and the FIFA Club World Cup . In the 2024–25 season , he won a second league title while breaking the record for the most goal contributions in a 38-game Premier League campaign. For his performances during the season, he won the PFA Players' Player of the Year award for a record-breaking third time.
 
 ### English Achievements
-- With Basel: Swiss Super League
-- With Liverpool: Premier League
-- With Egypt: Africa Cup of Nations runner-up
-- Individual: CAF Most Promising Talent of the Year
-- With Liverpool: FA Cup
-- With Liverpool: EFL Cup
-- With Liverpool: FA Community Shield
-- With Liverpool: UEFA Champions League
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 334
@@ -51,13 +44,13 @@ Salah began his senior career in 2010 at Al-Mokawloon , departing in 2012 to joi
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2010–2012 | Al-Mokawloon | 40 | 11 |
-| 2012–2014 | Basel | 47 | 9 |
-| 2014–2016 | Chelsea | 13 | 2 |
-| 2015 | Fiorentina | 16 | 6 |
-| 2015–2016 | Roma | 34 | 14 |
-| 2016–2017 | Roma | 31 | 15 |
-| 2017–2026 | Liverpool | 315 | 191 |
+| 2009–2011 | Al Mokawloon Al Arab | 46 | 12 |
+| 2012–2013 | Basel | 79 | 20 |
+| 2013–2014 | Chelsea | 19 | 2 |
+| 2014 | Fiorentina (loan) | 26 | 9 |
+| 2015 | Roma (loan) | 42 | 15 |
+| 2016 | Roma | 83 | 34 |
+| 2017–2025 | Liverpool | 442 | 257 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -77,15 +70,34 @@ Salah began his senior career in 2010 at Al-Mokawloon , departing in 2012 to joi
 بدأ مسيرته في صفوف الناشئين في نادي المقاولون العرب حتى تم تصعيده إلى الفريق الأول، [ 18 ] ثم اتجه للاحتراف في أوروبا وانضم لنادي بازل السويسري وتشيلسي الإنجليزي وفيورنتينا وروما الإيطاليين وناديه الحالي ليفربول الإنجليزي. حقق صلاح مع ناديه الأوروبي الأول بازل العديد من الألقاب، [ 19 ] [ 20 ] فحصل معه على لقب دوري السوبر السويسري موسم 2012–2013 ، وجائزة أفضل لاعب في دوري السوبر السويسري لعام 2013، ثم انضم محمد صلاح إلى نادي تشيلسي الإنجليزي وحصل معهم على لقب الدوري الإنجليزي الممتاز موسم 2014–15 وكذلك كأس رابطة الأندية الإنجليزية المحترفة 2014–15 ولكنه لم يشارك بصفة أساسية مع الفريق ثم انتقل على سبيل الإعارة لنادي فيورنتينا الإيطالي ثم انتقل إلى نادي روما وشارك معه طوال موسمي 2015–16 و 2016–17 في 83 مباراة أحرز فيها 34 هدفاً.
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي بازل: دوري السوبر السويسري
+- مع النادي ليفربول: الدوري الإنجليزي الممتاز
+- مع المنتخب مصر تحت 20: كأس الأمم الأفريقية تحت 20 سنة المركز الثالث
+- مع المنتخب مصر: كأس الأمم الأفريقية الوصيف
+- الفردية: جائزة أفضل لاعب صاعد في أفريقيا
+- مع النادي ليفربول: كأس الاتحاد الإنجليزي
+- مع النادي ليفربول: كأس رابطة الأندية الإنجليزية المحترفة
+- مع النادي ليفربول: درع الاتحاد الإنجليزي
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 334
+- Senior national team goals total: 60
+- Senior career goals total: 394
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009–2011 | المقاولون العرب | 45 | 12 |
+| 2012–2013 | بازل | 79 | 20 |
+| 2013–2014 | تشيلسي | 19 | 2 |
+| 2014 | فيورنتينا (إعارة) | 26 | 9 |
+| 2015 | روما (إعارة) | 42 | 15 |
+| 2016 | روما | 83 | 34 |
+| 2017–2025 | ليفربول | 439 | 257 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2010–2011 | مصر تحت 20 | 11 | 3 |
+| 2011–2012 | مصر تحت 23 | 11 | 4 |
+| 2011– | مصر | 105 | 60 |

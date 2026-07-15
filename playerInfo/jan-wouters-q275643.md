@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q275643
-- Generated At (UTC): 2026-07-13T08:54:29+00:00
+- Generated At (UTC): 2026-07-13T12:11:01+00:00
 - English Name: Jan Wouters
 - Arabic Name: يان ووترس
 - Birth Year: 1960
@@ -32,14 +32,7 @@
 Jan Jacobus Wouters ( Dutch: [jɑn jaːkoːbʏs ˈʋʌutərs] ; born 17 July 1960) is a Dutch professional football coach and former player. He played as a defensive midfielder and was Dutch Footballer of the Year in 1990. [ 2 ]
 
 ### English Achievements
-- With Utrecht: KNVB Cup
-- With Ajax: Eredivisie
-- With Bayern Munich: Bundesliga
-- With PSV: KNVB Cup
-- With Netherlands: UEFA European Championship
-- Individual: Dutch Footballer of the Year
-- With Ajax: KNVB Cup
-- With Ajax: UEFA Cup Winners' Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 60
@@ -49,11 +42,10 @@ Jan Jacobus Wouters ( Dutch: [jɑn jaːkoːbʏs ˈʋʌutərs] ; born 17 July 196
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1980–1986 | Utrecht | 168 | 21 |
-| 1986–1992 | Ajax | 150 | 21 |
-| 1992–1994 | Bayern Munich | 66 | 6 |
-| 1994–1996 | PSV | 52 | 5 |
-| Total | Total | 434 | 55 |
+| 1980–1985 | Utrecht | 193 | 25 |
+| 1986–1991 | Ajax | 385 | 46 |
+| 1991–1993 | Bayern Munich | 76 | 7 |
+| 1993–1995 | PSV | 63 | 5 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -74,12 +66,20 @@ Jan Jacobus Wouters ( Dutch: [jɑn jaːkoːbʏs ˈʋʌutərs] ; born 17 July 196
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 108
+- Senior national team goals total: 4
+- Senior career goals total: 112
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1980–1986 | أوترخت | 168 | 21 |
+| 1986–1992 | أياكس أمستردام | 150 | 21 |
+| 1992–1994 | بايرن ميونخ | 66 | 6 |
+| 1994–1996 | آيندهوفن | 52 | 5 |
+| - | مجموع | 434 | 55 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1982–1994 [ 1 ] | هولندا | 70 | 4 |

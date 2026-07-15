@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q80471
-- Generated At (UTC): 2026-07-13T08:49:03+00:00
+- Generated At (UTC): 2026-07-13T12:06:24+00:00
 - English Name: Miroslav Klose
 - Arabic Name: ميروسلاف كلوزه
 - Birth Year: 1978
@@ -32,31 +32,22 @@
 Miroslav Josef Klose ( German: [ˈmiːʁoslaf ˈkloːzə] ⓘ ; Polish : Mirosław Józef Klose ; born Mirosław Marian Klose ; [ 4 ] 9 June 1978) [ 5 ] is a German professional football manager and former player who is head coach of 2. Bundesliga club 1. FC Nürnberg . He is the all-time top scorer for Germany and was the record-holder for most goals scored in the FIFA World Cup (16), a record he held for twelve years that was broken by Lionel Messi (21 goals). [ 6 ] Starting his career at FC 08 Homburg , Klose played in the Bundesliga for Kaiserslautern before becoming one of the most prolific scorers in the league with Werder Bremen , where he was awarded the German Footballer of the Year in 2006 [ 7 ] and also named in the kicker Bundesliga Team of the Season in 2004–05 and 2005–06. [ 8 ] [ 9 ] His performances saw him move to Bayern Munich in 2007. During his time at Bayern, Klose won the 2007–08 and 2009–10 league titles. In 2011, Klose moved to Serie A club Lazio , where he won the 2012–13 Coppa Italia and eventually finished his playing career in 2016 after five years at the club.
 
 ### English Achievements
-- With Werder Bremen: DFL-Ligapokal
-- With Bayern Munich: Bundesliga
-- With Lazio: Coppa Italia
-- With Germany: FIFA World Cup
-- Individual: FIFA World Cup Silver Shoe
-- Records: Germany all-time top scorer (71 goals)
-- With Bayern Munich: DFB-Pokal
-- With Bayern Munich: DFL-Ligapokal
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 258
+- Club goals total: 232
 - Senior national team goals total: 71
-- Senior career goals total: 329
+- Senior career goals total: 303
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1998–1999 | FC 08 Homburg II | 15 | 10 |
-| 1998–1999 | FC 08 Homburg | 18 | 1 |
-| 1999–2001 | 1. FC Kaiserslautern II | 50 | 26 |
-| 1999–2004 | 1. FC Kaiserslautern | 120 | 44 |
-| 2004–2007 | Werder Bremen | 89 | 53 |
-| 2007–2011 | Bayern Munich | 98 | 24 |
-| 2011–2016 | Lazio | 139 | 54 |
-| Total | Total | 529 | 212 |
+| 1998 | FC 08 Homburg | 18 | 1 |
+| 1999–2000 | 1. FC Kaiserslautern II | 50 | 26 |
+| 1999–2003 | 1. FC Kaiserslautern | 147 | 52 |
+| 2004–2006 | Werder Bremen | 132 | 63 |
+| 2007–2010 | Bayern Munich | 149 | 53 |
+| 2011–2015 | Lazio | 170 | 63 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -76,15 +67,29 @@ Miroslav Josef Klose ( German: [ˈmiːʁoslaf ˈkloːzə] ⓘ ; Polish : Mirosł
 يعتبر كلوزه الهداف التاريخي لمنتخب ألمانيا لكرة القدم برصيد 71 هدفًا. سجَّل 5 أهداف في كأس العالم 2002 وكأس العالم 2006 و4 أهدافٍ في كأس العالم 2010 وهدفين في كأس العالم 2014 منها هدف في مباراة فازت فيها ألمانيا بنتيجة 7-1 على البرازيل والتي أصبح بها هدافاً لمسابقة كأس العالم بـرصيد 16 هدفاً. [ 9 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي فيردر بريمن: كأس الدوري الألماني (1)
+- مع النادي بايرن ميونيخ: الدوري الألماني (2)
+- مع النادي لاتسيو: كأس إيطاليا (1)
+- مع المنتخب ألمانيا: كأس العالم (1)
+- الفردية: كأس العالم تشكيلة البطولة (2)
+- مع أرقام قياسية: هداف كأس العالم التاريخي (16 هدف).
+- مع النادي بايرن ميونيخ: كأس ألمانيا (2)
+- مع النادي بايرن ميونيخ: كأس الدوري الألماني (1)
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 231
+- Senior national team goals total: 71
+- Senior career goals total: 302
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1999–2003 | كايزرسلاوترن | 147 | 52 |
+| 2004–2006 | فيردر بريمن | 132 | 63 |
+| 2007–2010 | بايرن ميونخ | 149 | 53 |
+| 2011–2015 | لاتسيو | 170 | 63 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001–2014 | ألمانيا | 137 | 71 |

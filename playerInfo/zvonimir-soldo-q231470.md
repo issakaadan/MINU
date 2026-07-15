@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q231470
-- Generated At (UTC): 2026-07-13T08:55:10+00:00
+- Generated At (UTC): 2026-07-13T12:11:38+00:00
 - English Name: Zvonimir Soldo
 - Arabic Name: زفونيمير سولدو
 - Birth Year: 1967
@@ -32,14 +32,7 @@
 Zvonimir Soldo (born 2 November 1967) is a Croatian football manager and former player. During his playing career, he mostly played as defensive midfielder .
 
 ### English Achievements
-- With Inker Zaprešić: Croatian Cup
-- With Dinamo Zagreb: Croatian First League
-- With VfB Stuttgart: DFB-Pokal
-- With Croatia: FIFA World Cup third place
-- Orders [ edit ]: Order of Danica Hrvatska with face of Franjo Bučar – 1995
-- With Dinamo Zagreb: Croatian Cup
-- With VfB Stuttgart: UEFA Cup Winners' Cup Runner-up
-- With VfB Stuttgart: UEFA Intertoto Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 22
@@ -73,12 +66,19 @@ Zvonimir Soldo (born 2 November 1967) is a Croatian football manager and former 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 44
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 44
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1988–1990 | دينامو زغرب | 36 | 0 |
+| 1990–1991 | نادي زادار [الإنجليزية] | 26 | 2 |
+| 1991–1994 | إنتر زابرشيتش | 55 | 2 |
+| 1994–1996 | دينامو زغرب | 51 | 3 |
+| 1996–2006 | شتوتغارت | 301 | 15 |
+| - | مجموع | 469 | 22 |
 
 ### Arabic National Team Stats
 _No rows found._

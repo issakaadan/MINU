@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import sys
 import threading
 import time
 import unicodedata
@@ -18,6 +19,12 @@ from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
+BACKEND_ROOT = PROJECT_ROOT / "backend"
+if str(BACKEND_ROOT) not in sys.path:
+    sys.path.insert(0, str(BACKEND_ROOT))
+
+from app.wikipedia_career_stats import CareerStatLine, parse_wikipedia_career_stats
+
 DEFAULT_DATASET_PATH = PROJECT_ROOT / "backend" / "data" / "players.seed.json"
 DEFAULT_OUTPUT_DIR = PROJECT_ROOT / "playerInfo"
 USER_AGENT = "MINUPlayerInfoExporter/1.0 (https://minu-theta.vercel.app)"
@@ -26,27 +33,10 @@ WIKIPEDIA_API_URLS = {
     "en": "https://en.wikipedia.org/w/api.php",
     "ar": "https://ar.wikipedia.org/w/api.php",
 }
-TOTAL_ROW_PATTERN = re.compile(r"^(total|totals|المجموع|الإجمالي|الاجمالي)$", re.IGNORECASE)
-YOUTH_TEAM_PATTERN = re.compile(
-    r"\bU(?:17|18|19|20|21|23)\b|under-\d+|youth|juvenil|school|schools|منتخب الشباب",
-    re.IGNORECASE,
-)
 REQUEST_LOCK = threading.Lock()
 LAST_REQUEST_AT = 0.0
 REQUEST_INTERVAL_SECONDS = 0.12
 WIKIDATA_BATCH_SIZE = 40
-
-
-@dataclass
-class CareerStatLine:
-    years_label: str
-    team_name: str
-    apps: int | None
-    goals: int | None
-    section: Literal["club", "national"]
-    is_total: bool = False
-    is_youth: bool = False
-
 
 @dataclass
 class WikipediaPageExport:
@@ -74,6 +64,22 @@ class PlayerExportResult:
 
 def clean_text(value: str) -> str:
     return re.sub(r"\s+", " ", value.replace("\u00a0", " ").strip())
+
+
+def is_placeholder_text(value: str) -> bool:
+    normalized = clean_text(value).strip("_").casefold()
+    return normalized in {
+        "",
+        "none",
+        "unavailable",
+        "no",
+        "no introduction found.",
+        "no honours section found.",
+        "no rows found.",
+        "غير متوفر",
+        "غير متوفر.",
+        "لا يوجد",
+    }
 
 
 def normalize_question(value: str) -> str:
@@ -328,239 +334,6 @@ def extract_intro_from_html(html: str) -> str:
 
     return "\n\n".join(paragraphs)
 
-
-def parse_wikipedia_career_stats(html: str) -> dict[str, Any] | None:
-    soup = BeautifulSoup(html, "html.parser")
-    infobox = soup.select_one("table.infobox")
-    if infobox is None:
-        return None
-
-    current_section: Literal["club", "national"] | None = None
-    club_rows: list[CareerStatLine] = []
-    national_rows: list[CareerStatLine] = []
-
-    for row in infobox.select("tr"):
-        section_header = extract_infobox_section_header(row)
-        if section_header:
-            if is_senior_career_header(section_header):
-                current_section = "club"
-            elif is_national_career_header(section_header):
-                current_section = "national"
-            elif is_managerial_career_header(section_header):
-                current_section = None
-            continue
-
-        if current_section not in {"club", "national"}:
-            continue
-
-        th_cells = row.find_all("th", recursive=False)
-        td_cells = row.find_all("td", recursive=False)
-        if len(th_cells) != 1 or len(td_cells) < 3:
-            continue
-
-        years_label = clean_text(th_cells[0].get_text(" ", strip=True))
-        team_name = extract_career_team_name(td_cells[0])
-        apps = parse_stat_number(td_cells[1].get_text(" ", strip=True))
-        goals = parse_stat_number(td_cells[2].get_text(" ", strip=True))
-        is_total = bool(TOTAL_ROW_PATTERN.search(team_name) or TOTAL_ROW_PATTERN.search(years_label))
-
-        if is_total and not team_name:
-            team_name = "Total"
-        if not team_name or goals is None or team_name.lower() == "team":
-            continue
-
-        line = CareerStatLine(
-            years_label=years_label,
-            team_name=team_name,
-            apps=apps,
-            goals=goals,
-            section=current_section,
-            is_total=is_total,
-            is_youth=is_non_senior_team_label(team_name),
-        )
-        if current_section == "club":
-            club_rows.append(line)
-        else:
-            national_rows.append(line)
-
-    if not club_rows and not national_rows:
-        return None
-
-    club_goals_total = club_goals_total_for_rows(club_rows)
-    detailed_club_goals_total = parse_detailed_club_goals_total(soup)
-    if detailed_club_goals_total is not None and (
-        club_goals_total is None or detailed_club_goals_total >= club_goals_total
-    ):
-        club_goals_total = detailed_club_goals_total
-    national_team_goals_total = national_team_goals_total_for_rows(national_rows)
-    career_goals_total = None
-    if club_goals_total is not None or national_team_goals_total is not None:
-        career_goals_total = (club_goals_total or 0) + (national_team_goals_total or 0)
-
-    return {
-        "club_rows": club_rows,
-        "national_rows": national_rows,
-        "club_goals_total": club_goals_total,
-        "national_team_goals_total": national_team_goals_total,
-        "career_goals_total": career_goals_total,
-    }
-
-
-def extract_infobox_section_header(row) -> str:
-    header = row.select_one(".infobox-header")
-    if header is not None:
-        return clean_text(header.get_text(" ", strip=True))
-
-    if row.find("td", recursive=False) is not None:
-        return ""
-
-    first_cell = row.find(["th", "td"], recursive=False)
-    if first_cell is None:
-        return ""
-
-    colspan_value = int(first_cell.get("colspan", "1") or "1")
-    if colspan_value <= 1 and "infobox-header" not in (first_cell.get("class") or []):
-        return ""
-    return clean_text(first_cell.get_text(" ", strip=True))
-
-
-def is_senior_career_header(value: str) -> bool:
-    return bool(
-        re.search(r"^(senior career|club career)\*?$", value, flags=re.IGNORECASE)
-        or re.search(r"(المسيرة|المشوار).*(الأندية|الاحترافية|الكروية)", value)
-        or re.search(r"الأندية التي لعب لها", value)
-    )
-
-
-def is_national_career_header(value: str) -> bool:
-    return bool(
-        re.search(r"(international career|national team)", value, flags=re.IGNORECASE)
-        or re.search(r"(المسيرة|المشوار).*(الدولية|المنتخب)", value)
-        or re.search(r"(المنتخب|الدولي)", value)
-    )
-
-
-def is_managerial_career_header(value: str) -> bool:
-    return bool(
-        re.search(r"(managerial career|teams managed)", value, flags=re.IGNORECASE)
-        or re.search(r"(المسيرة التدريبية|التدريب|الفرق التي دربها)", value)
-    )
-
-
-def extract_career_team_name(team_cell) -> str:
-    linked_names = [
-        clean_text(anchor.get_text(" ", strip=True))
-        for anchor in team_cell.select("a")
-        if clean_text(anchor.get_text(" ", strip=True))
-    ]
-    team_name = clean_text(" ".join(linked_names)) or clean_text(team_cell.get_text(" ", strip=True))
-    team_name = re.sub(r"^(?:→|->)\s*", "", team_name)
-    return team_name
-
-
-def parse_stat_number(value: str) -> int | None:
-    matched = re.search(r"-?\d+", value.replace(",", ""))
-    return int(matched.group(0)) if matched else None
-
-
-def parse_detailed_club_goals_total(soup: BeautifulSoup) -> int | None:
-    best_total: int | None = None
-    best_score = -1
-
-    for table in soup.select("table.wikitable"):
-        if not is_detailed_club_career_table(table):
-            continue
-
-        for row in table.find_all("tr"):
-            cells = row.find_all(["th", "td"], recursive=False)
-            if len(cells) < 3:
-                continue
-
-            cell_texts = [clean_text(cell.get_text(" ", strip=True)) for cell in cells]
-            label = normalize_question(cell_texts[0] if cell_texts else "")
-            if not is_detailed_total_row_label(label):
-                continue
-
-            numeric_values = [
-                parse_stat_number(text)
-                for text in cell_texts[1:]
-            ]
-            numeric_values = [value for value in numeric_values if value is not None]
-            if not numeric_values:
-                continue
-
-            score = len(numeric_values) + (10 if "career total" in label else 0)
-            if score > best_score:
-                best_total = numeric_values[-1]
-                best_score = score
-
-    return best_total
-
-
-def is_detailed_club_career_table(table) -> bool:
-    caption = clean_text(table.caption.get_text(" ", strip=True) if table.caption else "")
-    normalized_caption = normalize_question(caption)
-    if any(
-        marker in normalized_caption
-        for marker in (
-            "appearances and goals by club",
-            "career statistics",
-            "احصاءات المسيره",
-            "احصائيات المسيره",
-            "احصاءات النادي",
-            "احصائيات النادي",
-            "احصاءات الانديه",
-            "احصائيات الانديه",
-        )
-    ):
-        return True
-
-    header_rows = table.find_all("tr", limit=3)
-    header_text = " ".join(
-        clean_text(row.get_text(" ", strip=True))
-        for row in header_rows
-    )
-    normalized_headers = normalize_question(header_text)
-    return (
-        any(marker in normalized_headers for marker in ("club", "season", "النادي", "الفريق", "الموسم"))
-        and "total" in normalized_headers
-    )
-
-
-def is_detailed_total_row_label(value: str) -> bool:
-    return bool(
-        re.search(
-            r"^(career total|total|totals|overall total|grand total|المجموع|الاجمالي|الإجمالي|اجمالي المسيره|إجمالي المسيرة)$",
-            value,
-            flags=re.IGNORECASE,
-        )
-    )
-
-
-def club_goals_total_for_rows(rows: list[CareerStatLine]) -> int | None:
-    explicit_total = next((row.goals for row in rows if row.is_total and row.goals is not None), None)
-    if explicit_total is not None:
-        return explicit_total
-    values = [row.goals for row in rows if row.goals is not None and not row.is_total]
-    return sum(values) if values else None
-
-
-def national_team_goals_total_for_rows(rows: list[CareerStatLine]) -> int | None:
-    values = [
-        row.goals
-        for row in rows
-        if row.goals is not None and not row.is_total and not row.is_youth
-    ]
-    return sum(values) if values else None
-
-
-def is_non_senior_team_label(value: str) -> bool:
-    return bool(
-        YOUTH_TEAM_PATTERN.search(value)
-        or re.search(r"\bB\b|\bolympic\b|\bamateur\b", value, flags=re.IGNORECASE)
-    )
-
-
 def extract_achievements_from_html(html: str, language: Literal["en", "ar"]) -> list[str]:
     soup = BeautifulSoup(html, "html.parser")
     root = soup.select_one(".mw-parser-output") or soup
@@ -574,44 +347,37 @@ def extract_achievements_from_html(html: str, language: Literal["en", "ar"]) -> 
         None,
     )
     if section_start is None:
-        return []
+        return extract_achievements_from_infobox(soup, language)
 
-    start_container = section_start
-    if hasattr(section_start, "parent") and section_start.parent is not None:
-        parent_name = getattr(section_start.parent, "name", "") or ""
-        if parent_name in {"div", "h2", "h3", "h4"}:
-            start_container = section_start.parent
+    start_container = heading_container_for(section_start)
 
     groups: list[tuple[str, list[str]]] = []
+    primary_group = ""
     current_group = ""
-    node = getattr(start_container, "next_sibling", None)
-    while node is not None:
+    for node in start_container.find_next_siblings():
         name = getattr(node, "name", None)
-        if name in {"h2"} or ("mw-heading2" in getattr(node, "get", lambda *_: [])("class", [])):
+        node_classes = getattr(node, "get", lambda *_: [])("class", []) or []
+        if name in {"h2"} or "mw-heading2" in node_classes:
             break
 
-        node_classes = getattr(node, "get", lambda *_: [])("class", []) or []
         if "hatnote" in node_classes:
-            node = node.next_sibling
             continue
 
         if name in {"h3", "h4"} or any(class_name in {"mw-heading3", "mw-heading4"} for class_name in node_classes):
-            heading_text = clean_text(node.get_text(" ", strip=True))
+            heading_text = normalize_achievement_group_label(node.get_text(" ", strip=True))
             if heading_text:
+                primary_group = heading_text
                 current_group = heading_text
-            node = node.next_sibling
             continue
 
         if name == "p":
             bold = node.find("b")
-            bold_label = clean_text(bold.get_text(" ", strip=True) if bold else "")
+            bold_label = normalize_achievement_group_label(bold.get_text(" ", strip=True) if bold else "")
             if bold_label and len(bold_label) <= 60:
-                current_group = bold_label
-            node = node.next_sibling
+                current_group = f"{primary_group} {bold_label}".strip() if primary_group and bold_label != primary_group else bold_label
             continue
 
         if name != "ul":
-            node = node.next_sibling
             continue
 
         items = [
@@ -621,10 +387,11 @@ def extract_achievements_from_html(html: str, language: Literal["en", "ar"]) -> 
         items = [item for item in items if item]
         if items:
             groups.append((current_group, items))
-        node = node.next_sibling
 
     filtered_groups = [entry for entry in groups if not should_skip_group(entry[0])]
     source_groups = filtered_groups if len(filtered_groups) >= 3 else groups
+    if not source_groups:
+        source_groups = extract_achievements_from_infobox(soup, language)
     seen: set[str] = set()
     achievements: list[str] = []
     max_items = 8
@@ -649,6 +416,63 @@ def extract_achievements_from_html(html: str, language: Literal["en", "ar"]) -> 
     return achievements
 
 
+def heading_container_for(node):
+    node_classes = getattr(node, "get", lambda *_: [])("class", []) or []
+    if node.name in {"h2", "h3", "h4"} or any(class_name.startswith("mw-heading") for class_name in node_classes):
+        return node
+
+    parent = getattr(node, "parent", None)
+    while parent is not None:
+        parent_name = getattr(parent, "name", "") or ""
+        parent_classes = getattr(parent, "get", lambda *_: [])("class", []) or []
+        if parent_name in {"div", "h2", "h3", "h4"} or any(class_name.startswith("mw-heading") for class_name in parent_classes):
+            return parent
+        parent = parent.parent
+    return node
+
+
+def extract_achievements_from_infobox(
+    soup: BeautifulSoup,
+    language: Literal["en", "ar"],
+) -> list[tuple[str, list[str]]]:
+    infobox = soup.select_one("table.infobox")
+    if infobox is None:
+        return []
+
+    groups: list[tuple[str, list[str]]] = []
+    for row in infobox.select("tr"):
+        cells = row.find_all(["th", "td"], recursive=False)
+        if not cells:
+            continue
+
+        first_text = clean_text(cells[0].get_text(" ", strip=True))
+        normalized_first = normalize_question(first_text)
+        if not first_text or not is_achievement_heading(normalized_first):
+            continue
+
+        items: list[str] = []
+        if len(cells) > 1:
+            for cell in cells[1:]:
+                items.extend(split_achievement_items_from_text(clean_text(cell.get_text(" ", strip=True))))
+        elif cells[0].name == "td":
+            items.extend(split_achievement_items_from_text(first_text))
+        if items:
+            groups.append((first_text, items))
+    return groups
+
+
+def split_achievement_items_from_text(value: str) -> list[str]:
+    cleaned = clean_text(value)
+    if not cleaned or is_placeholder_text(cleaned):
+        return []
+
+    parts = re.split(r"(?<=\))\s+(?=[^\s])", cleaned)
+    parts = [normalize_achievement_label(part) for part in parts if normalize_achievement_label(part)]
+    if parts:
+        return parts
+    return [normalize_achievement_label(cleaned)] if normalize_achievement_label(cleaned) else []
+
+
 def normalize_achievement_label(value: str) -> str:
     cleaned = clean_text(re.sub(r"\[[^\]]*]", " ", value))
     if not cleaned:
@@ -657,10 +481,16 @@ def normalize_achievement_label(value: str) -> str:
     return before_colon or cleaned
 
 
+def normalize_achievement_group_label(value: str) -> str:
+    cleaned = clean_text(re.sub(r"\[[^\]]*]", " ", value))
+    cleaned = re.sub(r"\bعدل(?:\s*\|\s*عدل المصدر)?\b", " ", cleaned)
+    return clean_text(cleaned)
+
+
 def is_achievement_heading(value: str) -> bool:
     return bool(
         re.search(r"^(honours|honors)$", value, flags=re.IGNORECASE)
-        or re.search(r"(الإنجازات|الانجازات|الألقاب|الالقاب|البطولات)", value)
+        or re.search(r"(الإنجازات|الانجازات|الألقاب|الالقاب|البطولات|الجوائز)", value)
     )
 
 
@@ -744,7 +574,7 @@ def render_achievements(items: list[str]) -> str:
 
 
 def render_intro(text: str) -> str:
-    return text if text else "_No introduction found._"
+    return text if text and not is_placeholder_text(text) else "_No introduction found._"
 
 
 def build_markdown(

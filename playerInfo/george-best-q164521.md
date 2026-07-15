@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q164521
-- Generated At (UTC): 2026-07-13T08:50:54+00:00
+- Generated At (UTC): 2026-07-13T12:07:49+00:00
 - English Name: George Best
 - Arabic Name: جورج بست
 - Birth Year: 1946
@@ -34,14 +34,7 @@ George Best (22 May 1946 – 25 November 2005) was a Northern Irish professional
 Born in Belfast , Best began his club career in England with Manchester United, with the scout who had spotted his talent at the age of 15 sending a telegram to manager Matt Busby which read: "I think I've found you a genius". After making his debut at age 17, he scored 179 goals in 470 appearances over 11 years and was the club's top goalscorer in the league for five consecutive seasons. [ 7 ] He won two League titles , two Charity Shields and the European Cup with the club.
 
 ### English Achievements
-- With Manchester United: Football League First Division
-- With Hibernian F.C.: East of Scotland Shield
-- With Northern Ireland: British Home Championship
-- Individual: Football League First Division top scorer
-- With Manchester United: Charity Shield
-- With Manchester United: European Cup
-- Individual: FWA Footballer of the Year
-- Individual: Ballon d'Or
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 251
@@ -51,21 +44,17 @@ Born in Belfast , Best began his club career in England with Manchester United, 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1963–1974 | Manchester United | 361 | 137 |
-| 1974 | Jewish Guild | 5 | 1 |
-| 1974 | Dunstable Town | 2 | 0 |
+| 1963–1973 | Manchester United | 474 | 181 |
+| 1974 | Dunstable Town | 0 | 0 |
 | 1975 | Stockport County | 3 | 2 |
-| 1975–1976 | Cork Celtic | 3 | 0 |
-| 1976 | Los Angeles Aztecs | 23 | 15 |
-| 1976–1977 | Fulham | 42 | 8 |
-| 1977–1978 | Los Angeles Aztecs | 32 | 12 |
-| 1978–1979 | Fort Lauderdale Strikers | 28 | 6 |
-| 1979–1980 | Hibernian | 17 | 3 |
+| 1975 | Cork Celtic | 3 | 0 |
+| 1976–1978 | Los Angeles Aztecs | 61 | 29 |
+| 1976–1977 | Fulham | 47 | 10 |
+| 1978–1979 | Fort Lauderdale Strikers | 33 | 7 |
+| 1979–1980 | Hibernian | 22 | 3 |
 | 1980–1981 | San Jose Earthquakes | 56 | 21 |
-| 1982–1983 | AFC Bournemouth | 5 | 0 |
+| 1982 | AFC Bournemouth | 5 | 0 |
 | 1983 | Brisbane Lions | 4 | 0 |
-| 1984 | Tobermore United | 1 | 0 |
-| Total | Total | 616 | 204 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -84,12 +73,26 @@ Born in Belfast , Best began his club career in England with Manchester United, 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 253
+- Senior national team goals total: 9
+- Senior career goals total: 262
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1963–1973 | مانشستر يونايتد | 474 | 181 |
+| 1975 | ستوكبورت كونتي | 3 | 2 |
+| 1975 | كورك سيلتيك | 3 | 0 |
+| 1976–1978 | لوس أنجلوس أزتيكس | 61 | 29 |
+| 1976–1977 | فولهام | 47 | 10 |
+| 1978–1979 | فورت لودرديل سترايكرز | 33 | 7 |
+| 1979–1980 | هيبرنيان | 22 | 3 |
+| 1980–1981 | سان هوزيه إيرثكويكس | 56 | 21 |
+| 1982 | بورنموث | 5 | 0 |
+| 1983 | كوينزلاند ليونز | 4 | 0 |
+| 1983 | توبرمور يونايتد | 1 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1964–1977 | أيرلندا الشمالية | 37 | 9 |

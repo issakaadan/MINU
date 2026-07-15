@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q17500
-- Generated At (UTC): 2026-07-13T08:49:34+00:00
+- Generated At (UTC): 2026-07-13T12:06:48+00:00
 - English Name: Xavi Hernández
 - Arabic Name: تشافي هيرنانديز
 - Birth Year: 1980
@@ -34,27 +34,19 @@ Xavier Hernández Creus (born 25 January 1980), commonly known as Xavi Hernánde
 Xavi joined La Masia , the Barcelona youth academy, at age 11 and made his first-team debut against Mallorca in August 1998, age 18. For Barcelona, he played 767 official matches, a former club record—now held by Lionel Messi —and scored 85 goals. [ 12 ] With the initial management guidance by Pep Guardiola and using the tiki-taka football philosophy, Xavi was part of a widely lauded midfield combination trio with Andrés Iniesta and Sergio Busquets ; from 2008 to 2015 the trio together were instrumental in Barcelona's exceptional on-field successes in 7 seasons, winning five La Liga titles, three Copa del Rey titles and three Champions League titles, including two continental trebles (all three titles simultaneously) in 2008–09 and 2014–15 . [ 13 ] [ 14 ] [ 15 ] [ 16 ] Xavi was the first player in the club's history to play 150 European and FIFA Club World Cup matches combined. [ 17 ] In 2015, he left Barcelona for Al Sadd , where he won six trophies before retiring in 2019.
 
 ### English Achievements
-- With Barcelona: La Liga
-- With Al Sadd: Qatar Stars League
-- With Spain: FIFA World Cup
-- Individual: World Soccer Player of the Year
-- Individual: Qatar Stars League Best Coach Award
-- With Decorations [ edit ]: Spanish Sportsman of the Year
-- With Barcelona: Copa del Rey
-- With Barcelona: Supercopa de España
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 113
+- Club goals total: 110
 - Senior national team goals total: 15
-- Senior career goals total: 128
+- Senior career goals total: 125
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1997–1999 | Barcelona B | 55 | 3 |
-| 1998–2015 | Barcelona | 505 | 58 |
-| 2015–2019 | Al Sadd | 82 | 20 |
-| Total | Total | 642 | 81 |
+| 1997–2000 | Barcelona B | 61 | 3 |
+| 1998–2014 | Barcelona | 767 | 85 |
+| 2015–2018 | Al Sadd | 117 | 25 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -78,15 +70,34 @@ Xavi joined La Masia , the Barcelona youth academy, at age 11 and made his first
 انضم تشافي إلى لا ماسيا ، في سن 11 عامًا، وشارك لأول مرة مع الفريق الأول ضد مايوركا في أغسطس 1998. إجمالًا، لعب أكثر من 700 مباراة سجل فيها 85 هدفًا. تشافي هو أول لاعب في تاريخ النادي يلعب 150 مباراة أوروبية وكأس العالم للأندية معًا. [ 9 ] مع برشلونة، فاز تشافي بثمانية ألقاب في الدوري الإسباني وأربعة ألقاب في دوري أبطال أوروبا . جاء تشافي في المركز الثالث في جائزة أفضل لاعب في العالم لعام 2009 ، تلاها المركز الثالث في جائزتي الكرة الذهبية في 2010 و2011 . في عام 2011، كان وصيفًا ليونيل ميسي في جائزة أفضل لاعب في أوروبا . في عام 2015، رحل عن برشلونة إلى السد ، حيث فاز بأربعة ألقاب قبل اعتزاله في عام 2019.
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي برشلونة: الدوري الإسباني
+- مع النادي السد: دوري نجوم قطر
+- مع المنتخب إسبانيا: كأس العالم
+- مع المنتخب إسبانيا للشباب: الألعاب الأولمبية الصيفية ميدالية فضية
+- مع كمدرب السد: كأس السوبر القطري
+- مع كمدرب برشلونة: الدوري الإسباني
+- الفردية: أفضل مرر تمريرات حاسمة في الدوري الإسباني
+- التكريمات: رياضي العام الإسباني
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 110
+- Senior national team goals total: 15
+- Senior career goals total: 125
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997–2000 | برشلونة ب | 61 | 3 |
+| 1998–2014 | برشلونة | 767 | 85 |
+| 2015–2018 | السد | 117 | 25 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997 | إسبانيا تحت 17 | 10 | 2 |
+| 1997–1998 | إسبانيا تحت 18 | 10 | 0 |
+| 1999 | إسبانيا تحت 20 | 6 | 2 |
+| 1998–2001 | إسبانيا تحت 21 | 25 | 7 |
+| 2000 | إسبانيا تحت 23 | 6 | 2 |
+| 2000–2014 | إسبانيا | 133 | 13 |
+| 1998–2014 | كتالونيا | 12 | 2 |

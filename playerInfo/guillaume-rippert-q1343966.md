@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q1343966
-- Generated At (UTC): 2026-07-13T08:56:26+00:00
+- Generated At (UTC): 2026-07-13T12:12:53+00:00
 - English Name: Guillaume Rippert
 - Arabic Name: جويليوم ريبيرت
 - Birth Year: 1985
@@ -32,9 +32,7 @@
 Guillaume Rippert (born 30 April 1985, in Paris [ 1 ] ) is a French former footballer who played as a defender.
 
 ### English Achievements
-- With Valenciennes: Ligue 2
-- With Evian: Ligue 2
-- With Evian: Championnat National
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 2
@@ -73,12 +71,26 @@ Guillaume Rippert (born 30 April 1985, in Paris [ 1 ] ) is a French former footb
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 4
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 4
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004–2005 | نانت | 0 | 0 |
+| 2005–2008 | فالينسيان | 72 | 0 |
+| 2008–2009 | ميتز | 17 | 0 |
+| 2009 | كافالا | 0 | 0 |
+| 2009–2012 | إيفيان | 45 | 1 |
+| 2012–2013 | إنيرجي كوتبوس | 8 | 0 |
+| 2013–2014 | ستاد لافالوا | 32 | 1 |
+| 2014–2015 | لوزان | 14 | 0 |
+| 2015 | بترولول بلويشتي | 7 | 0 |
+| 2016– | شوليه | 54 | 0 |
+| - | مجموع | 249 | 2 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005 | فرنسا تحت 21 | 2 | 0 |

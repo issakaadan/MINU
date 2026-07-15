@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q755833
-- Generated At (UTC): 2026-07-13T08:56:13+00:00
+- Generated At (UTC): 2026-07-13T12:12:42+00:00
 - English Name: Atif Bashir
 - Arabic Name: عاطف بشير
 - Birth Year: 1985
@@ -67,12 +67,23 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 18
+- Senior national team goals total: 2
+- Senior career goals total: 20
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004–2005 | أفان ليدو | 11 | 1 |
+| 2005–2006 | [الإنجليزية] | 34 | 2 |
+| 2007–2008 | [الإنجليزية] | 8 | 1 |
+| 2008 | هافرفوردويست [الإنجليزية] | 3 | 0 |
+| 2008–2010 | باري تاون يونايتد | 43 | 5 |
+| 2010 | [الإنجليزية] | 10 | 2 |
+| 2010–2014 | باري تاون يونايتد | 64 | 7 |
+| 2014–2017 | [الإنجليزية] | 0 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008–2017 | باكستان | 17 | 2 |

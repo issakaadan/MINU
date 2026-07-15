@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q313913
-- Generated At (UTC): 2026-07-13T08:54:17+00:00
+- Generated At (UTC): 2026-07-13T12:10:48+00:00
 - English Name: Ebbe Sand
 - Arabic Name: إبه سان
 - Birth Year: 1972
@@ -32,14 +32,7 @@
 Ebbe Sand ( Danish pronunciation: [ˈepə ˈsænˀ] ; born 19 July 1972) is a Danish former professional footballer who played as a striker for Brøndby IF in Denmark and FC Schalke 04 in Germany. He was the Bundesliga top scorer in 2001 and won the DFB-Pokal in 2001 and 2002 with Schalke. On the international stage, he played for the Denmark national team at the 1998 and 2002 FIFA World Cup , as well as the 2000 and 2004 European Championships . At the 1998 World Cup, he scored the fastest-ever World Cup goal by a substitute – 16 seconds after entering the match.
 
 ### English Achievements
-- With Brøndby IF: Danish Superliga
-- With Schalke 04: DFB-Pokal
-- Individual: Danish Superliga top scorer
-- With Brøndby IF: Danish Cup
-- With Schalke 04: UEFA Intertoto Cup
-- With Schalke 04: DFL-Ligapokal
-- Individual: Danish Footballer of the Year
-- Individual: Bundesliga top scorer
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 189
@@ -49,10 +42,8 @@ Ebbe Sand ( Danish pronunciation: [ˈepə ˈsænˀ] ; born 19 July 1972) is a Da
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1991–1992 | Hadsund BK | 17 | 7 |
-| 1992–1999 | Brøndby IF | 135 | 69 |
-| 1999–2006 | Schalke 04 | 214 | 73 |
-| Total | Total | 366 | 149 |
+| 1992–1998 | Brøndby IF | 188 | 85 |
+| 1999–2005 | Schalke 04 | 282 | 104 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -71,12 +62,17 @@ Ebbe Sand ( Danish pronunciation: [ˈepə ˈsænˀ] ; born 19 July 1972) is a Da
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 298
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 298
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1991–1992 | [الإنجليزية] | 17 | 7 |
+| 1992–1999 | بروندبي | 135 | 69 |
+| 1999–2006 | شالكه 04 | 214 | 73 |
+| - | مجموع | 366 | 149 |
 
 ### Arabic National Team Stats
 _No rows found._

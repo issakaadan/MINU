@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q2535499
-- Generated At (UTC): 2026-07-13T08:53:16+00:00
+- Generated At (UTC): 2026-07-13T12:09:54+00:00
 - English Name: Tadao Horie
 - Arabic Name: تاداو هوري
 - Birth Year: 1913

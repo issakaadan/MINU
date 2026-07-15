@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q379535
-- Generated At (UTC): 2026-07-13T08:55:05+00:00
+- Generated At (UTC): 2026-07-13T12:11:34+00:00
 - English Name: Steve Clarke
 - Arabic Name: ستيف كلارك
 - Birth Year: 1963
@@ -36,14 +36,7 @@ Clarke played for St Mirren , Chelsea and the Scotland national team , winning t
 In May 2019, he was appointed manager of the Scotland national team. During his tenure, he led the team to qualifications for UEFA Euro 2020 (their first major tournament for 23 years), UEFA Euro 2024 and 2026 FIFA World Cup , their first appearance at the World Cup finals since 1998 . In June 2026, he left his position as Scotland manager.
 
 ### English Achievements
-- With Chelsea: FA Cup
-- Individual: Chelsea Player of the Year
-- With Chelsea: Premier League
-- With Scotland: UEFA Nations League League B (1)
-- Individual: Premier League Manager of the Month
-- With Chelsea: Football League Cup
-- With Chelsea: UEFA Cup Winners' Cup
-- Individual: Chelsea Centenary XI
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 14
@@ -76,12 +69,20 @@ In May 2019, he was appointed manager of the Scotland national team. During his 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 28
+- Senior national team goals total: 0
+- Senior career goals total: 28
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1982–1987 | سانت ميرين | 200 | 7 |
+| 1987–1998 | تشيلسي | 330 | 7 |
+| - | مجموع | 530 | 14 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1983–1985 [ 3 ] | إسكتلندا تحت 21 | 8 | 0 |
+| 1987–1990 [ 4 ] | منتخب إسكتلندا الثانوي لكرة القدم [لغات أخرى] | 2 | 0 |
+| 1987–1994 | إسكتلندا | 6 | 0 |

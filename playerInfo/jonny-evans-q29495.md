@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q29495
-- Generated At (UTC): 2026-07-13T08:52:50+00:00
+- Generated At (UTC): 2026-07-13T12:09:25+00:00
 - English Name: Jonny Evans
 - Arabic Name: جوني إيفانز
 - Birth Year: 1988
@@ -34,14 +34,7 @@ Jonathan Grant Evans (born 3 January 1988) is a Northern Irish professional foot
 Evans started his career at Manchester United, having progressed through the club's youth academy . He went on loan to Royal Antwerp and Sunderland to gain first-team experience before making his first-team debut in 2007. [ 4 ] Evans became a regular first-team squad member the following season, going on to play almost 200 matches for Manchester United and winning 11 trophies, including three Premier League titles, two League Cups and a UEFA Champions League . He fell out of favour at the club under manager Louis van Gaal and left for West Bromwich Albion in 2015. After West Brom's relegation three years later, Evans signed for Leicester City, where he won the FA Cup in 2021 and was made club captain in 2022. Following Leicester City's relegation in 2023, Evans returned to Manchester United in July, officially signing for the side in September, where he spent two seasons, winning another FA Cup in 2024 . Having departed Manchester United at the end of the 2024–25 season , he announced his retirement from professional football in May 2025. [ 5 ]
 
 ### English Achievements
-- With Sunderland: Football League Championship
-- With Manchester United: Premier League
-- With Leicester City: FA Cup
-- Orders: Member of the Order of the British Empire (MBE)
-- With Manchester United: FA Cup
-- With Manchester United: Football League Cup
-- With Manchester United: FA Community Shield
-- With Manchester United: UEFA Champions League
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 23
@@ -51,14 +44,11 @@ Evans started his career at Manchester United, having progressed through the clu
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2006–2015 | Manchester United | 131 | 4 |
-| 2006 | Royal Antwerp | 11 | 2 |
-| 2006–2007 | Sunderland | 18 | 1 |
-| 2008 | Sunderland | 15 | 0 |
-| 2015–2018 | West Bromwich Albion | 89 | 5 |
-| 2018–2023 | Leicester City | 121 | 5 |
-| 2023–2025 | Manchester United | 30 | 0 |
-| Total | Total | 415 | 17 |
+| 2006–2024 | Manchester United | 241 | 8 |
+| 2006 | Royal Antwerp (loan) | 14 | 2 |
+| 2006–2007 | Sunderland (loan) | 35 | 1 |
+| 2015–2017 | West Bromwich Albion | 96 | 5 |
+| 2018–2022 | Leicester City | 152 | 7 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -82,12 +72,25 @@ Evans started his career at Manchester United, having progressed through the clu
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 17
+- Senior national team goals total: 6
+- Senior career goals total: 23
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006–2015 | مانشستر يونايتد | 131 | 4 |
+| 2006 | رويال أنتويرب | 11 | 2 |
+| 2006–2007 | سندرلاند | 18 | 1 |
+| 2008 | سندرلاند | 15 | 0 |
+| 2015–2018 | وست بروميتش ألبيون | 89 | 5 |
+| 2018–2023 | ليستر سيتي | 121 | 5 |
+| 2023– | مانشستر يونايتد | 23 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| - | أيرلندا الشمالية تحت 16 | 6 | 0 |
+| 2004–2005 | أيرلندا الشمالية تحت 17 | 8 | 1 |
+| 2006 | أيرلندا الشمالية تحت 21 | 3 | 0 |
+| 2006– | أيرلندا الشمالية | 105 | 6 |

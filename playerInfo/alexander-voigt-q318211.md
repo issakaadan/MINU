@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q318211
-- Generated At (UTC): 2026-07-13T08:56:11+00:00
+- Generated At (UTC): 2026-07-13T12:12:40+00:00
 - English Name: Alexander Voigt
 - Arabic Name: ألكسندر فويجت
 - Birth Year: 1978
@@ -70,12 +70,25 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 42
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 42
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1998–2005 | كولن | 194 | 13 |
+| 2005–2006 | رودا كيركراده | 17 | 1 |
+| 2007 | كارل زايس يينا | 16 | 3 |
+| 2007–2009 | بوروسيا مونشنغلادباخ | 39 | 0 |
+| 2009 | غرويتر فورت | 9 | 0 |
+| 2009–2010 | إف إس في فرانكفورت | 30 | 1 |
+| 2010–2012 | كارل زايس يينا | 57 | 3 |
+| 2012–2013 | فيكتوريا كولن | 30 | 0 |
+| - | مجموع | 392 | 21 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997–1999 | ألمانيا تحت 21 | 8 | 1 |
+| 2002 | منتخب ألمانيا ب لكرة القدم [لغات أخرى] | 1 | 1 |

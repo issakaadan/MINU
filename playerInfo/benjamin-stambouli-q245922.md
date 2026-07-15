@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q245922
-- Generated At (UTC): 2026-07-13T08:54:05+00:00
+- Generated At (UTC): 2026-07-13T12:10:38+00:00
 - English Name: Benjamin Stambouli
 - Arabic Name: بنجامين ستامبولي
 - Birth Year: 1990
@@ -34,12 +34,7 @@ Benjamin Fernand Lucien François Stambouli (born 13 August 1990) is a French pr
 Stambouli began his professional career with Montpellier , playing 130 games from 2010 to 2014 and winning Ligue 1 in 2012. After a season each with Tottenham Hotspur and Paris Saint-Germain – winning five domestic trophies with the latter – he signed for Schalke in 2016. Stambouli made twelve appearances for France at under-21 level from 2010 to 2012.
 
 ### English Achievements
-- With Montpellier: Ligue 1
-- With Tottenham Hotspur: Football League Cup runner-up
-- With Paris Saint-Germain: Ligue 1
-- With Paris Saint-Germain: Coupe de France
-- With Paris Saint-Germain: Coupe de la Ligue
-- With Paris Saint-Germain: Trophée des Champions
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 11
@@ -49,13 +44,13 @@ Stambouli began his professional career with Montpellier , playing 130 games fro
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2010–2014 | Montpellier | 112 | 3 |
-| 2014–2015 | Tottenham Hotspur | 12 | 0 |
-| 2015–2016 | Paris Saint-Germain | 27 | 0 |
-| 2016–2021 | Schalke 04 | 105 | 0 |
-| 2021–2024 | Adana Demirspor | 82 | 4 |
-| 2024 | Reims | 7 | 0 |
-| 2024–2026 | Metz | 45 | 1 |
+| 2010–2014 | Montpellier | 130 | 4 |
+| 2014 | Tottenham Hotspur | 25 | 1 |
+| 2015–2016 | Paris St. Germain | 40 | 0 |
+| 2016–2020 | Schalke 04 | 133 | 0 |
+| 2021–2023 | Adana Demirspor | 93 | 5 |
+| 2023 | Reims | 7 | 0 |
+| 2024–2025 | Metz | 52 | 1 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -71,15 +66,27 @@ Stambouli began his professional career with Montpellier , playing 130 games fro
 بينجامان سطمبولي ( الفرنسية : Benjamin Stambouli ) هو لاعب خط وسط فرنسي ويلعب في نادي شالكه 04 في الدوري الألماني منذ صيف 2016 قادماً من باريس سان جيرمان الفرنسي.
 
 ### Arabic Achievements
-_No honours section found._
+- مع مع النادي مونبلييه: الدوري الفرنسي (1)
+- مع مع النادي باريس سان جيرمان: كأس الأبطال الفرنسي (1)
+- مع مع النادي باريس سان جيرمان: كأس الرابطة الفرنسية (1)
+- مع مع النادي باريس سان جيرمان: الدوري الفرنسي (1)
+- مع مع النادي باريس سان جيرمان: كأس فرنسا (1)
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 5
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 5
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2010–2014 | مونبلييه | 112 | 3 |
+| 2014–2015 | توتنهام هوتسبير | 12 | 0 |
+| 2015–2016 | باريس سان جيرمان | 27 | 0 |
+| 2016–2021 | شالكه 04 | 105 | 0 |
+| 2021– | أضنة دمير سبور | 40 | 2 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2010–2012 | فرنسا تحت 21 | 12 | 0 |

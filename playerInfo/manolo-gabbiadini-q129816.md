@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q129816
-- Generated At (UTC): 2026-07-13T08:54:42+00:00
+- Generated At (UTC): 2026-07-13T12:11:12+00:00
 - English Name: Manolo Gabbiadini
 - Arabic Name: مانولو غابياديني
 - Birth Year: 1991
@@ -36,8 +36,7 @@ Gabbiadini began his professional career with Atalanta , where he made his Serie
 Having represented Italy internationally at under-20 and under-21 levels, Gabbiadini made his senior debut in 2012.
 
 ### English Achievements
-- With Southampton: EFL Cup runner-up
-- Individual: Premier League PFA Fans’ Player of the Month
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 119
@@ -47,15 +46,13 @@ Having represented Italy internationally at under-20 and under-21 levels, Gabbia
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2009–2012 | Atalanta | 25 | 1 |
-| 2010–2011 | Cittadella | 27 | 5 |
-| 2012–2013 | Juventus | 0 | 0 |
-| 2012–2013 | Bologna | 30 | 6 |
-| 2013–2015 | Sampdoria | 47 | 15 |
-| 2015–2017 | Napoli | 56 | 16 |
-| 2017–2019 | Southampton | 51 | 10 |
-| 2019–2023 | Sampdoria | 120 | 31 |
-| 2023–2025 | Al-Nasr | 35 | 14 |
+| 2009–2011 | Atalanta | 26 | 2 |
+| 2010 | Cittadella (loan) | 29 | 5 |
+| 2012 | Bologna (loan) | 31 | 7 |
+| 2013–2022 | Sampdoria | 177 | 52 |
+| 2014–2016 | Napoli | 79 | 25 |
+| 2016–2018 | Southampton | 60 | 12 |
+| 2023–2024 | Al-Nasr | 39 | 16 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -76,12 +73,25 @@ Having represented Italy internationally at under-20 and under-21 levels, Gabbia
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 78
+- Senior national team goals total: 2
+- Senior career goals total: 80
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009–2012 | نادي أتالانتا | 25 | 1 |
+| 2010–2011 | سيتاديلا | 27 | 5 |
+| 2012–2013 | يوفنتوس | 0 | 0 |
+| 2012–2013 | بولونيا | 30 | 6 |
+| 2013–2015 | سامبدوريا | 47 | 15 |
+| 2015–2017 | نابولي | 56 | 16 |
+| 2017–2019 | ساوثهامبتون | 51 | 10 |
+| 2019– | سامبدوريا | 90 | 25 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2010 | إيطاليا تحت 20 | 3 | 2 |
+| 2010–2013 | إيطاليا تحت 21 | 24 | 12 |
+| 2012–2017 | إيطاليا | 11 | 2 |

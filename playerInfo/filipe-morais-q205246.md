@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q205246
-- Generated At (UTC): 2026-07-13T08:56:26+00:00
+- Generated At (UTC): 2026-07-13T12:13:01+00:00
 - English Name: Filipe Morais
 - Arabic Name: فيليبي مورايس
 - Birth Year: 1985
@@ -46,21 +46,20 @@ _No honours section found._
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2005–2006 | Chelsea | 0 | 0 |
-| 2006 | Milton Keynes Dons | 13 | 0 |
-| 2006–2007 | Millwall | 12 | 1 |
-| 2007 | St Johnstone | 13 | 1 |
-| 2007–2009 | Hibernian | 30 | 1 |
-| 2009 | Inverness Caledonian Thistle | 12 | 3 |
-| 2009–2010 | St Johnstone | 30 | 2 |
-| 2010–2012 | Oldham Athletic | 59 | 8 |
-| 2012–2014 | Stevenage | 55 | 7 |
-| 2014–2017 | Bradford City | 54 | 5 |
-| 2017–2018 | Bolton Wanderers | 52 | 3 |
-| 2018–2020 | Crawley Town | 39 | 8 |
-| 2019–2020 | Oldham Athletic | 16 | 2 |
+| 2005 | Chelsea | 0 | 0 |
+| 2005 | Milton Keynes Dons (loan) | 13 | 0 |
+| 2006 | Millwall | 16 | 1 |
+| 2006 | St Johnstone (loan) | 16 | 1 |
+| 2007–2008 | Hibernian | 36 | 2 |
+| 2008 | Inverness Caledonian Thistle | 14 | 5 |
+| 2009 | St Johnstone | 36 | 3 |
+| 2010–2011 | Oldham Athletic | 68 | 8 |
+| 2012–2013 | Stevenage | 66 | 12 |
+| 2014–2016 | Bradford City | 71 | 8 |
+| 2016–2017 | Bolton Wanderers | 56 | 3 |
+| 2018–2019 | Crawley Town | 43 | 9 |
+| 2019 | Oldham Athletic (loan) | 20 | 3 |
 | 2020–2021 | Grimsby Town | 16 | 1 |
-| Total | Total | 401 | 42 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -79,12 +78,30 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 84
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 84
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005–2006 | تشيلسي | 0 | 0 |
+| 2006 | ميلتون كينز دونز | 13 | 0 |
+| 2006–2007 | ميلوول | 12 | 1 |
+| 2007 | سانت جونستون | 13 | 1 |
+| 2007–2009 | هيبرنيان | 30 | 1 |
+| 2009 | إنفرنيس | 12 | 3 |
+| 2009–2010 | سانت جونستون | 30 | 2 |
+| 2010–2012 | أولدهام أثلتيك | 59 | 8 |
+| 2012–2014 | ستيفيناغ بوروه | 55 | 7 |
+| 2014–2017 | برادفورد سيتي | 54 | 5 |
+| 2017–2018 | بولتون واندررز | 52 | 3 |
+| 2018–2020 | كرولي تاون | 39 | 8 |
+| 2019–2020 | أولدهام أثلتيك | 16 | 2 |
+| 2020–2021 | غريمسبي تاون | 16 | 1 |
+| - | مجموع | 401 | 42 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004–2005 | البرتغال تحت 21 | 2 | 0 |

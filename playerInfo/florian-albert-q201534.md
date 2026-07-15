@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q201534
-- Generated At (UTC): 2026-07-13T08:52:39+00:00
+- Generated At (UTC): 2026-07-13T12:09:13+00:00
 - English Name: Flórián Albert
 - Arabic Name: فلوريان ألبرت
 - Birth Year: 1941
@@ -36,14 +36,7 @@ A club legend of Ferencvárosi TC , Albert joined the team as a schoolboy and sp
 He stayed loyal to Ferencváros after his retirement as well, actively participated in the club's life and also held administrative positions. From 2007 the stadium of Ferencváros bore his name, until 2014 when the new stadium of the team was constructed, named “ Groupama Arena ”. A statue was erected in his honour in front of the stadium in 2014. [ 7 ]
 
 ### English Achievements
-- With Ferencváros: Inter-Cities Fairs Cup
-- Individual: Ballon d'Or
-- With Ferencváros: Hungarian League
-- With Ferencváros: Hungarian Cup
-- Individual: World Cup Best Young Player Award
-- Individual: World Cup top scorer
-- Individual: World Cup All-Star Team
-- Individual: UEFA European Championship Team of the Tournament
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 294
@@ -53,7 +46,7 @@ He stayed loyal to Ferencváros after his retirement as well, actively participa
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1958–1974 | Ferencváros | 351 | 256 |
+| 1958–1973 | Ferencváros | 410 | 292 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -72,12 +65,17 @@ He stayed loyal to Ferencváros after his retirement as well, actively participa
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 512
+- Senior national team goals total: 31
+- Senior career goals total: 543
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1958–1974 | فيرينتسفاروشي | 351 | 256 |
+| - | مجموع | 351 | 256 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1959–1974 | المجر | 75 | 31 |

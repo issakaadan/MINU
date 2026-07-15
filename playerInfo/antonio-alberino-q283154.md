@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q283154
-- Generated At (UTC): 2026-07-13T08:56:12+00:00
+- Generated At (UTC): 2026-07-13T12:12:40+00:00
 - English Name: Antonio Alberino
 - Arabic Name: أنتونيو ألبرينو
 - Birth Year: 1910
@@ -65,12 +65,16 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 51
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 51
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1929–1934 | بوكا جونيورز | 102 | 26 |
+| 1934–1937 | تيغري | 41 | 6 |
+| 1937–1942 | نادي أتليتكو ​​للبنين [الإنجليزية] | 71 | 19 |
 
 ### Arabic National Team Stats
 _No rows found._

@@ -27,6 +27,7 @@ from app.player_rag_service import (
     get_player_rag_summary,
 )
 from app.schemas import CardAssistantAnswerRead, CardAssistantTraceRead, SharedPlayerCardRead
+from app.wikipedia_career_stats import CareerStatLine, parse_wikipedia_career_stats
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 QUESTION_TEMPLATE_PATH = PROJECT_ROOT / "backend" / "data" / "assistant_question_templates.json"
@@ -46,12 +47,12 @@ QUESTION_FILLER_WORDS = {
         "the", "a", "an", "player", "footballer", "club", "clubs", "team", "league", "competition",
         "did", "does", "do", "has", "have", "had", "he", "his", "him", "is", "was", "were",
         "in", "for", "with", "at", "to", "from", "of", "ever", "any", "this", "that",
-        "play", "played", "score", "scored", "goal", "goals",
+        "what", "which", "who", "where", "when", "how", "play", "played", "score", "scored", "goal", "goals",
     },
     "ar": {
         "اللاعب", "النادي", "الأندية", "الانديه", "الفريق", "الفرق", "الدوري", "المسابقة",
         "المسابقه", "في", "مع", "هل", "سبق", "له", "على", "من", "الى", "إلى", "كم",
-        "وش", "شنو", "ايش", "إيش", "اي", "أي", "لعب", "يلعب", "سجل", "هدف", "أهداف", "اهداف",
+        "وش", "شنو", "ايش", "إيش", "اي", "أي", "اللي", "التي", "شي", "لعب", "يلعب", "سجل", "هدف", "أهداف", "اهداف",
     },
 }
 MATCH_FILLER_WORDS = QUESTION_FILLER_WORDS["en"] | QUESTION_FILLER_WORDS["ar"]
@@ -60,8 +61,10 @@ TEAM_NAME_MATCH_FILLER_WORDS = {
     "national", "de", "futbol", "futebol", "s", "نادي", "منتخب", "لكرة", "لكره", "كرة", "كره",
     "القدم", "قدم", "للرجال", "الرجال",
 }
-YOUTH_TEAM_PATTERN = re.compile(r"\bU(?:17|18|19|20|21|23)\b|under[- ]?\d+|youth|juvenil|school|schools|olympic|منتخب الشباب|الأولمبي|تحت\s*\d+", re.IGNORECASE)
-TOTAL_ROW_PATTERN = re.compile(r"^(total|totals|المجموع|الإجمالي|الاجمالي)$", re.IGNORECASE)
+YOUTH_TEAM_PATTERN = re.compile(
+    r"\bU(?:17|18|19|20|21|23)\b|under[- ]?\d+|youth|juvenil|school|schools|reserve|reserves|b team|c team|olympic|منتخب الشباب|الأولمبي|تحت\s*\d+|(?:\s|^)[بج](?:\s|$)",
+    re.IGNORECASE,
+)
 
 
 @dataclass
@@ -73,17 +76,6 @@ class TeamStint:
     end_year: int | None
     is_national_team: bool
     league_ids: list[str] = field(default_factory=list)
-
-
-@dataclass
-class CareerStatLine:
-    years_label: str
-    team_name: str
-    apps: int | None
-    goals: int | None
-    section: Literal["club", "national"]
-    is_total: bool = False
-    is_youth: bool = False
 
 
 @dataclass
@@ -127,6 +119,8 @@ def seed_assistant_catalog(db: Session) -> None:
 
         entry = existing_templates.get(intent_key)
         if entry is not None:
+            entry.aliases_en = _normalize_string_list([*(entry.aliases_en or []), *(record.get("aliases_en") or [])])
+            entry.aliases_ar = _normalize_string_list([*(entry.aliases_ar or []), *(record.get("aliases_ar") or [])])
             continue
 
         entry = AssistantQuestionTemplate(
@@ -151,6 +145,8 @@ def seed_assistant_catalog(db: Session) -> None:
 
         entry = existing_competitions.get(key)
         if entry is not None:
+            entry.aliases_en = _normalize_string_list([*(entry.aliases_en or []), *(record.get("aliases_en") or [])])
+            entry.aliases_ar = _normalize_string_list([*(entry.aliases_ar or []), *(record.get("aliases_ar") or [])])
             continue
 
         entry = AssistantCompetition(
@@ -176,7 +172,7 @@ def answer_card_question(
     normalized_question = _normalize_question(question)
     if not normalized_question:
         return CardAssistantAnswerRead(
-            answer="اكتب سؤالك أولاً." if language == "ar" else "Write your question first.",
+            answer=_answer_not_found(language),
             intent_key=None,
             used_sources=["database"],
             matched_argument=None,
@@ -201,7 +197,7 @@ def answer_card_question(
         rag_answer = _answer_from_rag(profile, payload, question, language)
         if rag_answer:
             return CardAssistantAnswerRead(
-                answer=rag_answer,
+                answer=_answer_not_found(language),
                 intent_key=None,
                 used_sources=sorted(profile.used_sources),
                 matched_argument=None,
@@ -241,6 +237,15 @@ def answer_card_question(
     else:
         answer = _answer_from_profile(profile, payload, match.intent_key, language)
 
+    binary_intents = {
+        "active_status",
+        "alive_status",
+        "played_in_competition",
+        "played_for_team",
+        "national_retired_before_club_retired",
+    }
+    answer = _game_answer_only(answer, language) if match.intent_key in binary_intents else _answer_not_found(language)
+
     return CardAssistantAnswerRead(
         answer=answer,
         intent_key=match.intent_key,
@@ -248,6 +253,23 @@ def answer_card_question(
         matched_argument=matched_argument,
         trace=profile.trace,
     )
+
+
+def _game_answer_only(answer: str, language: Literal["ar", "en"]) -> str:
+    normalized = answer.strip().lower()
+    if answer == _answer_not_found(language):
+        return answer
+    if language == "ar":
+        if normalized.startswith("نعم"):
+            return "نعم"
+        if normalized.startswith("لا"):
+            return "لا"
+    else:
+        if normalized.startswith("yes"):
+            return "Yes"
+        if normalized.startswith("no"):
+            return "No"
+    return _answer_not_found(language)
 
 
 def _resolve_player(db: Session, payload: SharedPlayerCardRead) -> Player | None:
@@ -444,7 +466,7 @@ def _match_rag_stat_row_to_stint(
     stint_is_youth = _is_non_senior_team_label(stint.name_en) or _is_non_senior_team_label(stint.name_ar)
     for row in rows:
         team_name = clean_text(str(row.get("team", "") or ""))
-        if not team_name or TOTAL_ROW_PATTERN.match(_normalize_question(team_name)):
+        if not team_name or _normalize_question(team_name) in {"total", "totals", "المجموع", "الاجمالي", "الإجمالي"}:
             continue
         score = max(
             _team_label_alignment_score(team_name, stint.name_en),
@@ -566,7 +588,7 @@ def _match_question_template(
             if not alias_tokens:
                 continue
 
-            if normalized_alias in normalized_question:
+            if f" {normalized_alias} " in f" {normalized_question} ":
                 alias_length = len(alias_tokens)
                 start_index = normalized_question.find(normalized_alias)
                 argument_tail = normalized_question[start_index + len(normalized_alias):].strip()
@@ -584,8 +606,24 @@ def _match_question_template(
                 alias_content_tokens = _content_tokens_for_matching(normalized_alias)
                 content_overlap = 0
                 if alias_content_tokens and question_content_tokens:
-                    content_overlap = _count_matching_tokens(question_content_tokens, alias_content_tokens)
+                    exact_question_tokens = {_simplify_token(token) for token in question_content_tokens}
+                    exact_alias_tokens = {_simplify_token(token) for token in alias_content_tokens}
+                    if not (exact_question_tokens & exact_alias_tokens):
+                        continue
+                    # A one-word alias must match an actual content token. Allowing fuzzy
+                    # matching here made unrelated Arabic words such as "عاصمة" select
+                    # "مركزه", and "لون" select the nationality alias "وين".
+                    if len(alias_content_tokens) == 1:
+                        alias_token = _simplify_token(alias_content_tokens[0])
+                        content_overlap = int(
+                            bool(alias_token)
+                            and alias_token in exact_question_tokens
+                        )
+                    else:
+                        content_overlap = _count_matching_tokens(question_content_tokens, alias_content_tokens)
                     if content_overlap == 0:
+                        continue
+                    if len(alias_content_tokens) > 1 and content_overlap < 2:
                         continue
 
                 coverage_numerator = content_overlap or overlap
@@ -602,7 +640,9 @@ def _match_question_template(
             if best is None or candidate.score > best.score:
                 best = candidate
 
-    if best is not None and best.score[0] >= 58:
+    # Scores below 80 are typically a single vaguely similar word. Accepting
+    # them caused general-knowledge questions to be answered with player data.
+    if best is not None and best.score[0] >= 80:
         return best
     return None
 
@@ -617,6 +657,15 @@ def _guess_intent_key(normalized_question: str) -> str | None:
         return "club_goals"
     if _looks_like_achievement_query(normalized_question):
         return "achievements"
+    if _looks_like_club_history_query(normalized_question):
+        return "club_history"
+    if _contains_marker_phrase(
+        normalized_question,
+        ("وظيفته بالملعب", "دوره بالملعب", "يلعب وين بالملعب", "وين لعب", "أين لعب"),
+    ):
+        if _contains_marker_phrase(normalized_question, ("وظيفته بالملعب", "دوره بالملعب", "يلعب وين بالملعب")):
+            return "position"
+        return "club_history"
     if _looks_like_alive_query(normalized_question):
         return "alive_status"
     if _looks_like_summary_query(normalized_question):
@@ -634,6 +683,37 @@ def _content_tokens_for_matching(value: str) -> list[str]:
         for token in _tokenize_for_matching(value)
         if token and token not in MATCH_FILLER_WORDS
     ]
+
+
+def _question_token_set(value: str) -> set[str]:
+    tokens: set[str] = set()
+    for token in _tokenize_for_matching(value):
+        simplified = _simplify_token(token)
+        if simplified:
+            tokens.add(simplified)
+    return tokens
+
+
+def _contains_marker_token(normalized_question: str, markers: tuple[str, ...]) -> bool:
+    question_tokens = _question_token_set(normalized_question)
+    if not question_tokens:
+        return False
+
+    for marker in markers:
+        normalized_marker = _normalize_question(marker)
+        if not normalized_marker or " " in normalized_marker:
+            continue
+        simplified_marker = _simplify_token(normalized_marker)
+        if simplified_marker and simplified_marker in question_tokens:
+            return True
+    return False
+
+
+def _contains_marker_phrase(normalized_question: str, markers: tuple[str, ...]) -> bool:
+    return any(
+        (normalized_marker := _normalize_question(marker)) and " " in normalized_marker and normalized_marker in normalized_question
+        for marker in markers
+    )
 
 
 def _count_matching_tokens(question_tokens: list[str], alias_tokens: list[str]) -> int:
@@ -656,7 +736,14 @@ def _fuzzy_token_match(left: str, right: str) -> bool:
         return True
     if len(left_simple) >= 4 and len(right_simple) >= 4 and (left_simple in right_simple or right_simple in left_simple):
         return True
-    return SequenceMatcher(None, left_simple, right_simple).ratio() >= 0.76
+    minimum_length = min(len(left_simple), len(right_simple))
+    if minimum_length < 3:
+        return False
+
+    ratio = SequenceMatcher(None, left_simple, right_simple).ratio()
+    if minimum_length == 3:
+        return ratio >= 0.9
+    return ratio >= 0.84
 
 
 def _simplify_token(value: str) -> str:
@@ -760,6 +847,8 @@ def _looks_like_specific_team_goals_query(normalized_question: str) -> bool:
         return True
     if "مع " in normalized_question and "مع الأندية" not in normalized_question and "مع الاندية" not in normalized_question:
         return True
+    if re.search(r"(?:^|\s)[لب][اأإآء-ي]{3,}", normalized_question):
+        return True
     return False
 
 
@@ -770,7 +859,33 @@ def _looks_like_achievement_query(normalized_question: str) -> bool:
             "achievement", "achievements", "honour", "honors", "honours", "troph", "award", "awards",
             "ballon", "record", "records", "milestone", "لقب", "القاب", "ألقاب", "بطول", "انجاز",
             "إنجاز", "جائزه", "جائزة", "جوائز", "رقم", "ارقام", "أرقام", "قياسي", "قياسية",
+            "حقق", "حققه", "ابرز", "أبرز", "اهم انجاز", "أهم إنجاز", "اهم شي حققه", "أهم شي حققه",
         )
+    )
+
+
+def _looks_like_club_history_query(normalized_question: str) -> bool:
+    if _contains_marker_phrase(
+        normalized_question,
+        (
+            "club history", "team history", "clubs did he play for", "teams did he play for",
+            "which clubs did he play for", "which teams did he play for", "where has he played",
+            "الانديه التي لعب لها", "الأندية التي لعب لها", "الفرق التي لعب لها",
+            "الفرق اللي لعب لها", "التيمات التي لعب لها", "التيمات اللي لعب لها",
+            "كل الاندية", "كل الأندية", "كل الفرق", "كل التيمات",
+            "تسلسل الاندية", "تسلسل الأندية", "تسلسل الفرق", "تسلسل التيمات",
+            "الفرق اللي مر عليها", "وش الفرق اللي مر عليها", "وش الأندية اللي مر عليها",
+        ),
+    ):
+        return True
+
+    team_markers = (
+        "clubs", "teams", "اندية", "أندية", "الاندية", "الأندية", "نوادي", "فرق", "التيمات", "تيمات",
+    )
+    play_markers = ("play", "played", "لعب", "يلعب", "مر", "تنقل", "مثل")
+    return _contains_marker_token(normalized_question, team_markers) and _contains_marker_token(
+        normalized_question,
+        play_markers,
     )
 
 
@@ -787,9 +902,9 @@ def _looks_like_full_retirement_query(normalized_question: str) -> bool:
 
 
 def _looks_like_alive_query(normalized_question: str) -> bool:
-    return any(
-        marker in normalized_question
-        for marker in ("alive", "dead", "deceased", "passed away", "حي", "على قيد الحياة", "مات", "متوف", "توفي", "توفى")
+    return _contains_marker_phrase(normalized_question, ("passed away", "على قيد الحياة")) or _contains_marker_token(
+        normalized_question,
+        ("alive", "dead", "deceased", "حي", "مات", "متوف", "متوفي", "متوفى", "توفي", "توفى"),
     )
 
 
@@ -1204,237 +1319,7 @@ def _fetch_wikipedia_career_stats(
     if not isinstance(html, str) or not html.strip():
         return None
 
-    return _parse_wikipedia_career_stats(html)
-
-
-def _parse_wikipedia_career_stats(html: str) -> dict[str, object] | None:
-    soup = BeautifulSoup(html, "html.parser")
-    infobox = soup.select_one("table.infobox")
-    if infobox is None:
-        return None
-
-    current_section: Literal["club", "national"] | None = None
-    club_rows: list[CareerStatLine] = []
-    national_rows: list[CareerStatLine] = []
-
-    for row in infobox.select("tr"):
-        section_header = _extract_infobox_section_header(row)
-        if section_header:
-            if _is_senior_career_header(section_header):
-                current_section = "club"
-            elif _is_national_career_header(section_header):
-                current_section = "national"
-            elif _is_managerial_career_header(section_header):
-                current_section = None
-            continue
-
-        if current_section not in {"club", "national"}:
-            continue
-
-        th_cells = row.find_all("th", recursive=False)
-        td_cells = row.find_all("td", recursive=False)
-        if len(th_cells) != 1 or len(td_cells) < 3:
-            continue
-
-        years_label = clean_text(th_cells[0].get_text(" ", strip=True))
-        team_name = _extract_career_team_name(td_cells[0])
-        apps = _parse_stat_number(td_cells[1].get_text(" ", strip=True))
-        goals = _parse_stat_number(td_cells[2].get_text(" ", strip=True))
-        is_total = bool(TOTAL_ROW_PATTERN.search(team_name) or TOTAL_ROW_PATTERN.search(years_label))
-
-        if is_total and not team_name:
-            team_name = "Total"
-        if not team_name or goals is None or team_name.lower() == "team":
-            continue
-
-        line = CareerStatLine(
-            years_label=years_label,
-            team_name=team_name,
-            apps=apps,
-            goals=goals,
-            section=current_section,
-            is_total=is_total,
-            is_youth=_is_non_senior_team_label(team_name),
-        )
-        if current_section == "club":
-            club_rows.append(line)
-        else:
-            national_rows.append(line)
-
-    if not club_rows and not national_rows:
-        return None
-
-    club_goals_total = _club_goals_total(club_rows)
-    detailed_club_goals_total = _parse_detailed_club_goals_total(soup)
-    if detailed_club_goals_total is not None and (
-        club_goals_total is None or detailed_club_goals_total >= club_goals_total
-    ):
-        club_goals_total = detailed_club_goals_total
-    national_team_goals_total = _national_team_goals_total(national_rows)
-    career_goals_total = None
-    if club_goals_total is not None or national_team_goals_total is not None:
-        career_goals_total = (club_goals_total or 0) + (national_team_goals_total or 0)
-
-    return {
-        "club_rows": club_rows,
-        "national_rows": national_rows,
-        "club_goals_total": club_goals_total,
-        "national_team_goals_total": national_team_goals_total,
-        "career_goals_total": career_goals_total,
-    }
-
-
-def _extract_infobox_section_header(row) -> str:
-    header = row.select_one(".infobox-header")
-    if header is not None:
-        return clean_text(header.get_text(" ", strip=True))
-
-    if row.find("td", recursive=False) is not None:
-        return ""
-
-    first_cell = row.find(["th", "td"], recursive=False)
-    if first_cell is None:
-        return ""
-
-    colspan_value = int(first_cell.get("colspan", "1") or "1")
-    if colspan_value <= 1 and "infobox-header" not in (first_cell.get("class") or []):
-        return ""
-    return clean_text(first_cell.get_text(" ", strip=True))
-
-
-def _is_senior_career_header(value: str) -> bool:
-    return bool(
-        re.search(r"^(senior career|club career)\*?$", value, flags=re.IGNORECASE)
-        or re.search(r"(المسيرة|المشوار).*(الأندية|الاحترافية|الكروية)", value)
-        or re.search(r"الأندية التي لعب لها", value)
-    )
-
-
-def _is_national_career_header(value: str) -> bool:
-    return bool(
-        re.search(r"(international career|national team)", value, flags=re.IGNORECASE)
-        or re.search(r"(المسيرة|المشوار).*(الدولية|المنتخب)", value)
-        or re.search(r"(المنتخب|الدولي)", value)
-    )
-
-
-def _is_managerial_career_header(value: str) -> bool:
-    return bool(
-        re.search(r"(managerial career|teams managed)", value, flags=re.IGNORECASE)
-        or re.search(r"(المسيرة التدريبية|التدريب|الفرق التي دربها)", value)
-    )
-
-
-def _extract_career_team_name(team_cell) -> str:
-    linked_names = [
-        clean_text(anchor.get_text(" ", strip=True))
-        for anchor in team_cell.select("a")
-        if clean_text(anchor.get_text(" ", strip=True))
-    ]
-    team_name = clean_text(" ".join(linked_names)) or clean_text(team_cell.get_text(" ", strip=True))
-    team_name = re.sub(r"^(?:→|->)\s*", "", team_name)
-    return team_name
-
-
-def _parse_stat_number(value: str) -> int | None:
-    matched = re.search(r"-?\d+", value.replace(",", ""))
-    return int(matched.group(0)) if matched else None
-
-
-def _parse_detailed_club_goals_total(soup: BeautifulSoup) -> int | None:
-    best_total: int | None = None
-    best_score = -1
-
-    for table in soup.select("table.wikitable"):
-        if not _is_detailed_club_career_table(table):
-            continue
-
-        for row in table.find_all("tr"):
-            cells = row.find_all(["th", "td"], recursive=False)
-            if len(cells) < 3:
-                continue
-
-            cell_texts = [clean_text(cell.get_text(" ", strip=True)) for cell in cells]
-            label = _normalize_question(cell_texts[0] if cell_texts else "")
-            if not _is_detailed_total_row_label(label):
-                continue
-
-            numeric_values = [_parse_stat_number(text) for text in cell_texts[1:]]
-            numeric_values = [value for value in numeric_values if value is not None]
-            if not numeric_values:
-                continue
-
-            score = len(numeric_values) + (10 if "career total" in label else 0)
-            if score > best_score:
-                best_total = numeric_values[-1]
-                best_score = score
-
-    return best_total
-
-
-def _is_detailed_club_career_table(table) -> bool:
-    caption = clean_text(table.caption.get_text(" ", strip=True) if table.caption else "")
-    normalized_caption = _normalize_question(caption)
-    if any(
-        marker in normalized_caption
-        for marker in (
-            "appearances and goals by club",
-            "career statistics",
-            "احصاءات المسيره",
-            "احصائيات المسيره",
-            "احصاءات النادي",
-            "احصائيات النادي",
-            "احصاءات الانديه",
-            "احصائيات الانديه",
-        )
-    ):
-        return True
-
-    header_rows = table.find_all("tr", limit=3)
-    header_text = " ".join(
-        clean_text(row.get_text(" ", strip=True))
-        for row in header_rows
-    )
-    normalized_headers = _normalize_question(header_text)
-    return (
-        any(marker in normalized_headers for marker in ("club", "season", "النادي", "الفريق", "الموسم"))
-        and "total" in normalized_headers
-    )
-
-
-def _is_detailed_total_row_label(value: str) -> bool:
-    return bool(
-        re.search(
-            r"^(career total|total|totals|overall total|grand total|المجموع|الاجمالي|الإجمالي|اجمالي المسيره|إجمالي المسيرة)$",
-            value,
-            flags=re.IGNORECASE,
-        )
-    )
-
-
-def _club_goals_total(rows: list[CareerStatLine]) -> int | None:
-    explicit_total = next((row.goals for row in rows if row.is_total and row.goals is not None), None)
-    if explicit_total is not None:
-        return explicit_total
-
-    values = [row.goals for row in rows if row.goals is not None and not row.is_total]
-    return sum(values) if values else None
-
-
-def _national_team_goals_total(rows: list[CareerStatLine]) -> int | None:
-    values = [
-        row.goals
-        for row in rows
-        if row.goals is not None and not row.is_total and not row.is_youth
-    ]
-    return sum(values) if values else None
-
-
-def _is_non_senior_team_label(value: str) -> bool:
-    return bool(
-        YOUTH_TEAM_PATTERN.search(value)
-        or re.search(r"\bB\b|\bolympic\b|\bamateur\b", value, flags=re.IGNORECASE)
-    )
+    return parse_wikipedia_career_stats(html)
 
 
 def _load_summary(
@@ -1896,6 +1781,12 @@ def _extract_dynamic_argument(
     language: Literal["ar", "en"],
 ) -> str:
     candidate = argument_tail or normalized_question
+    if language == "ar":
+        candidate = re.sub(r"^(?:هل\s+)?(?:سبق\s+له\s+)?(?:اللعب|لعب|يلعب|احترف|مر|مثل)\s+", "", candidate).strip()
+        candidate = re.sub(r"^(?:في|مع|على)\s+", "", candidate).strip()
+    else:
+        candidate = re.sub(r"^(?:did|does|has|have|was|is)\s+", "", candidate).strip()
+        candidate = re.sub(r"^(?:play(?:ed)?|score(?:d)?|played|with|for|at|in)\s+", "", candidate).strip()
     words = [word for word in candidate.split() if word not in QUESTION_FILLER_WORDS[language]]
     return " ".join(words).strip()
 
@@ -1958,6 +1849,17 @@ def _missing_competition(language: Literal["ar", "en"]) -> str:
 
 def _missing_team(language: Literal["ar", "en"]) -> str:
     return _answer_not_found(language)
+
+
+def _is_non_senior_team_label(value: str) -> bool:
+    cleaned = clean_text(value)
+    if not cleaned:
+        return False
+    normalized = _normalize_question(cleaned)
+    return bool(
+        YOUTH_TEAM_PATTERN.search(cleaned)
+        or re.search(r"(?:^|\s)(?:b|c|ii|ب|ج)(?:$|\s)", normalized, flags=re.IGNORECASE)
+    )
 
 
 def _normalize_string_list(values: list[object]) -> list[str]:

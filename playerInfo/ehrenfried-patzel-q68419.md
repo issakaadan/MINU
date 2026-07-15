@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q68419
-- Generated At (UTC): 2026-07-13T08:55:29+00:00
+- Generated At (UTC): 2026-07-13T12:11:58+00:00
 - English Name: Ehrenfried Patzel
 - Arabic Name: تشستمير باتزيل
 - Birth Year: 1914
@@ -68,11 +68,13 @@ _No honours section found._
 
 ### Arabic Career Totals
 - Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior national team goals total: 0
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
 _No rows found._
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1934–1935 | تشيكوسلوفاكيا | 4 | 0 |

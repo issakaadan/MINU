@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q320948
-- Generated At (UTC): 2026-07-13T08:54:30+00:00
+- Generated At (UTC): 2026-07-13T12:11:01+00:00
 - English Name: Jean-Marc Bosman
 - Arabic Name: جان مارك بوسمان
 - Birth Year: 1964
@@ -34,27 +34,22 @@ Jean-Marc Bosman ( French: [ʒɑ̃ maʁk bɔsman] ; born 30 October 1964) is a B
 This landmark judgement, which was handed down by the European Court of Justice , completely changed the way footballers are employed, allowing professional players in the European Union to move freely to another club at the end of their contract with their present team. [ 2 ] [ 3 ]
 
 ### English Achievements
-- With Standard Liège: Belgian First Division
-- With RFC Liège: Belgian First Division
-- With Standard Liège: Belgian Cup
-- With Standard Liège: Intertoto Cup
-- With RFC Liège: Belgian Cup
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 12
+- Club goals total: 14
 - Senior national team goals total: Unavailable
-- Senior career goals total: 12
+- Senior career goals total: 14
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1982–1988 | Standard Liège | 86 | 3 |
-| 1988–1990 | RFC Liège | 25 | 1 |
-| 1990–1991 | Saint-Quentin | 12 | 1 |
+| 1982–1987 | Standard Liège | 98 | 3 |
+| 1988–1989 | RFC Liège | 149 | 4 |
+| 1990 | Saint-Quentin | 13 | 1 |
 | 1992 | Saint-Denis | 15 | 4 |
-| 1993–1995 | Olympic Charleroi | 27 | 2 |
-| 1995–1996 | C.S. Visé | 7 | 1 |
-| Total | Total | 174 | 12 |
+| 1993–1994 | Olympic Charleroi | 28 | 2 |
+| 1995 | C.S. Visé | 63 | 8 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -73,12 +68,19 @@ This landmark judgement, which was handed down by the European Court of Justice 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 8
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 8
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1983–1988 | ستاندارد لييج | 86 | 3 |
+| 1988–1990 | لييج | 3 | 0 |
+| 1990–1991 | أولمبيك سان كوينتين [الإنجليزية] | 12 | 1 |
+| 1990 | [الإنجليزية] | 0 | 0 |
+| 1990–1995 | أولمبيك تشارلروا | 2 | 0 |
+| - | مجموع | 103 | 4 |
 
 ### Arabic National Team Stats
 _No rows found._

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q311095
-- Generated At (UTC): 2026-07-13T08:54:32+00:00
+- Generated At (UTC): 2026-07-13T12:11:03+00:00
 - English Name: Jorge Andrade
 - Arabic Name: جورجي أندرادي
 - Birth Year: 1978
@@ -36,11 +36,7 @@ After playing two years with Porto , he went on to represent Deportivo de La Cor
 Andrade earned more than 50 caps for Portugal , representing the country at the 2002 World Cup and Euro 2004 and helping it finish second in the latter tournament.
 
 ### English Achievements
-- With Porto: Taça de Portugal
-- With Deportivo: Supercopa de España
-- With Portugal: UEFA European Championship runner-up
-- Orders: Medal of Merit, Order of the Immaculate Conception of Vila Viçosa ( House of Braganza )
-- With Porto: Supertaça Cândido de Oliveira
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 12
@@ -50,11 +46,10 @@ Andrade earned more than 50 caps for Portugal , representing the country at the 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1997–2000 | Estrela Amadora | 53 | 3 |
-| 2000–2002 | Porto | 52 | 3 |
-| 2002–2007 | Deportivo La Coruña | 123 | 2 |
-| 2007–2009 | Juventus | 4 | 0 |
-| Total | Total | 232 | 8 |
+| 1997–1999 | Estrela Amadora | 59 | 3 |
+| 2000–2001 | Porto | 84 | 4 |
+| 2002–2006 | Deportivo | 169 | 5 |
+| 2007–2008 | Juventus | 5 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -78,12 +73,21 @@ Andrade earned more than 50 caps for Portugal , representing the country at the 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 16
+- Senior national team goals total: 3
+- Senior career goals total: 19
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997–2000 | إستريلا دا أمادورا | 53 | 3 |
+| 2000–2002 | بورتو | 52 | 3 |
+| 2002–2007 | ديبورتيفو لاكورونيا | 123 | 2 |
+| 2007–2009 | يوفنتوس | 4 | 0 |
+| - | مجموع | 232 | 8 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1999 | البرتغال تحت 21 | 1 | 0 |
+| 2001–2007 | البرتغال | 51 | 3 |

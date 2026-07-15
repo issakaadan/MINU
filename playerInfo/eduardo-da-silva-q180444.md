@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q180444
-- Generated At (UTC): 2026-07-13T08:53:33+00:00
+- Generated At (UTC): 2026-07-13T12:10:10+00:00
 - English Name: Eduardo da Silva
 - Arabic Name: إدواردو دا سيلفا
 - Birth Year: 1983
@@ -36,14 +36,7 @@ He began his career with his hometown club in Brazil, Bangu Atlético Clube . He
 Eduardo took up Croatian citizenship in 2002 and made his international debut for the Croatia national team as a second-half substitute in a friendly match against Ireland on 16 November 2004 at the age of 21. He was selected by the national team's coach Slaven Bilić for the UEFA Euro 2012 tournament and again by Niko Kovač for the 2014 FIFA World Cup . With 29 goals scored for Croatia, Eduardo is the country's fifth highest goalscorer on record .
 
 ### English Achievements
-- With Dinamo Zagreb: Prva HNL
-- With Shakhtar Donetsk: Ukrainian Premier League
-- With Legia Warsaw: Ekstraklasa
-- Individual: SN Yellow Shirt Award
-- With Dinamo Zagreb: Croatian Cup
-- With Dinamo Zagreb: Croatian Super Cup
-- With Shakhtar Donetsk: Ukrainian Cup
-- With Shakhtar Donetsk: Ukrainian Super Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 194
@@ -53,16 +46,13 @@ Eduardo took up Croatian citizenship in 2002 and made his international debut fo
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2001–2007 | Dinamo Zagreb | 109 | 73 |
-| 2001 | Croatia Sesvete | 5 | 2 |
-| 2003 | Inter Zaprešić | 15 | 10 |
-| 2007–2010 | Arsenal | 41 | 7 |
-| 2010–2014 | Shakhtar Donetsk | 81 | 24 |
-| 2014–2015 | Flamengo | 27 | 10 |
-| 2015–2016 | Shakhtar Donetsk | 29 | 14 |
-| 2017 | Atlético Paranaense | 2 | 0 |
-| 2018 | Legia Warsaw | 11 | 0 |
-| Total | Total | 320 | 140 |
+| 2001–2006 | Dinamo Zagreb | 149 | 93 |
+| 2002 | Inter Zaprešić (loan) | 15 | 10 |
+| 2007–2009 | Arsenal | 67 | 20 |
+| 2010–2016 | Shakhtar Donetsk | 173 | 57 |
+| 2014–2015 | Flamengo | 46 | 13 |
+| 2017 | Atlético Paranaense | 5 | 0 |
+| 2017–2018 | Legia Warsaw | 14 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -82,12 +72,23 @@ Eduardo took up Croatian citizenship in 2002 and made his international debut fo
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 278
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 278
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001–2007 | دينامو زغرب | 109 | 73 |
+| 2001 | [الإنجليزية] | 5 | 2 |
+| 2003 | إنتر زابرشيتش | 15 | 10 |
+| 2007–2010 | أرسنال | 41 | 7 |
+| 2010–2014 | شاختار دونيتسك | 81 | 24 |
+| 2014–2015 | فلامنغو | 27 | 10 |
+| 2015–2016 | شاختار دونيتسك | 29 | 14 |
+| 2017 | أتلتيكو باراناينسي | 2 | 0 |
+| 2018 | ليغيا وارسو | 10 | 0 |
+| - | مجموع | 314 | 138 |
 
 ### Arabic National Team Stats
 _No rows found._

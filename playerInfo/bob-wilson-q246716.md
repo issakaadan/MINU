@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q246716
-- Generated At (UTC): 2026-07-13T08:55:20+00:00
+- Generated At (UTC): 2026-07-13T12:11:48+00:00
 - English Name: Bob Wilson
 - Arabic Name: بوب ويلسون
 - Birth Year: 1941
@@ -34,10 +34,7 @@ Robert Primrose Wilson OBE (born 30 October 1941) is a former Scotland internati
 As a player, Wilson spent 11 years at Arsenal , where he made over 300 appearances. He also featured as a youth and senior international for Scotland . After retiring as a player, he turned to coaching and broadcasting, presenting football programmes on television for 28 years until 2002. Wilson also founded the Willow Foundation charity in memory of his daughter. [ 2 ]
 
 ### English Achievements
-- With Arsenal: Football League First Division
-- Individual: Arsenal Player of the Season
-- With Arsenal: FA Cup
-- With Arsenal: Inter-Cities Fairs Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 0
@@ -67,12 +64,17 @@ As a player, Wilson spent 11 years at Arsenal , where he made over 300 appearanc
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 0
+- Senior national team goals total: 0
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1961–1963 | وولفرهامبتون واندررز [ 1 ] | 0 | 0 |
+| 1963–1974 | أرسنال | 310 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1971 | اسكتلندا | 2 | 0 |

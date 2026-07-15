@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q276379
-- Generated At (UTC): 2026-07-13T08:54:48+00:00
+- Generated At (UTC): 2026-07-13T12:11:18+00:00
 - English Name: Nigel Reo-Coker
 - Arabic Name: نايجل ريو كوكر
 - Birth Year: 1984
@@ -34,9 +34,7 @@ Nigel Shola Andre Reo-Coker (born 14 May 1984) is an English former professional
 Reo-Coker came through the youth team ranks at Wimbledon , and has previously played for West Ham United , Aston Villa , Bolton Wanderers , Ipswich Town , Vancouver Whitecaps FC , Chivas USA , Montreal Impact , Start and Milton Keynes Dons .
 
 ### English Achievements
-- With West Ham United: Football League Championship play-offs
-- With Montreal Impact: CONCACAF Champions League runner-up
-- With West Ham United: FA Cup runner-up
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 24
@@ -46,17 +44,16 @@ Reo-Coker came through the youth team ranks at Wimbledon , and has previously pl
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2002–2004 | Wimbledon | 58 | 6 |
-| 2004–2007 | West Ham United | 120 | 11 |
-| 2007–2011 | Aston Villa | 102 | 1 |
-| 2011–2012 | Bolton Wanderers | 37 | 3 |
-| 2012–2013 | Ipswich Town | 10 | 0 |
-| 2013–2014 | Vancouver Whitecaps FC | 44 | 1 |
+| 2001–2003 | Wimbledon | 64 | 6 |
+| 2003–2006 | West Ham United | 142 | 11 |
+| 2007–2010 | Aston Villa | 123 | 3 |
+| 2011 | Bolton Wanderers | 42 | 3 |
+| 2012 | Ipswich Town | 11 | 0 |
+| 2013–2014 | Vancouver Whitecaps FC | 49 | 1 |
 | 2014 | Chivas USA | 9 | 0 |
-| 2015–2016 | Montreal Impact | 31 | 0 |
-| 2017 | Start | 2 | 0 |
-| 2018 | Milton Keynes Dons | 0 | 0 |
-| Total | Total | 413 | 22 |
+| 2015 | Montreal Impact | 40 | 0 |
+| 2017 | Start | 3 | 0 |
+| 2017 | Milton Keynes Dons | 0 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -79,12 +76,27 @@ Reo-Coker came through the youth team ranks at Wimbledon , and has previously pl
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 44
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 44
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2004 | ويمبلدون | 58 | 6 |
+| 2004–2007 | وست هام يونايتد | 120 | 11 |
+| 2007–2011 | أستون فيلا | 102 | 1 |
+| 2011–2012 | بولتون واندررز | 37 | 3 |
+| 2012–2013 | إيبسويتش تاون | 10 | 0 |
+| 2013–2014 | فانكوفر وايتكابس | 44 | 1 |
+| 2014 | شيفاز يو إس أي | 9 | 0 |
+| 2015–2016 | إمباكت مونتريال | 31 | 0 |
+| 2017 | نادي ستارت | 2 | 0 |
+| 2018 | ميلتون كينز دونز | 0 | 0 |
+| - | مجموع | 413 | 22 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005 | إنجلترا تحت 20 | 3 | 0 |
+| 2003–2007 | إنجلترا تحت 21 | 23 | 1 |

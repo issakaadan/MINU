@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q486397
-- Generated At (UTC): 2026-07-13T08:55:49+00:00
+- Generated At (UTC): 2026-07-13T12:12:17+00:00
 - English Name: Kim Tae-young
 - Arabic Name: كيم تاي يونغ
 - Birth Year: 1970
@@ -32,14 +32,7 @@
 Kim Tae-young (born 8 November 1970) is a South Korean football manager and former player who played as a defender who is currently the manager of Lao League 1 club Champasak Avenir .
 
 ### English Achievements
-- With Kookmin Bank: Korean Semi-professional Championship
-- With Jeonnam Dragons: Korean FA Cup
-- With South Korea B: Summer Universiade silver medal
-- With South Korea: AFC Asian Cup third place
-- Individual: K League All-Star
-- With Jeonnam Dragons: Korean League Cup runner-up
-- With Jeonnam Dragons: Asian Cup Winners' Cup runner-up
-- With South Korea: EAFF Championship
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 5
@@ -49,7 +42,7 @@ Kim Tae-young (born 8 November 1970) is a South Korean football manager and form
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1995–2005 | Jeonnam Dragons | 201 | 4 |
+| 1995–2005 | Jeonnam Dragons | 250 | 5 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -68,12 +61,16 @@ Kim Tae-young (born 8 November 1970) is a South Korean football manager and form
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 4
+- Senior national team goals total: 3
+- Senior career goals total: 7
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1995–2005 | تشونام دراغونز | 201 | 4 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1992–2004 | كوريا الجنوبية | 105 | 3 |

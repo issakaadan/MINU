@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q439430
-- Generated At (UTC): 2026-07-13T08:54:11+00:00
+- Generated At (UTC): 2026-07-13T12:10:41+00:00
 - English Name: Charles Kaboré
 - Arabic Name: تشارلز كابوريه
 - Birth Year: 1988
@@ -32,11 +32,7 @@
 Charles Kaboré (born 9 February 1988) is a Burkinabé former professional footballer who played as a defensive midfielder . A Burkina Faso international from 2006 to 2021, he is the country's most capped player.
 
 ### English Achievements
-- With Marseille: Ligue 1
-- With Kuban Krasnodar: Russian Cup runner-up
-- With Burkina Faso: Africa Cup of Nations runner-up
-- With Marseille: Coupe de la Ligue
-- With Marseille: Trophée des Champions
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 8
@@ -46,14 +42,13 @@ Charles Kaboré (born 9 February 1988) is a Burkinabé former professional footb
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2006–2008 | Libourne Saint Seurin | 26 | 1 |
-| 2008 | Marseille | 12 | 0 |
-| 2008–2013 | Marseille | 124 | 2 |
-| 2013–2016 | Kuban Krasnodar | 63 | 0 |
-| 2015–2016 | Krasnodar | 21 | 0 |
-| 2016–2019 | Krasnodar | 65 | 2 |
-| 2019–2021 | Dynamo Moscow | 39 | 0 |
-| 2022–2023 | Niort | 30 | 0 |
+| 2006–2007 | Libourne Saint Seurin | 27 | 1 |
+| 2007 | Marseille (loan) | 15 | 0 |
+| 2008–2012 | Marseille | 175 | 4 |
+| 2012–2015 | Kuban Krasnodar | 78 | 1 |
+| 2015 | Krasnodar (loan) | 32 | 0 |
+| 2016–2018 | Krasnodar | 92 | 2 |
+| 2019–2020 | Dynamo Moscow | 42 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -72,12 +67,22 @@ Charles Kaboré (born 9 February 1988) is a Burkinabé former professional footb
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 5
+- Senior national team goals total: 4
+- Senior career goals total: 9
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006–2008 | ليبورن | 26 | 1 |
+| 2008 | أولمبيك مارسيليا | 12 | 0 |
+| 2008–2013 | أولمبيك مارسيليا | 124 | 2 |
+| 2013–2016 | كوبان كراسنودار | 63 | 0 |
+| 2015–2016 | كراسنودار | 21 | 0 |
+| 2016–2019 | كراسنودار | 65 | 2 |
+| 2019–2021 | دينامو موسكو | 39 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006– | بوركينا فاسو | 101 | 4 |

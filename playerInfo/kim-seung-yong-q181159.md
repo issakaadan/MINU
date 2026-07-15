@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q181159
-- Generated At (UTC): 2026-07-13T08:55:48+00:00
+- Generated At (UTC): 2026-07-13T12:12:17+00:00
 - English Name: Kim Seung-yong
 - Arabic Name: كيم سيونغ يونغ
 - Birth Year: 1985
@@ -34,13 +34,12 @@ Kim Seung-yong ( Korean : 김승용 ; Hanja : 金承龍 ; born 14 March 1985) is
 He has also played in Australia , Japan , China and Thailand during his career.
 
 ### English Achievements
-- With Club [ edit ]: AFC Champions League
-- With International [ edit ]: AFC U-19 Championship
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 32
+- Club goals total: 30
 - Senior national team goals total: 9
-- Senior career goals total: 41
+- Senior career goals total: 39
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
@@ -77,12 +76,28 @@ He has also played in Australia , Japan , China and Thailand during his career.
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 32
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 32
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004–2009 | سول | 47 | 3 |
+| 2007–2008 | غيمتشون سانغمو | 28 | 1 |
+| 2010 | جونبك هيونداي موتورز | 4 | 0 |
+| 2011 | غامبا أوساكا | 28 | 4 |
+| 2012–2013 | أولسان هيونداي | 61 | 5 |
+| 2014 | سنترال كوست مارينرز | 14 | 3 |
+| 2015 | تشينغداو | 23 | 4 |
+| 2016 | بوريرام يونايتد | 16 | 3 |
+| 2016 | [الإنجليزية] | 11 | 0 |
+| 2017–2018 | غانغوون | 49 | 4 |
+| 2019 | إنتشون يونايتد | 2 | 0 |
+| 2021–2022 | نادي لي مان | 15 | 5 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2003–2005 | كوريا الجنوبية تحت 20 | 26 | 8 |
+| 2006–2008 | كوريا الجنوبية تحت 23 | 17 | 1 |

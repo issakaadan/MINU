@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q277944
-- Generated At (UTC): 2026-07-13T08:56:40+00:00
+- Generated At (UTC): 2026-07-13T12:13:17+00:00
 - English Name: Mehmet Nas
 - Arabic Name: ميهميت ناس
 - Birth Year: 1979
@@ -67,12 +67,22 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 21
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 21
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1998–2004 | سامسون سبور | 192 | 4 |
+| 2004–2009 | غنتشلربيرليغي | 132 | 8 |
+| 2009–2010 | مانيساسبور | 15 | 3 |
+| 2010–2013 | سيفاسبور | 80 | 5 |
+| 2013–2014 | معمورة العزيز سبور | 24 | 0 |
+| 2014–2015 | غازي عنتاب بي.بي.كي | 16 | 1 |
+| 2015– | [الإنجليزية] | 12 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1998–2001 | تركيا تحت 21 | 22 | 0 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q74604
-- Generated At (UTC): 2026-07-13T08:55:45+00:00
+- Generated At (UTC): 2026-07-13T12:12:14+00:00
 - English Name: Julio Tavares
 - Arabic Name: جوليو تافاريس
 - Birth Year: 1988
@@ -32,8 +32,7 @@
 Júlio Tavares (born 19 November 1988) is a Cape Verdean professional footballer who plays as a striker for French Ligue 2 club Dijon .
 
 ### English Achievements
-- With Al-Faisaly: King's Cup
-- Individual: King's Cup Top goalscorer
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 165
@@ -43,12 +42,10 @@ Júlio Tavares (born 19 November 1988) is a Cape Verdean professional footballer
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2009–2012 | Bourg-Péronnas | 95 | 40 |
-| 2012–2020 | Dijon | 243 | 69 |
-| 2020–2022 | Al-Faisaly | 57 | 24 |
-| 2022–2024 | Al-Raed | 56 | 15 |
-| 2024–2025 | Al-Diriyah | 21 | 8 |
-| 2025– | Dijon | 28 | 3 |
+| 2009–2011 | Bourg-Péronnas | 95 | 40 |
+| 2012–2019 | Dijon | 269 | 80 |
+| 2020–2021 | Al-Faisaly | 68 | 30 |
+| 2022–2023 | Al-Raed | 57 | 15 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -67,12 +64,20 @@ Júlio Tavares (born 19 November 1988) is a Cape Verdean professional footballer
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 148
+- Senior national team goals total: 8
+- Senior career goals total: 156
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009–2012 | بورغ أون بريس بيروناس | 95 | 40 |
+| 2012–2020 | ديجون | 243 | 69 |
+| 2020–2022 | نادي الفيصلي | 57 | 24 |
+| 2022–2024 | الرائد | 56 | 15 |
+| 2024– | الدرعية | 0 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2012– | الرأس الأخضر | 48 | 8 |

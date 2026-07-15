@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q316718
-- Generated At (UTC): 2026-07-13T08:56:47+00:00
+- Generated At (UTC): 2026-07-13T12:13:23+00:00
 - English Name: Salvatore Gambino
 - Arabic Name: سالفاتوري جامبيانو
 - Birth Year: 1983
@@ -65,12 +65,20 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 52
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 52
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2006 | بوروسيا دورتموند | 45 | 5 |
+| 2006–2008 | كولن | 21 | 2 |
+| 2008–2009 | كوبلنتس | 2 | 0 |
+| 2010–2012 | نادي طرابنش 1905 [الإنجليزية] | 35 | 10 |
+| 2012–2014 | نادي طرابنش 1905 [الإنجليزية] | 49 | 4 |
+| 2014–2015 | نادي غروسيتو | 20 | 1 |
+| 2015–2020 | [الإنجليزية] | 127 | 30 |
 
 ### Arabic National Team Stats
 _No rows found._

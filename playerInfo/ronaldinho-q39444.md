@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q39444
-- Generated At (UTC): 2026-07-13T08:48:22+00:00
+- Generated At (UTC): 2026-07-13T12:05:54+00:00
 - English Name: Ronaldinho
 - Arabic Name: رونالدينيو
 - Birth Year: 1980
@@ -34,32 +34,25 @@ Ronaldo de Assis Moreira (born 21 March 1980), commonly known as Ronaldinho Gaú
 Ronaldinho made his career debut for Grêmio , in 1998. Aged 20, he moved to Paris Saint-Germain in France, where he established himself as one of the best players in Ligue 1 . In 2003, he signed for Barcelona , where he experienced his prime years, winning his first FIFA World Player of the Year award as Barcelona won the 2004–05 La Liga title. In the season that followed, he was integral to Barcelona winning their second ever UEFA Champions League and another La Liga title, giving him his first career double . Ronaldinho received the 2005 Ballon d'Or and his second World Player of the Year in the process. After scoring two solo goals in the first 2005–06 El Clásico , he became the second Barcelona player, after Diego Maradona in 1983, to receive a standing ovation from Real Madrid fans at the Santiago Bernabéu . Due to these successes, Ronaldinho is widely credited with rejuvenating Barcelona in the early 2000s.
 
 ### English Achievements
-- With Grêmio: Copa Sul
-- With PSG: UEFA Intertoto Cup
-- With Barcelona: La Liga
-- With AC Milan: Serie A
-- With Flamengo: Campeonato Carioca
-- With Atlético Mineiro: Campeonato Mineiro
-- With Brazil: FIFA World Cup
-- Individual: Campeonato Gaucho top scorer
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 266
-- Senior national team goals total: 33
-- Senior career goals total: 299
+- Senior national team goals total: 36
+- Senior career goals total: 302
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1998–2001 | Grêmio | 89 | 47 |
-| 2001–2003 | Paris Saint-Germain | 55 | 17 |
-| 2003–2008 | Barcelona | 145 | 70 |
-| 2008–2011 | AC Milan | 76 | 20 |
-| 2011–2012 | Flamengo | 56 | 23 |
-| 2012–2014 | Atlético Mineiro | 58 | 20 |
-| 2014–2015 | Querétaro | 25 | 8 |
-| 2015 | Fluminense | 7 | 0 |
-| 2026– | Ravenna | 0 | 0 |
+| 1998–2001 | Grêmio | 125 | 58 |
+| 2001–2002 | Paris Saint-Germain | 77 | 25 |
+| 2003–2007 | Barcelona | 207 | 94 |
+| 2008–2010 | AC Milan | 95 | 26 |
+| 2011–2012 | Flamengo | 72 | 28 |
+| 2012–2014 | Atlético Mineiro | 85 | 27 |
+| 2014 | Querétaro | 29 | 8 |
+| 2015 | Fluminense | 9 | 0 |
+| 2026 | Ravenna FC | 0 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -81,15 +74,36 @@ Ronaldinho made his career debut for Grêmio , in 1998. Aged 20, he moved to Par
 بدأ رونالدينيو مسيرته الاحترافية مع نادي غريميو عام 1998. وفي سن العشرين انتقل إلى باريس سان جيرمان في فرنسا ، حيث فاز بكأس إنترتوتو الأوروبية ، قبل أن يوقّع مع برشلونة عام 2003. في موسمه الثاني مع برشلونة، فاز بأول جائزة أفضل لاعب في العالم من الفيفا بعد أن قاد الفريق للفوز بلقب الدوري الإسباني موسم 2004–05. الموسم التالي يُعد من الأفضل في مسيرته، حيث كان له دور محوري في فوز برشلونة بدوري أبطال أوروبا 2005–06 للمرة الأولى منذ 14 عامًا، إلى جانب لقب الدوري الإسباني، ليحقق أول ثنائية في مسيرته، ويحصل على الكرة الذهبية عام 2005، وجائزة أفضل لاعب في العالم للمرة الثانية. بعد تسجيله هدفين فرديين في الكلاسيكو موسم 2005–06، أصبح رونالدينيو ثاني لاعب من برشلونة بعد دييغو مارادونا عام 1983 يتلقى تصفيقًا من جماهير ريال مدريد في ملعب سانتياغو برنابيو . وبفضل هذه النجاحات، يُنسب إليه الفضل في تغيير تاريخ برشلونة الحديث. [ 11 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي: كوبا سول (1)
+- مع النادي: كأس إنترتوتو ألأوروبي (1)
+- مع النادي: الدوري ألأسباني (2)
+- مع النادي ميلان: الدوري الإيطالي (1)
+- مع النادي ميلان: ريكوبا سودأمريكانا (1)
+- مع الدولية: كأس العالم للناشئين تحت-17 (1)
+- مع الدولية: كوبا أمريكا (1)
+- الفردية: كأس القارات (الكرة الذهبية)
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 205
+- Senior national team goals total: 33
+- Senior career goals total: 238
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1998–2001 | غريميو | 90 | 47 |
+| 2001–2003 | باريس سان جيرمان | 55 | 17 |
+| 2003–2008 | برشلونة | 145 | 70 |
+| 2008–2011 | ميلان | 76 | 20 |
+| 2011–2012 | فلامنغو | 56 | 23 |
+| 2012–2014 | أتلتيكو مينييرو | 58 | 20 |
+| 2014–2015 | كيريتارو | 25 | 8 |
+| 2015 | فلومينينسي | 7 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997 | البرازيل تحت 17 | 13 | 3 |
+| 1998–1999 | البرازيل تحت 20 | 17 | 8 |
+| 1999–2008 | البرازيل تحت 23 | 27 | 18 |
+| 1999–2013 | البرازيل | 97 | 33 |

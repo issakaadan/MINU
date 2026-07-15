@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q15915040
-- Generated At (UTC): 2026-07-13T08:52:27+00:00
+- Generated At (UTC): 2026-07-13T12:09:02+00:00
 - English Name: Andy Robertson
 - Arabic Name: أندرو روبرتسون
 - Birth Year: 1994
@@ -36,14 +36,7 @@ Robertson began his senior career in 2012 with one season at then-amateur Queen'
 Robertson joined Liverpool in July 2017 for an undisclosed fee, believed to be an initial total of £8 million. His honours with Liverpool include winning the 2018–19 UEFA Champions League , the 2019–20 Premier League , the 2019 UEFA Super Cup , the 2019 FIFA Club World Cup and a 2021–22 season EFL Cup and FA Cup domestic double. The 2022 FA Community Shield win meant he had won once each at that stage, the complete set of all seven first tier trophies available to Liverpool. He has since won a second EFL Cup ( 2024 ) and Premier League title ( 2025 ) with Liverpool.
 
 ### English Achievements
-- With Hull City: Football League Championship play-offs
-- With Liverpool: Premier League
-- Individual: PFA Scotland Young Player of the Year
-- Orders: Member of the Order of the British Empire
-- With Liverpool: FA Cup
-- With Liverpool: EFL Cup
-- With Liverpool: FA Community Shield
-- With Liverpool: UEFA Champions League
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 26
@@ -53,11 +46,11 @@ Robertson joined Liverpool in July 2017 for an undisclosed fee, believed to be a
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2012–2013 | Queen's Park | 34 | 2 |
-| 2013–2014 | Dundee United | 36 | 3 |
-| 2014–2017 | Hull City | 99 | 3 |
-| 2017–2026 | Liverpool | 275 | 11 |
-| 2026– | Tottenham Hotspur | 0 | 0 |
+| 2012 | Queen's Park | 43 | 2 |
+| 2013 | Dundee United | 44 | 5 |
+| 2014–2016 | Hull City | 115 | 5 |
+| 2017–2025 | Liverpool | 378 | 14 |
+| 2026 | Tottenham Hotspur | 0 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -74,15 +67,30 @@ Robertson joined Liverpool in July 2017 for an undisclosed fee, believed to be a
 أندرو روبرتسون ( الإنجليزية : Andrew Robertson ) (ولد في 11 مارس 1994 ) هو لاعب كرة قدم اسكتلندي محترف، يلعب دور المدافع في نادي توتنهام هوتسبير ومنتخب اسكتلندا الوطني . [ 4 ] [ 5 ] روبرتسون لعب لنادي هال سيتي في عام 2015، بدأ روبرتسون مسيرته المهنية مع نادي كوينز بارك في عام 2012 قبل انضمامه إلى دندي يونايتد بعد عام.وهو أكثر من صنع أهداف لزميله ليڤا في الملعب.
 
 ### Arabic Achievements
-_No honours section found._
+- مع ليفربول: . الدوري الإنجليزي الممتاز 2024 - 25 .
+- مع ليفربول: الدوري الإنجليزي الممتاز
+- مع ليفربول: دوري أبطال أوروبا
+- مع ليفربول: كأس السوبر الأوروبي
+- مع ليفربول: كأس العالم للأندية
+- مع ليفربول: كأس الرابطة الإنجليزية 2021 .
+- مع ليفربول: كأس الاتحاد الإنجليزي 2021 .
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 15
+- Senior national team goals total: 3
+- Senior career goals total: 18
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2012–2013 | نادي كوينز بارك | 34 | 2 |
+| 2013–2014 | دندي يونايتد | 36 | 3 |
+| 2014–2017 | هال سيتي | 99 | 3 |
+| 2017–2026 | ليفربول | 195 | 7 |
+| 2026- | نادي توتنهام هوتسبير | 0 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2013–2015 | اسكتلندا تحت 21 | 4 | 0 |
+| 2014– | اسكتلندا | 51 | 3 |

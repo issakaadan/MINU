@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q312067
-- Generated At (UTC): 2026-07-13T08:54:14+00:00
+- Generated At (UTC): 2026-07-13T12:10:45+00:00
 - English Name: Danny Gabbidon
 - Arabic Name: دانييل غابيدون
 - Birth Year: 1979
@@ -32,11 +32,7 @@
 Daniel Leon Gabbidon (born 8 August 1979) is a Welsh former professional footballer who played as a defender . He played for West Bromwich Albion , Cardiff City (two spells), West Ham United , Queens Park Rangers , Crystal Palace , and Panteg. He also played for the Wales national team .
 
 ### English Achievements
-- With Cardiff City: Football League Second Division play-offs
-- With West Ham United: FA Cup runner-up
-- With Crystal Palace: Football League Championship play-offs
-- Individual: Welsh Footballer of the Year
-- Individual: PFA Team of the Year
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 13
@@ -46,15 +42,11 @@ Daniel Leon Gabbidon (born 8 August 1979) is a Welsh former professional footbal
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1998–2000 | West Bromwich Albion | 20 | 0 |
-| 2000 | Cardiff City | 7 | 0 |
-| 2000–2005 | Cardiff City | 193 | 10 |
-| 2005–2011 | West Ham United | 96 | 0 |
-| 2011–2012 | Queens Park Rangers | 17 | 0 |
-| 2012–2014 | Crystal Palace | 33 | 2 |
-| 2014–2015 | Cardiff City | 1 | 0 |
-| 2015 | Panteg | 0 | 0 |
-| Total | Total | 366 | 12 |
+| 1998–2000 | West Bromwich Albion | 27 | 0 |
+| 2000–2014 | Cardiff City | 221 | 10 |
+| 2005–2010 | West Ham United | 113 | 0 |
+| 2011 | Queens Park Rangers | 18 | 1 |
+| 2012–2013 | Crystal Palace | 35 | 2 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -78,12 +70,25 @@ Daniel Leon Gabbidon (born 8 August 1979) is a Welsh former professional footbal
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 24
+- Senior national team goals total: 0
+- Senior career goals total: 24
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1998–2000 | وست بروميتش ألبيون | 20 | 0 |
+| 2000 | كارديف سيتي | 7 | 0 |
+| 2000–2005 | كارديف سيتي | 193 | 10 |
+| 2005–2011 | وست هام يونايتد | 96 | 0 |
+| 2011–2012 | كوينز بارك رينجرز | 17 | 0 |
+| 2012–2014 | كريستال بالاس | 33 | 2 |
+| 2014–2015 | كارديف سيتي | 1 | 0 |
+| 2015 | Panteg | 0 | 0 |
+| - | مجموع | 366 | 12 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1999–2001 | ويلز تحت 21 | 17 | 0 |
+| 2002–2014 | ويلز | 49 | 0 |

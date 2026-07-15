@@ -10,12 +10,18 @@ from reportlab.lib import colors
 from sqlalchemy.orm import Session
 
 from app.assistant_service import answer_card_question
-from app.core.auth import auth_manager, require_authenticated_user
+from app.core.auth import (
+    DEFAULT_MATCH_LINK_HOURS,
+    PLAYER_CARD_IDENTITY_COOKIE,
+    auth_manager,
+    require_authenticated_user,
+)
 from app.core.database import get_db
 from app.core.share_link import read_public_share_url, request_public_base_url
 from app.game_service import game_service, player_to_reveal
 from app import match_service_patch  # noqa: F401
 from app.match_service import match_service
+from app.models import Player
 from app.schemas import (
     AskQuestionRequest,
     AskQuestionResponse,
@@ -65,6 +71,42 @@ def _build_shared_card_payload(secret: PlayerSecretRead) -> SharedPlayerCardRead
         cta=secret.player.current_team_ar,
         wd=secret.player.wikidata_id,
     )
+
+
+def _read_shared_card(db: Session, token: str) -> SharedPlayerCardRead | None:
+    payload = auth_manager.read_card_token(token)
+    if payload is None:
+        return None
+    if "pid" not in payload:
+        return SharedPlayerCardRead.model_validate(payload)
+
+    try:
+        player = db.get(Player, int(payload["pid"]))
+        if player is None:
+            return None
+        primary_country = player.countries[0] if player.countries else ""
+        primary_country_ar = player.countries_ar[0] if player.countries_ar else primary_country
+        return SharedPlayerCardRead(
+            m=str(payload["m"]),
+            r=int(payload["r"]),
+            s=int(payload["s"]),
+            pn=str(payload["pn"]),
+            on=str(payload["on"]),
+            mk=str(payload["mk"]),
+            n=player.name,
+            na=player.name_ar,
+            i=player.image_url,
+            c=primary_country_ar,
+            ce=primary_country,
+            p=player.position_group,
+            y=player.birth_year,
+            a=1 if player.is_active else 0,
+            ct=player.current_team,
+            cta=player.current_team_ar,
+            wd=player.wikidata_id,
+        )
+    except (KeyError, TypeError, ValueError):
+        return None
 
 
 @router.get("/overview", response_model=GameOverview)
@@ -209,27 +251,65 @@ def get_player_share_token(
 ) -> PlayerCardTokenRead:
     match_state = match_service.get_match(match_id, _match_token_from_request(request))
     secret = match_service.read_secret(db, match_state, seat)
-    payload = _build_shared_card_payload(secret)
-    return PlayerCardTokenRead(token=auth_manager.create_card_token(payload.model_dump()))
+    compact_payload = {
+        "m": secret.match_id,
+        "r": secret.round.round_number,
+        "s": secret.seat,
+        "pn": secret.player_name,
+        "on": secret.opponent_name,
+        "mk": secret.mode_key,
+        "pid": secret.player.id,
+    }
+    return PlayerCardTokenRead(token=auth_manager.create_card_token(compact_payload))
+
+
+def _enforce_player_card_identity(request: Request, response: Response, card: SharedPlayerCardRead) -> None:
+    bindings = auth_manager.read_card_identity_token(request.cookies.get(PLAYER_CARD_IDENTITY_COOKIE, "")) or {}
+    assigned_seat = bindings.get(card.m)
+    if assigned_seat is not None and assigned_seat != card.s:
+        raise HTTPException(
+            status_code=status.HTTP_403_FORBIDDEN,
+            detail="هذه البطاقة مخصصة للاعب آخر في هذه المباراة.",
+        )
+    if assigned_seat is None:
+        # Keep prior game bindings so joining a new game cannot unlock an older one.
+        bindings = dict(list(bindings.items())[-19:])
+        bindings[card.m] = card.s
+        response.set_cookie(
+            PLAYER_CARD_IDENTITY_COOKIE,
+            auth_manager.create_card_identity_token(bindings),
+            max_age=DEFAULT_MATCH_LINK_HOURS * 3600,
+            httponly=True,
+            secure=request.url.scheme == "https",
+            samesite="strict",
+            path="/",
+        )
 
 
 @public_router.get("/card/{token}", response_model=SharedPlayerCardRead)
-def get_public_player_card(token: str) -> SharedPlayerCardRead:
-    payload = auth_manager.read_card_token(token)
-    if payload is None:
+def get_public_player_card(
+    token: str,
+    request: Request,
+    response: Response,
+    db: Session = Depends(get_db),
+) -> SharedPlayerCardRead:
+    card = _read_shared_card(db, token)
+    if card is None:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="البطاقة مو موجودة")
-    return SharedPlayerCardRead.model_validate(payload)
+    _enforce_player_card_identity(request, response, card)
+    return card
 
 
 @public_router.post("/card/{token}/assistant", response_model=CardAssistantAnswerRead)
 def ask_public_player_card_assistant(
     token: str,
     payload: CardAssistantQuestionRequest,
+    request: Request,
+    response: Response,
     db: Session = Depends(get_db),
 ) -> CardAssistantAnswerRead:
-    card_payload = auth_manager.read_card_token(token)
-    if card_payload is None:
+    card = _read_shared_card(db, token)
+    if card is None:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Ø§Ù„Ø¨Ø·Ø§Ù‚Ø© Ù…Ùˆ Ù…ÙˆØ¬ÙˆØ¯Ø©")
-
-    card = SharedPlayerCardRead.model_validate(card_payload)
+    _enforce_player_card_identity(request, response, card)
     return answer_card_question(db, card, payload.question, payload.language)

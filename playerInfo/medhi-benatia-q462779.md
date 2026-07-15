@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q462779
-- Generated At (UTC): 2026-07-13T08:53:01+00:00
+- Generated At (UTC): 2026-07-13T12:09:37+00:00
 - English Name: Medhi Benatia
 - Arabic Name: المهدي بن عطية
 - Birth Year: 1987
@@ -34,14 +34,7 @@ Medhi Amine El Mouttaqi Benatia [ note 1 ] ( Arabic : المهدي أمين ال
 Benatia began his career at Marseille , being loaned out to Tours and Lorient before joining Clermont in 2008. Two years later he joined Udinese , spending three seasons there before transferring to Roma . After helping the side finish as Serie A runners-up in his only campaign there, Benatia was signed by Bayern Munich for €26 million, winning the Bundesliga in both of his seasons at the club. In 2016 he moved to Juventus , initially on loan, and was later signed permanently by the club in 2017; he won three league titles with the side, and helped them reach the Champions League final in 2017 . Following stints with Al-Duhail in Qatar and Fatih Karagümrük in Turkey, Benatia retired from professional football in 2021.
 
 ### English Achievements
-- With Bayern Munich: Bundesliga
-- With Juventus: Serie A
-- With Al-Duhail: Qatar Stars League
-- Individual: CAF Team of the Year
-- With Bayern Munich: DFB-Pokal
-- With Juventus: Coppa Italia
-- With Juventus: Supercoppa Italiana
-- With Juventus: UEFA Champions League runner-up
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 24
@@ -51,18 +44,15 @@ Benatia began his career at Marseille , being loaned out to Tours and Lorient be
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2006–2008 | Marseille | 0 | 0 |
-| 2006–2007 | Tours | 29 | 0 |
-| 2007–2008 | Lorient | 0 | 0 |
-| 2008–2010 | Clermont | 57 | 2 |
-| 2010–2013 | Udinese | 80 | 6 |
-| 2013–2014 | Roma | 33 | 5 |
-| 2014–2017 | Bayern Munich | 29 | 2 |
-| 2016–2017 | Juventus | 12 | 1 |
-| 2017–2019 | Juventus | 28 | 2 |
-| 2019–2021 | Al-Duhail | 38 | 1 |
+| 2006 | Tours (loan) | 30 | 0 |
+| 2007 | Lorient (loan) | 1 | 0 |
+| 2008–2009 | Clermont | 60 | 2 |
+| 2010–2012 | Udinese | 97 | 7 |
+| 2013 | Roma | 37 | 5 |
+| 2014–2015 | Bayern Munich | 46 | 3 |
+| 2016–2018 | Juventus | 59 | 5 |
+| 2018–2020 | Al-Duhail | 60 | 2 |
 | 2021 | Fatih Karagümrük | 6 | 0 |
-| Total | Total | 312 | 19 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -87,12 +77,29 @@ Benatia began his career at Marseille , being loaned out to Tours and Lorient be
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 19
+- Senior national team goals total: 2
+- Senior career goals total: 21
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005–2008 | أولمبيك مارسيليا | 0 | 0 |
+| 2006–2007 | تور | 29 | 0 |
+| 2007–2008 | لوريان | 0 | 0 |
+| 2008–2010 | كليرمون | 57 | 2 |
+| 2010–2013 | أودينيزي | 80 | 6 |
+| 2013–2014 | روما | 33 | 5 |
+| 2014–2017 | بايرن ميونخ | 29 | 2 |
+| 2016–2017 | يوفنتوس | 12 | 1 |
+| 2017–2019 | يوفنتوس | 28 | 2 |
+| 2019–2021 | الدحيل | 38 | 1 |
+| 2021 | فاتح كاراغومروك | 6 | 0 |
+| - | مجموع | 312 | 19 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005 | فرنسا تحت 18 | 1 | 0 |
+| 2006–2007 | المغرب تحت 20 | 4 | 0 |
+| 2009–2019 | المغرب | 66 | 2 |

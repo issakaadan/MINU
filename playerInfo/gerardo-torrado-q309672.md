@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q309672
-- Generated At (UTC): 2026-07-13T08:54:21+00:00
+- Generated At (UTC): 2026-07-13T12:10:52+00:00
 - English Name: Gerardo Torrado
 - Arabic Name: خيراردو تورادو
 - Birth Year: 1979
@@ -36,14 +36,7 @@ Torrado represented Mexico at the 2002 , 2006 and 2010 FIFA World Cups and has w
 Torrado spent the majority of his club career with Cruz Azul , whom he captained to CONCACAF Champions League success in 2014 . [ 3 ]
 
 ### English Achievements
-- With Cruz Azul: Copa MX
-- With Indy Eleven: Spring Champions
-- With Mexico: FIFA Confederations Cup
-- Individual: Mexican Primera División Defensive Midfielder of the Tournament
-- With Cruz Azul: CONCACAF Champions League
-- With Mexico: CONCACAF Gold Cup
-- Individual: CONCACAF Gold Cup All-Tournament Team
-- Individual: FIFA Club World Cup Top Scorer
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 16
@@ -82,12 +75,24 @@ Torrado spent the majority of his club career with Cruz Azul , whom he captained
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 32
+- Senior national team goals total: 5
+- Senior career goals total: 37
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997–2000 | أونيفرسيداد ناسيونال | 44 | 1 |
+| 2000–2001 | تينيريفي | 36 | 1 |
+| 2001–2002 | بوليديبورتيفو إيخيذو | 32 | 0 |
+| 2002–2004 | إشبيلية | 40 | 0 |
+| 2004–2005 | راسينغ سانتاندير | 19 | 0 |
+| 2005–2016 | كروز آزول | 325 | 12 |
+| 2016–2017 | إندي إليفن | 40 | 2 |
+| - | مجموع | 536 | 16 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1999 | المكسيك تحت 20 | 5 | 0 |
+| 1999–2013 | المكسيك | 144 | 5 |

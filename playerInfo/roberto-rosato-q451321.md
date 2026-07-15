@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q451321
-- Generated At (UTC): 2026-07-13T08:54:59+00:00
+- Generated At (UTC): 2026-07-13T12:11:27+00:00
 - English Name: Roberto Rosato
 - Arabic Name: روبيرتو روزاتو
 - Birth Year: 1943
@@ -36,14 +36,7 @@ He played as a centre-back and was known for his physical style of defending. [ 
 Rosato played for four different Italian clubs throughout his career, but is mainly remembered for his successful stint with A.C. Milan , where he won several domestic and international titles. At international level, he represented Italy in two FIFA World Cups , reaching the final in 1970 , and won UEFA Euro 1968 .
 
 ### English Achievements
-- With Milan: Serie A
-- With Italy: UEFA European Football Championship
-- Individual: A.C. Milan Hall of Fame
-- With Milan: Coppa Italia
-- With Milan: European Cup
-- With Milan: UEFA Cup Winners' Cup
-- With Milan: Intercontinental Cup
-- With Italy: Mediterranean Games
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 11
@@ -76,12 +69,20 @@ Rosato played for four different Italian clubs throughout his career, but is mai
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 22
+- Senior national team goals total: 0
+- Senior career goals total: 22
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1960–1966 | تورينو | 131 | 4 |
+| 1966–1973 | إيه سي ميلان | 187 | 5 |
+| 1973–1977 | جنوى | 84 | 1 |
+| 1977–1979 | Aosta | 48 | 1 |
+| - | مجموع | 450 | 11 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1965–1972 | إيطاليا | 37 | 0 |

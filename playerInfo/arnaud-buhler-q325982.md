@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q325982
-- Generated At (UTC): 2026-07-13T08:56:13+00:00
+- Generated At (UTC): 2026-07-13T12:12:42+00:00
 - English Name: Arnaud Bühler
 - Arabic Name: ارنو بوهلر
 - Birth Year: 1985
@@ -32,8 +32,7 @@
 Arnaud Bühler (born 17 January 1985) is a Swiss football defender , who currently plays for FC Bavois . Bühler is a former youth international and was in the Swiss U-17 squad that won the 2002 U-17 European Championships . [ 1 ]
 
 ### English Achievements
-- With Switzerland U-17: UEFA U-17 European Champion
-- With Sion: Swiss Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 13
@@ -67,12 +66,21 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 13
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 13
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2003 | لوزان | 12 | 1 |
+| 2003–2005 | آراو | 55 | 1 |
+| 2005–2006 | سوشو | 12 | 0 |
+| 2006–2014 | سيون | 152 | 9 |
+| 2015 | زومباثلي هالاداس [الإنجليزية] | 7 | 0 |
+| 2016–2017 | لوزان | 26 | 1 |
+| 2017–2018 | ويل | 33 | 1 |
+| 2018– | [الإنجليزية] | 0 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

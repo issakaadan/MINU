@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q322696
-- Generated At (UTC): 2026-07-13T08:56:44+00:00
+- Generated At (UTC): 2026-07-13T12:13:20+00:00
 - English Name: René Renno
 - Arabic Name: رينيه رينو
 - Birth Year: 1979
@@ -42,15 +42,14 @@ _No honours section found._
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1999–2000 | Hertha BSC II | 50 | 0 |
-| 2000–2001 | Tennis Borussia Berlin | 32 | 0 |
-| 2001–2003 | SG Wattenscheid 09 | 47 | 0 |
-| 2003–2005 | Rot-Weiss Essen | 34 | 0 |
-| 2005–2010 | VfL Bochum | 14 | 0 |
-| 2005–2010 | VfL Bochum II | 10 | 0 |
-| 2010– | Energie Cottbus | 44 | 0 |
-| 2010– | Energie Cottbus II | 5 | 0 |
-| Total | Total | 236 | 0 |
+| 1998–1999 | Hertha BSC II | 50 | 0 |
+| 2000 | Tennis Borussia Berlin | 33 | 0 |
+| 2001–2002 | SG Wattenscheid 09 | 47 | 0 |
+| 2003–2004 | Rot-Weiss Essen | 34 | 0 |
+| 2005–2009 | VfL Bochum | 14 | 0 |
+| 2005–2009 | VfL Bochum II | 11 | 0 |
+| 2010–2015 | Energie Cottbus | 45 | 0 |
+| 2010–2012 | Energie Cottbus II | 5 | 0 |
 
 ### English National Team Stats
 _No rows found._
@@ -67,12 +66,22 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 0
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1999–2000 | [الإنجليزية] | 50 | 0 |
+| 2000–2001 | تنس بوروسيا برلين | 32 | 0 |
+| 2001–2003 | فاتنشايد 09 | 47 | 0 |
+| 2003–2005 | روت فايس إيسن | 34 | 0 |
+| 2005–2010 | بوخوم | 14 | 0 |
+| 2005–2010 | [الإنجليزية] | 10 | 0 |
+| 2010– | إنيرجي كوتبوس | 44 | 0 |
+| 2010– | إنيرجي كوتبوس | 5 | 0 |
+| - | مجموع | 236 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

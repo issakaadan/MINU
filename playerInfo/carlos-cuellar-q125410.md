@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q125410
-- Generated At (UTC): 2026-07-13T08:54:09+00:00
+- Generated At (UTC): 2026-07-13T12:10:38+00:00
 - English Name: Carlos Cuéllar
 - Arabic Name: كارلوس كويلار
 - Birth Year: 1981
@@ -32,14 +32,7 @@
 Carlos Javier Cuéllar Jiménez ( Spanish pronunciation: [ˈkaɾlos ˈkweʎaɾ] ; born 23 August 1981) is a Spanish former professional footballer , and the current manager of Elche Ilicitano . Mainly a central defender , he could also operate as a right-back . Shomari fancies him
 
 ### English Achievements
-- With Osasuna: Copa del Rey runner-up
-- With Rangers: Scottish Cup
-- With Aston Villa: Football League Cup runner-up
-- With Bnei Yehuda: Israel State Cup
-- Individual: Scottish Premier League Player of the Year
-- With Rangers: Scottish League Cup
-- With Rangers: UEFA Cup runner-up
-- Individual: SFWA Footballer of the Year
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 22
@@ -49,19 +42,18 @@ Carlos Javier Cuéllar Jiménez ( Spanish pronunciation: [ˈkaɾlos ˈkweʎaɾ] 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2000–2003 | Numancia | 62 | 4 |
-| 2000–2001 | Calahorra | 27 | 1 |
-| 2003–2007 | Osasuna | 71 | 2 |
-| 2007–2008 | Rangers | 36 | 4 |
-| 2008–2012 | Aston Villa | 94 | 2 |
-| 2012–2014 | Sunderland | 30 | 1 |
-| 2014–2015 | Norwich City | 8 | 0 |
-| 2015–2016 | Almería | 18 | 0 |
-| 2016–2017 | Maccabi Petah Tikva | 30 | 0 |
-| 2017–2018 | Ironi Kiryat Shmona | 31 | 1 |
-| 2018 | Beitar Jerusalem | 0 | 0 |
-| 2018–2019 | Bnei Yehuda | 23 | 1 |
-| Total | Total | 430 | 16 |
+| 2000 | Calahorra | 33 | 1 |
+| 2001–2002 | Numancia | 66 | 4 |
+| 2003–2006 | Osasuna | 95 | 5 |
+| 2007–2008 | Rangers | 65 | 5 |
+| 2008–2011 | Aston Villa | 120 | 3 |
+| 2012–2013 | Sunderland | 33 | 1 |
+| 2014 | Norwich City | 10 | 0 |
+| 2015 | Almería | 20 | 0 |
+| 2016 | Maccabi Petah Tikva | 32 | 0 |
+| 2017 | Ironi Kiryat Shmona | 41 | 2 |
+| 2018 | Beitar Jerusalem | 2 | 0 |
+| 2018 | Bnei Yehuda | 26 | 1 |
 
 ### English National Team Stats
 _No rows found._
@@ -78,12 +70,25 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 32
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 32
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000–2003 | نومانسيا | 62 | 4 |
+| 2000–2001 | نادي كالاهورا | 27 | 1 |
+| 2003–2007 | أوساسونا | 71 | 2 |
+| 2007–2008 | رينجرز | 36 | 4 |
+| 2008–2012 | أستون فيلا | 94 | 2 |
+| 2012–2014 | سندرلاند | 30 | 1 |
+| 2014–2015 | نورويتش سيتي | 8 | 0 |
+| 2015–2016 | ألميريا | 18 | 0 |
+| 2016–2017 | مكابي بتاح تكفا | 30 | 0 |
+| 2017–2018 | هبوعيل إيروني كريات شمونة | 31 | 1 |
+| 2018–2019 | بني يهودا تل أبيب | 23 | 1 |
+| - | مجموع | 430 | 16 |
 
 ### Arabic National Team Stats
 _No rows found._

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q131912
-- Generated At (UTC): 2026-07-13T08:56:39+00:00
+- Generated At (UTC): 2026-07-13T12:13:15+00:00
 - English Name: Marco Aratore
 - Arabic Name: ماركو أراتور
 - Birth Year: 1991
@@ -35,9 +35,9 @@ Marco Calogero Aratore (born 4 June 1991) is a Swiss football coach and a former
 _No honours section found._
 
 ### English Career Totals
-- Club goals total: 70
+- Club goals total: 51
 - Senior national team goals total: 9
-- Senior career goals total: 79
+- Senior career goals total: 60
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
@@ -76,12 +76,31 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 70
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 70
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2008–2009 | بازل | 17 | 6 |
+| 2009–2013 | بازل | 1 | 0 |
+| 2009–2010 | ثون | 7 | 2 |
+| 2010–2012 | آراو | 45 | 3 |
+| 2012 | بازل | 16 | 13 |
+| 2013 | فينترتور | 18 | 5 |
+| 2013–2014 | فينترتور | 35 | 14 |
+| 2014–2018 | سانت غالن | 131 | 19 |
+| 2018–2020 | أورال يكاترينبورغ | 21 | 0 |
+| 2019–2020 | لوغانو | 22 | 3 |
+| 2020–2022 | آراو | 47 | 5 |
+| 2022– | بازل | 6 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006–2007 | منتخب سويسرا تحت 16 سنة لكرة القدم [لغات أخرى] | 9 | 0 |
+| 2007–2008 | سويسرا تحت 17 | 9 | 2 |
+| 2008–2009 | سويسرا تحت 18 | 7 | 3 |
+| 2009–2010 | سويسرا تحت 19 | 13 | 3 |
+| 2010–2012 | سويسرا تحت 20 | 9 | 1 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q205499
-- Generated At (UTC): 2026-07-13T08:52:37+00:00
+- Generated At (UTC): 2026-07-13T12:09:12+00:00
 - English Name: Fernando Hierro
 - Arabic Name: فرناندو هييرو
 - Birth Year: 1968
@@ -36,14 +36,7 @@ He won five La Liga and three Champions League trophies with Real Madrid in 14 y
 Hierro represented Spain on 89 occasions, appearing in four World Cups and two European Championships .
 
 ### English Achievements
-- With Real Madrid: La Liga
-- With Al-Rayyan: Emir of Qatar Cup
-- Individual: World XI
-- With Real Madrid: Copa del Rey
-- With Real Madrid: Supercopa de España
-- With Real Madrid: UEFA Champions League
-- With Real Madrid: Intercontinental Cup
-- With Real Madrid: UEFA Super Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 135
@@ -53,11 +46,10 @@ Hierro represented Spain on 89 occasions, appearing in four World Cups and two E
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1987–1989 | Valladolid | 58 | 3 |
-| 1989–2003 | Real Madrid | 439 | 102 |
-| 2003–2004 | Al-Rayyan | 19 | 3 |
-| 2004–2005 | Bolton Wanderers | 29 | 1 |
-| Total | Total | 545 | 109 |
+| 1987–1988 | Valladolid | 66 | 3 |
+| 1989–2002 | Real Madrid | 602 | 128 |
+| 2003 | Al-Rayyan | 19 | 3 |
+| 2004 | Bolton Wanderers | 35 | 1 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -77,12 +69,21 @@ Hierro represented Spain on 89 occasions, appearing in four World Cups and two E
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 218
+- Senior national team goals total: 29
+- Senior career goals total: 247
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1987–1989 | ريال بلد الوليد | 58 | 3 |
+| 1989–2003 | ريال مدريد | 439 | 102 |
+| 2003–2004 | الريان | 19 | 3 |
+| 2004–2005 | بولتون واندررز | 29 | 1 |
+| - | مجموع | 545 | 109 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1989–1990 | إسبانيا تحت 21 | 5 | 2 |
+| 1989–2002 | إسبانيا | 89 | 29 |

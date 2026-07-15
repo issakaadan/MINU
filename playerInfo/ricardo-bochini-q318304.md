@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q318304
-- Generated At (UTC): 2026-07-13T08:54:58+00:00
+- Generated At (UTC): 2026-07-13T12:11:27+00:00
 - English Name: Ricardo Bochini
 - Arabic Name: ريكاردو بوتشيني
 - Birth Year: 1954
@@ -34,19 +34,12 @@ Ricardo Enrique Bochini (born 25 January 1954) is an Argentine former profession
 In addition to winning the 1986 FIFA World Cup with the Argentina national team , Bochini won a total of 13 titles with Independiente – four Primera División championships and nine international competitions.
 
 ### English Achievements
-- With Club [ edit ]: Argentine Primera División
-- With International [ edit ]: FIFA World Cup
-- Individual [ edit ]: Footballer of the Year of Argentina
-- With Club [ edit ]: Copa Libertadores
-- With Club [ edit ]: Copa Interamericana
-- With Club [ edit ]: Intercontinental Cup
-- Individual [ edit ]: South American Player of the Year
-- Individual [ edit ]: South American Team of the Year
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 109
+- Club goals total: 97
 - Senior national team goals total: 0
-- Senior career goals total: 109
+- Senior career goals total: 97
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
@@ -73,12 +66,18 @@ In addition to winning the 1986 FIFA World Cup with the Argentina national team 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 194
+- Senior national team goals total: 0
+- Senior career goals total: 194
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1972–1991 | إنديبندينتي | 634 | 97 |
+| 2007 | سبورتيفو باراكاس | 1 | 0 |
+| - | مجموع | 635 | 97 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1973–1986 | الأرجنتين | 28 | 0 |

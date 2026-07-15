@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState, type FormEvent } from "react";
+import type { Html5Qrcode } from "html5-qrcode";
 
 import { ApiError, api, getQrCodeUrl } from "./game/api";
 import {
@@ -3217,7 +3218,7 @@ function AdminScreen({
               </div>
               <div className="admin-info-row">
                 <span>رابط البطاقة</span>
-                <strong>{overview ? `${overview.runtime.card_link_ttl_hours} ساعة` : "..."}</strong>
+                <strong>{overview ? `${overview.runtime.card_link_ttl_minutes} دقيقة` : "..."}</strong>
               </div>
             </div>
           </article>
@@ -3351,7 +3352,7 @@ function AdminScreen({
               <input className="input" onChange={(event) => updatePlayerForm("image_url", event.target.value)} placeholder="رابط الصورة" value={playerForm.image_url} />
               <input className="input" onChange={(event) => updatePlayerForm("current_team_ar", event.target.value)} placeholder="النادي بالعربي" value={playerForm.current_team_ar} />
               <input className="input" onChange={(event) => updatePlayerForm("current_team", event.target.value)} placeholder="النادي بالإنجليزي" value={playerForm.current_team} />
-              <input className="input" min={1} max={3} onChange={(event) => updatePlayerForm("difficulty", Number(event.target.value) || 1)} placeholder="اللفل" type="number" value={playerForm.difficulty} />
+              <input className="input" min={1} max={4} onChange={(event) => updatePlayerForm("difficulty", Number(event.target.value) || 1)} placeholder="اللفل" type="number" value={playerForm.difficulty} />
               <input className="input" min={0} onChange={(event) => updatePlayerForm("fame_score", Number(event.target.value) || 0)} placeholder="الشعبية" type="number" value={playerForm.fame_score} />
               <input className="input" min={1860} onChange={(event) => updatePlayerForm("birth_year", Number(event.target.value) || 1900)} placeholder="سنة الميلاد" type="number" value={playerForm.birth_year} />
               <select className="input" onChange={(event) => updatePlayerForm("position_group", event.target.value as AdminPlayerFormState["position_group"])} value={playerForm.position_group}>
@@ -4640,10 +4641,14 @@ function GameBoardScreen({
 function PublicCardScreen({ payload }: { payload: string }) {
   const [cardPayload, setCardPayload] = useState<SharedPlayerCardPayload | null>(null);
   const [cardError, setCardError] = useState("");
+  const [cardReplaced, setCardReplaced] = useState(false);
+  const [cardScannerOpen, setCardScannerOpen] = useState(false);
+  const [cardScannerError, setCardScannerError] = useState("");
   const [cardLanguage, setCardLanguage] = useState<CardLanguage>("ar");
   const [assistantQuestion, setAssistantQuestion] = useState("");
   const [assistantAnswer, setAssistantAnswer] = useState("");
   const [assistantBusy, setAssistantBusy] = useState(false);
+  const cardCaptureInputRef = useRef<HTMLInputElement>(null);
   const { clubSequence, details, summary } = useWikipediaCard(
     cardPayload?.n ?? null,
     cardPayload?.na ?? null,
@@ -4654,6 +4659,167 @@ function PublicCardScreen({ payload }: { payload: string }) {
     ? `who-is-the-player-note:${cardPayload.m}:${cardPayload.r}:${cardPayload.s}`
     : "";
   const [notes, setNotes] = useState("");
+  const extractCardPayload = (decodedText: string) => {
+    try {
+      const scannedUrl = new URL(decodedText, window.location.origin);
+      const match = scannedUrl.pathname.match(/\/(?:minu\/|menu\/)?card\/(.+)$/i);
+      return match?.[1]?.trim() ?? "";
+    } catch {
+      return "";
+    }
+  };
+
+  const openDecodedCard = async (decodedText: string) => {
+    const nextPayload = extractCardPayload(decodedText);
+    if (!nextPayload) {
+      throw new Error("هذا الرمز ليس بطاقة لاعب من MINU.");
+    }
+    const nextCard = await api.getPublicPlayerCard(nextPayload);
+    if (!cardPayload || nextCard.m !== cardPayload.m || nextCard.s !== cardPayload.s) {
+      throw new Error("هذه البطاقة مخصصة للاعب آخر في هذه المباراة.");
+    }
+    window.location.replace(`/card/${nextPayload}`);
+  };
+
+  const handleCapturedQr = async (file: File | undefined) => {
+    if (!file) {
+      return;
+    }
+    setCardScannerError("");
+    setCardScannerOpen(false);
+    try {
+      const { Html5Qrcode, Html5QrcodeSupportedFormats } = await import("html5-qrcode");
+      const fileScanner = new Html5Qrcode("minu-card-file-scanner", {
+        formatsToSupport: [Html5QrcodeSupportedFormats.QR_CODE],
+        experimentalFeatures: { useBarCodeDetectorIfSupported: true },
+        verbose: false,
+      });
+      const decodedText = await fileScanner.scanFile(file, false);
+      fileScanner.clear();
+      await openDecodedCard(decodedText);
+    } catch (error) {
+      setCardScannerError(error instanceof Error ? error.message : "تعذر قراءة رمز QR من الصورة.");
+    } finally {
+      if (cardCaptureInputRef.current) {
+        cardCaptureInputRef.current.value = "";
+      }
+    }
+  };
+
+  useEffect(() => {
+    const activeCardKey = "minu-active-player-card";
+    const deactivateOldCard = (latestPayload: string | null) => {
+      if (!latestPayload?.trim() || latestPayload.trim() === payload) {
+        return;
+      }
+      window.close();
+      window.setTimeout(() => setCardReplaced(true), 50);
+    };
+    const handleStorage = (event: StorageEvent) => {
+      if (event.key === activeCardKey) {
+        deactivateOldCard(event.newValue);
+      }
+    };
+    const channel = typeof BroadcastChannel !== "undefined"
+      ? new BroadcastChannel("minu-player-card")
+      : null;
+    if (channel) {
+      channel.onmessage = (event: MessageEvent<string>) => deactivateOldCard(event.data);
+    }
+
+    window.addEventListener("storage", handleStorage);
+    localStorage.setItem(activeCardKey, payload);
+    channel?.postMessage(payload);
+    return () => {
+      window.removeEventListener("storage", handleStorage);
+      channel?.close();
+    };
+  }, [payload]);
+
+  useEffect(() => {
+    if (!cardScannerOpen) {
+      return;
+    }
+
+    let active = true;
+    let scanner: Html5Qrcode | null = null;
+    let validatingScan = false;
+    void import("html5-qrcode")
+      .then(({ Html5Qrcode, Html5QrcodeSupportedFormats }) => {
+        if (!active) {
+          return;
+        }
+        scanner = new Html5Qrcode("minu-card-scanner", {
+          formatsToSupport: [Html5QrcodeSupportedFormats.QR_CODE],
+          experimentalFeatures: { useBarCodeDetectorIfSupported: true },
+          verbose: false,
+        });
+        return scanner.start(
+          { facingMode: "environment" },
+          {
+            fps: 12,
+            disableFlip: false,
+          },
+          (decodedText) => {
+            const nextPayload = extractCardPayload(decodedText);
+            if (!active || !nextPayload) {
+              setCardScannerError("هذا الرمز ليس بطاقة لاعب من MINU.");
+              return;
+            }
+            if (validatingScan) {
+              return;
+            }
+            validatingScan = true;
+            void api.getPublicPlayerCard(nextPayload).then((nextCard) => {
+              if (!active) {
+                return;
+              }
+              if (!cardPayload || nextCard.m !== cardPayload.m || nextCard.s !== cardPayload.s) {
+                setCardScannerError("هذه البطاقة مخصصة للاعب آخر في هذه المباراة.");
+                navigator.vibrate?.([60, 50, 60]);
+                validatingScan = false;
+                return;
+              }
+              active = false;
+              navigator.vibrate?.(80);
+              const activeScanner = scanner;
+              if (!activeScanner) {
+                return;
+              }
+              void activeScanner.stop().finally(() => {
+                activeScanner.clear();
+                window.location.replace(`/card/${nextPayload}`);
+              });
+            }).catch((error: Error) => {
+              if (active) {
+                setCardScannerError(error.message || "تعذر التحقق من البطاقة.");
+                navigator.vibrate?.([60, 50, 60]);
+                validatingScan = false;
+              }
+            });
+          },
+          () => undefined,
+        );
+      })
+      .catch(() => {
+        if (active) {
+          setCardScannerError("تعذر تشغيل الكاميرا. اسمح لـ MINU باستخدام الكاميرا وحاول مرة أخرى.");
+        }
+      });
+
+    return () => {
+      active = false;
+      const activeScanner = scanner;
+      if (!activeScanner) {
+        return;
+      }
+      if (activeScanner.isScanning) {
+        void activeScanner.stop().finally(() => activeScanner.clear());
+      } else {
+        activeScanner.clear();
+      }
+    };
+  }, [cardPayload, cardScannerOpen]);
 
   useEffect(() => {
     let active = true;
@@ -4699,6 +4865,17 @@ function PublicCardScreen({ payload }: { payload: string }) {
     }
     localStorage.setItem(noteKey, notes);
   }, [noteKey, notes]);
+
+  if (cardReplaced) {
+    return (
+      <div className="player-screen" dir="rtl">
+        <section className="player-panel">
+          <h1>تم استبدال هذه البطاقة بآخر بطاقة تم مسحها.</h1>
+          <p>يمكنك إغلاق هذا التبويب.</p>
+        </section>
+      </div>
+    );
+  }
 
   if (!cardPayload) {
     return (
@@ -4804,41 +4981,6 @@ function PublicCardScreen({ payload }: { payload: string }) {
         <div className="public-card-layout">
           <article className="public-card">
             <div className="public-card__media">
-              <div className="assistant-card">
-                <strong>{assistantText.title}</strong>
-                <div className="assistant-card__form">
-                  <input
-                    className="input assistant-input"
-                    dir="rtl"
-                    onChange={(event) => setAssistantQuestion(event.target.value)}
-                    onKeyDown={(event) => {
-                      if (event.key === "Enter") {
-                        event.preventDefault();
-                        void handleAskAssistant();
-                      }
-                    }}
-                    placeholder={assistantText.prompt}
-                    value={assistantQuestion}
-                  />
-                  <button
-                    className="secondary-button assistant-button"
-                    disabled={assistantBusy}
-                    onClick={() => {
-                      void handleAskAssistant();
-                    }}
-                    type="button"
-                  >
-                    {assistantText.button}
-                  </button>
-                </div>
-                <p className="assistant-answer">
-                  {assistantBusy
-                    ? true
-                      ? "جاري التحليل..."
-                      : "Thinking..."
-                    : assistantAnswer || assistantPlaceholder || assistantText.answerHint}
-                </p>
-              </div>
               <img
                 alt={displayPlayerName}
                 className="public-card__image"
@@ -4913,23 +5055,95 @@ function PublicCardScreen({ payload }: { payload: string }) {
             </div>
           </article>
 
-          <article className="notes-card">
-            <div className="notes-card__header">
-              <strong>{cardText.notes}</strong>
+          <div className="public-card-sidebar">
+            <div className="assistant-card">
+              <strong>{assistantText.title}</strong>
+              <div className="assistant-card__form">
+                <input
+                  className="input assistant-input"
+                  dir="rtl"
+                  onChange={(event) => setAssistantQuestion(event.target.value)}
+                  onKeyDown={(event) => {
+                    if (event.key === "Enter") {
+                      event.preventDefault();
+                      void handleAskAssistant();
+                    }
+                  }}
+                  placeholder={assistantText.prompt}
+                  value={assistantQuestion}
+                />
+                <button
+                  className="secondary-button assistant-button"
+                  disabled={assistantBusy}
+                  onClick={() => {
+                    void handleAskAssistant();
+                  }}
+                  type="button"
+                >
+                  {assistantText.button}
+                </button>
+              </div>
+              <p className="assistant-answer">
+                {assistantBusy
+                  ? "جاري التحليل..."
+                  : assistantAnswer || assistantPlaceholder || assistantText.answerHint}
+              </p>
             </div>
-            <textarea
-              className="notes-area"
-              dir={cardText.dir}
-              style={{ textAlign: cardText.dir === "rtl" ? "right" : "left" }}
-              onChange={(event) => setNotes(event.target.value)}
-              placeholder={cardText.notesPlaceholder}
-              value={notes}
-            />
-            <a className="primary-button primary-button--link" href={displayWikipediaUrl} rel="noreferrer" target="_blank">
-              {cardText.wiki}
-            </a>
-          </article>
+            <article className="notes-card">
+              <div className="notes-card__header">
+                <strong>{cardText.notes}</strong>
+              </div>
+              <textarea
+                className="notes-area"
+                dir={cardText.dir}
+                style={{ textAlign: cardText.dir === "rtl" ? "right" : "left" }}
+                onChange={(event) => setNotes(event.target.value)}
+                placeholder={cardText.notesPlaceholder}
+                value={notes}
+              />
+              <a className="primary-button primary-button--link" href={displayWikipediaUrl} rel="noreferrer" target="_blank">
+                {cardText.wiki}
+              </a>
+            </article>
+          </div>
         </div>
+        <section
+          className={`mobile-card-scanner ${cardScannerOpen ? "mobile-card-scanner--open" : ""}`}
+          dir="rtl"
+        >
+          <button
+            className="primary-button"
+            onClick={() => {
+              setCardScannerError("");
+              setCardScannerOpen((current) => !current);
+            }}
+            type="button"
+          >
+          {cardScannerOpen ? "إغلاق الكاميرا" : "مسح بطاقة الجولة التالية"}
+          </button>
+          <small className="mobile-card-scanner__intro">بعد أول مسح، استخدم هذا الزر لكل جولة حتى تبقى البطاقات في تبويب واحد.</small>
+          {cardScannerOpen ? <div id="minu-card-scanner" /> : null}
+          {cardScannerOpen ? <small className="mobile-card-scanner__live-help">وجّه الكاميرا إلى رمز QR.</small> : null}
+          {cardScannerOpen ? (
+            <button
+              className="secondary-button mobile-card-scanner__capture"
+              onClick={() => cardCaptureInputRef.current?.click()}
+              type="button"
+            >
+              التقاط صورة للرمز
+            </button>
+          ) : null}
+          {cardScannerError ? <p className="form-error">{cardScannerError}</p> : null}
+          <input
+            ref={cardCaptureInputRef}
+            accept="image/*"
+            capture="environment"
+            hidden
+            onChange={(event) => void handleCapturedQr(event.target.files?.[0])}
+            type="file"
+          />
+          <div id="minu-card-file-scanner" hidden />
+        </section>
       </section>
     </div>
   );

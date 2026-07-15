@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q314755
-- Generated At (UTC): 2026-07-13T08:54:36+00:00
+- Generated At (UTC): 2026-07-13T12:11:07+00:00
 - English Name: Lauren
 - Arabic Name: لاورين
 - Birth Year: 1977
@@ -36,31 +36,23 @@ Born in Cameroon to refugees from Equatorial Guinea , he moved to Spain at a you
 He also won an Olympic Gold Medal at the 2000 Sydney Olympics and two Africa Cup of Nations titles in 2000 and 2002 with Cameroon . He holds dual Cameroonian-Spanish nationality. [ 5 ]
 
 ### English Achievements
-- With Mallorca: Supercopa de España
-- With Arsenal: Premier League
-- With Portsmouth: FA Cup
-- With Cameroon: African Cup of Nations
-- With Cameroon U-23: Olympic Gold Medal
-- Individual: African Nations Cup Player of the Tournament
-- With Arsenal: FA Cup
-- With Arsenal: FA Community Shield
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 30
+- Club goals total: 27
 - Senior national team goals total: 1
-- Senior career goals total: 31
+- Senior career goals total: 28
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1995–1996 | Utrera | 30 | 5 |
-| 1996–1997 | Sevilla B | 17 | 3 |
-| 1997–1998 | Levante | 34 | 6 |
-| 1998–2000 | Mallorca | 63 | 4 |
-| 2000–2007 | Arsenal | 159 | 7 |
-| 2007–2009 | Portsmouth | 25 | 0 |
-| 2010 | Córdoba | 5 | 0 |
-| Total | Total | 333 | 25 |
+| 1995 | Utrera | 30 | 5 |
+| 1996 | Sevilla B | 17 | 3 |
+| 1997 | Levante | 34 | 6 |
+| 1998–2000 | Mallorca | 80 | 5 |
+| 2000–2005 | Arsenal | 242 | 11 |
+| 2006–2008 | Portsmouth | 28 | 0 |
+| 2009 | Córdoba | 5 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -84,12 +76,24 @@ He also won an Olympic Gold Medal at the 2000 Sydney Olympics and two Africa Cup
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 50
+- Senior national team goals total: 4
+- Senior career goals total: 54
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1995–1996 | ديبورتيفو أوتررا | 30 | 5 |
+| 1996–1997 | إشبيلية أتلتيكو | 17 | 3 |
+| 1997–1998 | ليفانتي | 34 | 6 |
+| 1998–2000 | ريال مايوركا | 63 | 4 |
+| 2000–2007 | أرسنال | 159 | 7 |
+| 2007–2009 | بورتسموث | 25 | 0 |
+| 2010 | قرطبة | 5 | 0 |
+| - | مجموع | 333 | 25 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000 | الكاميرون | 6 | 3 |
+| 1997–2002 | الكاميرون | 24 | 1 |

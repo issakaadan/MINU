@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q4462
-- Generated At (UTC): 2026-07-13T08:52:06+00:00
+- Generated At (UTC): 2026-07-13T12:08:46+00:00
 - English Name: Joachim Löw
 - Arabic Name: يواخيم لوف
 - Birth Year: 1960
@@ -32,14 +32,7 @@
 Joachim " Jogi " Löw ( German pronunciation: [ˈjoːaxɪm ˈløːf] ; [ 1 ] born 3 February 1960) is a German football coach and former player. He was the manager of the Germany national team from 2006 until 2021. During his tenure as manager, he led Germany to victory at the 2014 FIFA World Cup in Brazil and the 2017 FIFA Confederations Cup in Russia. In March 2021, Löw announced that he would resign from his position after the delayed Euro 2020 . [ 2 ] Of all head coaches of the Germany national football team, Löw has managed (198) and won the most matches (124). [ 3 ]
 
 ### English Achievements
-- With VfB Stuttgart: DFB-Pokal
-- With Tirol Innsbruck: Austrian Football Bundesliga
-- With Austria Wien: Austrian Supercup
-- With Fenerbahçe: Atatürk Cup
-- With Germany: FIFA World Cup
-- Individual: Sport Bild German Sports Manager of the Year
-- With Germany: UEFA European Championship runner-up
-- With Germany: FIFA Confederations Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 123
@@ -75,12 +68,21 @@ Joachim " Jogi " Löw ( German pronunciation: [ˈjoːaxɪm ˈløːf] ; [ 1 ] bor
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 88
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 88
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1978–1980 | فرايبورغ | 71 | 18 |
+| 1980–1981 | شتوتغارت | 4 | 0 |
+| 1981–1982 | آينتراخت فرانكفورت | 24 | 5 |
+| 1982–1984 | فرايبورغ | 65 | 25 |
+| 1984–1985 | كارلسروه | 24 | 2 |
+| 1985–1989 | فرايبورغ | 116 | 38 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1979–1980 | ألمانيا تحت 21 | 4 | 0 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q165776
-- Generated At (UTC): 2026-07-13T08:56:45+00:00
+- Generated At (UTC): 2026-07-13T12:13:22+00:00
 - English Name: Rolf Jahn
 - Arabic Name: رولف يان
 - Birth Year: 1927
@@ -62,11 +62,13 @@ _No honours section found._
 
 ### Arabic Career Totals
 - Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior national team goals total: 0
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
 _No rows found._
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1957 | ألمانيا الشرقية | 1 | 0 |

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q191162
-- Generated At (UTC): 2026-07-13T08:53:36+00:00
+- Generated At (UTC): 2026-07-13T12:10:12+00:00
 - English Name: Emile Heskey
 - Arabic Name: إيميل هيسكي
 - Birth Year: 1978
@@ -34,14 +34,7 @@ Emile William Ivanhoe Heskey (born 11 January 1978) is an English former profess
 Born in Leicester , Heskey started his career with Leicester City after progressing through their youth system, making his first-team debut in 1995. After winning the League Cup in 1997 and 2000 he made an £11 million move to Liverpool in 2000, which, at the time, was the record transfer fee paid by the club. At Liverpool, he won multiple honours, including the FA Cup in 2001 . He moved to Birmingham City in 2004 and after their relegation from the Premier League signed for Wigan Athletic for a club record £5.5 million fee in 2006. He signed for Aston Villa in 2009 and was released in 2012 before signing for the Australian A-League club Newcastle Jets . After two years, he returned to England, finishing his career with Championship club Bolton Wanderers .
 
 ### English Achievements
-- With Leicester City: Football League Cup
-- With Liverpool: FA Cup
-- With Aston Villa: Football League Cup runner-up
-- Individual: Birmingham City Player of the Season
-- With Leicester City: Football League First Division play-offs
-- With Liverpool: Football League Cup
-- With Liverpool: FA Charity Shield
-- With Liverpool: UEFA Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 164
@@ -51,14 +44,13 @@ Born in Leicester , Heskey started his career with Leicester City after progress
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1994–2000 | Leicester City | 154 | 40 |
-| 2000–2004 | Liverpool | 150 | 39 |
-| 2004–2006 | Birmingham City | 68 | 14 |
-| 2006–2009 | Wigan Athletic | 82 | 15 |
-| 2009–2012 | Aston Villa | 92 | 9 |
-| 2012–2014 | Newcastle Jets | 42 | 10 |
-| 2014–2016 | Bolton Wanderers | 45 | 3 |
-| Total | Total | 633 | 130 |
+| 1994–2000 | Leicester City | 197 | 46 |
+| 1999–2003 | Liverpool | 223 | 60 |
+| 2004–2005 | Birmingham City | 78 | 16 |
+| 2006–2008 | Wigan Athletic | 88 | 15 |
+| 2008–2011 | Aston Villa | 110 | 14 |
+| 2012–2013 | Newcastle Jets | 42 | 10 |
+| 2014–2015 | Bolton Wanderers | 48 | 3 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -81,12 +73,26 @@ Born in Leicester , Heskey started his career with Leicester City after progress
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 260
+- Senior national team goals total: 7
+- Senior career goals total: 267
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1994–2000 | ليستر سيتي | 154 | 40 |
+| 2000–2004 | ليفربول | 150 | 39 |
+| 2004–2006 | برمنغهام سيتي | 68 | 14 |
+| 2006–2009 | ويغان أتلتيك | 82 | 15 |
+| 2009–2012 | أستون فيلا | 92 | 9 |
+| 2012–2014 | نيوكاسل يونايتد جتس | 42 | 10 |
+| 2014–2016 | بولتون واندررز | 45 | 3 |
+| - | مجموع | 633 | 130 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1994 | إنجلترا تحت 16 | 4 | 0 |
+| 1995–1996 | إنجلترا تحت 18 | 8 | 5 |
+| 1996–2000 | إنجلترا تحت 21 | 17 | 6 |
+| 1999–2010 | إنجلترا | 62 | 7 |

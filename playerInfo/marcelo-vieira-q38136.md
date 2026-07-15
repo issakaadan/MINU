@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q38136
-- Generated At (UTC): 2026-07-13T08:52:12+00:00
+- Generated At (UTC): 2026-07-13T12:08:50+00:00
 - English Name: Marcelo Vieira
 - Arabic Name: مارسيلو
 - Birth Year: 1988
@@ -34,14 +34,7 @@ Marcelo Vieira da Silva Júnior (born 12 May 1988), known as Marcelo , is a Braz
 Starting his professional career with Fluminense in 2005, Marcelo won a Campeonato Carioca title in his first season and was named in the 2006 Brasileirão Team of the Season . In January 2007, he joined Real Madrid for an €8 million fee. [ 6 ] At Real Madrid, he went on to be a mainstay, winning many trophies, including five UEFA Champions League titles and six La Liga titles. [ 5 ] In 2021, Marcelo became the captain of Real Madrid from the start of the 2021–22 season, making him the first foreign captain since 1904. [ 7 ] After leaving Real Madrid in 2022, he had a five-month spell at Olympiacos , followed by a return to Fluminense in 2023, where he won the Copa Libertadores . He has been named in the FIFPro World XI six times, the UEFA Team of the Year three times, and La Liga's Team of the Season in 2016. He was also named to France Football 's "Team of the Decade (2010–2019)". [ 8 ]
 
 ### English Achievements
-- With Fluminense: Campeonato Carioca
-- With Real Madrid: La Liga
-- With Brazil: FIFA Confederations Cup
-- Individual: Campeonato Brasileiro Série A Team of the Year
-- With Fluminense: Taca Rio
-- With Fluminense: Copa Libertadores
-- With Fluminense: Recopa Sudamericana
-- With Real Madrid: Copa del Rey
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 52
@@ -51,11 +44,9 @@ Starting his professional career with Fluminense in 2005, Marcelo won a Campeona
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2005–2007 | Fluminense | 30 | 4 |
-| 2007–2022 | Real Madrid | 386 | 26 |
-| 2022–2023 | Olympiacos | 5 | 0 |
-| 2023–2024 | Fluminense | 43 | 3 |
-| Total | Total | 464 | 33 |
+| 2005–2024 | Fluminense | 108 | 11 |
+| 2006–2021 | Real Madrid | 546 | 38 |
+| 2022 | Olympiacos | 10 | 3 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -79,15 +70,33 @@ Starting his professional career with Fluminense in 2005, Marcelo won a Campeona
 شارك مارسيلو مع المنتخب البرازيلي لأول مرة في عام 2006 ضد ويلز وسجل هدف. وقد استدعي إلى تشكيلة الفريق الأولمبي في أولمبياد 2008 ، حيث فاز بالميدالية البرونزية. بعد أربع سنوات، كان جزءاً من الفريق الأولمبي البرازيلي المشارك في أولمبياد 2012 ، كأحد اللاعبين الثلاثة الذين تجاوزوا السن، حيث فازت البرازيل بالميدالية الفضية. [ 13 ] تم اختيار مارسيلو للمشاركة مع البرازيل في كأس القارات 2013 ، وشارك كأساسي في جميع المباريات الخمسة، حيث فازت البرازيل بنتيجة 3–0 في النهائي أمام إسبانيا . كان ضمن تشكيلة المنتخب البرازيلي في كأس العالم 2014 والتي كانت أول بطولة كأس العالم يشارك فيها. وصلت البرازيل إلى الدور نصف النهائي وتم أختياره ضمن فريق الأحلام للبطولة . في مايو 2018 تم أختياره في التشكيلة النهائية المشاركة في كأس العالم 2018 حيث تم أختياره مرة أخرى في فريق الأحلام للبطولة . [ 14 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع فلومينينسي: بطولة كاريوكا
+- مع ريال مدريد: الدوري الإسباني
+- مع البرازيل: الميدلية الأولمبية الفضية
+- الفردية: فريق السنة في الدوري البرازيلي
+- مع فلومينينسي: كأس ريو
+- مع فلومينينسي: كأس امريكا الجنوبيه(كوبا ليبارتادوريس)
+- مع ريال مدريد: كأس السوبر الإسباني
+- مع ريال مدريد: كأس ملك إسبانيا
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 68
+- Senior national team goals total: 6
+- Senior career goals total: 74
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005–2006 | فلومينينسي | 30 | 6 |
+| 2007–2022 | ريال مدريد | 386 | 26 |
+| 2022–2023 | أولمبياكوس | 5 | 0 |
+| 2023–2024 | فلومينينسي | 43 | 3 |
+| - | مجموع | 464 | 33 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2005 | البرازيل تحت 17 | 3 | 1 |
+| 2007 | البرازيل تحت 20 | 4 | 0 |
+| 2008–2012 | البرازيل تحت 23 | 12 | 1 |
+| 2006–2018 | البرازيل | 58 | 6 |

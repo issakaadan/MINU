@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q452563
-- Generated At (UTC): 2026-07-13T08:54:12+00:00
+- Generated At (UTC): 2026-07-13T12:10:44+00:00
 - English Name: Colin Bell
 - Arabic Name: كولن بل
 - Birth Year: 1946
@@ -34,14 +34,7 @@ Colin Bell MBE (26 February 1946 – 5 January 2021) was an English professional
 During his playing career, he was nicknamed "The King of the Kippax" (after Maine Road 's Kippax Street terraced stand renowned for its singing) and Nijinsky (after the famous racehorse, due to his renowned stamina). [ 6 ] In 2004, the West Stand of City of Manchester Stadium was later named in his honour.
 
 ### English Achievements
-- With Manchester City: Football League First Division
-- With England: British Home Championship
-- Individual: Manchester City Player of the Year
-- With Manchester City: Football League Second Division
-- With Manchester City: FA Cup
-- With Manchester City: FA Charity Shield
-- With Manchester City: Football League Cup
-- With Manchester City: UEFA Cup Winners' Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 177
@@ -51,10 +44,9 @@ During his playing career, he was nicknamed "The King of the Kippax" (after Main
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1963–1966 | Bury | 82 | 25 |
-| 1966–1979 | Manchester City | 501 | 117 |
+| 1963–1965 | Bury | 86 | 25 |
+| 1965–1978 | Manchester City | 489 | 152 |
 | 1980 | San Jose Earthquakes | 5 | 0 |
-| Total | Total | 481 | 142 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -77,12 +69,21 @@ During his playing career, he was nicknamed "The King of the Kippax" (after Main
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 284
+- Senior national team goals total: 10
+- Senior career goals total: 294
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1963–1966 | بوري | 82 | 25 |
+| 1966–1979 | مانشستر سيتي | 394 | 117 |
+| 1980 | سان خوزيه إيرث كويكس | 5 | 0 |
+| - | مجموع | 481 | 142 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1968 | إنجلترا تحت 21 | 2 | 1 |
+| 1968–1975 | إنجلترا | 48 | 9 |
+| 1970–1974 | الرابطة الحادية عشر لكرة القدم [لغات أخرى] | 4 | 1 |

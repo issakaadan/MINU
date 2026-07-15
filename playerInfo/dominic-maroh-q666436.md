@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q666436
-- Generated At (UTC): 2026-07-13T08:55:27+00:00
+- Generated At (UTC): 2026-07-13T12:11:56+00:00
 - English Name: Dominic Maroh
 - Arabic Name: دومينيك ماروه
 - Birth Year: 1987
@@ -35,9 +35,9 @@ Dominic Maroh (born 4 March 1987) is a Slovenian professional football coach and
 _No honours section found._
 
 ### English Career Totals
-- Club goals total: 11
+- Club goals total: 10
 - Senior national team goals total: 0
-- Senior career goals total: 11
+- Senior career goals total: 10
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
@@ -66,12 +66,21 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 10
+- Senior national team goals total: 0
+- Senior career goals total: 10
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006–2008 | رويتلينغن 05 [لغات أخرى] | 13 | 1 |
+| 2008–2012 | نورنبرغ | 76 | 3 |
+| 2008–2011 | [الإنجليزية] | 10 | 1 |
+| 2012–2018 | كولن | 142 | 5 |
+| 2015–2016 | نادي كولن 2 [الإنجليزية] | 2 | 0 |
+| 2018– | أوردينغن 05 | 3 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2012–2015 | سلوفينيا | 7 | 0 |

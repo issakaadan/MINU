@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q43666
-- Generated At (UTC): 2026-07-13T08:49:51+00:00
+- Generated At (UTC): 2026-07-13T12:07:02+00:00
 - English Name: Thomas Müller
 - Arabic Name: توماس مولر
 - Birth Year: 1989
@@ -34,26 +34,19 @@ Thomas Müller ( German pronunciation: [ˈtoːmas ˈmʏlɐ] ; [ 2 ] born 13 Sept
 As a product of Bayern Munich 's youth system , which he joined at age 10 in 2000, Müller represented the club until 2025 [ 11 ] . With Bayern, he won a record thirteen Bundesliga titles, six DFB-Pokals , eight DFL-Supercups , two UEFA Champions League titles, two UEFA Super Cups , and two FIFA Club World Cups . He joined the first team in the 2009–10 season after Louis van Gaal was appointed as the main coach; he played almost every game that season as Bayern won the league and cup double and reached the 2010 Champions League final . Müller also scored in the 2012 Champions League final , though Bayern lost that final on penalties. Müller scored 23 goals in the 2012–13 season as Bayern won a historic treble ; the league title, cup and Champions League . In the 2019–20 , he broke the Bundesliga record for assists in a season with 21 (a joint record in the top five leagues alongside Lionel Messi in La Liga and Bruno Fernandes in the Premier League ) and scored 14 goals as Bayern won a second treble. With 756 matches played across seventeen seasons, Müller is Bayern's all-time record appearance holder , scoring 250 goals and providing 223 assists for the club across all competitions. He is one of only three players in league history to reach the landmark of 100 Bundesliga goals and 100 Bundesliga assists each (alongside Andreas Möller and Marco Reus ). He also holds the record for the most UEFA Champions League appearances with one team.
 
 ### English Achievements
-- With Bayern Munich: Bundesliga
-- With Vancouver Whitecaps: Canadian Championship
-- With Germany: FIFA World Cup
-- Individual: FIFA World Cup Golden Boot
-- With Bayern Munich: DFB-Pokal
-- With Bayern Munich: DFL-Supercup
-- With Bayern Munich: UEFA Champions League
-- With Bayern Munich: UEFA Super Cup
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 280
+- Club goals total: 264
 - Senior national team goals total: 45
-- Senior career goals total: 325
+- Senior career goals total: 309
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2007–2009 | Bayern Munich II | 35 | 16 |
-| 2008–2025 | Bayern Munich | 503 | 150 |
-| 2025– | Vancouver Whitecaps | 19 | 11 |
+| 2007–2008 | Bayern Munich II | 35 | 16 |
+| 2008–2024 | Bayern Munich | 756 | 250 |
+| 2025–2026 | Vancouver Whitecaps FC | 30 | 14 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -77,15 +70,31 @@ As a product of Bayern Munich 's youth system , which he joined at age 10 in 200
 لقد تمّت الإشادة به على تمركزه، وعمله الجماعي، ولياقته العالية، ومعدل ركضه، وتوازنه ما بين تسجيل الأهداف وصناعتها. [ 7 ] كما يُنظر إليه على نطاق واسع على أنه أحد أفضل اللاعبين الذين يلعبون بدون الكرة على الإطلاق بسبب وعيه بالتمركز. [ 8 ] ونظرًا لنقاط القوة العديدة في لعبه، يُنظر إليه على نطاق واسع على أنه أحد أكثر اللاعبين المهاجمين اكتمالاً في اللعبة. [ 9 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع بايرن ميونخ: الدوري الألماني
+- مع ألمانيا: كأس العالم
+- الفردية: الحذاء الذهبي في كأس العالم
+- مع بايرن ميونخ: كأس ألمانيا
+- مع بايرن ميونخ: كأس السوبر الألماني
+- مع بايرن ميونخ: دوري أبطال أوروبا
+- مع بايرن ميونخ: كأس السوبر الأوروبي
+- مع بايرن ميونخ: كأس العالم للأندية
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 213
+- Senior national team goals total: 45
+- Senior career goals total: 258
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2007–2008 | بايرن ميونخ ب | 35 | 16 |
+| 2008–2020 | بايرن ميونخ | 573 | 213 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004–2005 | ألمانيا تحت 16 | 6 | 0 |
+| 2007 | ألمانيا تحت 19 | 3 | 0 |
+| 2008 | ألمانيا تحت 20 | 1 | 1 |
+| 2009 | ألمانيا تحت 21 | 6 | 1 |
+| 2010–2024 | ألمانيا | 131 | 45 |

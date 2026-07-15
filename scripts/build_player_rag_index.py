@@ -16,6 +16,22 @@ def clean_text(value: str) -> str:
     return re.sub(r"\s+", " ", value.replace("\u00a0", " ").strip())
 
 
+def is_placeholder_text(value: str) -> bool:
+    normalized = clean_text(value).strip("_").casefold()
+    return normalized in {
+        "",
+        "none",
+        "unavailable",
+        "no",
+        "no introduction found.",
+        "no honours section found.",
+        "no rows found.",
+        "غير متوفر",
+        "غير متوفر.",
+        "لا يوجد",
+    }
+
+
 def parse_sections(text: str) -> dict[str, str]:
     sections: dict[str, str] = {}
     current_title = ""
@@ -59,13 +75,15 @@ def parse_list(section_text: str) -> list[str]:
         line = raw_line.strip()
         if not line.startswith("- "):
             continue
-        values.append(clean_text(line[2:]))
+        value = clean_text(line[2:])
+        if not is_placeholder_text(value):
+            values.append(value)
     return [value for value in values if value]
 
 
 def parse_numeric(value: str) -> int | None:
     cleaned = clean_text(value)
-    if not cleaned or cleaned.casefold() in {"unavailable", "none", "no"}:
+    if is_placeholder_text(cleaned):
         return None
     matched = re.search(r"-?\d+", cleaned.replace(",", ""))
     return int(matched.group(0)) if matched else None
@@ -114,6 +132,8 @@ def format_stat_rows(rows: list[dict[str, Any]], language: str) -> list[str]:
 
 
 def build_goal_lines(goal_totals: dict[str, int | None], language: str) -> list[str]:
+    if not any(value is not None for value in goal_totals.values()):
+        return []
     if language == "ar":
         return [
             f"مجموع أهداف الأندية: {goal_totals['club_goals_total'] if goal_totals['club_goals_total'] is not None else 'غير متوفر'}",
@@ -145,7 +165,7 @@ def build_metadata_lines(metadata: dict[str, str]) -> list[str]:
     lines: list[str] = []
     for key in preferred_keys:
         value = clean_text(metadata.get(key, ""))
-        if value:
+        if value and not is_placeholder_text(value):
             lines.append(f"{key}: {value}")
     return lines
 
@@ -153,7 +173,7 @@ def build_metadata_lines(metadata: dict[str, str]) -> list[str]:
 def build_description_lines(descriptions: dict[str, str], language: str) -> list[str]:
     lookup_key = "Arabic" if language == "ar" else "English"
     value = clean_text(descriptions.get(lookup_key, ""))
-    if not value:
+    if not value or is_placeholder_text(value):
         return []
     if language == "ar":
         return [f"الوصف: {value}"]
@@ -184,8 +204,12 @@ def build_player_record(path: Path) -> dict[str, Any]:
     english_totals = parse_bullet_map(sections.get("English Career Totals", ""))
     arabic_totals = parse_bullet_map(sections.get("Arabic Career Totals", ""))
 
-    summary_en = sections.get("English Introduction", "").strip()
-    summary_ar = sections.get("Arabic Introduction", "").strip()
+    summary_en = clean_text(sections.get("English Introduction", ""))
+    summary_ar = clean_text(sections.get("Arabic Introduction", ""))
+    if is_placeholder_text(summary_en):
+        summary_en = ""
+    if is_placeholder_text(summary_ar):
+        summary_ar = ""
     achievements_en = parse_list(sections.get("English Achievements", ""))
     achievements_ar = parse_list(sections.get("Arabic Achievements", ""))
 
@@ -232,8 +256,8 @@ def build_player_record(path: Path) -> dict[str, Any]:
         "name_ar": clean_text(metadata.get("Arabic Name", "")),
         "metadata": metadata,
         "descriptions": {
-            "en": clean_text(descriptions.get("English", "")),
-            "ar": clean_text(descriptions.get("Arabic", "")),
+            "en": "" if is_placeholder_text(descriptions.get("English", "")) else clean_text(descriptions.get("English", "")),
+            "ar": "" if is_placeholder_text(descriptions.get("Arabic", "")) else clean_text(descriptions.get("Arabic", "")),
         },
         "pages": {
             "en": {

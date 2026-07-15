@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q173139
-- Generated At (UTC): 2026-07-13T08:49:43+00:00
+- Generated At (UTC): 2026-07-13T12:06:55+00:00
 - English Name: George Weah
 - Arabic Name: جورج ويا
 - Birth Year: 1966
@@ -34,36 +34,22 @@ George Manneh Oppong Weah (born 1 October 1966) is a Liberian politician and for
 After beginning his career in his native Liberia , Weah spent 14 years playing for clubs in France, Italy, and England. Arsène Wenger brought him to Europe, signing him for Monaco in 1988. Weah moved to Paris Saint-Germain in 1992 where they won Division 1 in 1994 and became the top scorer of the 1994–95 UEFA Champions League . He signed for AC Milan in 1995 where he spent four successful seasons, winning the Serie A twice. Later in his career, he joined the Premier League having spells at Chelsea and Manchester City , winning the FA Cup with Chelsea, before returning to France to play for Marseille in 2001. He ended his career with Al Jazira in 2003. FourFourTwo named Weah one of the best players never to win the UEFA Champions League .
 
 ### English Achievements
-- With Mighty Barrolle: Liberian Premier League
-- With Invincible Eleven: Liberian Premier League
-- With Monaco: Coupe de France
-- With Paris Saint-Germain: Division 1
-- With AC Milan: Serie A
-- With Chelsea: FA Cup
-- With Liberia: West African Nations Cup runner-up
-- Individual: African Footballer of the Year
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 211
+- Club goals total: 193
 - Senior national team goals total: 18
-- Senior career goals total: 229
+- Senior career goals total: 211
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1984–1985 | Bong Range United | 2 | 1 |
-| 1985–1986 | Mighty Barrolle | 10 | 7 |
-| 1986–1987 | Invincible Eleven | 23 | 24 |
-| 1987 | Africa Sports | 2 | 1 |
-| 1987–1988 | Tonnerre Yaoundé | 18 | 14 |
-| 1988–1992 | Monaco | 103 | 47 |
-| 1992–1995 | Paris Saint-Germain | 96 | 32 |
-| 1995–2000 | AC Milan | 114 | 46 |
-| 2000 | Chelsea | 11 | 3 |
-| 2000 | Manchester City | 7 | 1 |
-| 2000–2001 | Marseille | 19 | 5 |
-| 2001–2003 | Al Jazira | 39 | 30 |
-| Total | Total | 441 | 211 |
+| 1988–1991 | Monaco | 149 | 66 |
+| 1992–1994 | Paris Saint-Germain | 138 | 55 |
+| 1995–2000 | AC Milan | 147 | 58 |
+| 1999–2000 | Chelsea (loan) | 15 | 5 |
+| 2000 | Manchester City | 9 | 4 |
+| 2000 | Marseille | 20 | 5 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |

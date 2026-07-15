@@ -1495,6 +1495,113 @@ textarea::placeholder {
   background: rgba(255, 255, 255, 0.09);
 }
 
+.mobile-card-scanner {
+  display: grid;
+  gap: 0.65rem;
+  margin-top: 1rem;
+  padding: 0.85rem;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.mobile-card-scanner--open {
+  position: relative;
+  display: grid;
+  width: 100%;
+  margin-top: 1rem;
+  padding: 0.85rem;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: #000;
+  overflow: hidden;
+}
+
+.mobile-card-scanner--open > .primary-button {
+  position: static;
+  width: 100%;
+  min-height: 52px;
+}
+
+.mobile-card-scanner--open .mobile-card-scanner__intro {
+  display: none;
+}
+
+.public-card-sidebar {
+  display: grid;
+  align-content: start;
+  gap: 1rem;
+}
+
+.mobile-card-scanner small {
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+#minu-card-scanner {
+  width: 100%;
+  max-width: 420px;
+  margin-inline: auto;
+  overflow: hidden;
+  border-radius: 16px;
+}
+
+.mobile-card-scanner--open #minu-card-scanner {
+  position: relative;
+  width: 100%;
+  max-width: none;
+  height: min(68dvh, 680px);
+  min-height: 360px;
+  margin: 0;
+  border-radius: 14px;
+  background: #000;
+}
+
+.mobile-card-scanner--open #minu-card-scanner__scan_region {
+  width: 100% !important;
+  height: 100% !important;
+  min-height: 360px !important;
+  overflow: hidden;
+  position: relative;
+}
+
+.mobile-card-scanner--open #minu-card-scanner__scan_region > div {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.mobile-card-scanner--open #minu-card-scanner video {
+  display: block;
+  width: 100% !important;
+  height: 100% !important;
+  min-height: 360px !important;
+  object-fit: cover;
+  background: #000;
+}
+
+.mobile-card-scanner--open #qr-shaded-region {
+  border-color: transparent !important;
+}
+
+.mobile-card-scanner__live-help,
+.mobile-card-scanner__capture,
+.mobile-card-scanner--open > .form-error {
+  position: static;
+}
+
+.mobile-card-scanner__live-help {
+  padding: 0.45rem 0.7rem;
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.62);
+  text-align: center;
+}
+
+.mobile-card-scanner--open > .form-error {
+  padding: 0.6rem;
+  border-radius: 10px;
+  background: rgba(55, 0, 0, 0.82);
+}
+
 .assistant-card strong {
   color: var(--ink);
 }

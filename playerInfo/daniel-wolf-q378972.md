@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q378972
-- Generated At (UTC): 2026-07-13T08:56:19+00:00
+- Generated At (UTC): 2026-07-13T12:12:47+00:00
 - English Name: Daniel Wolf
 - Arabic Name: دانييل وولف
 - Birth Year: 1985
@@ -57,12 +57,26 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 11
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 11
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2006 | أدميرا فاكر مودلينغ | 32 | 1 |
+| 2004 | لاسك لينتس | 3 | 0 |
+| 2006–2007 | بيستويسي | 26 | 2 |
+| 2007–2011 | بياتشينزا | 47 | 0 |
+| 2011 | أدميرا فاكر مودلينغ | 0 | 0 |
+| 2011–2013 | [الإنجليزية] | 49 | 0 |
+| 2014 | نادي هارتبيرغ | 13 | 2 |
+| 2014–2015 | [الإنجليزية] | 19 | 0 |
+| 2015–2016 | [الإنجليزية] | 23 | 1 |
+| 2016–2017 | [الإنجليزية] | 25 | 5 |
+| 2017– | [الإنجليزية] | 0 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006–2007 | النمسا تحت 21 | 8 | 0 |

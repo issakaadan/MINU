@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q519069
-- Generated At (UTC): 2026-07-13T08:55:54+00:00
+- Generated At (UTC): 2026-07-13T12:12:23+00:00
 - English Name: Moisés Hurtado
 - Arabic Name: مويسيس هورتادو
 - Birth Year: 1981
@@ -34,9 +34,7 @@ Moisés Hurtado Pérez (born 20 February 1981) is a Spanish former professional 
 He was noted for his physical approach, which led to many bookings , and spent most of his career at Espanyol , with which he played the 2007 UEFA Cup final . He appeared in 179 official games for the club over seven La Liga seasons. [ 1 ]
 
 ### English Achievements
-- With Espanyol: Copa del Rey
-- With Olympiacos: Super League Greece
-- With Espanyol: UEFA Cup runner-up
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 11
@@ -72,12 +70,23 @@ He was noted for his physical approach, which led to many bookings , and spent m
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 17
+- Senior national team goals total: 1
+- Senior career goals total: 18
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1999–2004 | إسبانيول ب | 134 | 5 |
+| 2002–2010 | إسبانيول | 146 | 3 |
+| 2004–2005 | إيبار | 33 | 1 |
+| 2010–2011 | أولمبياكوس | 16 | 0 |
+| 2011–2013 | غرناطة | 18 | 0 |
+| 2013–2014 | جيرونا | 13 | 2 |
+| - | مجموع | 360 | 11 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997–1998 | إسبانيا تحت 16 | 2 | 0 |
+| 2009 | كاتالونيا | 1 | 1 |

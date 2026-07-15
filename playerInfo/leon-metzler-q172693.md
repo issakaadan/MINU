@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q172693
-- Generated At (UTC): 2026-07-13T08:56:37+00:00
+- Generated At (UTC): 2026-07-13T12:13:13+00:00
 - English Name: Léon Metzler
 - Arabic Name: ليون أرنولد
 - Birth Year: 1896

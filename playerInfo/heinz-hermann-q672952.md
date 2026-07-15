@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q672952
-- Generated At (UTC): 2026-07-13T08:55:39+00:00
+- Generated At (UTC): 2026-07-13T12:12:07+00:00
 - English Name: Heinz Hermann
 - Arabic Name: هاينز هرمان
 - Birth Year: 1958
@@ -34,11 +34,7 @@ Heinz Hermann (born 28 March 1958) is a Swiss former professional footballer who
 With 118 international caps [ 1 ] (and 15 goals) between 1978 and 1991 for the Switzerland national team , Hermann is the nation's fourth-highest appearance maker, behind Granit Xhaka , Xherdan Shaqiri and Ricardo Rodriguez .
 
 ### English Achievements
-- With Grasshoppers: Nationalliga A
-- With Neuchâtel Xamax: Nationalliga A
-- Individual: Swiss Footballer of the Year
-- With Grasshoppers: Swiss Cup
-- With Neuchâtel Xamax: Swiss Super Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 84
@@ -72,12 +68,21 @@ With 118 international caps [ 1 ] (and 15 goals) between 1978 and 1991 for the S
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 168
+- Senior national team goals total: 15
+- Senior career goals total: 183
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1977–1985 | غراسهوبر زيوريخ | 213 | 38 |
+| 1985–1990 | نادي نوشاتل زاماكس | 139 | 32 |
+| 1990–1992 | نادي سيرفيت | 90 | 12 |
+| 1992–1993 | Grasshoppers | 18 | 1 |
+| 1993–1994 | آراو | 34 | 1 |
+| - | مجموع | 494 | 84 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1978–1991 | سويسرا | 118 | 15 |

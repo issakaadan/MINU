@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q599675
-- Generated At (UTC): 2026-07-13T08:53:05+00:00
+- Generated At (UTC): 2026-07-13T12:09:43+00:00
 - English Name: Nwankwo Kanu
 - Arabic Name: نوانكو كانو
 - Birth Year: 1976
@@ -36,14 +36,7 @@ He was a member of the Nigeria national team , and played for Iwuanyanwu Nationa
 Kanu won a UEFA Champions League medal, an Intercontinental Cup , two Premier League titles, three Eredivisie , three FA Cup medals and two African Player of the Year awards amongst others. He is one of few players to have won the Premier League, FA Cup, Champions League, and an Olympic gold medal . [ 7 ]
 
 ### English Achievements
-- With Iwuanyanwu Nationale: Nigerian Premier League
-- With Ajax: Eredivisie
-- With Inter Milan: UEFA Cup
-- With Arsenal: Premier League
-- With Portsmouth: FA Cup
-- With Nigeria: Afro-Asian Cup of Nations
-- Individual: Ajax Talent of the Year (Marco van Basten Award)
-- With Ajax: UEFA Champions League
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 124
@@ -53,13 +46,12 @@ Kanu won a UEFA Champions League medal, an Intercontinental Cup , two Premier Le
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1992–1993 | Iwuanyanwu Nationale | 25 | 15 |
-| 1993–1996 | Ajax | 54 | 25 |
-| 1996–1999 | Inter Milan | 12 | 1 |
-| 1999–2004 | Arsenal | 119 | 30 |
-| 2004–2006 | West Bromwich Albion | 53 | 7 |
-| 2006–2012 | Portsmouth | 143 | 20 |
-| Total | Total | 406 | 98 |
+| 1992 | Iwuanyanwu Nationale | 25 | 15 |
+| 1993–1995 | Ajax | 74 | 27 |
+| 1996–1998 | Inter Milan | 20 | 1 |
+| 1998–2003 | Arsenal | 198 | 44 |
+| 2004–2005 | West Bromwich Albion | 58 | 9 |
+| 2006–2011 | Portsmouth | 167 | 28 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |

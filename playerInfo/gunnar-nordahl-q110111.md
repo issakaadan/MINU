@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q110111
-- Generated At (UTC): 2026-07-13T08:53:40+00:00
+- Generated At (UTC): 2026-07-13T12:10:16+00:00
 - English Name: Gunnar Nordahl
 - Arabic Name: غونار نوردال
 - Birth Year: 1921
@@ -36,30 +36,22 @@ Nordahl is Milan’s all-time record goalscorer, and he long held the record for
 A full international between 1942 and 1948, he won 33 caps and scored 43 goals for the Sweden national team . He represented his country at the 1948 Summer Olympics , where he was the joint top scorer alongside Denmark 's John Hansen as Sweden won gold.
 
 ### English Achievements
-- With IFK Norrköping: Allsvenskan
-- With AC Milan: Serie A
-- With Sweden: Olympic Gold Medal
-- Individual: Allsvenskan top scorer
-- Records: Most goals scored for AC Milan
-- With IFK Norrköping: Svenska Cupen
-- With AC Milan: Latin Cup
-- With Sweden: Nordic Football Championship
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 499
+- Club goals total: 457
 - Senior national team goals total: 43
-- Senior career goals total: 542
+- Senior career goals total: 500
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1937–1940 | Hörnefors IF | 41 | 68 |
-| 1940–1944 | Degerfors IF | 77 | 56 |
-| 1944–1949 | IFK Norrköping | 95 | 93 |
-| 1949–1956 | AC Milan | 257 | 210 |
-| 1956–1958 | Roma | 34 | 15 |
+| 1937–1939 | Hörnefors IF | 41 | 68 |
+| 1940–1943 | Degerfors | 77 | 56 |
+| 1944–1948 | Norrköping | 95 | 93 |
+| 1948–1955 | AC Milan | 268 | 221 |
+| 1956–1957 | Roma | 34 | 15 |
 | 1959–1960 | Karlstad BIK | 24 | 11 |
-| Total | Total | 528 | 499 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -75,15 +67,27 @@ A full international between 1942 and 1948, he won 33 caps and scored 43 goals f
 غونار نوردال ( السويدية : Gunnar Nordahl ) ( 19 أكتوبر 1921 إلى 15 سبتمبر 1995 )، هو لاعب كرة قدم ومدرب سويدي راحل. [ 1 ] [ 2 ] [ 3 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي نوركوبنغ: الدوري السويدي (4)
+- مع النادي ميلان: الدوري الإيطالي (2)
+- مع المنتخب السويد: الميدالية الذهبية في أولمبياد 1948
+- الفردية: أفضل لاعب سويدي في العام (1)
+- الفردية: هداف الدوري السويدي (4)
+- مع النادي نوركوبنغ: كأس السويد (1)
+- مع النادي ميلان: كأس لاتينا (2)
+- مع المنتخب السويد: هداف الأولمبياد
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 374
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 374
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1940–1944 | ديجرفورس | 77 | 56 |
+| 1944–1949 | نادي نورشوبينغ | 95 | 93 |
+| 1949–1956 | إيه سي ميلان | 257 | 210 |
+| 1956–1958 | روما | 34 | 15 |
 
 ### Arabic National Team Stats
 _No rows found._

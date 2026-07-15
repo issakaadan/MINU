@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q380292
-- Generated At (UTC): 2026-07-13T08:56:10+00:00
+- Generated At (UTC): 2026-07-13T12:12:38+00:00
 - English Name: Adán Vergara
 - Arabic Name: أدان فيرغارا
 - Birth Year: 1981
@@ -32,8 +32,7 @@
 Adán Jonathan Vergara Villagra (born 9 May 1981 in Iquique ) is a Chilean football player and who currently plays for San Antonio Unido in Chile. He is an experienced and powerful central defender.
 
 ### English Achievements
-- With Club [ edit ]: Primera División de Chile (3)
-- With Club [ edit ]: Primera División de Chile (1)
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 34
@@ -75,12 +74,29 @@ Adán Jonathan Vergara Villagra (born 9 May 1981 in Iquique ) is a Chilean footb
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 68
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 68
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1998–2004 | كوبريولا | 98 | 23 |
+| 2005 | أتلانتي | 18 | 0 |
+| 2005 | فاسكو دا غاما | 9 | 1 |
+| 2006–2007 | يونيون إسبانيولا | 43 | 4 |
+| 2008 | زيورخ | 15 | 0 |
+| 2009 | لوزيرن | 5 | 0 |
+| 2009–2010 | داليان شيده | 25 | 0 |
+| 2010–2011 | أونيفرسيداد كاتوليكا | 15 | 2 |
+| 2011 | سانتياغو واندررز | 12 | 0 |
+| 2012–2013 | مينيروس دو غويانا | 10 | 0 |
+| 2013–2014 | ديبورتيفو نوبلينس [لغات أخرى] | 20 | 1 |
+| 2014–2016 | [الإنجليزية] | 9 | 1 |
+| 2016–2017 | سان أنطونيو أونيدو [الإنجليزية] | 31 | 2 |
+| - | مجموع | 310 | 34 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001 | تشيلي تحت 20 | 1 | 0 |

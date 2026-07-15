@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q318415
-- Generated At (UTC): 2026-07-13T08:55:14+00:00
+- Generated At (UTC): 2026-07-13T12:11:41+00:00
 - English Name: Abel Ferreira
 - Arabic Name: أبيل فيريرا
 - Birth Year: 1978
@@ -36,14 +36,7 @@ As a right-back , he played 234 Primeira Liga matches over 11 seasons (scoring t
 Ferreira started working as a manager in 2013, being in charge of Sporting CP B , Braga B , Braga , PAOK and Palmeiras . With the latter club, he won the Copa do Brasil in 2020 , two successive Copa Libertadores in 2020 and 2021 and the Campeonato Brasileiro Série A in 2022 and 2023 .
 
 ### English Achievements
-- With Sporting CP: Taça de Portugal
-- With Palmeiras: Campeonato Brasileiro Série A
-- With Palmeiras: FIFA Club World Cup runner-up
-- Individual: Primeira Liga Manager of the Month
-- Orders [ edit ]: Knight Commander of the Order of Prince Henry
-- With Sporting CP: Supertaça Cândido de Oliveira
-- With Palmeiras: Copa do Brasil
-- With Palmeiras: Supercopa do Brasil
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 7
@@ -76,12 +69,20 @@ Ferreira started working as a manager in 2013, being in charge of Sporting CP B 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 14
+- Senior national team goals total: 0
+- Senior career goals total: 14
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1997–2000 | نادي بينفايل | 62 | 4 |
+| 2000–2004 | فيتوريا دي غيماريش | 80 | 1 |
+| 2004–2005 | سبورتينغ براغا | 43 | 0 |
+| 2006–2011 | سبورتينغ لشبونة | 111 | 2 |
+| - | مجموع | 296 | 7 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2002–2005 | [الإنجليزية] | 2 | 0 |

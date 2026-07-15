@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q314734
-- Generated At (UTC): 2026-07-13T08:54:04+00:00
+- Generated At (UTC): 2026-07-13T12:10:36+00:00
 - English Name: Anthony Annan
 - Arabic Name: أنتوني أنان
 - Birth Year: 1986
@@ -32,14 +32,7 @@
 Anthony Gildas Kofi Annan (born 21 July 1986 [ 1 ] ) is a Ghanaian professional footballer who plays as a midfielder for DJK Arminia Lirich. [ 1 ]
 
 ### English Achievements
-- With Hearts of Oak: Ghana Premier League
-- With Stabæk: Eliteserien
-- With Rosenborg: Eliteserien
-- With Schalke 04: DFB-Pokal
-- With HJK Helsinki: Veikkausliiga
-- With Ghana: Africa Cup of Nations
-- Individual: Kniksen of the Year
-- With Rosenborg: Superfinalen
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 5
@@ -49,20 +42,16 @@ Anthony Gildas Kofi Annan (born 21 July 1986 [ 1 ] ) is a Ghanaian professional 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2007–2008 | Start | 11 | 0 |
-| 2008 | Stabæk | 12 | 0 |
-| 2009–2010 | Rosenborg | 51 | 0 |
-| 2011–2014 | Schalke 04 | 12 | 0 |
-| 2011–2012 | Vitesse | 24 | 0 |
-| 2012–2013 | Osasuna | 6 | 0 |
-| 2014 | HJK | 7 | 0 |
-| 2015 | 1860 Munich | 3 | 0 |
-| 2015 | Stabæk | 7 | 0 |
-| 2016–2018 | HJK | 72 | 3 |
-| 2019 | Beitar Jerusalem | 4 | 0 |
-| 2019–2021 | Inter Turku | 42 | 1 |
-| 2022 | TPS | 23 | 0 |
-| 2023- | DJK Arminia Lirich | 0 | 0 |
+| 2007 | Start | 11 | 0 |
+| 2008–2015 | Stabæk | 22 | 0 |
+| 2009–2010 | Rosenborg | 68 | 1 |
+| 2010–2013 | Schalke 04 | 14 | 0 |
+| 2011 | Vitesse (loan) | 27 | 0 |
+| 2012 | Osasuna (loan) | 8 | 0 |
+| 1860–2018 | HJK | 114 | 3 |
+| 2018 | Beitar Jerusalem | 4 | 0 |
+| 2019–2021 | Inter Turku | 59 | 1 |
+| 2022 | TPS | 27 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -85,12 +74,27 @@ Anthony Gildas Kofi Annan (born 21 July 1986 [ 1 ] ) is a Ghanaian professional 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 4
+- Senior national team goals total: 2
+- Senior career goals total: 6
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2007–2008 | ستارت | 11 | 0 |
+| 2008 | ستابك | 12 | 0 |
+| 2009–2010 | روسنبورغ | 51 | 0 |
+| 2011–2014 | شالكه 04 | 12 | 0 |
+| 2011–2012 | فيتيسه آرنهم | 24 | 0 |
+| 2012–2013 | أوساسونا | 6 | 0 |
+| 2014 | هلسنكي | 7 | 0 |
+| 2015 | ميونخ 1860 | 3 | 0 |
+| 2015 | ستابك | 7 | 0 |
+| 2016–2018 | هلسنكي | 72 | 3 |
+| 2019 | بيتار القدس | 4 | 0 |
+| 2019–2021 | إنتر توركو | 42 | 1 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2007–2013 | غانا [ 1 ] | 67 | 2 |

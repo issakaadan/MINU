@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q368441
-- Generated At (UTC): 2026-07-13T08:50:24+00:00
+- Generated At (UTC): 2026-07-13T12:07:28+00:00
 - English Name: James Rodríguez
 - Arabic Name: خاميس رودريغيز
 - Birth Year: 1991
@@ -36,14 +36,7 @@ Starting his career at Envigado , and then moving to Argentina side Banfield , R
 In 2014, he moved from Monaco to Real Madrid for a transfer fee of £63 million, beating Radamel Falcao as the most expensive Colombian football player and one of the most expensive players at the time. [ 11 ] In his debut season, he was named in the La Liga Team of the Season and won La Liga Best Midfielder . Additionally, a study evaluating player productivity at Real Madrid determined that Rodríguez achieved the highest technical efficiency in history among the club's central and attacking midfielders due to his high frequency of goals and assists per minute. [ 12 ] [ 13 ]
 
 ### English Achievements
-- With Envigado: Categoría Primera B
-- With Banfield: Primera División Argentina
-- With Porto: Primeira Liga
-- With Real Madrid: La Liga
-- With Bayern Munich: Bundesliga
-- With São Paulo: Copa do Brasil
-- With Colombia: Copa América runner-up
-- Individual: FIFA U-20 World Cup top assist provider
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 136
@@ -53,19 +46,19 @@ In 2014, he moved from Monaco to Real Madrid for a transfer fee of £63 million,
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2006–2008 | Envigado | 30 | 9 |
-| 2008–2010 | Banfield | 42 | 5 |
-| 2010–2013 | Porto | 63 | 25 |
-| 2013–2014 | Monaco | 34 | 9 |
-| 2014–2020 | Real Madrid | 85 | 29 |
-| 2017–2019 | Bayern Munich | 43 | 14 |
-| 2020–2021 | Everton | 23 | 6 |
-| 2021–2022 | Al-Rayyan | 13 | 4 |
-| 2022–2023 | Olympiacos | 20 | 5 |
-| 2023–2024 | São Paulo | 18 | 2 |
-| 2024–2025 | Rayo Vallecano | 6 | 0 |
-| 2025 | León | 31 | 5 |
-| 2026 | Minnesota United | 6 | 0 |
+| 2007–2008 | Envigado | 30 | 9 |
+| 2008–2009 | Banfield | 49 | 10 |
+| 2010–2012 | Porto | 107 | 32 |
+| 2013 | Monaco | 38 | 10 |
+| 2014–2019 | Real Madrid | 125 | 37 |
+| 2017–2018 | Bayern Munich (loan) | 67 | 15 |
+| 2020 | Everton | 26 | 6 |
+| 2021–2022 | Al-Rayyan | 16 | 5 |
+| 2022 | Olympiacos | 23 | 5 |
+| 2023–2024 | São Paulo | 22 | 2 |
+| 2024 | Rayo Vallecano | 7 | 0 |
+| 2024–2025 | León | 34 | 5 |
+| 2026 | Minnesota United | 8 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -87,15 +80,34 @@ In 2014, he moved from Monaco to Real Madrid for a transfer fee of £63 million,
 فاز بالحذاء الذهبي لكأس العالم 2014 كهداف للبطولة حيث أحرز 6 أهداف، وكان جزءاً من التشكيلة التي وضعتها الفيفا لأفضل 11 لاعب في البطولة . [ 16 ] [ 17 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع إنفيغادو: الدوري الكولومبي
+- مع بانفيلد: الدوري الأرجنتيني
+- مع بورتو: الدوري الأوروبي
+- مع ريال مدريد: الدوري الإسباني
+- مع بايرن ميونخ: الدوري الألماني
+- مع كولومبيا: بطولة تولون المركز الثالث
+- الفردية: جائزة الحذاء الذهبي – كأس العالم
+- مع بورتو: الدوري البرتغالي
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 119
+- Senior national team goals total: 29
+- Senior career goals total: 148
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2007–2008 | إنفيغادو | 30 | 9 |
+| 2008–2009 | بانفيلد | 49 | 10 |
+| 2010–2012 | بورتو | 107 | 32 |
+| 2013 | موناكو | 10 | 72 |
+| 2014–2019 | ريال مدريد | 111 | 36 |
+| 2017–2018 | بايرن ميونخ (إعارة) | 67 | 15 |
+| 2020 | إيفرتون | 6 | 72 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2007 | كولومبيا تحت 17 | 11 | 3 |
+| 2011 | كولومبيا تحت 20 | 5 | 3 |
+| 2011– | كولومبيا | 114 | 29 |

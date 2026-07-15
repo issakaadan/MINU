@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q107471
-- Generated At (UTC): 2026-07-13T08:56:27+00:00
+- Generated At (UTC): 2026-07-13T12:13:01+00:00
 - English Name: Heiner Backhaus
 - Arabic Name: هاينر باكهاوس
 - Birth Year: 1982
@@ -32,7 +32,7 @@
 Heiner Backhaus (born 4 February 1982) is a German football coach and former professional player who most recently coached Eintracht Braunschweig . As a player, he was a journeyman who played as a defensive midfielder . [ 1 ] [ 2 ]
 
 ### English Achievements
-- With Valletta: Maltese Premier League
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 8
@@ -72,12 +72,26 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 8
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 8
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2000–2001 | روت فايس إيسن | 21 | 0 |
+| 2001–2002 | هانوفر 96 | 1 | 0 |
+| 2002–2003 | يونيون برلين | 8 | 0 |
+| 2004 | بروسيا مونشنغلادباخ 2 [الإنجليزية] | 2 | 0 |
+| 2005 | أرمينيا بيليفيلد | 17 | 0 |
+| 2006–2007 | كيكرز أوفنباخ | 9 | 0 |
+| 2007–2008 | فاليتا | 27 | 3 |
+| 2008 | كيتشي | 8 | 3 |
+| 2009 | ساتشسين لايبزيغ | 15 | 1 |
+| 2009–2010 | أولمبياكوس نيقوسيا | 30 | 0 |
+| 2011 | لوكوموتيف لايبزيغ | 5 | 1 |
+| 2011–2012 | وستفاليا هيرنه [لغات أخرى] | 3 | 0 |
+| 2012 | [الإنجليزية] | 9 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

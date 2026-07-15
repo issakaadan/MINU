@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q31575
-- Generated At (UTC): 2026-07-13T08:52:58+00:00
+- Generated At (UTC): 2026-07-13T12:09:33+00:00
 - English Name: Marcelo Bielsa
 - Arabic Name: مارسيلو بيلسا
 - Birth Year: 1955
@@ -34,14 +34,7 @@ Marcelo Alberto Bielsa Caldera [ 2 ] ( [maɾˈselo alˈβeɾto ˈβjelsa] , [ a 
 Bielsa played as a defender in Newell's Old Boys' First Division team and was a member of Argentina U23 in the 1976 Pre-Olympic Tournament , [ 8 ] but retired when he was 25 to focus on coaching. [ 9 ] [ 10 ] Bielsa has managed several football clubs and also the national teams of Argentina and Chile . He developed his career as coach of Newell's Old Boys where he won several titles in the early 1990s, before moving to Mexico in 1992, briefly coaching Club Atlas and Club América . Bielsa returned to Argentina in 1997 to manage Vélez Sarsfield , leading them to the 1998 league title (Clausura) . [ 11 ]
 
 ### English Achievements
-- Individual: CONMEBOL Pre-Olympic Tournament Ideal Team
-- With Newell's Old Boys: Primera División Argentina
-- With Vélez Sarsfield: Primera División Argentina
-- With Argentina: Summer Olympics
-- With Athletic Bilbao: Copa del Rey runner-up
-- With Leeds United: EFL Championship
-- With Uruguay: Copa América third place
-- Individual: IFFHS World's Best National Coach
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 0
@@ -77,12 +70,17 @@ Bielsa played as a defender in Newell's Old Boys' First Division team and was a 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 0
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1975–1977 | نيولز أولد بويز | 25 | 0 |
+| 1978–1979 | انيستتوتو | 40 | 0 |
+| 1979–1980 | نادي أتلتيكو أرجنتينو | 48 | 0 |
+| - | مجموع | 113 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

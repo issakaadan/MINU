@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q296188
-- Generated At (UTC): 2026-07-13T08:54:25+00:00
+- Generated At (UTC): 2026-07-13T12:10:57+00:00
 - English Name: Igor Semshov
 - Arabic Name: إيغور سيمشوف
 - Birth Year: 1978
@@ -42,15 +42,13 @@ _No honours section found._
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1996–1997 | CSKA Moscow | 10 | 1 |
+| 1996–1997 | CSKA Moscow | 11 | 1 |
 | 1996–1997 | CSKA-d Moscow | 55 | 13 |
-| 1998–2005 | Torpedo Moscow | 216 | 54 |
+| 1998–2005 | Torpedo Moscow | 239 | 59 |
 | 1998–2000 | Torpedo-d Moscow | 9 | 3 |
-| 2006–2008 | Dynamo Moscow | 85 | 17 |
-| 2009 | Zenit St. Petersburg | 26 | 6 |
-| 2010–2013 | Dynamo Moscow | 82 | 19 |
-| 2013–2014 | Krylia Sovetov Samara | 14 | 1 |
-| Total | Total | 497 | 114 |
+| 2006–2012 | Dynamo Moscow | 191 | 41 |
+| 2009 | Zenit St. Petersburg | 34 | 9 |
+| 2013 | Krylia Sovetov Samara | 15 | 2 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -74,12 +72,23 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 196
+- Senior national team goals total: 3
+- Senior career goals total: 199
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1996–1997 | سيسكا موسكو | 10 | 1 |
+| 1998–2005 | توربيدو موسكو | 216 | 54 |
+| 2006–2008 | دينامو موسكو | 85 | 17 |
+| 2009 | زينيت سانت بطرسبرغ | 26 | 6 |
+| 2010–2013 | دينامو موسكو | 82 | 19 |
+| 2013–2014 | كريليا سوفيتوف سامارا | 14 | 1 |
+| - | مجموع | 433 | 98 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1998–1999 | روسيا تحت 21 | 8 | 0 |
+| 2002–2012 | روسيا | 57 | 3 |

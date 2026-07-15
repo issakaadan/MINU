@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q302393
-- Generated At (UTC): 2026-07-13T08:54:32+00:00
+- Generated At (UTC): 2026-07-13T12:11:02+00:00
 - English Name: Johan Vonlanthen
 - Arabic Name: يوهان فونلانتين
 - Birth Year: 1986
@@ -46,19 +46,17 @@ _No honours section found._
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2001–2003 | Young Boys | 18 | 2 |
-| 2003–2006 | PSV | 29 | 5 |
-| 2005 | Brescia | 9 | 0 |
-| 2005–2006 | NAC Breda | 32 | 6 |
-| 2006–2011 | Red Bull Salzburg | 85 | 11 |
-| 2009–2010 | Zürich | 27 | 10 |
-| 2011–2012 | Itagüí | 5 | 0 |
-| 2012 | Wohlen | 0 | 0 |
-| 2013–2014 | Grasshoppers | 5 | 0 |
-| 2014 | Schaffhausen | 17 | 2 |
-| 2014–2016 | Servette | 32 | 10 |
-| 2016–2018 | Wil | 66 | 11 |
-| Total | Total | 325 | 57 |
+| 2001–2003 | Young Boys | 37 | 6 |
+| 2003–2004 | PSV Eindhoven | 36 | 5 |
+| 2004 | Brescia (loan) | 9 | 0 |
+| 2005 | NAC Breda (loan) | 12 | 10 |
+| 2006–2010 | Red Bull Salzburg | 102 | 12 |
+| 2009 | Zürich (loan) | 39 | 17 |
+| 2011 | Itagüí | 0 | 10 |
+| 2013 | Grasshoppers | 8 | 0 |
+| 2013 | Schaffhausen (loan) | 17 | 2 |
+| 2014 | Servette | 33 | 11 |
+| 2015–2017 | FC Wil | 69 | 13 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -83,12 +81,30 @@ _No honours section found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 114
+- Senior national team goals total: 8
+- Senior career goals total: 122
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001–2003 | يانغ بويز | 18 | 2 |
+| 2003–2006 | آيندهوفن | 29 | 5 |
+| 2005 | بريشيا | 9 | 0 |
+| 2005–2006 | ناك بريدا | 32 | 6 |
+| 2006–2011 | ريد بل سالزبورغ | 85 | 11 |
+| 2009–2010 | زيورخ | 27 | 10 |
+| 2011–2012 | ريونيغرو أغيلاس | 5 | 0 |
+| 2012 | فولن | 0 | 0 |
+| 2013–2014 | غراسهوبر زيوريخ | 5 | 0 |
+| 2014 | شافهاوزن | 17 | 2 |
+| 2014–2016 | سيرفيت | 32 | 10 |
+| 2016–2018 | ويل | 66 | 11 |
+| - | مجموع | 325 | 57 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2001 | Switzerland U-15 | 4 | 1 |
+| 2004 | سويسرا تحت 21 | 3 | 1 |
+| 2004–2010 | سويسرا | 40 | 7 |

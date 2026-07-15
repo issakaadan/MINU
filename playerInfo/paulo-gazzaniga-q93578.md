@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q93578
-- Generated At (UTC): 2026-07-13T08:54:54+00:00
+- Generated At (UTC): 2026-07-13T12:11:23+00:00
 - English Name: Paulo Gazzaniga
 - Arabic Name: باولو غازانيغا
 - Birth Year: 1992
@@ -32,10 +32,7 @@
 Paulo Dino Gazzaniga Farías (born 2 January 1992) is an Argentine professional footballer who plays as a goalkeeper for Segunda División club Girona .
 
 ### English Achievements
-- With Southampton: U21 Premier League Cup
-- With Tottenham Hotspur: UEFA Champions League runner-up
-- With Fulham: EFL Championship
-- Individual: Gillingham Young Player of the Season
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 0
@@ -45,14 +42,14 @@ Paulo Dino Gazzaniga Farías (born 2 January 1992) is an Argentine professional 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2011–2012 | Gillingham | 20 | 0 |
-| 2012–2017 | Southampton | 21 | 0 |
-| 2016–2017 | Rayo Vallecano | 32 | 0 |
-| 2017–2021 | Tottenham Hotspur | 22 | 0 |
-| 2021 | Elche | 8 | 0 |
-| 2021–2023 | Fulham | 13 | 0 |
-| 2022–2023 | Girona | 28 | 0 |
-| 2023– | Girona | 109 | 0 |
+| 2011 | Gillingham | 22 | 0 |
+| 2012–2017 | Southampton | 23 | 0 |
+| 2016 | Rayo Vallecano (loan) | 34 | 0 |
+| 2017–2020 | Tottenham Hotspur | 37 | 0 |
+| 2020 | Elche (loan) | 8 | 0 |
+| 2021 | Fulham | 15 | 0 |
+| 2022 | Girona (loan) | 28 | 0 |
+| 2023–2025 | Girona | 262 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -71,12 +68,21 @@ Paulo Dino Gazzaniga Farías (born 2 January 1992) is an Argentine professional 
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 0
+- Senior national team goals total: 0
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2011–2012 | غيلينغهام | 20 | 0 |
+| 2012–2017 | ساوثهامبتون | 21 | 0 |
+| 2016–2017 | رايو فايكانو | 32 | 0 |
+| 2017–2021 | توتنهام هوتسبير | 22 | 0 |
+| 2021 | إلتشي | 8 | 0 |
+| 2021– | فولهام | 12 | 0 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2018 | الأرجنتين | 1 | 0 |

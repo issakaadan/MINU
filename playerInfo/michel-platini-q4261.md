@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q4261
-- Generated At (UTC): 2026-07-13T08:49:03+00:00
+- Generated At (UTC): 2026-07-13T12:06:24+00:00
 - English Name: Michel Platini
 - Arabic Name: ميشيل بلاتيني
 - Birth Year: 1955
@@ -34,27 +34,19 @@ Michel François Platini ( French pronunciation: [miʃɛl fʁɑ̃swa platini] ; 
 During his career, Platini played for the clubs Nancy , Saint-Étienne , and Juventus . Nicknamed Le Roi (The King) for his ability and leadership, he was a prolific goalscorer; he won the Serie A capocannoniere award three consecutive times between 1983 and 1985, and was the top scorer of Juventus's victorious 1984–85 European Cup campaign. [ 7 ] Platini was a key player of the France national team that won the 1984 European Championship , a tournament in which he was the top scorer and best player, and reached the semi-finals of the 1982 and 1986 World Cups . Together with midfielders Alain Giresse , Luis Fernández and Jean Tigana , he formed the carré magique (magic square) of the French team in the 1980s. Platini was his country's record goalscorer until 2007, and held the record for most goals scored (9) in the European Championship until being surpassed by Cristiano Ronaldo in 2021, despite only appearing in the 1984 tournament. [ 7 ]
 
 ### English Achievements
-- With Nancy: Coupe de France
-- With Saint-Étienne: Division 1
-- With Juventus: Serie A
-- With France: UEFA European Championship
-- Individual: French Player of the Year
-- Individual: El País European Coach of the Year
-- Orders [ edit ]: Knight of the Legion of Honour
-- With Nancy: Division 2
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 313
-- Senior national team goals total: 41
-- Senior career goals total: 354
+- Senior national team goals total: 45
+- Senior career goals total: 358
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1972–1979 | Nancy | 181 | 98 |
-| 1979–1982 | Saint-Étienne | 104 | 58 |
-| 1982–1987 | Juventus | 147 | 68 |
-| Total | Total | 432 | 224 |
+| 1972–1978 | Nancy | 213 | 127 |
+| 1979–1981 | Saint-Étienne | 145 | 82 |
+| 1982–1986 | Juventus | 224 | 104 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -74,15 +66,28 @@ During his career, Platini played for the clubs Nancy , Saint-Étienne , and Juv
 خلال مسيرته، لعب بلاتيني لأندية نانسي ، وسانت إتيان ، ويوفنتوس . وقد لُقّب ب"الملك" (Le Roi) بفضل مهاراته وقيادته، وكان هدافا متميزا؛ حيث فاز بجائزة هداف الدوري الإيطالي ( كابوكانونيري ) ثلاث مرات متتالية بين عامي 1983 و1985، وكان الهداف في مسيرة يوفنتوس الناجحة في كأس أوروبا 1984–85 . [ 11 ] كان بلاتيني لاعبا محوريا في المنتخب الفرنسي الذي فاز ببطولة أوروبا 1984 ، وهي البطولة التي كان فيها الهداف وأفضل لاعب، كما وصل مع المنتخب إلى نصف نهائي كأس العالم 1982 و1986 . وبالاشتراك مع لاعبي الوسط ألان جيراس ، ولويس فرنانديز ، وجان تيغانا ، شكّل بلاتيني ما يُعرف ب"المربع السحري" (carré magique) للمنتخب الفرنسي في الثمانينات. كان بلاتيني الهداف التاريخي لفرنسا حتى عام 2007، واحتفظ برقم قياسي في بطولة أمم أوروبا بتسجيله 9 أهداف في نسخة واحدة حتى تجاوزه كريستيانو رونالدو عام 2021، رغم أن مشاركته اقتصرت على نسخة 1984 فقط. [ 11 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع لاعباً نانسي: كأس فرنسا
+- مع لاعباً سانت إتيان: الدوري الفرنسي
+- مع لاعباً يوفنتوس: الدوري الإيطالي
+- مع لاعباً فرنسا: بطولة أمم أوروبا
+- لاعباً فردية: جائزة أفضل لاعب فرنسي
+- مُدرّباً فردية: مدرب العام في أوروبا من صحيفة إل باييس
+- الأوسمة: وسام جوقة الشرف برتبة فارس
+- مع لاعباً نانسي: الدوري الفرنسي الدرجة الثانية
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 313
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 313
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1972–1978 | نانسي لورين | 213 | 127 |
+| 1979–1981 | سانت إتيان | 145 | 82 |
+| 1982–1986 | يوفنتوس | 224 | 104 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1975–1976 | فرنسا تحت 21 سنة | 3 | 0 |

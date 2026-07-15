@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q14327453
-- Generated At (UTC): 2026-07-13T08:53:26+00:00
+- Generated At (UTC): 2026-07-13T12:10:04+00:00
 - English Name: Youri Tielemans
 - Arabic Name: يوري تيليمانس
 - Birth Year: 1997
@@ -36,14 +36,7 @@ Tielemans began his career at Anderlecht , where he made 185 official appearance
 Tielemans represented Belgium at several youth levels before gaining his first cap for the senior team in November 2016, aged 19. He was part of the squad that came third at the 2018 FIFA World Cup , also featuring at UEFA Euro 2020 , the 2022 World Cup , Euro 2024 and the 2026 World Cup .
 
 ### English Achievements
-- With Anderlecht: Belgian Pro League/First Division A
-- With Leicester City: FA Cup
-- With Aston Villa: UEFA Europa League
-- With Belgium: FIFA World Cup third place
-- Individual: Belgian Young Professional Footballer of the Year
-- With Anderlecht: Belgian Super Cup
-- With Leicester City: FA Community Shield
-- Individual: Belgian Talent of the Year
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 79
@@ -53,11 +46,11 @@ Tielemans represented Belgium at several youth levels before gaining his first c
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2013–2017 | Anderlecht | 139 | 26 |
-| 2017–2019 | Monaco | 47 | 5 |
-| 2019 | Leicester City | 13 | 3 |
-| 2019–2023 | Leicester City | 138 | 18 |
-| 2023– | Aston Villa | 93 | 5 |
+| 2013–2016 | Anderlecht | 185 | 35 |
+| 2017–2018 | Monaco | 65 | 6 |
+| 2018 | Leicester City (loan) | 13 | 3 |
+| 2019–2022 | Leicester City | 377 | 53 |
+| 2023–2025 | Aston Villa | 134 | 10 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -80,15 +73,33 @@ Tielemans represented Belgium at several youth levels before gaining his first c
 مثّل تيليمانس بلجيكا في عدة مستويات للشباب قبل أن يخوض مباراته الدولية الأولى مع المنتخب الأول في نوفمبر 2016، بعمر 19 عامًا. وكان جزءًا من التشكيلة التي احتلت المركز الثالث في كأس العالم 2018 ، وشارك أيضًا في بطولة أمم أوروبا 2020 ، وكأس العالم 2022 ، وبطولة أمم أوروبا 2024 ، وكأس العالم 2026 .
 
 ### Arabic Achievements
-_No honours section found._
+- مع أندرلخت: الدوري البلجيكي للمحترفين
+- مع ليستر سيتي: كأس الاتحاد الإنجليزي
+- مع أستون فيلا: الدوري الأوروبي
+- مع بلجيكا: كأس العالم المركز الثالث
+- الفردية: أفضل لاعب شاب محترف في بلجيكا
+- مع أندرلخت: كأس السوبر البلجيكي
+- مع ليستر سيتي: درع المجتمع الإنجليزي
+- الفردية: موهبة العام في بلجيكا
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 79
+- Senior national team goals total: 15
+- Senior career goals total: 94
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2013–2016 | أندرلخت | 185 | 35 |
+| 2017–2018 | موناكو | 65 | 6 |
+| 2018 | ليستر سيتي (إعارة) | 13 | 3 |
+| 2019–2022 | ليستر سيتي | 377 | 53 |
+| 2023–2025 | أستون فيلا | 134 | 10 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2012–2013 | بلجيكا تحت 15 سنة | 4 | 2 |
+| 2012–2013 | بلجيكا تحت 16 سنة | 10 | 8 |
+| 2013–2016 | بلجيكا تحت 21 سنة | 14 | 6 |
+| 2016– | بلجيكا | 89 | 15 |

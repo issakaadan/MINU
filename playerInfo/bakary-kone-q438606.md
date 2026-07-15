@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q438606
-- Generated At (UTC): 2026-07-13T08:54:03+00:00
+- Generated At (UTC): 2026-07-13T12:10:36+00:00
 - English Name: Bakary Koné
 - Arabic Name: بكاري كونيه
 - Birth Year: 1988
@@ -32,11 +32,7 @@
 Bakary Koné ( French pronunciation: [bakaʁi kɔne] , born 27 April 1988) is a Burkinabé former professional footballer who played as a centre-back .
 
 ### English Achievements
-- With Guingamp: Coupe de France
-- With Lyon: Coupe de France
-- With Burkina-Faso: African Cup of Nations runner-up
-- Individual: Africa Cup of Nations Team of the Tournament
-- With Lyon: Trophée des Champions
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 16
@@ -46,16 +42,11 @@ Bakary Koné ( French pronunciation: [bakaʁi kɔne] , born 27 April 1988) is a 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2005–2006 | Étoile Filante | 37 | 1 |
-| 2006–2008 | Guingamp B | 25 | 1 |
-| 2006–2011 | Guingamp | 112 | 5 |
-| 2011–2016 | Lyon | 89 | 6 |
-| 2011–2016 | Lyon B | 3 | 0 |
-| 2016–2018 | Málaga | 7 | 0 |
-| 2017–2018 | Strasbourg | 28 | 1 |
-| 2018–2019 | Ankaragücü | 14 | 0 |
-| 2019–2020 | Arsenal Tula | 1 | 0 |
-| 2020–2021 | Kerala Blasters | 14 | 0 |
+| 2006–2011 | Guingamp | 132 | 7 |
+| 2011–2015 | Lyon | 141 | 8 |
+| 2011–2013 | Lyon B | 3 | 0 |
+| 2016–2017 | Málaga | 7 | 0 |
+| 2017 | Strasbourg (loan) | 33 | 1 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -71,15 +62,20 @@ Bakary Koné ( French pronunciation: [bakaʁi kɔne] , born 27 April 1988) is a 
 باكاري كوني ( الفرنسية : Bakary Koné ) (مواليد 27 إبريل 1998 في واغادوغو ، بوركينا فاسو ) هو لاعب كرة قدم بوركيني . يلعب حاليًا كمدافع لصالح نادي أولمبيك ليون في الدوري الفرنسي الدرجة الأولى . كما سبق له اللعب مع نادي ليون في فرنسا ومع نادي غينغان ومع إيتوال فيلانتي واغادوغو في بوركينا فاسو ولعب في الناشئين مع أبيدجان في ساحل العاج , كما أنه يلعب مع منتخب بوركينا فاسو لكرة القدم مُنذ عام 2010 ويبلغ طوله 188 سم.
 
 ### Arabic Achievements
-_No honours section found._
+- مع النادي: كأس فرنسا (1)
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 13
+- Senior national team goals total: 0
+- Senior career goals total: 13
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006–2011 | غينغان | 129 | 9 |
+| 2011 | أولمبيك ليون | 41 | 4 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006– [ 1 ] | بوركينا فاسو | 83 | 0 |

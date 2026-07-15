@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q299244
-- Generated At (UTC): 2026-07-13T08:53:16+00:00
+- Generated At (UTC): 2026-07-13T12:09:53+00:00
 - English Name: Seydou Doumbia
 - Arabic Name: سيدو دومبيا
 - Birth Year: 1987
@@ -36,14 +36,7 @@ After beginning his career in the Ivory Coast and Japan, he arrived in Europe in
 Doumbia made his international debut for the Ivory Coast in 2008. He was part of their squads at the 2010 FIFA World Cup and the Africa Cup of Nations in 2012 and 2015 , winning the latter tournament.
 
 ### English Achievements
-- With CSKA Moscow: Russian Premier League
-- With FC Basel: Swiss Super League
-- With Sporting CP: Taça da Liga
-- With Ħamrun Spartans: Maltese Premier League
-- With Ivory Coast: Africa Cup of Nations
-- Individual [ edit ]: Côte d'Ivoire Premier Division Top scorer
-- With CSKA Moscow: Russian Cup
-- With CSKA Moscow: Russian Super Cup
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 208
@@ -53,22 +46,18 @@ Doumbia made his international debut for the Ivory Coast in 2008. He was part of
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2003–2006 | Athlétic d'Adjamé | 0 | 0 |
-| 2004–2005 | ASEC Mimosas | 14 | 11 |
-| 2005–2006 | AS Denguélé | 20 | 15 |
-| 2006–2008 | Kashiwa Reysol | 24 | 3 |
+| 2006–2007 | Kashiwa Reysol | 31 | 6 |
 | 2008 | Tokushima Vortis | 16 | 7 |
-| 2008–2010 | Young Boys | 64 | 50 |
-| 2010–2015 | CSKA Moscow | 95 | 61 |
-| 2015–2018 | Roma | 13 | 2 |
-| 2015–2016 | CSKA Moscow | 13 | 5 |
-| 2016 | Newcastle United | 3 | 0 |
-| 2016–2017 | Basel | 25 | 20 |
-| 2017–2018 | Sporting CP | 14 | 0 |
-| 2018–2019 | Girona | 17 | 2 |
-| 2019–2020 | Sion | 15 | 5 |
-| 2021 | Ħamrun Spartans | 5 | 3 |
-| Total | Total | 338 | 184 |
+| 2008–2009 | Young Boys | 78 | 57 |
+| 2010–2014 | CSKA Moscow | 129 | 84 |
+| 2014–2016 | Roma | 14 | 2 |
+| 2015 | CSKA Moscow (loan) | 21 | 11 |
+| 2015 | Newcastle United (loan) | 3 | 0 |
+| 2016 | Basel (loan) | 33 | 21 |
+| 2017 | Sporting (loan) | 29 | 8 |
+| 2018 | Girona | 22 | 3 |
+| 2019 | Sion | 17 | 6 |
+| 2020 | Ħamrun Spartan | 6 | 4 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -87,12 +76,28 @@ Doumbia made his international debut for the Ivory Coast in 2008. He was part of
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 184
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 184
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2003–2006 | [الإنجليزية] | 0 | 0 |
+| 2004–2005 | أسيك أبيدجان | 14 | 11 |
+| 2005–2006 | [الإنجليزية] | 20 | 15 |
+| 2006–2008 | كاشيوا ريسول | 24 | 3 |
+| 2008 | توكوشيما فورتيس | 16 | 7 |
+| 2008–2010 | يانغ بويز | 64 | 50 |
+| 2010–2015 | سيسكا موسكو | 95 | 61 |
+| 2015–2018 | روما | 13 | 2 |
+| 2015–2016 | سيسكا موسكو | 13 | 5 |
+| 2016 | نيوكاسل يونايتد | 3 | 0 |
+| 2016–2017 | بازل | 25 | 20 |
+| 2017–2018 | سبورتينغ لشبونة | 14 | 0 |
+| 2018–2019 | جيرونا | 17 | 2 |
+| 2019–2020 | سيون | 15 | 5 |
+| 2021 | هامرون سبارتانز | 5 | 3 |
 
 ### Arabic National Team Stats
 _No rows found._

@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q939662
-- Generated At (UTC): 2026-07-13T08:54:26+00:00
+- Generated At (UTC): 2026-07-13T12:10:56+00:00
 - English Name: Hólmar Örn Eyjólfsson
 - Arabic Name: هولمار أورن إيولفسون
 - Birth Year: 1990
@@ -32,29 +32,26 @@
 Hólmar Örn Eyjólfsson (born 6 August 1990) is an Icelandic footballer who plays as a centre-back for Úrvalsdeild karla club Valur and the Iceland national team . He is the son of Eyjólfur Sverrisson , former Iceland international and manager. [ 4 ] [ 5 ] [ 6 ] [ 7 ]
 
 ### English Achievements
-- With Rosenborg: Norwegian League
-- With Rosenborg: Norwegian Football Cup
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 19
+- Club goals total: 14
 - Senior national team goals total: 2
-- Senior career goals total: 21
+- Senior career goals total: 16
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2007–2008 | HK | 19 | 0 |
-| 2008–2011 | West Ham United | 0 | 0 |
-| 2009 | Cheltenham Town | 4 | 0 |
-| 2010 | Roeselare | 9 | 0 |
+| 2007–2008 | HK | 21 | 0 |
+| 2008–2010 | West Ham United | 0 | 0 |
+| 2009 | Cheltenham Town (loan) | 4 | 0 |
+| 2009 | Roeselare (loan) | 12 | 0 |
 | 2011–2013 | VfL Bochum II | 9 | 0 |
-| 2011–2014 | VfL Bochum | 45 | 1 |
-| 2014–2017 | Rosenborg | 65 | 4 |
-| 2017–2018 | Maccabi Haifa | 16 | 0 |
-| 2017–2018 | Levski Sofia | 25 | 1 |
-| 2018–2020 | Levski Sofia | 32 | 5 |
-| 2020–2021 | Rosenborg | 26 | 3 |
-| 2022– | Valur | 99 | 5 |
+| 2011–2013 | VfL Bochum | 49 | 1 |
+| 2014–2021 | Rosenborg | 124 | 7 |
+| 2016 | Maccabi Haifa | 16 | 0 |
+| 2017 | Levski Sofia (loan) | 31 | 1 |
+| 2018–2019 | Levski Sofia | 35 | 5 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -76,12 +73,29 @@ Hólmar Örn Eyjólfsson (born 6 August 1990) is an Icelandic footballer who pla
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 14
+- Senior national team goals total: 2
+- Senior career goals total: 16
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2007–2008 | هاندكناتليكسفلغ كوبافوغور | 19 | 0 |
+| 2008–2011 | وست هام يونايتد | 0 | 0 |
+| 2009 | تشيلتنهام تاون | 4 | 0 |
+| 2010 | [الإنجليزية] | 9 | 0 |
+| 2011–2013 | [الإنجليزية] | 9 | 0 |
+| 2011–2014 | بوخوم | 45 | 1 |
+| 2014–2017 | روسنبورغ | 65 | 4 |
+| 2017–2018 | مكابي حيفا | 16 | 0 |
+| 2017–2018 | ليفسكي صوفيا | 25 | 1 |
+| 2018–2020 | ليفسكي صوفيا | 32 | 5 |
+| 2020–2021 | روسنبورغ | 26 | 3 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006–2007 | آيسلندا تحت 17 | 12 | 0 |
+| 2007–2008 | آيسلندا تحت 19 | 8 | 0 |
+| 2007–2012 | آيسلندا تحت 21 | 27 | 2 |
+| 2012– | آيسلندا | 19 | 2 |

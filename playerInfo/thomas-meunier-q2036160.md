@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q2036160
-- Generated At (UTC): 2026-07-13T08:53:21+00:00
+- Generated At (UTC): 2026-07-13T12:09:58+00:00
 - English Name: Thomas Meunier
 - Arabic Name: توماس مونييه
 - Birth Year: 1991
@@ -32,30 +32,23 @@
 Thomas André A. Meunier ( French pronunciation: [tɔma mønje] ; born 12 September 1991) is a Belgian professional footballer who plays as a right-back for the Belgium national team .
 
 ### English Achievements
-- With Club Brugge: Belgian Pro League
-- With Paris Saint Germain: Ligue 1
-- With Borussia Dortmund: DFB-Pokal
-- With Belgium: FIFA World Cup third place
-- Individual: Godefroid of Honour
-- With Club Brugge: Belgian Cup
-- With Paris Saint Germain: Coupe de France
-- With Paris Saint Germain: Coupe de la Ligue
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 55
+- Club goals total: 56
 - Senior national team goals total: 10
-- Senior career goals total: 65
+- Senior career goals total: 66
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2009–2011 | Virton | 49 | 15 |
-| 2011–2016 | Club Brugge | 149 | 15 |
-| 2016–2020 | Paris Saint-Germain | 84 | 8 |
-| 2020–2024 | Borussia Dortmund | 56 | 3 |
-| 2023 | Borussia Dortmund II | 3 | 0 |
-| 2024 | Trabzonspor | 14 | 1 |
-| 2024–2026 | Lille | 55 | 3 |
+| 2008–2010 | R.E. Virton | 52 | 16 |
+| 2011–2015 | Club Brugge | 198 | 20 |
+| 2016–2019 | Paris Saint-Germain | 128 | 13 |
+| 2020–2023 | Borussia Dortmund | 83 | 3 |
+| 2022–2023 | Borussia Dortmund II | 3 | 0 |
+| 2023 | Trabzonspor | 19 | 1 |
+| 2024–2025 | Lille | 81 | 3 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -76,12 +69,21 @@ Thomas André A. Meunier ( French pronunciation: [tɔma mønje] ; born 12 Septem
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 40
+- Senior national team goals total: 8
+- Senior career goals total: 48
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2009–2011 | فيرتون | 49 | 15 |
+| 2011–2016 | كلوب بروج | 149 | 14 |
+| 2016–2020 | باريس سان جيرمان | 84 | 8 |
+| 2020– | بوروسيا دورتموند | 46 | 3 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2006 | بلجيكا تحت 15 | 1 | 0 |
+| 2011–2012 | بلجيكا تحت 21 | 7 | 1 |
+| 2013– | بلجيكا | 60 | 8 |

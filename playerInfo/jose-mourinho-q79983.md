@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q79983
-- Generated At (UTC): 2026-07-13T08:48:41+00:00
+- Generated At (UTC): 2026-07-13T12:06:09+00:00
 - English Name: José Mourinho
 - Arabic Name: جوزيه مورينيو
 - Birth Year: 1963
@@ -34,14 +34,7 @@ José Mário dos Santos Mourinho Félix ( European Portuguese pronunciation: [ʒ
 After an uneventful career as a midfielder in the Portuguese leagues , Mourinho retired from playing aged 24 and moved into coaching. [ 3 ] He was first an interpreter for Bobby Robson at Sporting CP and Porto , before gaining success as an assistant at Barcelona under Robson and his successor, Louis van Gaal . After brief managerial stints at Benfica and União de Leiria , Mourinho returned to Porto in 2002, winning two Primeira Liga titles, the Taça de Portugal , the UEFA Cup and the UEFA Champions League . That success earned him a move to Chelsea in 2004, where the British media dubbed him "the Special One". With Chelsea, Mourinho won two Premier League titles, an FA Cup , and two League Cups in three seasons, before departing in 2007 amid reports of disagreements with owner Roman Abramovich . [ 4 ]
 
 ### English Achievements
-- With Porto: Primeira Divisão
-- With Barcelona: La Liga
-- With Porto: Primeira Liga
-- With Chelsea: Premier League
-- With Inter Milan: Serie A
-- With Real Madrid: La Liga
-- With Manchester United: EFL Cup
-- With Roma: UEFA Europa Conference League
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 9
@@ -71,15 +64,28 @@ _No rows found._
 بعد مسيرة هادئة كلاعب خط وسط في الدوري البرتغالي، انتقل مورينيو إلى التدريب، أولاً كمترجم للسير بوبي روبسون في سبورتينغ لشبونة وبورتو ، قبل أن ينجح كمساعد في برشلونة تحت قيادة روبسون وخليفته لويس فان خال . بعد تألقه بمهام إدارية وجيزة في بنفيكا وأونياو ليريا ، عاد مورينيو إلى بورتو كمدرب في 2002، حيث فاز بلقب الدوري البرتغالي مرتين، وكأس البرتغال ، وكأس الاتحاد الأوروبي ، ودوري أبطال أوروبا ، وهو أول لقب كأس أوروبا منذ عام 1987 للنادي. أكسبه هذا النجاح الانتقال إلى إنجلترا مع تشيلسي في عام 2004، حيث فاز بلقبين في الدوري الإنجليزي الممتاز وكأس الاتحاد الإنجليزي وكأس الرابطة مرتين في المواسم الثلاثة التي قضاها في النادي، قبل أن يغادر في عام 2007 وسط إشاعات عن خلافات مع مالك النادي رومان أبراموفيتش . [ 5 ]
 
 ### Arabic Achievements
-_No honours section found._
+- مع كمساعد مدرب بورتو: الدوري البرتغالي الممتاز
+- مع كمساعد مدرب برشلونة: الدوري الإسباني
+- مع كمدرب بورتو: الدوري البرتغالي (2)
+- مع كمدرب تشيلسي: الدوري الإنجليزي الممتاز (3)
+- مع كمدرب إنتر ميلان: الدوري الإيطالي (2)
+- مع كمدرب ريال مدريد: الدوري الإسباني (1)
+- مع كمدرب مانشستر يونايتد: درع الاتحاد الإنجليزي (1)
+- مع كمدرب روما: دوري المؤتمر الأوروبي (1)
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 26
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 26
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1980–1982 | ريو أفي | 16 | 2 |
+| 1982–1983 | بيلينينسش | 16 | 2 |
+| 1983–1985 | سسيمبرا | 35 | 1 |
+| 1985–1987 | كومرسيو إي إيندوستريا | 27 | 8 |
+| - | مجموع | 94 | 13 |
 
 ### Arabic National Team Stats
 _No rows found._

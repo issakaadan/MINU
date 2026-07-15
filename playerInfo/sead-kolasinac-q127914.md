@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q127914
-- Generated At (UTC): 2026-07-13T08:53:46+00:00
+- Generated At (UTC): 2026-07-13T12:10:22+00:00
 - English Name: Sead Kolašinac
 - Arabic Name: سياد كولاشيناتس
 - Birth Year: 1993
@@ -36,26 +36,22 @@ Kolašinac started his professional career at Schalke 04 , playing first in its 
 A former German youth international, Kolašinac made his senior international debut for Bosnia and Herzegovina in 2013, earning over 60 caps since. He represented the nation at their first ever major championship, the 2014 FIFA World Cup .
 
 ### English Achievements
-- With Arsenal: FA Cup
-- With Atalanta: UEFA Europa League
-- Individual: Bundesliga Team of the Season
-- With Arsenal: FA Community Shield
-- Individual: UEFA Europa League Squad of the Season
+_No honours section found._
 
 ### English Career Totals
-- Club goals total: 18
+- Club goals total: 16
 - Senior national team goals total: 0
-- Senior career goals total: 18
+- Senior career goals total: 16
 
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2012–2015 | Schalke 04 II | 8 | 2 |
-| 2012–2017 | Schalke 04 | 94 | 4 |
-| 2017–2022 | Arsenal | 80 | 2 |
-| 2021 | Schalke 04 | 17 | 1 |
-| 2022–2023 | Marseille | 47 | 4 |
-| 2023– | Atalanta | 72 | 1 |
+| 2011–2014 | Schalke 04 II | 8 | 2 |
+| 2012–2016 | Schalke 04 | 123 | 4 |
+| 2017–2021 | Arsenal | 118 | 5 |
+| 2020 | Schalke 04 (loan) | 18 | 1 |
+| 2021–2022 | Marseille | 58 | 4 |
+| 2023–2026 | Atalanta | 105 | 2 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |

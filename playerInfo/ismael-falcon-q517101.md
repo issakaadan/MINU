@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q517101
-- Generated At (UTC): 2026-07-13T08:55:40+00:00
+- Generated At (UTC): 2026-07-13T12:12:08+00:00
 - English Name: Ismael Falcón
 - Arabic Name: إسماعيل فالكون
 - Birth Year: 1985
@@ -44,18 +44,16 @@ _No honours section found._
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 2004–2006 | Atlético Madrid B | 34 | 0 |
-| 2006–2008 | Atlético Madrid | 5 | 0 |
-| 2007 | Hércules | 11 | 0 |
-| 2008–2011 | Celta | 81 | 0 |
-| 2011–2014 | Hércules | 109 | 0 |
-| 2014–2015 | Alcorcón | 20 | 0 |
-| 2015–2016 | Córdoba | 6 | 0 |
-| 2016–2017 | Tenerife | 5 | 0 |
-| 2017–2021 | Hércules | 127 | 0 |
-| 2021–2022 | Atlético Sanluqueño | 36 | 0 |
+| 2004–2005 | Atlético Madrid B | 34 | 0 |
+| 2005–2007 | Atlético Madrid | 13 | 0 |
+| 2006 | Hércules (loan) | 15 | 0 |
+| 2008–2010 | Celta | 81 | 0 |
+| 2011–2020 | Hércules | 244 | 0 |
+| 2014 | Alcorcón | 20 | 0 |
+| 2015 | Córdoba | 7 | 0 |
+| 2016 | Tenerife | 7 | 0 |
+| 2021 | Atlético Sanluqueño | 36 | 0 |
 | 2022 | San Fernando | 4 | 0 |
-| Total | Total | 438 | 0 |
 
 ### English National Team Stats
 _No rows found._
@@ -72,12 +70,23 @@ _No rows found._
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
+- Club goals total: 0
 - Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Senior career goals total: 0
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 2004–2006 | أتلتيكو مدريد ب | 34 | 0 |
+| 2006–2008 | أتلتيكو مدريد | 5 | 0 |
+| 2007 | إيركوليس | 11 | 0 |
+| 2008–2011 | سيلتا فيغو | 81 | 0 |
+| 2011–2014 | إيركوليس | 109 | 0 |
+| 2014–2015 | ألكوركون | 20 | 0 |
+| 2015–2016 | قرطبة | 6 | 0 |
+| 2016–2017 | تينيريفي | 5 | 0 |
+| 2017–2021 | إيركوليس | 127 | 0 |
+| 2021– | أتلتيكو سانلوكينو | 36 | 0 |
 
 ### Arabic National Team Stats
 _No rows found._

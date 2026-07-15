@@ -2,7 +2,7 @@
 
 ## Metadata
 - Wikidata ID: Q202645
-- Generated At (UTC): 2026-07-13T08:53:33+00:00
+- Generated At (UTC): 2026-07-13T12:10:10+00:00
 - English Name: Adrian Mutu
 - Arabic Name: أدريان موتو
 - Birth Year: 1979
@@ -34,14 +34,7 @@ Adrian Mutu ( Romanian pronunciation: [adriˈan ˈmutu] ⓘ ; born 8 January 197
 Mutu started his career playing two years for Argeș Pitești and one year for Dinamo București , before joining Inter Milan in Italy midway through the 1999–2000 Serie A season. After only ten games with the Nerazzurri , he left for Hellas Verona and then Parma , for which he scored 39 goals in the next three years. His excellent form brought him a €22.5 million transfer to Chelsea and a nomination for the Ballon d'Or in 2003. [ 2 ] [ 3 ] Following a failed drug test, he was released and returned to Serie A to join Juventus . After the 2006 Italian football scandal and the relegation of Juventus to Serie B , Mutu decided to join Fiorentina , where he played consistently for the next five years. He then had a season at Cesena and French club Ajaccio , before returning to his native country with Petrolul Ploiești in 2014. After two more brief spells with Pune City and ASA Târgu Mureș , Mutu retired from professional football in 2016.
 
 ### English Achievements
-- With Dinamo București: Divizia A
-- With Inter Milan: Coppa Italia runner-up
-- With Juventus: Serie A
-- Individual: Romanian Footballer of the Year
-- Records: The second player to score in European competitions with seven different teams.
-- With Manager [ edit ]: Gazeta Sporturilor Romania Coach of the Month
-- With Dinamo București: Cupa României
-- With Juventus: Supercoppa Italiana runner-up
+_No honours section found._
 
 ### English Career Totals
 - Club goals total: 204
@@ -51,21 +44,19 @@ Mutu started his career playing two years for Argeș Pitești and one year for D
 ### English Club Career Stats
 | Years | Team | Apps | Goals |
 | --- | --- | ---: | ---: |
-| 1996–1998 | Argeș Pitești | 41 | 11 |
-| 1999 | Dinamo București | 33 | 22 |
-| 2000 | Inter Milan | 10 | 0 |
-| 2000–2002 | Hellas Verona | 57 | 16 |
-| 2002–2003 | Parma | 31 | 18 |
-| 2003–2004 | Chelsea | 27 | 6 |
-| 2005 | Livorno | 0 | 0 |
-| 2005–2006 | Juventus | 33 | 7 |
-| 2006–2011 | Fiorentina | 112 | 54 |
-| 2011–2012 | Cesena | 28 | 8 |
-| 2012–2014 | Ajaccio | 37 | 11 |
-| 2014 | Petrolul Ploiești | 14 | 4 |
+| 1996–1998 | Argeș Pitești | 47 | 14 |
+| 1998–1999 | Dinamo București | 43 | 29 |
+| 1999 | Inter Milan | 14 | 2 |
+| 2000–2002 | Hellas Verona | 63 | 17 |
+| 2002 | Parma | 36 | 22 |
+| 2003–2004 | Chelsea | 38 | 10 |
+| 2004–2005 | Juventus | 46 | 11 |
+| 2006–2010 | Fiorentina | 143 | 70 |
+| 2011 | Cesena | 29 | 8 |
+| 2012–2013 | Ajaccio | 37 | 11 |
+| 2013–2014 | Petrolul Ploiești | 21 | 6 |
 | 2015 | Pune City | 10 | 4 |
-| 2016 | ASA Târgu Mureș | 4 | 0 |
-| Total | Total | 439 | 161 |
+| 2015 | ASA Târgu Mureș | 5 | 0 |
 
 ### English National Team Stats
 | Years | Team | Apps | Goals |
@@ -91,12 +82,32 @@ Mutu started his career playing two years for Argeș Pitești and one year for D
 _No honours section found._
 
 ### Arabic Career Totals
-- Club goals total: Unavailable
-- Senior national team goals total: Unavailable
-- Senior career goals total: Unavailable
+- Club goals total: 322
+- Senior national team goals total: 35
+- Senior career goals total: 357
 
 ### Arabic Club Career Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1996–1998 | أرغيس بيتيشت [لغات أخرى] | 41 | 11 |
+| 1998–1999 | دينامو بوخارست | 33 | 22 |
+| 1999–2000 | إنتر ميلان | 10 | 0 |
+| 2000–2002 | هيلاس فيرونا | 57 | 16 |
+| 2002–2003 | بارما | 31 | 18 |
+| 2003–2004 | تشيلسي | 27 | 6 |
+| 2005–2006 | يوفنتوس | 33 | 7 |
+| 2006–2011 | فيورنتينا | 112 | 54 |
+| 2011–2012 | تشيزينا | 28 | 8 |
+| 2012–2014 | أجاكسيو | 37 | 11 |
+| 2014 | بترولول بلويشتي | 14 | 4 |
+| 2015 | مدينة بونه لكرة القدم | 10 | 4 |
+| 2016 | تارغو موريش | 4 | 0 |
+| - | مجموع | 437 | 161 |
 
 ### Arabic National Team Stats
-_No rows found._
+| Years | Team | Apps | Goals |
+| --- | --- | ---: | ---: |
+| 1995 | منتخب رومانيا الوطني لكرة القدم تحت 16 سنة [لغات أخرى] | 2 | 1 |
+| 1996–1997 | رومانيا تحت 19 | 14 | 8 |
+| 1998–2000 | رومانيا تحت 21 | 12 | 6 |
+| 2000–2013 | رومانيا | 77 | 35 |
